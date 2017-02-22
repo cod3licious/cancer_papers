@@ -1,0 +1,233 @@
+[Abstract, Mixed, Mixed, Mixed, Mixed]
+
+Proton beam therapy and localised prostate cancer: current status and
+controversies. Proton therapy is a promising, but costly, treatment for prostate cancer. Theoretical physical advantages exist; yet to date, it has been shown only to be comparably safe and effective when compared with the alternatives and not necessarily superior. If clinically meaningful benefits do exist for patients, more rigorous study will be needed to detect them and society will require this to justify the investment of time and money. New technical advances in proton beam delivery coupled with shortened overall treatment times and declining device costs have the potential to make this a more cost-effective therapy in the years ahead.
+
+The Physical Uncertainties
+The physics of radiation therapy with a beam of proton particles has been well
+established, and attractive radiation dose-distribution maps can be generated that show
+highly conformal treatment delivery (Figure 2). Uncertainties
+do, however, exist and some of these pertain to the treatment of deep-seated tumours such
+as the prostate (Goitein, 2008). Although the beam can be
+stopped in tissue sharply over the first 10 cm, at greater depths such as the depth
+of the average prostate gland, there is 'end-of-range uncertainty', and a
+penumbra develops laterally and around the distal end of the beam. This can blur the
+beam's sharp edge, delivering higher doses of radiation than anticipated to adjacent
+normal tissues. In addition, a proton beam is sensitive to tissue density and
+heterogeneity and may be perturbed by passage through very inhomogeneous tissue, such as
+bone, and then muscle of the pelvis. This becomes more of an issue if the bone is not
+fully immobilised as can be the case with the hips due to anatomical variation in femur
+angle (Trofimov et al, 2011). Similarly, targeting
+of dose can be affected significantly when organs move over the course of therapy
+(Wang et al, 2011). Protons may be associated
+with less scatter dose the further you get away from the prostate (Yoon et al, 2010) and consequently some modelling studies have
+reported lower rates of radiation-associated second cancers both in-field and out-of-field
+(Fontenot et al., 2009). However, neutrons may
+be produced and scattered from the heads of some types of proton treatment machines. The
+high radiobiological effect of neutrons has the risk of causing more secondary cancers
+than more conventional radiation treatment, thus potentially negating one of the putative
+advantages of the therapy (Brenner and Hall, 2008; Athar et al, 2010). Although efforts are underway to
+address some of the limitations associated with delivery of protons (Brenner et al, 2009; Tang et al,
+2012), these physical uncertainties continue to generate much heated debate in
+the radiation oncology literature and are yet to be fully settled.
+
+The Clinical Evidence
+The management of localised prostate cancer has been a subject of debate for over 30
+years. Surgery has improved in quality and proliferated in technique (open, laparoscopic,
+robotic assisted, and focal). Radiation therapy has done exactly the same (conventional
+2-D, conformal 3-D, intensity-modulated radiation therapy (IMRT), stereotactic, and high-
+and low-dose brachytherapy). The majority of the radiation treatments for prostate cancer
+delivered in the United States today are given either by IMRT, a method that uses
+inhomogeneous photon beams of non-uniform intensity to sculpt around critical structures
+like the rectum, or brachytherapy, a procedure that involves the implantation of
+radioactive devices directly into the prostate. In addition, elegant modes of daily
+immobilisation and localisation of the prostate using image-guided radiation therapy
+techniques have been generally adopted. Of note, at this stage, modes of image guidance
+(i.e., daily cone beam computed tomography or electromagnetic emitting transponders) are
+generally more advanced (and in fact more costly) for IMRT than proton beam. Although many
+studies have documented either increased rates of cancer eradication or better patient
+quality of life with modern techniques delivering contemporary high doses of radiation
+(Zelefsky et al, 2001; Sanda et al, 2008; Zietman et al,
+2010a; Bekelman et al, 2011; Michalski et al, 2011), these have been rather modest
+improvements and there has been sparse high-quality evidence supporting one technology
+over another. Although, one randomised comparison did demonstrate a benefit to 2-D
+vs 3-D (Dearnaley et al, 1999), in
+general, there has been rapid and uncontrolled marketing, demand, dissemination, and
+implementation of new and promising technologies (both hardware and software) before their
+effectiveness and comparative value have been rigorously evaluated. The increased need for
+cost-control inevitably will demand higher levels of evidence supporting clinical efficacy
+and cost-effectiveness. The question remains whether or not proton beam with its current
+high price tag brings added value.
+Only one randomised trial exists comparing conventional radiation therapy with proton
+beam, and this was initiated in the 1980s using older techniques and treating advanced
+disease in the era before early detection with PSA (Shipley et
+al, 1995). There was no difference in outcome between the two arms, but
+this study is now of historical interest only. Several studies comparing the dosimetry of
+proton beam with IMRT have been published and, depending upon the choice of beams and
+planning systems, IMRT can be seen as theoretically a little better or a little worse than
+protons (Trofimov et al, 2007; Vargas et al, 2008; Nihei et
+al, 2011). Our own work suggests that the conformity of dose
+distribution to the prostate may be better with IMRT. In the high-dose regions, IMRT shows
+better sparing of the bladder and rectal sparing is similar, whereas in the low-dose
+regions, proton beam achieves better sparing of both rectum and bladder (Trofimov et al, 2007). Thus, IMRT creates more of a
+low-dose radiation 'bath' over a larger region of the pelvis and leads to a
+higher, though still relatively small, whole-body radiation dose (Figure 2). This begs the question whether the worse morbidity of radiation
+therapy comes from the high-dose area (sexual, rectal, and bladder functions) or the
+cumulative low-dose areas (fatigue, bowel function, and second cancers). Dosimetric
+studies showing relatively modest differences in physical dose distribution are of little
+value without looking for measurable and meaningful differences in clinical outcome.
+Although radiation oncologists have been eager to adopt proton beam for prostate cancer,
+they have been slow to perform clinical studies. This is now being addressed. Recent
+prospective clinical studies have documented certain truths about proton beam and prostate
+cancer.
+First, that radiation dose escalation to the prostate may be safely achieved. We have
+shown that patient-reported quality of life is the same at doses of either 70 or
+79 Gy when the boost dose is delivered by protons (Talcott
+et al, 2010). This does not, however, address the fact that
+escalation to the same doses may be achieved and be equally well tolerated by other
+radiation techniques like IMRT or brachytherapy. That is to say that, despite the
+theoretical physical advantages of proton therapy, studies have yet to show any clear
+clinical benefit to proton beam over IMRT in terms of morbidity in the treatment of
+prostate cancer. No direct head-to-head comparison between the two has yet been done,
+although a multicenter randomised trial has recently been launched (discussed below).
+Talcott et al (2010) did make comparisons
+between two separate, though contemporary, cohorts of patients treated with proton beam or
+either IMRT or 3-D conformal therapy and found no overt differences. The principal
+concerns of patients, erectile dysfunction, voiding dysfunction, and rectal dysfunction,
+appear to occur with similar acceptably low frequency. We have generated some preliminary
+data suggesting transient differences in toxicity patterns with a potential early
+short-term, though time-limited, improvement in bowel and urinary symptoms with PBT
+vs IMRT (Gray et al, 2013). New data
+from other US proton centers are also demonstrating excellent quality of life outcomes and
+low rates of significant early gastrointestinal and genitourinary toxicity, with
+proton-based therapy for prostate cancer, although these may come from the use of prostate
+immobilisation and image guidance as much as from the use of proton beam (Mendenhall et al, 2012). Two other recent studies,
+however, have suggested that PBT is associated with increased bowel toxicity compared with
+IMRT (Kim et al, 2011; Sheets
+et al, 2012). These studies rely on billing codes that may not
+capture the patient's own experience and large databases that contain few PBT
+patients and also lack data on treatment dose, margins, and other important relevant
+clinical factors. As such, the validity of these conclusions remains a matter of debate.
+It is also worth noting that the follow-up from all of these studies is too short to
+capture all the late effects of radiation, which may continue to accumulate at 10 years or
+beyond (Gardner et al, 2002).
+Second, that cancer-control rates after proton beam are as good as those obtained with
+any other kind of radiation therapy (Zietman et al,
+2010a). Proton beam is certainly an effective addition to the armamentarium.
+Although there are no completed randomised trials, there is one recent case-matched
+comparison that shows identical cancer-control rates between proton beam and brachytherapy
+(Coen et al, 2012). Given that there is no
+evidence that proton beam is superior to other therapies in terms of prostate cancer
+control, it might be an improved (and more costly) means to an unimproved end.
+Third, that using current proton delivery methods (passively scattered beams), radiation
+dose cannot be escalated significantly higher to achieve better cancer-control rates. A
+prospective study performed at the MGH and Loma Linda Medical Centre concluded that
+morbidity reaches the limits of acceptability at 82 Gy, with rectal bleeding
+becoming a dose-limiting toxicity (Coen et al,
+2011).
+
+Cost and Usage
+Although these data supporting the efficacy of PBT continue to emerge, much attention has
+also focused on the cost of PBT relative to existing technologies. The number of centres
+offering proton therapy in the United States is expected to double in the next 3 years
+(Johnson, 2012), and prostate cancer patients may
+represent up to 75% of the future consumers at these centres (Jarosek et al, 2011). An analysis using Markov models informed by
+cost and efficacy data was conducted to compare the cost-effectiveness of 91.8 Gy
+(RBE) delivered with proton beam to 81 Gy delivered with IMRT. It was assumed that
+this 10 Gy dose escalation would result in a survival advantage without an increase
+in toxicity, though this remains debatable as previously discussed (Coen et al, 2011). Despite this assumption, the incremental
+cost-effectiveness ratio for PBT was calculated to be $63 578 per QALY for a
+70-year-old man and $55 726 per QALY for a 60-year-old man. Using the
+commonly accepted standard of $50 000 per quality-adjusted life year, PBT
+did not appear to be cost-effective (Konski et al,
+2007). Other economic reviews have found the lifetime cost for treatment,
+follow-up, and management of recurrence and side effects to be $53 828 for
+PBT, $37 861 for IMRT, $25 484 for brachytherapy,
+$28 348 for radical prostatectomy, and $30 422 for active
+surveillance (Ollendorf et al, 2009). The exact
+degree of the incremental increase in cost for PBT over IMRT remains a subject of debate,
+however. One recent study suggested the median amount reimbursed by the US Medicare
+insurance program was $32 428 for PBT and $18 575 for IMRT
+(Yu et al, 2013). There are clear ranges of
+costs that are billed and reimbursed depending on provider and payer, and ways in which
+cost is modelled, highlighting that pricing considerations remain a moving target, and
+these will adapt and be fluid in the era of health-care payment reform.
+Two future trends may, however, reduce the cost of proton beam delivery and make it a
+more competitive option for patients. First, several randomised and other trials (Kupelian et al, 2007; Boike et
+al, 2011; Arcangeli et al, 2012;
+Dearnaley et al, 2012) have published early
+results suggesting safety and equivalence between conventional fractionation and
+hypo-fractionation (i.e., shorter treatment regimens that deliver fewer larger fractions
+of radiation that may offer a therapeutic gain) in prostate cancer, and proton beam is
+being investigated in this manner (Radiation Therapy Oncology Group protocol 0938). As the
+cost of treatment delivery in the United States is proportional to the number of fractions
+given, this alone may not only lead to cost savings but also better resource allocation
+and increased patient convenience. Indeed, decreasing the total number of fractions
+delivered from 44 to 28 or as few as 5, could result in a significant reduction in the
+incremental cost difference of PBT. The second is that there is a natural trend towards
+simplification and streamlining of any technology as it matures. New single gantry
+facilities are being developed with a $15-25 million price tag. Although this
+still remains costlier than most other medical technologies (for example a linear
+accelerator capable of delivering IMRT may cost $1-5 million), the debt incurred
+may be managed without requiring such high patient throughput and high treatment charges.
+As further technical advances and operational efficiencies are employed, further lowering
+of the cost gap between proton- and photon-based techniques will likely occur.
+
+The Future
+Proton beam therapy has not yet reached its full potential. The use of spot-scanned
+delivery is being adopted, and this technique allows for greater intensity modulation
+(Figure 2). Together with the use of more creative beam
+angles, conformality should be taken to new heights (Trofimov et
+al, 2007; Tang et al, 2012). It
+remains debatable, however, whether or not this will translate into fewer side effects
+and/or allow the delivery of higher doses to the prostate as most of the morbidity
+comes from irradiation of the prostatic urethra, bladder neck, anterior rectum, and
+nerves. These tissues are either within the prostate or immediately adjacent to it and are
+unlikely to be significantly further spared without undertreating the prostate itself.
+Focal or partial prostate therapy is being examined for very early cancers using focused
+ultrasound or cryotherapy, and it is possible that intensity-modulated protons could have
+a similar role. Alternatively, protons could be used to deliver partial prostate boosts in
+the case of more advanced cancer (Figure 3).
+If PBT were exactly the same cost as other forms of external radiation, there may be less
+of a discussion. It would simply be regarded as another arrow in the quiver of radiation
+options with potential theoretical benefits. It is, however, the powerful advocacy for its
+superiority ahead of rigorous evidence that attracts suspicion. In this way, PBT is
+illustrative of a broad problem in medicine generally. How can promising new and emerging
+technologies that are rapidly evolving be evaluated in a rigorous and sufficiently timely
+fashion such that creativity and innovation are not stifled? The vast majority of new
+technologies are incremental advances of existing techniques that do not require testing
+beyond that of basic safety as mandated by governmental regulatory bodies. Alternative
+methodologies such as prospective observational registries (as has been done for PET
+scanning and cardiac devices) may be employed to assess efficacy and appropriate
+utilisation. For a few technologies, however, and proton beam is arguably one of them,
+there has not been a simple incremental evolution but a gigantic revolution. It is here
+that randomised controlled trials (RCTs) may still have a role, and the earlier they are
+initiated the better (Zietman et al, 2010b). It
+has been argued that the RCT remains crucial when: the new technology introduces a new
+biology; when retraining or re-credentialing is required; when the technology is as likely
+to be less effective as it is more effective than the alternatives; or when the technology
+carries such a price that it will alter the resources available to care for others. Proton
+beam meets several of these criteria. The relative radiobiological effectiveness is not
+known with absolute accuracy for different tissues, and this may matter when ultra-high
+doses are being delivered (Carabe-Fernandez et al,
+2011). For this reason, and because of the differences in dose distribution
+between protons and IMRT, there are circumstances where the outcome may be worse and not
+necessarily better.
+A RCT is, however, not necessary for every disease or every site to be treated by
+protons. It is clear, for example, that there will be little advantage to treating
+superficial skin cancers this way. Equally, there would be few willing to randomise
+paediatric patients because the theoretical advantages of proton beam are so great and the
+consequences of more conventional treatment so devastating that therapeutic equipoise, a
+central requirement of any RCT, could not be assumed (Hellman and
+Hellman, 1991). Furthermore, a RCT would be impractical for rare indications
+(such as skull base chordomas) or when patients are unwilling to be randomised (van Loon et al, 2012). As such, RCTs should be reserved
+for the 'grey zones', such as prostate cancer, where we need to document not
+only efficacy and safety (done already) but to quantitate value added. Patients have
+indicated their willingness to participate in such a trial for prostate cancer (Shah et al, 2012b). Several major US proton centers led
+by the Massachusetts General Hospital and University of Pennsylvania have recently
+launched a phase III randomised trial of IMRT vs PBT for localised low and
+low-intermediate risk prostate cancer (http://clinicaltrials.gov/ct2/show/NCT01617161), with patient-reported
+quality of life outcomes, as well as other clinical, physical, biological, and economic
+end points (including assessing cost-effectiveness under current and future conditions for
+alternative treatment delivery and pricing scenarios). Events are moving too fast, and the
+answers this trial will provide cannot come too soon.

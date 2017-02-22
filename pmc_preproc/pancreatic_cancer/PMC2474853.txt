@@ -1,0 +1,67 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed]
+
+Gemcitabine based combination chemotherapy in advanced pancreatic cancer-indirect comparison. Background Recent meta-analyses have found a survival advantage with gemcitabine based combinations over single agent gemcitabine in patients with advanced pancreatic cancer. There is paucity of evidence in the form of direct head-to-head randomised controlled trials to determine which combinations are to be preferred.   Method Using the adjusted indirect comparison method proposed by Bucher et al, we have assessed randomised controlled trials of four gemcitabine based combinations namely gemcitabine plus a platinum compound or 5-fluorouracil or irinotecan or capecitabine.   Results No particular combination was significantly superior to another, but the indirect evidence suggests some important trends.   Conclusion The strongest trends on indirect comparison are towards favouring gemcitabine plus capecitabine or gemcitabine plus a platinum compound over gemcitabine plus irinotecan, and to a lesser degree, over gemcitabine plus 5-fluorouracil.
+
+Background
+We have previously reported a systematic review and meta-analysis of 19 studies evaluating gemcitabine based combination chemotherapy compared to gemcitabine alone [1] in patients with locally advanced and metastatic pancreatic cancer. Overall survival was significantly better for gemcitabine based combination chemotherapy (14 trials 4060 patients HR 0.91; 95% CI 0.85 to 0.97) compared to single agent gemcitabine. A subgroup analysis was performed, dividing the selected studies into four categories defined by the addition to gemcitabine of platinum agents or 5-fluorouracil (5FU) or irinotecan or capecitabine (Table 1). The subgroup analysis found evidence to suggest a survival advantage for gemcitabine combined with either a platinum agent (HR 0.85; 95% CI 0.74 to 0.96) or capecitabine (HR 0.83; 95% CI 0.72 to 0.96), and insufficient evidence to support combinations of gemcitabine with either 5FU (HR 0.98; 95% CI 0.86 to 1.11) or irinotecan (HR 1.01; 95% CI 0.84 to 1.22). These analyses provide estimates of the survival advantage for each combination compared to single agent gemcitabine but do not provide estimates of the survival advantage for each combination compared against another. To date, there is only one phase II randomised controlled trial [2,3] which directly compared different gemcitabine combinations in a head-to-head comparison. This was a small study that directly compared only two gemcitabine based combination chemotherapy regimens (gemcitabine plus capecitabine versus gemcitabine plus oxaliplatin). In view of the paucity of data directly comparing alternative gemcitabine based combinations, we have attempted to answer, for the first time, as to which combinations of gemcitabine show more promise, an important clinical question which no previous meta-analyses have addressed.
+
+Methods
+We searched for direct comparisons of gemcitabine combinations, as well as used adjusted indirect comparisons to evaluate the treatment effect across studies [3,4] although this was not specified a priori. Illustration of how the indirect comparison was obtained is given in the following example. Suppose an intervention A was compared against another intervention C in a randomised controlled trial or meta-analysis, and likewise another study (or meta-analysis) compared intervention B with intervention C. Adjusted indirect comparison of treatments A versus B was obtained as follows:
+(1) The log hazard ratio of the adjusted indirect comparison for intervention A versus B was calculated using the following formula:
+log HRAB = log HRAC-log HRBC
+where log HRAC was the log hazard ratio for the direct comparison of intervention A versus C and log HRBC was the log hazard ratio for the direct comparison of intervention B versus C.
+(2) The standard error for the log hazard ratio was obtained using the calculation:
+SE
+(
+log
+[?]
+HR
+AB
+)
+=
+SE
+(
+log
+[?]
+HR
+AC
+)
+2
++
+SE
+(
+log
+[?]
+HR
+BC
+)
+2
+where SE(log HRAC) was the standard error of the log hazard ratio for the direct comparison of intervention A versus C and SE(log HRBC) was the standard error of the log hazard ratio for the direct comparison of intervention B versus C.
+The assumption of exchangeable treatment effects (treatment effect observed in trials comparing A versus C is assumed to be the treatment effect that would have been observed in those trials comparing B versus C if treatment A had been included in those trials and vice versa) across comparisons was evaluated by assessing heterogeneity across trials within each comparison and assessing comparability (methodological and clinical characteristics) of all trials contributing to the indirect comparison.
+
+Results
+Adjusted indirect comparisons were computed for the following comparisons:
+1. Gemcitabine plus a platinum agent versus gemcitabine plus 5FU (GemPlat versus Gem5FU)
+2. Gemcitabine plus a platinum agent versus gemcitabine plus capecitabine (GemPlat versus GemCap)
+3. Gemcitabine plus a platinum agent versus gemcitabine plus irinotecan (GemPlat versus GemIrino)
+4. Gemcitabine plus 5FU agent versus gemcitabine plus capecitabine (Gem5FU versus GemCap)
+5. Gemcitabine plus 5FU agent versus gemcitabine plus irinotecan (Gem5FU versus GemIrino).
+6. Gemcitabine plus capecitabine versus gemcitabine plus irinotecan (GemCap versus GemIrino)
+We did not find any one combination to be significantly superior to others (Fig 1), but the indirect evidence suggests some important trends, of which the strongest are towards favouring gemcitabine plus capecitabine or gemcitabine plus a platinum compound over gemcitabine plus irinotecan (GemCap versus GemIrino HR 0.82, 95% CI 0.65 to 1.04; GemPlat versus GemIrino HR 0.84, 95% CI 0.67 to 1.06). Some advantage, to a lesser degree, was suggested for these two combinations over gemcitabine plus 5FU (Gem5FU versus GemCap HR 1.17, 95% CI 0.94 to 1.46; GemPlat versus Gem5FU HR 0.88, 95% CI 0.70 to 1.09). There was no evidence for heterogeneity within the direct comparisons and no obvious inconsistency with the assumption of exchangeable treatment effects.
+Figure 1
+Indirect comparison between different gemcitabine-based combination chemotherapy regimens.
+Overall survival data was extracted from the single phase II randomised trial to allow estimation of a HR (95% CI) [5] for the direct comparison between GemOx and GemCap. There was no significant difference in overall survival between the two combinations (HR 0.81, 95% CI 0.56 to 1.18) on direct head-to-head comparison [2] as well as on computing this combining the results of both the direct and indirect comparisons (HR 0.94, 95% CI 0.79 to 1.12) using random effects analysis.
+
+Discussion
+In a situation wherein two drugs A and B have, in randomised controlled trials, shown to be effective in comparison to a placebo or common standard, but direct comparison between A and B is not available, indirect comparison can be used [4]. The use of a simple indirect comparison has the limitation that the difference detected may not be a true difference, but instead be attributable to variations in patient characteristics and other prognostic factors in the different trials. An adjusted indirect comparison method was proposed by Bucher et al, and this method maintains the randomisation of the originally assigned patients while calculating the magnitude of the treatment effect.
+Song et al assessed the comparability of indirect with the direct head to head comparison in the setting of clinical trials dealing with antimicrobial prophylaxis in colorectal cancer, and later using a sample of 44 comparisons from 28 systematic reviews [3,6]. Compared with direct estimates, the adjusted indirect estimates were less likely to be statistically significant. Adjusted indirect comparisons usually but not always agree with the results of head to head randomised trials. When there is no or insufficient direct evidence from randomised trials, the adjusted indirect comparison can provide useful or supplementary information on the relative efficacy of competing interventions. The results of adjusted indirect comparisons should be interpreted with caution however and the internal and external validity of the trials involved examined carefully, to investigate potential causes of discrepancy.
+This adjusted indirect comparison of gemcitabine-based combination chemotherapy is very important clinically as there is paucity of evidence comparing these combinations and this is the first time hazard ratios have ever been calculated for these pairwise comparisons. The only randomised trial comparing gemcitabine combinations was a phase II multicentre study that compared capecitabine plus oxaliplatin(CapOx) versus capecitabine plus gemcitabine (CapGem) versus gemcitabine plus oxaliplatin (mGemOx) [2]. There was no significant difference in the primary end point of progression free survival [median progression free survival time (p = 0.56) and progression free survival rates (p = 0.67)] and overall survival (GemCap versus GemOx HR 0.81; 95% CI 0.56-1.18). Grade 3/4 haematological toxicities were seen more often in the gemcitabine containing arms.
+Although indirect evidence may not be as reliable as evidence from a randomised head to head comparison, these analyses show some interesting trends that could be used to direct future research priorities. The assumption of exchangeable treatment effects would seem reasonable for these comparisons which add strength to the clinical interpretation and conclusions. In particular, trends suggest that gemcitabine plus irinotecan may be the least effective of the combinations examined. The lack of significant differences on indirect comparison is probably due to the already highlighted observation that this method tends to yield results that are less statistically significant than in a direct comparison [6]. Indeed, it can be shown that one directly randomised trial is as precise as an indirect comparison based on four randomised trials of the same size.
+A note-worthy observation on indirect comparison was that overall survival with gemcitabine combined with the fluoropyrimidine 5FU was inferior (though not statistically significant) to gemcitabine plus another fluoropyrimidine capecitabine (HR 1.17). A likely explanation is that capecitabine, an oral prodrug of 5FU, has the advantage of an element of tumour targeting, leading to enhanced selectivity and better tolerability [7]. The higher levels of thymidine phorphorylase (the final requisite enzyme for conversion of capecitabine to 5FU) observed in tumours compared to normal tissue may account for the improved targeting. Another possibility is the mode of delivery of 5FU versus capecitabine. The 5FU trials have involved bolus 5FU schedule [8] or 24 hour infusion [9], with the exception of one trial where 5FU was given by continuous infusion [10]. In contrast, the administration of capecitabine is more analogous to the delivery of 5FU by continuous protracted venous infusion, with the added ease of oral administration.
+In the light of level I evidence demonstrating that gemcitabine based combinations have a modest survival advantage over single agent gemcitabine, the current study indicates which combinations may be more efficacious. The findings of our original meta-analyses, as well as the trends observed on our adjusted indirect comparisons support the use of gemcitabine in combination with either capecitabine or a platinum compound in clinical practice. Future randomised controlled trials will now likely to be centred on the exploitation of novel targets or biology (such as Telovac) [11] in this chemo-resistant cancer, probably on a cytotoxic backbone of a gemcitabine combination.
+
+Conclusion
+Adjusted indirect comparison of randomised controlled trials examining gemcitabine in combination with capecitabine, platinum based compounds, 5FU and irinotecan reveal trends towards favouring gemcitabine plus capecitabine or gemcitabine plus a platinum compound over gemcitabine plus irinotecan and to a lesser degree, over gemcitabine plus 5-fluorouracil. Future trials will now likely to be centred on the exploitation of novel targets or biology, probably on a cytotoxic backbone of a gemcitabine combination.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:

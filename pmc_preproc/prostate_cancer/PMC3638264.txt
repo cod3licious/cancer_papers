@@ -1,0 +1,1032 @@
+[Abstract, Introduction, Results, Discussion, Methods]
+
+Development
+of Potent and Selective Indomethacin Analogues
+for the Inhibition of AKR1C3 (Type 5 17?-Hydroxysteroid Dehydrogenase/Prostaglandin
+F Synthase) in Castrate-Resistant Prostate Cancer. Castrate-resistant prostate cancer (CRPC) is a fatal, metastatic form of prostate cancer. CRPC is characterized by reactivation of the androgen axis due to changes in androgen receptor signaling and/or adaptive intratumoral androgen biosynthesis. AKR1C3 is upregulated in CRPC where it catalyzes the formation of potent androgens. This makes AKR1C3 a target for the treatment of CRPC. AKR1C3 inhibitors should not inhibit AKR1C1/AKR1C2, which inactivate 5a-dihydrotestosterone. Indomethacin, used to inhibit cyclooxygenase, also inhibits AKR1C3 and displays selectivity over AKR1C1/AKR1C2. Parallel synthetic strategies were used to generate libraries of indomethacin analogues, which exhibit reduced cyclooxygenase inhibitory activity but retain AKR1C3 inhibitory potency and selectivity. The lead compounds inhibited AKR1C3 with nanomolar potency, displayed >100-fold selectivity over AKR1C1/AKR1C2, and blocked testosterone formation in LNCaP-AKR1C3 cells. The AKR1C3*NADP+*2'-des-methyl-indomethacin crystal structure was determined, and it revealed a unique inhibitor binding mode. The compounds reported are promising agents for the development of therapeutics for CRPC.
+
+Introduction
+Aldo-keto reductase
+1C3, also known as type 5 17b-hydroxysteroid
+dehydrogenase, is a critical enzyme in androgen biosynthesis within
+the prostate and has been implicated in the development of castrate-resistant
+prostate cancer (CRPC). CRPC is characterized by the intratumoral
+reactivation of androgen receptor signaling caused by adaptive intratumoral
+androgen biosynthesis and/or androgen receptor (AR) amplification
+leading to resistance to androgen deprivation therapy.1-3 Elevated androgen levels within the tumor occur due to the upregulation
+of key enzymes involved in androgen biosynthesis.4-6 AKR1C3 catalyzes
+the conversion of the weak androgen precursors 4-androstene-3,17-dione
+(D4-AD) and 5a-androstane-3,17-dione to the
+potent androgens testosterone and 5a-dihydrotestosterone (DHT),
+respectively, and is one of the most highly upregulated genes in CRPC,
+Figure 1.4,5
+Figure 1
+Representative reactions
+catalyzed by AKR1C3. AR = androgen receptor,
+FP = F prostanoid receptor, and PG = prostaglandin.
+The success in phase III clinical trials of abiraterone
+acetate
+(Zytiga), a 17a-hydroxylase/17,20-lyase inhibitor, and its subsequent
+approval by the FDA support the involvement of adaptive androgen biosynthesis
+within the tumor in CRPC.7-10 However, abiraterone blocks glucocorticoid (cortisol)
+biosynthesis. Abiraterone therefore needs to be coadministered with
+the glucocorticoid, prednisone to limit adverse effects. Since AKR1C3
+acts further downstream of CYP17, it does not play a role in glucocorticoid
+biosynthesis, which in addition to its intratumoral localization makes
+it an appealing therapeutic target in CRPC.
+AKR1C3 through its
+prostaglandin (PG) F2a synthase
+activity also redirects the metabolism of PGD2 into 11b-PGF2a and can suppress the activation of PPARg by
+preventing the formation of putative PGJ2 ligands, which
+would favor differentiation.11-15 Thus, AKR1C3 inhibition might be beneficial in either hormone-dependent
+or hormone-independent prostate cancer.
+AKR1C1 and AKR1C2 are
+isoforms closely related to AKR1C3 and are
+required to inactivate DHT in the prostate.16-19 It is therefore imperative that
+AKR1C3 be inhibited selectively. Several selective AKR1C3 inhibitors
+have recently been reported. These compounds include 3-(phenylamino)benzoic
+acids,20-22 baccharin,23 3-(3,4-dihydroisoquinolin-2(1H)-ylsulfonyl)benzoic acids,24N-benzoylanthranilic acids,25 and a thiazolidinedione26 that
+was discovered by virtual screening (Figure 2).
+Figure 2
+Structures of other known selective AKR1C3 inhibitors.
+Nonsteroidal anti-inflammatory drugs (NSAIDs) are
+potent inhibitors
+of the AKR1C enzymes at therapeutically relevant concentrations.12,27-29 In contrast to most NSAIDs, indomethacin inhibits
+AKR1C3 with little or no effect on AKR1C1 and AKR1C2. Indomethacin
+has been shown to inhibit AKR1C3-dependent processes in human cell
+lines and murine xenografts.14,30 However, the potential
+therapeutic usefulness of indomethacin in the context of CRPC is limited
+because of the undesired side effects associated with chronic COX
+inhibition. Despite this, indomethacin represents a vital lead compound
+that can be used to develop selective AKR1C3 inhibitors that are stripped
+of COX inhibitory activity.
+Extensive SAR studies on indomethacin
+(Figure 3) have shown that the p-chlorobenzoyl group,
+the 2'-methyl group, and the 3'-acetic acid side chain
+are essential for COX inhibition. Previous efforts in our lab led
+to the discovery of N-(4-chlorobenzoyl)-melatonin,
+which inhibited AKR1C3 with potency comparable to that seen with indomethacin;
+moreover, it was selective over AKR1C1 and AKR1C2, and it did not
+inhibit COX.31,32 However, the therapeutic usefulness
+of this compound is limited due to its poor solubility and bioavailability.
+Figure 3
+Structure
+of indomethacin (1) is shown. Groups shown
+in red are essential for COX inhibition and were modified to yield
+class I analogues; class II compounds are 2'-des-methyl-indomethacin analogues; and class III compounds are 3'-alkyl
+analogues.
+In this study, we report the synthesis
+and structure-activity
+relationship studies of three series of indomethacin analogues. These
+compounds have been classified based on the presence and position
+of the 2'-alkyl group and the 3'-aliphatic acid group
+on the indole ring.33 Class I analogues
+have the 2'-alkyl, 3'-aliphatic acid arrangement on
+the indole ring of indomethacin preserved, class II compounds are
+based on 2'-des-methyl-indomethacin and retain
+the 3'-aliphatic acid group on the indole ring but lack the
+2'-methyl group, and class III compounds have this arrangement
+reversed to give an aliphatic acid group on the 2'-position
+and an alkyl group on the 3'-positon of the indole ring (Figure 3).
+This study led to the discovery of potent
+and selective AKR1C3
+inhibitors that are devoid of inhibitory activity against AKR1C1,
+AKR1C2, and COX. Additionally, these compounds block androgen synthesis
+in a prostate cancer cell line that overexpresses AKR1C3 and have
+no agonist effect on the AR. The crystal structure of AKR1C3 in complex
+with 2'-des-methyl-indomethacin is also reported,
+showing that this class of compounds occupies a unique binding pose
+in the enzyme active site.
+
+Results
+Chemistry
+Our
+search for novel AKR1C3 inhibitors was
+aided by the availability of high-throughput chemistry and analysis
+technologies. All three classes of compounds were prepared using parallel
+synthesis approaches based on well-established Fischer-indole
+chemistry. We reported previously an efficient three-step reaction
+sequence that is amenable to rapid and high-yielding analogue production
+(outlined in Scheme 1).34 The optimized route used indole alkanoic acid methyl- or
+allyl esters as intermediates, featured maximum synthetical flexibility
+(e.g., variation of the indole 5'-substituents or late-stage N-acylation), and was more sustainable than the conventional
+pathway shown in Scheme 2 for quite a few of
+the envisioned analogues, including 2'-des-methyl-indomethacin (20). Compounds are characterized
+by either a 5'-methoxy or 5'-flouro group on the indole
+ring, alternating 2'-/3'-(cyclo)aliphatic acid substituents
+and variable N1-acyl moieties. Utilization
+of Fischer indolization/N-acylation/(ester cleavage)
+with microwave heating led to assembly of novel N-acyl indole alkanoic acids or esters 2-13, 17, and 19 (Table 1; class I analogues with 2'-alkyl and 3'-aliphatic
+acid groups), the 2'-des-methyl derivatives 20-25, 42 and 43 (Table 2; class II 3'-aliphatic acid
+group) as well as compounds 44 and 62 (Table 3; class III reversed 2'-aliphatic acid/3'-alkyl
+or 2'-/3'-cyclized acid substituents). For technical
+details, please refer to the cited literature. Moreover, the procedure
+enabled simple scale-up from milligram to multigram quantities (e.g.,
+for lead compounds 20 and 50), which is
+desirable for testing efficacy in murine xenograft models of CRPC.30
+Scheme 1
+Optimized Fischer Indolization/N-Acylation/Ester
+Cleavage Approach for Expedient Production of Different N-Acyl Indole Alkanoic Acid Analogues34
+Scheme 2
+Classical Synthetic Strategy for the
+Preparation of N-(4-Chlorobenzoyl) Indole Alkanoic
+Acid Analogues and Sulfonamide
+Derivatives as COOH Bioisosteres
+Reagents and conditions: (i)
+1. Et3N, 2. CH3CHO, toluene, 0 to 25 degC,
+3 h; (ii) 4-chloro-benzoyl chloride, pyridine, 10 to 25 degC, 2
+h; (iii) HCl (g), CH2Cl2, 0degC to rt, 1
+h; (iv) (cyclo)aliphatic keto acid, AcOH, 70-80 degC, 3 h; (v)
+1,1'-carbonyldiimidazole (CDI), CH2Cl2, 0-5 degC, 2 h, then alkyl-/arylsulfonamide, diazabicyclo[5.4.0]undec-7-ene
+(DBU), rt, 4-6 h; (vi) 1. oxalyl chloride, CH2Cl2, 0 degC to rt, 8 h, 2. alkyl-/arylsulfonamide, 1,2-DCE or CH2Cl2, pyridine, rt, overnight.
+Indomethacin analogues
+with conserved 5'-methoxy groups
+and 4-chlorobenzoyl tails at their indole N1 were also synthesized following the conventional reaction scheme,
+Scheme 2, which was primarily adopted by Yamamoto35 for assembly of 1. The key reagent
+for the underlying Fischer indolization step, 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride (D),
+was prepared according to the reported literature procedures from
+the aryl hydrazine precursor A via intermediates B and C.36 Target
+compounds 16 (Table 1; 3'-propionic
+acid group) and 20 (Table 2, 2'-des-methyl-indomethacin) were readily obtained from D by refluxing with slight excess of 5-oxohexanoic acid E (here, R1 = Me, n = 2) and 4-oxobutanoic
+acid E (R1 = H, n = 1) in
+AcOH, respectively. Application of 4-oxohexanoic acid F (R1 =Me, n = 1) as cyclization reagent
+quantitatively yielded the reversed 2'-propionic acid/3'-alkyl
+indole derivative 44 as the only isolable product.37 The purity of compounds 16, 20, and 44 after a simple filtration and elutriation
+with water was 99% based on LC-MS analysis. In contrast, reaction
+of D with either 5-oxoheptanoic acid F (R1 = Me, n = 2) or 4-oxoheptanoic acid F (R1 = Et, n = 1) in a trial
+to further extend the aliphatic acid chain in position 2' (for 45) or the 3'-alkyl substituent (for 46) of the indole, led to isomer mixtures containing only about 75%
+of the envisaged target structure (by 1H NMR; compare Supporting Information). Mixtures of 45 and 46 of known composition were evaluated in the biochemical
+screens as such. We later successfully isolated the major indole regioisomer 47 (2'-propionic acid/3'-ethyl) from mixture 46 with an acceptable sample/isomeric purity of 95% by repeated
+trituration of the crude product precipitate with diethyl ether.
+Analogues 48 and 49 structurally derive
+from compound 44 and bear an additional a,a-dimethyl
+(48) or a-methyl group (49) in their
+aliphatic acid chain. Their synthesis could be accomplished by converting D with appropriately prebuilt keto acids. However, these cyclization
+reagents, namely, 2,2-dimethyl-4-oxohexanoic acid and 2-methyl-4-oxohexanoic
+acid, were not commercially available and needed to be prepared beforehand
+following existing protocols (for details, see Supporting Information).37,38 Whereas analogue 49 could be accumulated as solid and filtered pure from the
+watery reaction solution, compound 48 needed to be extracted
+into dichloromethane and purified on silica gel. The purities of 48 (after flash chromatography) and 49 (dried
+filter residue) were judged to be 95% and >97%, respectively.
+In compounds 61 and 64, the 2'-
+and 3'-positions are bridged by a fused six-membered aliphatic
+ring; the two structures only vary in the position of the carboxylic
+acid functionality attached to the cyclohexane ring. Although compounds 61 and 64 formally represent 2,3,4,9-tetrahydro-1H-carbazole-carboxylic acid derivatives, they were considered
+possible AKR1C3 inhibitor candidates as well. The synthesis followed
+the above-mentioned universal procedure in Scheme 2, except that different cyclic keto acids G (for 61, p-keto; for 64, m-keto) were used for the ring-closure with the hydrazine
+hydrochloride precursor D (Scheme 2). Both the symmetrical 4-oxocyclohexanecarboxylic acid and, more
+surprisingly, the unsymmetrical 3-oxocyclohexanecarboxylic acid yielded
+a single and clean reaction product (filterable precipitate) in high
+yield (>82%; purity ~99% by LC-MS).39
+In order to enhance the desired biological (and physical)
+properties
+of the compounds, (bio)isosteric replacements of the free carboxylic
+acid functions were accomplished on indomethacin (1),
+2'-des-methyl-indomethacin (20), the 2'-propionic acid/3'-methyl indole derivatives 44 and 51, and the carbazole carboxylic acid
+analogue 61. Different isostere options were considered,
+and finally, the sulfonamide group was chosen as it retained the essential
+acidic character of the former COOH group. Moreover, this moiety facilitated
+the introduction of further (sterically demanding) substituents at
+the sulfone tail end, which might in turn affect the size, shape,
+conformation, inductive and mesomeric effects, polarizability, H-bond-formation
+capacity, lipophilicity, or pKa of the
+new analogues. A library of initially 30 sulfonamide derivatives was
+generated as specified in Scheme 2 (right-hand
+side) applying state-of-the-art methods of combinatorial chemistry:
+entries 14 and 15 (Table 1) represent class I analogues, entries 26-41 (Table 2) belong to class II, and
+finally compounds 50, 51, 52-60, and 63 (Table 3) are members of structural class III (see above). For the
+standard (one-pot) two-step amide coupling reactions, the acid groups
+of starting compounds 1, 20, 44, 51, and 61 were activated with carbonyldiimidazole
+or infrequently as acid chlorides (to improve the efficiency of the
+reaction, e.g., for 15 and 27) prior to
+sulfonylamine addition.40-42 After acidic workup (to minimize
+amide hydrolysis) and evaporation of the organic solvents, the residues
+were combined with DMSO (1 mL each) and subjected to automated mass-directed
+HPLC purification with a set purity threshold of >=95%.
+The chemical structures of all intermediates and target compounds
+were confirmed and fully characterized by NMR spectroscopy and mass
+spectrometry. The purity of the test compounds was determined using
+liquid chromatography [UV detection at 215 and 254 nm along with ELSD
+detection] and was >=95%, if not otherwise denoted (compare Experimental Section and/or Supporting Information).
+Strategy
+The synthesized
+compounds were compared for
+their ability to inhibit AKR1C3 over AKR1C2. AKR1C2 was used in this
+comparison due to its similarity in amino acid sequence and structure
+and because its inhibition is undesirable. The ratio of the IC50 values for the two enzymes was computed to generate a selectivity
+ratio. The higher the ratio, the more selective the compound is in
+its ability to inhibit AKR1C3.
+Class I Analogues
+These compounds retain the 2'-alkyl,
+3'-aliphatic acid substitution on the indole ring of indomethacin
+and possess one or more of the following modifications: substitution
+on the p-chlorobenzoyl group, replacement of the
+5'-OCH3 group, esterification/amidation of the free
+acid, and modification of the acetic acid side chain. Results from
+the AKR1C3/AKR1C2 screen of these compounds are shown in Table 1. Indomethacin is a potent and selective inhibitor
+of AKR1C3. It inhibited AKR1C3 with an IC50 value of 100
+nM and was over 300-fold selective over AKR1C2. To evaluate the importance
+of substitution on the phenyl ring, the p-Cl substituent
+of indomethacin was replaced with substituents of varying electronic
+properties and lipophilicity. Introduction of p-CH3 (2), p-CH2Cl (3), or p-OCH3 (4)
+on the phenyl ring did not significantly alter either AKR1C3 potency
+or selectivity. These compounds displayed IC50 values between
+120 and 160 nM for AKR1C3 and were over 300-fold selective for AKR1C3
+over AKR1C2. However, when the p-Cl group was substituted
+with a p-CF3 group (5), the
+inhibitor lost both potency and selectivity and was only 130-fold
+selective for AKR1C3. The reduction in potency and selectivity was
+even more pronounced with a smaller p-F (7) substitution and was reduced further when the CF3 group
+was moved to the meta-position (6, AKR1C3-IC50 > 2 mM). Removal of the p-chlorobenzoyl
+group
+altogether to yield des-chlorobenzoyl-indomethacin 18 (a major metabolite and decomposition product of indomethacin)
+showed that inhibition potency and selectivity was completely eliminated.
+These findings underscored the need for the N-benzoyl
+ring as well as a suitable substitution at the para-position of the
+phenyl ring for AKR1C3 inhibition. Interchanging the 5'-OCH3 groups in compounds 1 and 6 with
+fluorines at the same indole position in analogues 8 and 9 was detrimental to AKR1C3 selectivity as AKR1C3 inhibition
+was mostly unchanged, while undesired AKR1C2 inhibition was enhanced.
+The free carboxylic acid, which exists predominantly as the negatively
+charged carboxylate at physiological pH, is thought to contribute
+to the general inhibition of AKR1C enzymes by nonsteroidal anti-inflammatory
+drugs (NSAIDs). Consistent with this, esterification of indomethacin
+to give the methyl ester (10) led to a 57-fold loss of
+inhibitory potency for AKR1C3 and a reduction in selectivity. This
+trend was also seen with all other methyl esters 11-13 when compared to their corresponding free acid derivatives
+(2, 4, and 5). Despite this
+loss of potency, the rank order of inhibitory potency for the methyl
+esters was similar to the free acids. The requirement for an acid
+functionality for optimal AKR1C3 inhibition was likewise apparent
+with compound 19. This indomethacin fragment lacks the
+complete carboxyalkyl chain in position 3' of the indole and
+revealed a 36-fold lower inhibitory activity on the target enzyme
+in comparison to 1. However, the interactions of 19 and 1 with AKR1C2 were still comparable, clearly
+indicating differences in the way the compounds bind to AKR1C3 and
+AKR1C2. The AKR1C inhibition data for compound 18 reconfirm
+the need for an intact N-acyl (here, p-Cl-benzoyl) substituent. The decrease in inhibitor potency (and
+selectivity) observed for AKR1C3 appeared to be less with 19 than with 18 (see above).
+Further modification
+of the acetic acid group of indomethacin yielded
+the N-(sulfonyl)acetamide analogues 14 and 15. While the N-(methylsulfonyl)acetamide
+analogue, 14, led to a 22-fold reduction in inhibitory
+potency for AKR1C3 (IC50 value for AKR1C3 = 2.24 mM),
+potency was partially restored by the formation of the N-(trifluoromethylsulfonyl)acetamide analogue 15, a compound
+with an IC50 value of 0.74 mM and 108-fold selectivity
+for AKR1C3.
+Increasing the length of the aliphatic side chain
+of indomethacin
+from -ethyl to -propyl (16) led to a 2-fold reduction
+in AKR1C3 potency, but the compound retained 257-fold selectivity
+for AKR1C3 over AKR1C2 (Table 1). Replacement
+of the 5'-OCH3 group of this compound with a fluorine
+atom (17) did not change the AKR1C3 inhibitory potency,
+but this compound was a more potent AKR1C2 inhibitor than 16 leading to a loss of AKR1C3 selectivity.
+Class II: 2'-des-Methyl-indomethacin
+Analogues
+Structurally, these compounds have a 3'aliphatic
+acid on the indole ring, but the 2'-methyl group on the indole
+ring has been eliminated. Compared to indomethacin, the parent compound
+in this class, 2'-des-methyl-indomethacin
+(20), was a less potent and less selective AKR1C3 inhibitor
+(Table 2). It displayed an IC50 value
+of 960 nM for AKR1C3 and an IC50 value of 100 mM
+for AKR1C2, which translated to 100-fold selectivity for AKR1C3. The
+loss in AKR1C3 potency with removal of the 2'-CH3 group was seen across most of the des-methyl-indomethacin
+analogues when compared to their respective class I analogues (e.g., 21 vs 10 and 23 vs 5). Within the triad of class II compounds 22-24 with alternating substituents at the benzoyl moiety, the
+potency and selectivity decreased in the same rank order as discovered
+for the indomethacin counterparts 5-7 in Table 1 from p-CF3 > p-F > m-CF3. One exception with quite promising inhibitory qualities
+was the N-(trifluoromethylsulfonyl)acetamide derivative, 27, which gave an IC50 value of 210 nM for AKR1C3
+and was
+240-fold selective for AKR1C3 over AKR1C2, while the corresponding
+indomethacin analogue 15 was less potent and less selective.
+The presence of a trifluoromethyl group on the acetamide seems critical
+for AKR1C3 inhibition since the N-(methylsulfonyl)acetamide
+analogue of des-methyl-indomethacin (26) displayed weak AKR1C3 inhibition and a total loss of selectivity
+for AKR1C3. Further substitution on the N-(sulfonyl)acetamide
+group with substituted phenyl groups or heterocycles (28-41) did not significantly improve AKR1C3 potency
+or selectivity, although analogues with bulky aromatic rings and/or
+aromatic rings with substituents capable of forming electrostatic
+interactions generally gave better AKR1C3 inhibitors. Introduction
+of a 5'-F on the indole ring of des-methyl-indomethacin
+to give 25 led to little or no improvement in AKR1C3
+potency and a 4-fold increase in AKR1C2 inhibitory potency. This translated
+to a reduction in AKR1C3 selectivity.
+Finally, compounds 42 and 43 display structurally edited versions
+of the parent molecules, 2'-des-methyl indomethacin 20 and its methyl ester 21, respectively, whose
+terminal aryl rings of the original N-4-Cl-benzoyl
+substituents were truncated leaving a linear propanoyl group in each
+case. Both derivatives 42 and 43 were about
+2- to 2.5-fold less potent than their N-benzoyl analogues 20 and 21 in inhibiting AKR1C3. The methyl ester 43 again was clearly inferior with respect to AKR1C3 inhibition
+and selectivity.
+Class III: 3'-Alkyl Indomethacin Analogues
+The
+compounds in this class have the acetic acid side chain of indomethacin 1 replaced with a 3'-alkyl group and the 2'-CH3 group substituted with an aliphatic acid or a substituted N-(sulfonyl)acetamide, in effect reversing the position
+of the aliphatic acid and alkyl group on the indole ring of 1. Relative to indomethacin and the class I inhibitor 16, compound 44, with a 3'-CH3 group and a 2'-propionic acid substituent on the indole ring,
+retained AKR1C3 potency with IC50 value of 130 nM (Table 3). This result indicated that AKR1C3 will tolerate
+flexibility in the position of the aliphatic acid side chain and alkyl
+group on the indole ring. However, 44 was less selective
+for AKR1C3 than both 1 and 16, being 111-fold
+selective for AKR1C3 over AKR1C2. Introduction of an a-CH3 group on the aliphatic acid side chain of 44 introduced a chiral center, and the racemate of this compound, 49, displayed 2-fold lower potency for AKR1C3 and an unchanged
+AKR1C2 potency relative to 44. Removal of the chiral
+center by formation of the geminal dimethyl analogue, 48, restored AKR1C3 potency. Synthesis of the N-(methylsulfonyl)acetamide
+analogue, 50, led to a 3-fold loss of AKR1C3 potency
+(340 nM) but an increase in AKR1C3 selectivity (275-fold). However,
+its a-CH3 analogue, 51, exhibited poor
+inhibition of AKR1C3. Replacement of the methylsulfonyl group of 50 with a trifluoromethylsulfonyl group (52)
+also did not improve AKR1C3 potency and selectivity in contrast to
+class I and II analogues, neither did a series of further sulfonamides 53-60 with bulkier (hetero)aryl substituents
+attached to their sulfonyl tail end.
+The library also produced
+mixtures of 45 in which the 3' substituent is
+methyl and the 2' substituent is butyric acid or the 3'
+substituent is propionic acid and the 2' substituent is a propyl
+group. This mixture produced an IC50 value = 0.15 mM
+for AKR1C3 and was 119-fold selective for the inhibition of AKR1C3
+over AKR1C2. Additionally, the library produced mixtures of 46 in which either the 3' substituent is ethyl and
+the 2' substituent is propionic acid or the 3' substituent
+is acetic acid and the 2' substituent is a propyl group. This
+mixture gave an IC50 value of 70 nM for AKR1C3 that was
+279-fold selective for the inhibition of AKR1C3 over AKR1C2. The latter
+mixture was then resolved and the active component identified as compound 47.
+Compound 47 was the most potent and
+selective compound
+in the study, with an IC50 value of 90 nM for AKR1C3, and
+was 540-fold selective for AKR1C3 over AKR1C2. Cyclization of the
+side chains at the 2'- and 3'-position on the indole
+ring of 47 to form the racemic tetrahydrocarbazole analogue
+with a 3'-carboxylic acid group (61) did not produce
+a pronounced change in either AKR1C3 potency or selectivity. This
+compound gave an IC50 value of 160 nM for AKR1C3 and showed
+a 330-fold selectivity for AKR1C3 over AKR1C2. Changing the p-chloro substituent on the benzoyl ring of 61 with a m-CF3 group to give 62 fractionally improved the selectivity to a factor of 360 by raising
+the IC50 value for AKR1C2 inhibition more than the IC50 value for AKR1C3 inhibition. In contrast, replacement of
+the carboxylic acid function of 61 by the isosteric N-(methylsulfonyl)acetamide decreased the potency of 63 for AKR1C3 and drastically reduced the selectivity to a
+factor of only 20. Compound 64, a close analogue of the
+2,3,4,9-tetrahydro-1H-carbazole-carboxylic acid 61, but with the -COOH group in position 2 in the six-membered
+cyclohexene ring, did not exhibit improved potency and selectivity
+over the primary lead compound 44 within this series
+(IC50 = 340 nM).
+Inhibition of Other AKR1C Isoforms and COX
+(Secondary Screens)
+Lead compounds were subsequently counterscreened
+against other
+human AKR1C enzymes (AKR1C1 and AKR1C4). A complete profile of the
+inhibitory properties of these compounds on all human AKR1C enzymes
+is shown in Table 4. All the compounds tested
+had IC50 values for AKR1C1 in the high micromolar range
+and showed between 100- and 800-fold selectivity for AKR1C3 over AKR1C1.
+Also,
+all of the compounds tested had IC50 values between
+50 to 100 mM for AKR1C4 and had over 130-600-fold selectivity
+for AKR1C3 over AKR1C4 with the exception of the class III compounds, 44, 47, 50, and 61,
+which showed less than 50-fold selectivity.
+Secondary screens
+also involved a screen against COX-1 and COX-2
+to reaffirm that compounds will not act as NSAIDs. Initially we used
+a continuous colorimetric COX-1 assay that monitored the oxidation
+of N,N,N,N-tetramethyl-1,4-phenylenediamine (TMPD) when it is coupled
+to the formation of PGH2 from PGG2 employing
+arachidonic acid (AA) as substrate.
+The activity of the lead
+compounds on oCOX-1 is shown in Table 5. Indomethacin
+(1) potently inhibited
+COX-1 with an IC50 of 20 nM. This value was consistent
+with reported inhibitory potency of 1 for COX-1.43 All the other lead compounds were at least 37-fold
+less potent than 1 on COX-1. Compound 61 with IC50 value for COX-1 of 750 nM was the most potent
+COX-1 inhibitor among the lead compounds. Surprisingly, 16, which contains a propyl side chain instead of an ethyl side chain,
+was 2000-fold weaker as a COX-1 inhibitor than 1. The
+3'-alkyl analogues 44 and 50 did
+not display significant inhibitory activity on COX-1 at the highest
+inhibitor concentration (100 mM) tested. Compared to their respective
+AKR1C3 inhibitory potency, all the compounds with the exception of 27 and 61, displayed over 200-fold selectivity
+for AKR1C3 over COX-1.
+To further evaluate the residual
+COX-1 and COX-2 inhibitory activity
+of a subset of AKR1C3 inhibitors, we also used a discontinuous 14C-AA TLC-based COX assay, where samples were taken, the reaction
+stopped, and the concentration of radioactive substrates/products
+determined on a plate reader (for details see Supporting Information). Compounds were tested at four distinct
+concentrations, 250 nM, 1000 nM, 4 mM, and 25 mM, on either
+ovine COX-1 or mouse COX-2, and IC50 values (if applicable)
+were detected graphically from the resulting dose-response
+curves. Results are compiled in Table 6. The
+AA concentration of 5 mM used in the latter assay represents
+the Km for COX-1 and COX-2, which enables
+rapid, reversible, and slow, tight-binding inhibitors to be detected.
+Both assays are well established in our laboratories and have been
+described earlier in the literature.20,44
+Unlike 1, its 5'-fluoro equivalent 8 (Table 1) and to some degree the class III
+inhibitors 61 and 64 (Table 3), the other indole-based lead AKR1C3 inhibitors listed in
+Table 6, do not strongly inhibit COX-1 or COX-2.
+As reported earlier, 2'-des-methyl-indomethacin 20 is only a very weak competitive inhibitor of both COX enzymes
+with a preference for COX-2.45
+The
+same proved true for its close analogue 25 (here,
+5'-OCH3 replaced by 5'-F) but without preference
+for either COX enzyme. The best results from the standpoint of minimal
+COX interaction were achieved with the 3'-alkyl indole derivatives 44, 47, 48 (free acids), and 50 (sulfonamide), whose percent COX-1/-2 inhibition did not
+exceed 34% at 25 mM. In particular, for compounds 44 (3'-methyl) and 47 (3'-ethyl), with an
+unbranched 2'-aliphatic acid chain, the maximum inhibition
+achieved was even lower. Compound 44 inhibited oCOX-1
+at 11% (25 mM) and mCOX-2 at <18% (4 mM). The homo
+analogue 47 demonstrated 16% inhibition of oCOX-1 at
+25 mM and a poor IC50 of 7 mM for mCOX-2. In
+many cases the formation of a plateau at higher inhibitor concentrations
+suggests that inhibition is readily reversible. Collectively, compounds 16 (class I), compounds 20 and 27 (class II), and compounds 44-47 and 50 (class III) are among the most promising lead
+compounds not to inhibit COX-1 and COX-2.
+Inhibition of Testosterone
+Formation in LNCaP-AKR1C3 Cells
+To evaluate the efficacy
+of the lead compounds in a prostate cancer
+cell model, we tested their ability to block testosterone formation
+in LNCaP cells stably transfected with AKR1C3.46 Cells were incubated with 0.1 mM D4-AD, and their ability to block the formation of testosterone-17b-glucuronide
+was measured (Figure 4). In the
+absence of the inhibitor, D4-AD is converted to testosterone
+and androsterone glucuronides. We found that there was robust inhibition
+of testosterone formation when the cells were treated with 0.1 mM
+D4-AD in the presence of 30 mM 1, 44, and 50 (Figure 4).
+Figure 4
+Inhibitory effect of indomethacin and indomethacin analogues 44 and 50 on testosterone formation in LNCaP-AKR1C3
+cells measured by radiochromatography.
+Effects of Lead Compounds on AR Reporter Gene Assay
+Since
+AR activation is involved in progression of CRPC, we next evaluated
+the effect of these compounds on AR signaling using a luciferase reporter
+gene assay. Agonist activity by these compounds would be deleterious
+in the context of CRPC. When HeLa-AR3A-PSA-(ARE)4-Luc13
+cells (a kind gift from Dr. Elizabeth Wilson) were treated with the
+compounds in the absence of DHT, none of the compounds displayed agonist
+activity on the AR in the absence of DHT.
+The compounds also
+did not enhance DHT-mediated AR signaling (Figure 5). The EC50 value for DHT induction of the luciferase
+reporter in the presence and absence of the indomethacin analogues
+was not significantly different. The EC50 value for DHT
+induction of the luciferase reporter was 0.13 +- 0.02 nM, while
+the values in the presence of 1, 27, 44, and 50 were 0.14 +- 0.02, 0.10 +-
+0.02, 0.15 +- 0.03, and 0.14 +- 0.05 nM, respectively (Figure 5). This data also indicates that these compounds
+did not act as AR antagonists.
+Figure 5
+Dose-response curve of 5a-dihydrotestosterone
+(5a-DHT)
+in HeLa-AR3A-PSA-(ARE)4-Luc13 cells in the presence and
+absence of 10 mM lead compounds.
+Crystal Structure of the AKR1C3*NADP+*20 (2'-des-Methyl-indomethacin) Complex
+The structure of AKR1C3 in complex with NADP+ and 2'-des-methyl-indomethacin was determined at a resolution of
+1.8 A by molecular replacement (Table 7 and Figure 6).47 We found that there are two monomers of AKR1C3 in each unit cell.
+Monomer A exhibited a lower average B-factor compared to monomer B,
+but the two monomers showed an almost identical conformation with
+an rmsd of 0.23 A. The cofactor binding cavity of AKR1C3 is not
+perturbed upon binding of the inhibitor. NADP+ maintains
+the same binding position and conformation as in the other AKR1C3
+structures determined.48-51 The steroid/inhibitor binding cavity of AKR1C3 is composed of five
+compartments: oxyanion site (formed by Tyr55, His117, and NADP+), steroid channel (Trp227 and Leu54), and three subpockets,
+SP1 (Ser118, Asn167, Phe306, Phe311, and Tyr319), SP2 (Trp86, Leu122,
+Ser129, and Phe311), and SP3 (Tyr24, Glu192, Ser221, and Tyr305).52 Two molecules of compound 20 are
+found in each steroid/inhibitor binding cavity (Figure 6A). One molecule interacts with the oxyanion site through
+hydrogen bonding between the carboxylate group and the active site
+residues Tyr55 and His117. The carboxylate group of this molecule
+also lies on the face of the positively charged nicotinamide ring
+of NADP+ and makes a favorable charge-charge interaction.
+The indole ring of this molecule is bound between the two gate keepers
+of the steroid channel, Trp227 and Leu54, and the p-chorobenzoyl ring of the inhibitor projects into the SP1 subpocket.
+This molecule is likely the first molecule of 20 to enter
+the active site considering its deeper penetration in the cavity.
+The second molecule of 20 stacks on the first molecule
+through offset stacked aromatic interactions between the p-chorobenzoyl rings and edge-to-face aromatic interactions between
+the indole rings. The indole ring of the second molecule of 20 projects to the steroid channel. In contrast to the crystal
+structure, the inhibition dose-response curve of 20 for AKR1C3 exhibits a slope factor of 1, which disagrees with multisite
+binding. Nonspecific binding or occupancy of low affinity binding
+sites by more than one inhibitor molecule per enzyme active site can
+occur in the presence of excess inhibitor used under the crystallization
+conditions.
+Figure 6
+Stereoview (A) and schematic (B) illustrations of the occupancy
+of the AKR1C3 active site by compound 2'-des-methyl-indomethacin (20) (PDB ID: 4DBW). The first molecule
+of 20 is anchored to the active site through hydrogen
+bonding to Tyr55 and His117. The second molecule of 20 stacks on the first molecule. Both molecules project their p-chorobenzoyl rings into the SP1 pocket. The distance between
+the 2'-position on the indole ring of the first molecule of 20 and the carboxamide group of the nicotinamide cofactor
+is only 3.5 A (blue dash, panel A), prohibiting indomethacin
+from assuming this binding pose. The simulated-annealing omit map
+of 20 is contoured at 2.3s. Compound 20 is shown in ball-and-stick representation with carbon atoms colored
+in black. The noncarbon atoms are colored as follows: oxygen = red,
+nitrogen = blue, chlorine = green, and phosphorus = orange. Water
+molecules are shown as red spheres. Hydrogen bonds are indicated by
+red dashes.
+
+Discussion
+AKR1C3
+is a critical enzyme in the intraprostatic biosynthesis
+of androgens and has been implicated in the progression of CRPC.4-6 Therefore, AKR1C3 inhibition is expected to be an effective therapy
+in CRPC. We describe the synthesis and structure-activity relationship
+studies of indomethacin-based AKR1C3 inhibitors. On the basis of the
+known SAR for COX inhibition, three classes of compounds were synthesized:
+(I) analogues in which groups essential for COX-inhibition were substituted;
+(II) 2'-des-methyl-indomethacin analogues
+in which the 2'-CH3 group essential for tight binding
+to COX54 was removed from the structure;
+and (III) 3'-alkyl analogues in which the acetic acid side
+chain essential for COX inhibition was replaced with an alkyl group
+and the acid-side chain was moved to the 2'-position.
+This effort led to the discovery of potent AKR1C3 inhibitors that
+retain selectivity for AKR1C3 over other AKR1C enzymes and have been
+stripped of COX inhibitory activity. These compounds inhibit testosterone
+formation in a prostate cancer cell line and display no agonist or
+antagonist activity at the androgen receptor. The crystal structure
+of a lead compound, 2'-des-methyl-indomethacin
+(20), in complex with AKR1C3 was also obtained to elucidate
+enzyme-inhibitor interactions. Of the compounds synthesized
+and tested, seven class I and class II analogues had the required
+AKR1C3 selectivity and potency. Many of the class III analogues had
+desirable AKR1C3 potency but were less selective for AKR1C3 over AKR1C4,
+which plays a critical role in bile-acid biosynthesis.
+Structural
+Consideration of AKR1C3 Inhibitor Potency and Selectivity
+Five crystal structures exist for AKR1C3 inhibitor complexes that
+are relevant to the present study: AKR1C3*NADP+*indomethacin,49,55 AKR1C3*NADP+*2'-des-methyl-indomethacin (20),47 and AKR1C3*NADP+*Z-sulindac55 (Figure 7), which can be used to
+explain the binding and selectivity of class I-III inhibitors.
+These structures show that the active site of AKR1C3 contains three
+subpockets (SP1-SP3), and depending on the inhibitor class,
+different subpockets may be occupied. At the base of the active site,
+an oxyanion site exists and consists of Tyr55, His117, and Lys84,
+which for most NSAID derivatives provides a counterion to bind the
+carboxylic acid on these drugs.55 The steroid
+channel extends from the oxyanion hole and is flanked by Trp227 and
+Leu54 on either side. Surprisingly, few NSAID derivatives fully occupy
+the steroid channel.
+Figure 7
+Binding poses of indomethacin analogues in AKR1C3. (A)
+Indomethacin
+(IMN, black) at pH 6 (PDB ID: 1S2A), where the carboxylate group anchors
+the indole ring in the SP3 pocket by interacting with Q222 and a phosphate
+group of the pyrophosphate moiety of the cofactor. 2'-des-Methyl-indomethacin (20, green, PDB ID: 4DBW) is superimposed
+as a reference showing how the oxyanion site is occupied by the carboxylate
+group and the SP1 pocket is occupied by the p-chorobenzoyl
+ring. (B) Indomethacin (black) at pH 7.5 (PDB ID: 3UG8), where the carboxylate
+group is tethered to the oxyanion site and the p-chorobenzoyl
+ring penetrates the SP1 pocket. Two alternative conformations exist
+for Trp227, each with 50% occupancy. Note that the 5'-methoxy
+group on the indole ring points into SP3 so that the indole ring of
+indomethacin assumes a ~120deg angle with the indole ring
+of 2'-des-methyl-indomethacin. (C) Z-Sulindac (black, PDB ID: 3R7M), where the carboxylate group is anchored
+to the oxyanion site and the 4-methylsulfinyl group approaches the
+SP2 pocket. (D) The proposed fifth binding pose illustrated
+by compound 27 (black, generated by AutoDock Vina), where
+the N-(sulfonyl)acetamide group occupies the SP3
+pocket, the p-chorobenzoyl ring occupies the SP1
+pocket, and the indole ring almost overlaps with the indole ring of
+2'-des-methyl-indomethacin. Noncarbon atoms,
+water, and hydrogen bonds are presented as described in Figure 6 where sulfur = yellow.
+Three AKR1C3*NADP+*indomethacin structures
+have been reported in the Protein Data Bank.49,55 The structure obtained at pH 6.0 (PDB ID: 1S2A) shows a unique
+binding pose, in which the carboxylic acid, presumably ionized as
+the negatively charged carboxylate, is not anchored in the oxyanion
+site but instead projects into SP3, where it interacts with Gln222
+and with the pyrophosphate bridge of the cofactor (Figure 7A). As the pH of the crystallization condition is
+increased to 7.5 (PDB ID: 3UG8), deprotonation
+of the pyrophosphate bridge weakened the interactions in SP3 so that
+the indole ring rotates by ~40deg to permit the carboxylate
+group to interact with the oxyanion site. In this binding pose, the
+5'-OCH3 group still remains in SP3, while the p-chlorobenzoyl ring enters SP1 (Figure 7B). In the AKR1C3*NADP+*2'-des-methyl-indomethacin complex (PDB ID: 4DBW), the carboxylate
+remains anchored by the oxyanion hole, but the 5'-OCH3 group no longer interacts with SP3. In addition, the orientation
+of the p-chlorobenzoyl ring is altered so that it
+lies perpendicular to this ring in the indomethacin structure determined
+at pH 7.5 (Figure 7B). Indomethacin cannot
+assume the binding pose of 2'-des-methyl-indomethacin
+since the 2'-methyl group of indomethacin would clash with
+the nicotinamide headgroup of the cofactor. In the AKR1C3*NADP+*Z-sulindac structure (PDB ID: 3R7M), the indene ring
+is flipped by 180deg relative to the indole ring in the 2'-des-methyl-indomethacin structure, and the 4-methylsulfinyl
+group approaches SP2 (Figure 7C).
+Most
+of the class I compounds would adopt the binding conformations
+exemplified by indomethacin. Since our inhibition experiments were
+performed at pH 7.0, it is likely that both pH 6 and pH 7.5 binding
+poses for indomethacin will coexist in solution. The unsubstituted
+free acids inhibit AKR1C3 with the highest potency and selectivity
+indicating that the interaction between the binding sites and the
+carboxylate is essential for inhibitor anchoring. Analogues with an
+extended acid side chain at the 3'-position, i.e., replacement
+of the acetic acid chain by a propionic acid side chain (compound 16), is also well tolerated suggesting there is space available
+in the binding cavity to accommodate the additional carbon atom, but
+larger subsitituents such as the N-(sulfonyl)acetamide
+derivatives cannot be accommodated by either of the two indomethacin
+binding poses observed in the available crystal structures. Upon inspection
+of the AKR1C3 structures, we propose a fifth binding pose for these
+bulky analogues in which inhibitors extend their p-chorobenzoyl ring into the SP1, and the bulky 3-subsitituents would
+occupy the SP3 (Figure 7D, generated by AutoDock
+Vina56). The SP3 pocket is lined by polar/charged
+residues including Tyr24, Gln222, Asp224, and Arg226, which supports
+the observation that polar substituents are generally favored, and
+the very bulky side chains may be exposed through an opening in the
+SP3 pocket into bulk solvent. This new binding pose is supported by
+docking studies and can be applied to all the bulky analogues in all
+three classes of inhibitors.
+Only two class II compounds based
+on 2'-des-methyl-indomethacin (20) are likely to adopt the binding
+pose of 20, namely, compounds 21 and 25. Interaction with the oxyanion site is again supported
+since the corresponding methyl esters are weak inhibitors of AKR1C3.
+The N-(sulfonyl)-acetamide of 2'-des-methyl-indomethacin is too bulky to interact with the oxyanion site
+and likely assumes the fifth binding pose proposed.
+Class III
+compounds that have a bulky side chain at the 2'-position
+cannot be easily superimposed on the indomethacin or 2'-des-methyl-indomethacin binding poses presented in any of
+the crystal structures, but all these compounds could assume the fifth
+binding pose proposed. By contrast, class III compounds containing
+a 3'-methyl/ethyl group may adopt the Z-sulindac
+binding conformation since this conformation imposes the least restriction
+on the size of the 2' substitution. Structural information
+of a AKR1C3*NADP+*class III inhibitor would be
+invaluable to confirm that this new binding pose exists.
+Promising Lead
+Compounds
+Eleven compounds were selected
+for further evaluation. The selection criteria was AKR1C3 potency
+<1 mM and greater than 100-fold selectivity for AKR1C3 over
+AKR1C2. On this list, five were class I analogues, two were class
+II analogues, and four were class III analogues. These compounds were
+all greater than 100-fold selective for AKR1C3 over AKR1C1, ensuring
+that there would be no interference with DHT inactivation within the
+prostate. All the compounds were also selective for AKR1C3 over AKR1C4.
+While the 3'-alkyl analogues were still over 20-fold selective
+for AKR1C3 over AKR1C4, they displayed lower AKR1C3 selectivity relative
+to AKR1C4 in comparison to the class I and II analogues. AKR1C4 is
+primarily involved in bile acid biosynthesis and steroid hormone biotransformation
+in the liver, where it is predominantly expressed.17,57,58 The consequence, if any, of the low selectivity
+of the 3-alkyl analogues for AKR1C3 over AKR1C4 will need to be explored.
+The absence of intrinsic agonist activity or positive modulation
+of DHT-mediated AR transcription in the reporter gene assay by all
+the lead compounds is important since either effect on the AR would
+counteract the effect of AKR1C3 inhibition.
+The compounds were
+also efficacious in a prostate cancer cell model
+where they produced robust inhibition of testosterone formation when
+cells were treated with the AKR1C3 substrate D4-AD.
+This indicates the compounds possess adequate physicochemical properties
+to traverse the cell membrane and, more importantly, are able to target
+AKR1C3 in a cellular context. This is in agreement with the report
+of Cai et al., which showed that indomethacin was effective in vivo, in a castrate-resistant prostate cancer setting
+at inhibiting tumor cell proliferation.30 These findings support the potential therapeutic usefulness of AKR1C3
+inhibitors in CRPC. It equally indicates that the indomethacin analogues
+and importantly those with little or no COX activity such as the lead
+compounds reported in this study should block the adaptive intratumoral
+biosynthesis that drives CRPC, thereby inhibiting cancer progression
+without any of the adverse effects secondary to chronic COX inhibition.
+Since the compounds identified in this study are expected to have
+pharmacokinetic profiles comparable to that of indomethacin, we anticipate
+that the lead compounds will be well-tolerated for CRPC treatment.
+In conclusion, we have discovered indomethacin-based inhibitors
+of AKR1C3 that are devoid of activity against other AKR1C isoforms,
+do not display COX inhibitory activity or AR agonist activity, and
+are effective in a prostate cancer cell model. These compounds are
+useful therapeutic leads in the management of CRPC. These compounds
+have the potential to be superior therapeutic agents compared to abiraterone
+in the management of CRPC because they do not interfere with glucocorticoid
+biosynthesis and therefore would not require coadministration with
+a glucocorticoid.
+
+Experimental Section
+Chemistry
+General
+All commercially available reagents and anhydrous
+solvents were used as received. Microwave reactions were carried out
+using a Biotage Initiator 8-EXP Microwave Synthesizer. Analytical
+thin-layer chromatography was carried out using glass-backed plates
+coated with fluorescent silica gel 60 F254 from Whatman
+(Partisil LK6D). Spots were visualized under natural light and UV
+illumination at l = 254 and 365 nm. Flash chromatography was
+conducted on a Biotage SP1 automated flash chromatography system equipped
+with a fixed wavelength UV detector (l = 254 nm). Samples were
+preabsorbed onto ready-made silica gel samplets and then applied on
+normal-phase flash chromatography cartridges (Biotage KP-SIL, size
+according to requirements) eluting with a 0-100% EtOAc/hexane
+(0.5% acetic acid) gradient. Where stated, purification was performed
+utilizing a custom high-throughput mass-directed preparative (RP-)
+HPLC platform using an appropriate acetonitrile/water gradient with
+TFA modifier.591H and 13C NMR spectra were recorded at 400 and 100 MHz, respectively,
+using a Bruker AV-400 with sample changer (BACS 60). 19F NMR spectra were measured at 282 MHz using a Bruker AV-300. MS
+samples were analyzed on an Agilent 1200 LC-MS system operating
+in single MS mode with electrospray ionization. Samples were introduced
+into the mass spectrometer using chromatography. A purity of >=95%
+(unless otherwise indicated) for the final compounds in this study
+was confirmed by analytical HPLC on either a Waters HPLC system with
+PDA detector (set at l = 254 nm) equipped with a Supelco Supelcosil
+LC-18 reverse-phase column (15 cm x 3 mm, 5 mm) or the
+aforementioned Agilent 1200 analytical LC-MS with UV detection
+at l = 215 and 254 nm along with ELCD detection (Stationary
+phase: YMC J'sphere H-80 S-4 column (3.0 x 50 mm)), using
+two different gradient methods. The mobile phases were MeOH/0.01 M
+KH2PO4, and ACN/H2O (plus 0.1% TFA),
+respectively (for further details see Supporting
+Information).
+Preparation and Analytical Data of Exemplified
+Test Compounds
+The general synthetic procedures A-D
+are specified in the Supporting Information.
+2-(1-(4-Chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl)-N-(methylsulfonyl)acetamide (14)
+According
+to general procedure B, the title compound
+was obtained from 2-(1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl)acetic acid (IMN) (60 mg, 0.17 mmol) and methansulfonamide
+(16 mg, 0.17 mmol) after 20 h at room temperature. The crude product
+was purified by flash chromatography (SiO2, ethyl acetate/hexane
+gradient). Yield: 55 mg (75%), a white solid. C20H19ClN2O5S, Mr = 434.89; 1H NMR (400 MHz, DMSO-d6) d 2.23 (s, 3H), 3.24 (s, 3H), 3.72 (s, 2H), 3.76 (s,
+3H), 6.71 (dd, J = 2.4/8.8 Hz, 1H), 6.91 (d, J = 8.8 Hz, 1H), 7.08 (d, J = 2.8 Hz, 1H),
+7.63-7.69 (m, 4H); LC-MS (ESI) (method 2) tR 2.55 min (>99%, UV220, UV254), m/z 435.0 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl)propanoic Acid (16)
+According
+to
+general procedure A, the title compound was obtained from 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride (50 mg,
+0.16 mmol) and 5-oxohexanoic acid (25 mg, 0.19 mmol) in AcOH (0.5
+mL) after 3 h at 80 degC in 69% yield (41 mg) as an off-white solid.
+C20H18ClNO4, Mr = 371.81; 1H NMR (400 MHz, DMSO-d6) d 2.19 (s, 3H, C2'-CH3), 2.49
+(t, J = 7.4 Hz, 2H, overlaid by DMSO-signal), 2.88
+(t, J = 7.4 Hz, 2H), 3.77 (s, 3H, -OCH3), 6.69 (dd, J = 2.6 Hz, 1H), 6.93 (d, J = 8.8 Hz, 1H), 7.06 (d, J = 2.4 Hz, 1H),
+7.61-7.64 (m, 4H); LC-MS (ESI) (method 2) tR 2.69 min (>99%, UV220, UV254), m/z 372.0 [M + H]+.
+2-(1-(4-Chlorobenzoyl)-5-methoxy-1H-indol-3-yl)acetic
+Acid (20)
+According to general procedure A,
+the title compound was obtained from 4-chloro-N-(4-methoxyphenyl)benzohydrazide
+hydrochloride (200 mg, 0.64 mmol) and 4-oxobutanoic acid (succinic
+semialdehyde, 15% solution in H2O; 565 mg, 0.83 mmol) in
+AcOH (1.5 mL) after 3 h at 80 degC in 45% yield (99 mg) as an off-white
+solid. C18H14ClNO4, Mr = 343.76; 1H NMR (400 MHz, DMSO-d6) d 3.67 (s, 2H), 3.81 (s, 3H), 6.99 (dd, J = 2.4/9.2 Hz, 1H), 7.12 (d, J = 2.4 Hz,
+1H), 7.32 (s, 1H), 7.65-7.77 (m, 4H), 8.17 (d, J = 9.2 Hz, 1H); LC-MS (ESI) (method 2) tR
+2.60 min (>99%, ELSD), m/z 344.0
+[M + H]+.
+2-(1-(4-Chlorobenzoyl)-5-methoxy-1H-indol-3-yl)acetyl
+Chloride
+In accordance with general procedure C, oxalyl chloride
+(30 mL, 0.35 mmol) was added dropwise to a solution of 2-(1-(4-chlorobenzoyl)-5-methoxy-1H-indol-3-yl)acetic acid 20 (100 mg, 0.29 mmol)
+in 2 mL of dry CH2Cl2 under argon. The reaction
+mixture was stirred overnight at room temperature. The solvent was
+evaporated and the crude product was washed with dry hexane (3 x
+1 mL) and dried in vacuo to give the title compound (pale white solid)
+in 95% yield (100 mg). C18H13Cl2NO3, Mr = 362.21; 1H NMR
+(400 MHz, CDCl3) d 3.90 (s, 3H), 4.21 (s, 2H), 6.95
+(d, J = 2.4 Hz, 1H), 7.04 (dd, J = 2.4/9.0 Hz, 1H), 7.29 (s, 1H), 7.52-7.55 (m, 2H), 7.67-7.71
+(m, 2H), 8.29 (d, J = 9.2 Hz, 1H); LC-MS (ESI)
+(method 2) tR 2.72 min (>99%, UV254), m/z 358.2 [M + H]+.
+2-(1-(4-Chlorobenzoyl)-5-methoxy-1H-indol-3-yl)-N-((trifluoromethyl)sulfonyl)acetamide
+(27)
+In accordance with general procedure D,
+80 mg (0.22 mmol) of 2-(1-(4-chlorobenzoyl)-5-methoxy-1H-indol-3-yl)acetyl chloride and 49.4 mg (0.33 mmol) of
+trifluoromethanesulfonamide were dissolved in 1.8 mL of 1,2-dichloroethane
+(DCE) under stirring. Then 17.5 mg (0.22 mmol) of pyridine was added,
+and the reaction was allowed to run at ambient temperature until the
+starting material was consumed (~4 h). After the addition of
+13 mL of AcOH, the organic solution was washed with H2O (3 x 2 mL), dried over Na2SO4, filtered,
+and concentrated in vacuo. The crude product was purified by flash
+chromatography (SiO2, ethyl acetate/hexane, 0.5% AcOH gradient)
+to afford the title compound in 70% yield (73 mg). C19H14ClF3N2O5S, Mr = 474.84; 1H NMR (400 MHz, DMSO-d6) d 3.44 (s, 2H), 3.79 (s, 3H), 6.95 (dd, J = 2.6/9.0 Hz, 1H), 7.14 9d, J = 2.4 Hz,
+1H), 7.23 (s, 1H), 7.64-7.66 (m, 2H), 7.72-7.74 (m,
+2H), 8.15 (d, J = 8.8 Hz, 1H, C7'-H); 19F NMR (282 MHz, DMSO-d6) d
+-75.58 (s, -CF3); LC-MS (ESI) (method
+2) tR 2.37 min (>99%, UV254, ELSD), m/z 475.0 [M + H]+.
+2-(1-(4-Chlorobenzoyl)-5-methoxy-1H-indol-3-yl)-N-(naphthalen-2-ylsulfonyl)acetamide
+(29)
+According to general procedure B, the title
+compound was obtained
+from 2-(1-(4-chlorobenzoyl)-5-methoxy-1H-indol-3-yl)acetic
+acid 20 (30 mg, 0.087 mmol) and naphthalene-2-sulfonamide
+(18.1 mg, 0.087 mmol) after 20 h at room temperature. The crude product
+was purified by automated mass-directed HPLC (RP-18, ACN/H2O gradient). Yield: 21 mg (45%). C28H21ClN2O5S, Mr = 532.99; 1H NMR (400 MHz, DMSO-d6) d
+3.64 (s, 3H), 3.65 (s, 2H), 6.87 (d, J = 2.4 Hz,
+1H), 6.92 (dd, J = 2.6/9.0 Hz, 1H), 7.21 (s, 1H),
+7.61-7.75 (m, 6H), 7.82 (dd, J = 2.0/8.8 Hz,
+1H), 8.02-8.16 (m, 4H), 8.55 (d, J = 1.6 Hz,
+1H); LC-MS (ESI) (method 2) tR 3.01 min (98%,
+UV254, ELSD), m/z 533.1 [M + H]+.
+2-(1-(4-chlorobenzoyl)-5-methoxy-1H-indol-3-yl)-N-((4-(trifluoromethoxy)phenyl)sulfonyl)-acetamide
+(32)
+According to general procedure B, the title
+compound
+was obtained from 2-(1-(4-chlorobenzoyl)-5-methoxy-1H-indol-3-yl)acetic acid 20 (30 mg, 0.087 mmol) and 4-(trifluoromethoxy)benzene-sulfonamide
+(21 mg, 0.087 mmol) after 20 h at room temperature. The crude product
+was purified by automated mass-directed HPLC (RP-18, ACN/H2O gradient). Yield: 25.4 mg (51%). C25H18ClF3N2O6S, Mr = 566.93; 1H NMR (400 MHz, DMSO-d6) d 3.66 (s, 2H), 3.74 (s, 3H), 6.89 (d, J = 2.4 Hz, 1H), 6.97 (dd, J = 2.6/9.0 Hz, 1H), 7.24
+(s, 1H), 7.55 (dd, J = 0.8/8.8 Hz, 1H), 7.64-7.75
+(m, 4H), 7.99-8.02 (m, 2H), 8.14 (d, J = 9.2
+Hz, 1H); 19F NMR (282 MHz, DMSO-d6) d -54.88 (s, OCF3); LC-MS
+(ESI) (method 2) tR 3.08 min (98%, UV254, ELSD), m/z 567.0 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)propanoic Acid (44)
+According
+to
+general procedure A, the title compound was obtained from 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride (400 mg,
+1.28 mmol) and 4-oxohexanoic acid (200 mg, 1.54 mmol) in AcOH (4 mL)
+after 3 h at 80 degC in 75% yield (368 mg) as an off-white solid.
+C20H18ClNO4, Mr = 371.81; 1H NMR (400 MHz, DMSO-d6) d 2.20 (s, 3H), 2.46 (t, J =
+7.2 Hz, 2H), 3.08 (t, J = 7.6 Hz, 2H), 3.75 (s, 3H),
+6.44 (d, J = 8.8 Hz), 6.63 (dd, J = 2.4/9.0 Hz, 1H), 7.01 (d, J = 2.4 Hz, 1H), 7.63-7.68
+(m, 4H); 13C NMR (100 MHz, DMSO-d6) d 8.78 (s, -CH3), 21.61 (s, -CH2-), 34.12 (s, -CH2CO), 55.81 (s,
+-OCH3), 101.93 (s, C4' indole), 111.97 (s,
+C6' indole), 114.76 (s, C7' indole), 116.11 (s, C3'
+indole), 129.53 (s, C3'/C5' 4-Cl-benzoyl-), 130.63
+(s), 131.58 (s), 131.62 (s, C2'/C6' 4-Cl-benzoyl-),
+134.42 (s), 137.09 (s), 138.14 (s), 155.83 (s, C5' indole),
+168.14 (s, >C=O), 173.77 (s, -C=O(OH)); LC-MS
+(ESI) (method 2) tR 2.68 min (99%, UV254,
+ELSD), m/z 372.1 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-3-ethyl-5-methoxy-1H-indol-2-yl)propanoic Acid (47)
+The title compound
+was synthesized via general procedure A as described for isomer mixture 46 (see Supporting Information).
+H2O was added. The watery reaction mixture was extracted
+with methylene chloride (2x) and the combined organic phases
+dried over Na2SO4. The solvent was removed under
+reduced pressure and the residual beige solid repeatedly triturated
+with diethyl ether. The resulting white precipitation was collected
+by filtration (ether wash phases abolished) and dried in vacuo to
+afford 47 as a single product. Yield: 36 mg, 29%. C21H20ClNO4, Mr = 385.84; 1H NMR (400 MHz, DMSO-d6) d 1.18 (t, J = 7.6 Hz, 3H), 2.46
+(t, J = 7.6 Hz, 2H), 2.69 (q, J =
+7.6 Hz, 2H), 3.09 (t, J = 7.6 Hz, 2H), 3.75 (s, 3H),
+6.42 (d, J = 9.2 Hz, 1H), 6.63 (dd, J = 2.4/9.0 Hz, 1H), 7.03 (d, J = 2.4 Hz, 1H), 7.63
+(m, 4H); LC-MS (ESI) (method 2) tR 2.82 min (95%, UV220, UV254), m/z 386.2 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)-2,2-dimethylpropanoic Acid (48)
+According to general procedure A, the title compound was
+obtained
+from 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride
+(50 mg, 0.16 mmol) and 2,2-dimethyl-4-oxohexanoic acid (30 mg, 0.19
+mmol) in AcOH (0.5 mL) after 3 h at 80 degC, extraction into hot
+hexane, and subsequent purification by flash chromatography in 36%
+yield (23 mg) as a yellow oil, which crystallized constantly upon
+drying at high vacuum. C22H22ClNO4, Mr = 399.87; 1H NMR (400
+MHz, DMSO-d6) d 1.03 (s, 6H), 2.21
+(s, 3H), 3.25 (s, 2H), 3.76 (s, 3H), 6.52 (d, J =
+9.2 Hz, 1H), 6.67 (dd, J = 2.6/9.0 Hz, 1H), 7.03
+(d, J = 2.4 Hz, 1H), 7.64-7.68 (m, 4H); LC-MS
+(ESI) (method 2) tR 2.89 min (95%, UV220,
+UV254), m/z 400.0 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)-2-methylpropanoic Acid (49)
+According
+to general procedure A, the title compound was obtained from 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride (50 mg,
+0.16 mmol) and 2-methyl-4-oxohexanoic acid (28 mg, 0.19 mmol) in AcOH
+(0.5 mL) after 3 h at 80 degC in 49% yield (30 mg) as a beige solid.
+C21H20ClNO4, Mr = 385.84; 1H NMR (400 MHz, DMSO-d6) d 1.01 (d, J = 6.8 Hz, 3H, alpha-CH3), 2.19 (s, 3H, C3-CH3), 2.54
+(s, J = 7.2 Hz, 1H, methin-H), 2.91-3.19 (m,
+2H, -CH2-), 3.76 (s, 3H, -OCH3), 6.46 (d, J = 9.2 Hz, 1H, C7-H), 6.64 (dd, J = 2.4/9.0 Hz, 1H, C6-H), 7.02 (d, J = 2.4 Hz, 1H, C4-H); LC-MS (ESI) (method 2) tR 2.75 min (>97%, UV220, UV254, MSD), m/z 386.1 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)-N-(methylsulfonyl)propanamide
+(50)
+According to general procedure B, the title
+compound
+was obtained from 3-(1-(4-chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)propanoic acid 44 (40 mg, 0.11
+mmol) and methansulfonamide (10 mg, 0.11 mmol) after 20 h at room
+temperature. The crude product was purified by flash chromatography
+(SiO2, EtOAc/hexane gradient 1:1, 0.5% AcOH). Yield: 32
+mg (66%), a bright yellow solid. C21H21ClN2O5S, Mr = 448.92; 1H NMR (400 MHz, DMSO-d6) d
+2.21 (s, 3H), 2.55 (t, J = 7.2 Hz, 2H), 3.11 (t, J = 7.2 Hz, 2H), 3.16 (s, 3H), 3.75 (s, 3H), 6.43 (d, J = 9.2 Hz, 1H), 6.64 (dd, J = 9.0 Hz,
+1H), 7.02 (d, J = 2.4 Hz, 1H), 7.64-7.69 (m,
+4H); LC-MS (ESI) (method 2) tR 2.74
+min (>96%, UV254, ELSD), m/z 249.1
+[M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)-N-tosylpropanamide (53)
+According to general procedure B, the title compound
+was
+obtained from 3-(1-(4-chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)propanoic acid 44 (30 mg, 0.081 mmol) and
+4-methylbenzenesulfonamide (15.2 mg, 0.089 mmol) after 20 h at room
+temperature. The crude product was purified by automated mass-directed
+HPLC (RP-18, ACN/H2O gradient). Yield: 23.1 mg (55%). C27H25ClN2O5S, Mr = 525.02; 1H NMR (400 MHz, DMSO-d6) d 2.07 (s, 3H), 2.35 (s, 3H), 2.49 (t, J = 7.2 Hz, 2H, partially overlaid by solvent signal), 2.99
+(t, J = 7.2 Hz, 2H), 3.76 (s, 3H), 6.37 (d, J = 9.2 Hz, 1H), 6.63 (dd, J = 2.6/9.0
+Hz, 1H), 6.96 (d, J = 2.4 Hz, 1H), 7.31 (d, J = 8.0 Hz, 2H), 7.57-7.64 (m, 4H), 7.69 (d, J = 8.4 Hz, 2H); LC-MS (ESI) (method 2) tR 3.09 min (95%, UV254, ELSD), m/z 525.1 [M + H]+.
+3-(1-(4-Chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)-N-((5-chlorothiophen-2-yl)sulfonyl)-propanamide
+(58)
+According to general procedure B, the title
+compound was obtained from 3-(1-(4-chlorobenzoyl)-5-methoxy-3-methyl-1H-indol-2-yl)propanoic acid 44 (30 mg, 0.081
+mmol) and 5-chlorothiophene-2-sulfonamide (17.5 mg, 0.089 mmol) after
+20 h at room temperature. The crude product was purified by automated
+mass-directed HPLC (RP-18, ACN/H2O gradient). Yield: 12.3
+mg (28%). C24H20Cl2N2O5S2, Mr = 551.46; 1H NMR (400 MHz, DMSO-d6) d
+2.10 (s, 3H), 2.54 (t, J = 7.2 Hz, 2H), 3.06 (t, J = 7.2 Hz, 2H), 3.76 (s, 3H), 6.40 (d, J = 9.2 hz, 1H), 6.63 (dd, J = 2.6/9.0 Hz, 1H), 6.96
+(d, J = 2.4 Hz, 1H), 7.21 (d, J =
+4.0 Hz, 1H), 7.60 (d, J = 4.0 Hz, 1H), 7.64 (pseudo-s,
+4H); LC-MS (ESI) (method 2) tR 3.19
+min (99%, UV254, ELSD), m/z 551.0
+[M + H]+.
+9-(4-Chlorobenzoyl)-6-methoxy-2,3,4,9-tetrahydro-1H-carbazole-3-carboxylic Acid (61)
+According
+to general procedure A, the title compound was obtained from 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride (50 mg,
+0.16 mmol) and 4-oxocyclohexanecarboxylic acid (27.2 mg, 0.19 mmol)
+in AcOH (0.5 mL) after 3 h at 80 degC in 83% yield (51 mg) as an
+off-white solid. C21H18ClNO4, Mr = 383.82; 1H NMR (400 MHz, DMSO-d6) d 1.66-1.76 (m, 1H), 2.02-2.08
+(m, 1H), 2.52 (m, 2H, partially overlaid by DMSO signal), 2.66-2.75
+(m, 2H), 2.87-2.95 (m, 1H, methin-H), 3.77 (s, 3H, -OCH3), 6.74 (dd, J = 2.6/9.0 Hz, 1H), 7.02 (d, J = 2.8 Hz, 1H), 7.10 (d, J = 8.8 Hz, 1H),
+7.61-7.67 (m, 4H, ar-H 4-Cl-benzoyl); LC-MS (ESI) (method
+2) tR 2.71 min (>99%, ELSD), m/z 384.1 [M + H]+.
+9-(4-Chlorobenzoyl)-6-methoxy-N-(methylsulfonyl)-2,3,4,9-tetrahydro-1H-carbazole-3-carboxamide (63)
+According
+to general procedure B, the title compound was obtained from 9-(4-chlorobenzoyl)-6-methoxy-2,3,4,9-tetrahydro-1H-carbazole-3-carboxylic acid 61 (20 mg, 0.052
+mmol) and methansulfonamide (5 mg, 0.052 mmol) after 20 h at room
+temperature. The crude product was purified by flash chromatography
+(SiO2, ethyl acetate/hexane gradient). Yield: 19 mg (79%),
+a white solid. C22H21ClN2O5S, Mr = 460.93; 1H NMR (400
+MHz, DMSO-d6) d 1.63-1.73
+(m, 1H), 2.03-2.06 (m, 1H), 2.51-2.57 (m, 2H, partially
+overlaid by DMSO-signal), 2.65-2.76 (m, 2H), 2.88-2.91
+(m, 1H), 3.25 (s, 3H, -SO2-CH3), 3.77 (s, 3H, -OCH3), 6.74 (dd, J = 2.6/9.0 Hz, 1H), 7.03 (d, J = 2.8 Hz, 1H), 7.09
+(d, J = 8.8 Hz, 1H), 7.61-7.68 (m, 4H); LC-MS
+(ESI) (method 2) tR 2.65 min (>99%,
+UV220,
+UV254), m/z 461.0 [M + H]+.
+9-(4-Chlorobenzoyl)-6-methoxy-2,3,4,9-tetrahydro-1H-carbazole-2-carboxylic Acid (64)
+According
+to general procedure A, the title compound was obtained from 4-chloro-N-(4-methoxyphenyl)benzohydrazide hydrochloride (50 mg,
+0.16 mmol) and 3-oxocyclohexanecarboxylic acid (27.2 mg, 0.19 mmol)
+in AcOH (0.5 mL) after 3 h at 80 degC in 82% yield (50 mg) as an
+off-white solid. C21H18ClNO4, Mr = 383.82; 1H NMR (400 MHz, DMSO-d6) d 1.79-1.87 (m, 1H), 2.11-2.14
+(m, 1H), 2.57-2.75 (m, 5H), 6.73 (dd, J =
+2.8/9.0 Hz, 1H), 6.97 (d, J = 2.8 Hz, 1H), 7.06 (d, J = 9.2 Hz, 1H), 7.62-7.69 (m, 4H); LC-MS
+(ESI) (method 2) tR 2.82 min (>99%,
+ELSD), m/z 384.0 [M + H]+.
+Enzyme Purification
+Homogenous recombinant enzymes
+(AKR1C1-4, COX 1, and COX 2) used in this study were prepared and
+purified as previously described.16,17,60-62
+AKR1C Isoforms
+The potency of the compounds on all
+AKR enzymes was determined by their ability to inhibit the NADP+ dependent oxidation of S-(+)-1,2,3,4-tetrahydro-1-naphthol
+(S-tetralol) catalyzed by AKR1C isoforms, as previously
+described.20,21 The concentration of S-tetralol used in the assays for each AKR1C enzyme was
+equal to the Km value for the respective
+enzyme so that the IC50 values can be directly compared.
+COX 1 and 2
+The ability of
+compounds to inhibit COX activity was determined by two different
+test systems: a continuous colorimetric assay that monitored the oxidation
+of N,N,N,N-tetramethyl-1,4-phenylenediamine (TMPD) when it is coupled
+to the formation of PGH2 from PGG2 using arachidonic
+acid (AA) as substrate, and a discontinuous 14C-AA TLC-based
+COX assay, where samples were taken, the reaction stopped, and the
+concentration of radioactive substrates/products determined on a plate
+reader. Both assays have been described earlier in literature.20,44
+IC50 Determination (Except for the Discontinuous
+COX Assay, See Above)
+Initial velocities of an enzyme reaction
+measured in the presence of varying concentrations of inhibitor were
+compared to a solvent control to give percent inhibition values. IC50 values of compounds was determined by fitting the inhibition
+data using Grafit 5.0 software [y = (range)/[1 + (I/IC50)S] + background] and obtained from a single experiment with each inhibitor concentration
+run in quadruplicate with the exception of COX assays that were conducted
+in duplicate. Substrate, cofactor, and enzyme were titrated for each
+experiment. Selectivity of a compound for AKR1C3 relative to another
+tested enzyme is defined as the ratio of the IC50 values
+for the tested enzyme: IC50 value for AKR1C3; the higher
+the ratio, the greater the selectivity for AKR1C3.
+Androgen Receptor
+Reporter Gene Assay
+HeLa cells that
+are stably transfected with the AR and a luciferase reporter gene
+(HeLa-AR3A-PSA-(ARE)4-Luc13 cells, a kind gift from Dr. Elizabeth
+Wilson) were used for this assay. These cells are plated in a 96-well
+plate at 1.5 x 104 cell/100 mL/well in phenol
+red free-MEM supplemented with 5% charcoal stripped FBS, 1% Pen/Strep,
+2 mM l-glutamine, Geneticin (500 g/mL), and hygromycin (200
+g/mL) (CSS media) to maintain selection. The cells are incubated for
+6-8 h after which time the media is aspirated and fresh CSS
+media containing 0.1-100 nM DHT in the presence and absence
+of 10 mM lead compound was added to the cells. The cells were
+then incubated for 20 h at 37 degC and 5% CO2 after
+which luciferase expression in the cells is measured using the BrightGlo
+luciferase assay kit according to the manufacturer's instructions.
+Briefly, after the incubation time, the cells were allowed to equilibrate
+to room temperature. The luciferase substrate was then added to the
+cells and the luminescence in each well was measured on a BIOTEK Synergy
+2 plate reader. The maximal luciferase activity was seen with 100
+nM DHT.
+LNCaP-AKR1C3 Mediated Formation of Testosterone
+Androgen-dependent
+prostate cancer cells (LNCaP) were genetically engineered to stably
+express AKR1C3 (LNCaP-AKR1C3).46 The cell
+line was used to determine the ability of lead compounds to block
+the conversion of D4-AD to testosterone. LNCaP-AKR1C3
+cells were plated in RPMI-1640 supplemented with 5% charcoal stripped
+serum, 1% Pen/strep, 2 mM l-glutamine, and 500 mg/mL
+G418 (CSS media). After 24 h incubation, the media was aspirated and
+fresh CSS media containing 0.1 mM [14C]-D4-AD with or without inhibitor was added. The media was collected
+after 48 h treatment and analyzed for testosterone levels. Briefly,
+the collected media was extracted with ethyl acetate. The aqueous
+fraction was then treated with b-glucuronidase (200 units/mL
+at pH 6.6) for 24 h at 37 degC to liberate conjugated testosterone
+and extracted with ethyl acetate. The organic extracts were pooled
+and dried under vacuo. Steroid reference standards and extracts dissolved
+in 100 mL of ethyl acetate were applied to LK6D Silica TLC plates
+(Whatman Inc., Clifton, NJ). TLC plates were developed using a dichloromethane/ethyl
+acetate (80:20 v/v) solution and were counted with a Bioscan System
+200 plate reader (Washington, DC).
+Crystallography
+Crystals of the AKR1C3*NADP+*20 complex were obtained using the hanging
+drop vapor diffusion method at 4 degC. Drops typically contained
+3.0 mL of protein solution (9.3 mg/mL AKR1C3, 10 mM potassium
+phosphate (pH 7.0), 1.0 mM BME, 1.0 mM EDTA, 7% (v/v) DMSO, 1.33 mM 20, and 2.0 mM NADP+) and 3.0 mL of reservoir
+solution (0.1 M 2-(N-morpholino)ethanesulfonic acid
+(pH 6.0) and 15% (w/v) polyethylene glycol 8000). Crystals appeared
+and grew to a suitable size for diffraction in approximately 3 days.
+Prior to flash-cooling, crystals were soaked for 5 min in a cryoprotective
+solution containing 16% (w/v) Jeffamine ED-2001. Crystals yielded
+diffraction data to 1.80 A at beamline X29 (l = 0.9795
+A) of the National Synchrotron Light Source at Brookhaven National
+Laboratory (Upton, NY). Crystals belong to space group P1 with unit cell parameters a = 47.35 A, b = 49.09 A, c = 83.44 A, a
+= 74.30deg, b = 87.04deg, and g = 69.95deg. The
+unit cell contains two monomers of AKR1C3. Data were integrated and
+scaled with HKL2000 and Scalepack.63 Data
+collection and reduction statistics are reported in Table 7.
+The structure of the AKR1C3*NADP+*20 complex was solved by molecular replacement
+performed with PHASER64 from the CCP4 suite
+of programs using the coordinates of the AKR1C3*NADP+*indomethacin complex (PDB: 1S2A)49 less ligand
+and solvent molecules as a search probe. The programs CNS,65 PHENIX,66 and COOT67 were used for refinement and model fitting.
+NADP+ and 20 were built into the electron
+density map at the final stage of refinement. The correct modeling
+of the ligands was confirmed by simulated annealing omit maps. The
+quality of the model was verified with Molprobity and PROCHECK. The
+refinement statistics are reported in Table 7.

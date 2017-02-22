@@ -1,0 +1,149 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed]
+
+Risk of second cancer from scattered radiation of intensity-modulated radiotherapies with lung cancer. Purpose To compare the risk of secondary cancer from scattered and leakage doses following intensity-modulated radiotherapy (IMRT), volumetric arc therapy (VMAT) and tomotherapy (TOMO) in patients with lung cancer.   Methods IMRT, VMAT and TOMO were planned for five lung cancer patients. Organ equivalent doses (OEDs) are estimated from the measured corresponding secondary doses during irradiation at various points 20 to 80 cm from the iso-center by using radio-photoluminescence glass dosimeter (RPLGD).   Results The secondary dose per Gy from IMRT, VMAT and TOMO for lung cancer, measured 20 to 80 cm from the iso-center, are 0.02~2.03, 0.03~1.35 and 0.04~0.46 cGy, respectively. The mean values of relative OED of secondary dose of VMAT and TOMO, which is normalized by IMRT, ranged between 88.63% and 41.59% revealing 88.63% and 41.59% for thyroid, 82.33% and 41.85% for pancreas, 77.97% and 49.41% for bowel, 73.42% and 72.55% for rectum, 74.16% and 81.51% for prostate. The secondary dose and OED from TOMO became similar to those from IMRT and VMAT as the distance from the field edge increased.   Conclusions OED based estimation suggests that the secondary cancer risk from TOMO is less than or comparable to the risks from conventional IMRT and VMAT.
+
+Introduction
+For earlier stages of lung cancer, the surgical resection has played the main role in its treatment. However there are some opportunities for radiation therapy when the tumor is located in the superior sulcus or is close to the critical normal organ, such as the esophagus and spinal cord, or for patients with positive lymph nodes. Furthermore, when the patient is in an in-operable situation according to their lung function, cardiac function, bleeding tendency or other reasons including the patient's refusal for surgery, radiation therapy will be a beneficial option.
+The radiation therapy technique has developed significantly over the last few decades. We have moved from simple 2 dimensional treatment to 3 dimensional conventional radiotherapy using the treatment fields to an increasingly conformal radiotherapy technique based on 3 dimensional computed tomography (CT) information such as three dimensional conformal therapy (3DCRT) and intensity modulated radiotherapy (IMRT) [1-7]. Recently, volumetric modulated arc therapy (VMAT) and helical tomotherapy (TOMO) have been introduced which can deliver rotational intensity-modulated therapy with more degrees of freedom of gantry speed, multileaf collimator (MLC) leaf motion and dose rates to maximize the target conformity and sparing the normal tissue dose [8-13]. In this study, we estimate the secondary cancer risk of normal organs which are out-of-field for IMRT, VMAT and TOMO with lung cancer patients.
+In general, when tumors in cancer patients during the radiation treatment are exposed to high doses which are prescribed for a definitive or palliative goal, the surrounding normal tissues are exposed to intermediate doses which is due to the primary radiation in the beam path. Therefore, the main goal of the treatment planning is finding the right option to satisfy two conflicting priorities such as reducing the exposed dose into the surrounding normal organ and focusing the prescription dose into a target volume. However, out-of-field exposure is another interesting item to be concern. The rest of the body is also exposed to low doses during the radiation treatment which is due primarily to out-of-field radiation resulting from scattering and leakage. Therefore, it will be interesting to measure and estimate the exposed dose for normal organs in out-of-field regions. Furthermore, the evaluation of secondary cancer risk from the out-of-field dose would be interesting, too.
+To date, there have been many measurements and calculations of secondary scattered dose and secondary cancer risk [14-22]. In 2003, Hall E. and Wuu C. S. reported the radiation induced second cancers. They are concerned that the secondary cancer risk may be increased by moving from 3DCRT to IMRT which use more fields and monitor units to increase the exposed normal tissue volume by low dose and total body exposure due to leakage radiation. They reported that IMRT induces almost double the incidence of second malignancies compared with 3DCRT [14]. Kim S. et al. presented the secondary radiation doses of intensity-modulated radiotherapy and proton therapy in patients with lung and liver cancer [15]. They measured the secondary scattered dose of IMRT at 20-50 cm from iso-center, ranging from 5.8 and 1.0 mGy per Gy. However, they did not present the calculation results of secondary risk from their measurement [16].
+In this study, we compared the secondary cancer risk by out-of-field radiation for three treatment modalities using the concept of organ equivalent dose (OED) for radiation-induced cancer.
+
+Methods and materials
+Patient data and treatment planning
+We randomly selected five patients with lung cancer who were to be treated with IMRT at Kyunghee University hospital at Gangdong. All of these patients had undergone treatment planning CT scans (Brilliance CT Big Bore Oncology; Philips Medical System, The Netherlands) of the chest for identification of targets and normal neighboring organs. An Eclipse (Varian Medical Systems, Palo Alto, CA, USA) and Hi-Art (TomoTherapy, Madison, WI, USA) planning system were used to plan IMRT, VMAT and TOMO for these patients. As shown as Table 1, the patient group is consisted of three male and two female patients. The age range was from 56 to 71 years old with an average age of 67. All patients are stage III of non small cell lung cancer (NSCLC) cases and PTV volumes are varied from 64 to 890 cc.
+The targets in the 5 lung cancer patients were defined in accordance with the report of the International Commission on Radiation Units and Measurements (ICRU 50). 4 dimensional computed tomography image was obtained during the CT scan by using a Philips brilliant big bore CT with Varian real-time patient monitoring system (RPMS). Particularly, a gross tumor volume (GTV) encompassed all detectable tumors and lymph nodes that were at least 1 cm in short-axis diameter, as observed on CT scans. The clinical target volume (CTV) included the GTV and uninvolved mediastinal and ipsilateral hilar nodes. Planning target volume (PTV) included the CTV plus a 7-10 mm margin. Each patient received a total dose of 50-63 Gy, using different fractionation schemes, to the iso-center. The prescribed dose was specified at the ICRU reference point (iso-center) of the PTV. All treatment plans used four to nine beams for IMRT, single or double arcs for VMAT and a helical beam for TOMO. As an example, Figure 1 shows the treatment plans of patient 4 with different modalities; IMRT, VMAT and TOMO.
+Figure 1
+Treatment plan for patient #4 with different modalities; IMRT, VMAT and TOMO. The prescription dose 62.5 Gy with 25 fractions.
+Calibration of the radio-photoluminescence glass dosimeter
+A radio-photoluminescence glass dosimeter (RPLGD) is newly introduced, as a substitution of the themoluminescence dosimeter (TLD) or other, which was commonly used for in-vivo measurement [23-27]. In this study, we used commercially available RPLGD (GD-302M, Asahi Techno Glass Co., JAPAN). An RPLGD measured the absorbed dose by counting the orange light (500 ~ 700 nm) from the dosimeter, when 365 nm of mono-energetic light was exposed on the irradiated dosimeter. RPLGD has relatively good reproducibility at about 1% and low energy dependency, at higher than 200 keV energy [23-27]. In addition, RPLGD has relatively small incident beam angular dependency, and low toxicity inside the human body, compared with a TLD or optically stimulated luminescence dosimeter (OSLD) [28-30]. A geometrical shape of RPLGD is a rod with 0.15 cm of the diameter and 0.85 cm length.
+For estimating the dose response of RPLGD, 10 x 10 cm [2] open field photon beam was exposed into RPLGD at a 10 cm depth, and 100 cm of Source Surface Distance (SSD). The reproducibility of RPLGD is estimated by calculating the standard deviation of the dose measurements, which the photon beam exposed 3 times into the same detector. Also, the deviations of each RPLGD detector are measured to characterize each RPLGD.
+Measurement of secondary dose during IMRT, VMAT and Tomotherapy treatment
+In all treatments, a photon of 6 MV energy (Clinac 21iX; Varian Medical Systems, USA) was used for IMRT and VMAT. Secondary radiation was assessed by measuring the ionization of the photon beam as a function of distance from the iso-center, because the contribution of the secondary neutron dose is negligible in 6MV photon beams. These measurements were performed using two RPLGDs set at distances 20, 35, 50, 65 and 80 cm from the beam iso-center on a solid phantom at SAD 100 cm as shown as Figure 2.
+Figure 2
+Secondary scattered dose measurement set up. Measuring positions are 20, 35, 50, 65 and 80 cm from the iso-center. Two RPLGDs are positioned at each measuring point.
+Secondary photon doses were measured using an RPLGD on the surface of couch table; thus, the secondary dose, measured at various distances from the iso-center, was the maximum possible dose at that distance and decreased with depth in the body. Therefore, the actual doses at certain body depths at each distance from the iso-center will be smaller than the measured doses.
+Cancer risk estimation attributable to secondary doses
+From statistical data on atomic bomb survivors and medically exposed patients, Schneider et al. proposed use of the "Excess Absolute Risk" (EAR) index per 10,000 persons per year to estimate the radiation-induced carcinogenesis.
+(1)
+EA
+R
+D
+,
+s
+,
+e
+,
+a
+=
+b
+*
+f
+D
+*
+g
+s
+,
+e
+,
+a
+=
+b
+*
+f
+(
+D
+)
+*
+[
+exp
+(
+g
+_
+e
+(
+e
+-
+37
+)
++
+g
+_
+a
+ln
+(
+a
+/
+46
+)
+)
+(
+1
++-
+s
+)
+where b is the initial slope, f(D) is a function of dose, and g(s, e, a) is a modifying function of population dependent variables such as gender (s), age at exposure (e), and age attained (a), respectively. In Eq. (1), the fit parameters are gender (s) averaged (+ for female, - for male) and mean age at exposure (e) of 37 years old and attained age of 46 years old. The function of dose f(D), which is the dose-dependent portion of Eq. (1), is OED, when averaged over the whole body of volume. It should be noted that OED, a dose-response-weighted dose variable, is proportional to cancer risk in a defined population (same gender, same age of exposure, and same attained age).
+The OED calculation based on the linear dose-response model:
+(2)
+OED
+=
+1
+V
+[?]
+i
+V
+i
+D
+i
+or a linear-exponential (bell-shape) dose-response model:
+(3)
+OED
+=
+1
+V
+[?]
+i
+V
+i
+D
+i
+exp
+-
+aD
+i
+or a plateau dose-response model:
+(4)
+OED
+=
+1
+V
+[?]
+i
+V
+i
+1
+-
+exp
+-
+s
+D
+i
+s
+where V is the whole body volume, Vi is a volume and Di is the dose elements, respectively. In these models, parameters such as a and s are used to determine the dose-response curve for specific organs. We compared the radiation-induced secondary cancer risk resulting from IMRT, VMAT and TOMO for NSCLC patients, based on analysis of OEDs.
+
+Results and discussion
+Table 2 shows a comparison of treatment plans for different modalities. For IMRT, 4 to 9 fields are used and the monitor units per Gy ranged from 245 to 1049 MU/Gy. For VMAT, 1 or 2 full arcs are used and the monitor unit per Gy ranged from 245 to 430 MU/Gy. For TOMO, the monitor units per Gy ranged from 1025 to 2021MU/Gy. The monitor unit per Gy is increased by increasing number of fields (or Arcs) and PTV size. Therefore, patient 3 has a relatively lower monitor unit per Gy than other cases as shown in Table 2. In addition, the monitor unit per Gy is dependent on the modality. VMAT has relatively small monitor units as 0.78+-0.35 times of IMRT. TOMO has most of the higher monitor units compared to others at 3.69+-0.92 times the large monitor units of IMRT. As confirmed in former reports, VMAT presents most of the small monitor units comparing to IMRT and TOMO thus, it facilitates shorter treatment time and monitor units which are related to patient immobilization and machine maintenance.
+Table 3 and Figure 3 show the secondary scattered dose measurement of five patients for IMRT, VMAT and TOMO. In Table 3, the secondary scattered dose measurement as percentage of prescription doses at each point are shown for each modality and patient. The average percentage scattered dose for prescription dose for five patients at 20, 35, 50, 65 and 80 cm from the iso-center is 1.04+-0.56, 0.30+-0.20, 0.21+-0.18, 0.09+-0.06 and 0.06+-0.04% for IMRT, 0.80+-0.36, 0.25+-0.11, 0.11+-0.04, 0.06+-0.02 and 0.04+-0.01% for VMAT, 0.34+-0.10, 0.18+-0.04, 0.11+-0.03, 0.09+-0.02 and 0.07+-0.02% for TOMO. The secondary scattered dose is decreased as the distance from the in-field region is increased. In addition, the secondary scattered dose depends on the modality. TOMO (VMAT) has about 30% (80%) of secondary scattered dose comparing to secondary scattered dose of IMRT at 20 cm distance from the iso-center. And the secondary scattered dose decreases as the distance from the iso-center increases resulting from the fact that the secondary scattered dose at 80 cm distance from the iso-center is about 20 times lower than the dose measurement at 20 cm for IMRT and VMAT. Also we found that the decreasing slope of the secondary scattered dose of IMRT and VMAT is similar and more steep than TOMO. Therefore, TOMO has a relatively low secondary dose around the target area in spite of the fact that the monitor unit of TOMO treatment cases are higher and close to the values of IMRT and VMAT, as distance is increased from the iso-center as shown as in Figure 4. TOMO has a 22 cm of tungsten shielding in primary jaws, the MLC, and head shielding [31]. Because of the maximize beam shielding for radiation leakage in TOMO comparing to the conventional linear accelerators to give rise to lower scattered dose especially around the target area.
+Figure 3
+The secondary scattered dose measurements of five patients for IMRT (blue, diamond), VMAT (red, square) and TOMO (brown, triangle) at each distance from the iso-center. All data are normalized by prescription dose.
+Figure 4
+The percentage secondary scattered dose measurements of five patients for IMRT (blue, diamond), VMAT (red, square) and TOMO (brown, triangle) at each distance from the iso-center. VMAT and TOMO result is normalized by IMRT result.
+For VMAT and TOMO, the calculated relative percentage OED which is normalized by OED of IMRT for each organ, is presented in Table 4 and Figure 5. As predicted from the measurements of the secondary scattered dose, TOMO has a relatively low OED for most of the organs compared to the other modalities and this OED difference from modality decreases when the position of the organ gets further away from the field edge. Only in the case of patient 3 who has a relatively low PTV volume (69 cm [3]), the modality dependence for the OED did not show. Because of the statistical limitation, it is not clear if there is any correlation between the secondary scattered dose (or OED) and the PTV volume. Therefore it is necessary to measure and estimate the secondary scattered dose (or OED) for different PTV volumes with more statistics in the future, to elucidate the correlation of the source of secondary scattered dose difference deriving from the distance from the iso-center (or field edge), treatment modality, PTV volume, and other factors.
+Figure 5
+The calculated relative percentage of OED of five interesting organs (Thyroid, Pancreas, Bowel, Rectum and Prostate/Cervix) for IMRT (blue, diamond), VMAT (red, square) and TOMO (brown, triangle) at each distance from the iso-center. VMAT and TOMO result is normalized by IMRT result.
+
+Conclusions
+We compared secondary scattered doses and OED which is related with radiation induced secondary malignancy risk. We found that the secondary dose depended on the distance from the iso-center and their modalities. The secondary dose and OED from TOMO is less than or compatible to the secondary dose from conventional IMRT and VMAT. The secondary dose and OED from TOMO became similar to IMRT and VMAT as the distance from the field edge increased.
+
+Authors' contribution
+DWK and MY did design, process and write this article. WKC and HH were provided the patient data and clinical support. DS and KC participated in tomotherapy planning and measurement. SYP and SP participated in IMRT planning and measurement. YKL and DS participated in the VMAT planning and measurement. SBL and HL participated the RPLGD reading and the EUD calculation. All authors read and approved the final manuscript.

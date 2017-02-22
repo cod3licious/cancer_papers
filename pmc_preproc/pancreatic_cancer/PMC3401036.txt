@@ -1,0 +1,83 @@
+[Abstract, Methods]
+
+A Small-Molecule Probe
+of the Histone Methyltransferase
+G9a Induces Cellular Senescence in Pancreatic Adenocarcinoma. Post-translational modifications of histones alter chromatin structure and play key roles in gene expression and specification of cell states. Small molecules that target chromatin-modifying enzymes selectively are useful as probes and have promise as therapeutics, although very few are currently available. G9a (also named euchromatin histone methyltransferase 2 (EHMT2)) catalyzes methylation of lysine 9 on histone H3 (H3K9), a modification linked to aberrant silencing of tumor-suppressor genes, among others. Here, we report the discovery of a novel histone methyltransferase inhibitor, BRD4770. This compound reduced cellular levels of di- and trimethylated H3K9 without inducing apoptosis, induced senescence, and inhibited both anchorage-dependent and -independent proliferation in the pancreatic cancer cell line PANC-1. ATM-pathway activation, caused by either genetic or small-molecule inhibition of G9a, may mediate BRD4770-induced cell senescence. BRD4770 may be a useful tool to study G9a and its role in senescence and cancer cell biology.
+
+Methods
+Cell Culture and Compound Treatment
+PANC-1 and HeLa
+cells (ATCC) were cultured in DMEM medium containing 10% (v/v) FBS
+and 100 U mL-1 penicillin-streptomycin. BRD4770,
+BRD9539, BRD2502, BRD9398, BRD1490, and BI-37 were synthesized in
+our lab. Chemical characterization of BRD4770 and BRD9539 is included
+in Supporting Information. BIX-01294, UNC0638,
+and chaetocin were purchased from Sigma-Aldrich.
+Enzymatic Assays
+Biochemical activity of G9a was measured
+as described.6 Biochemical assays for SUV39H1
+and DNMT1 activity were from BPS Bioscience. Chaetocin was used as
+a positive control in G9a and SUV39H1 assays. PRC2 and NSD2 activity
+were measured using dissociation-enhanced lanthanide fluorescent immunoassay
+(DELFIA) in white 384-well streptavidin-coated plates (PerkinElmer).
+For detailed assay procedure please see Supporting
+Information.
+Mass-Spectrometric Analysis of Histone Methylation
+HeLa cells were seeded in 10 cm dishes and treated with BRD4770 or
+DMSO for 24 h. Histones were extracted according to the manufacturer's
+protocol (Abcam). Histone bands were isolated from SDS-PAGE gel and
+treated with double propionylation and trypsin. Samples were analyzed
+on an Orbitrap mass spectrometer as described.6
+Gene Silencing
+Small-interfering RNAs against GLP (s36392)
+and G9a (s21469, s21470) were obtained from Applied Biosystems. siRNAs
+(25 nM) were transfected into PANC-1 cells using Lipofectamine 2000
+(Invitrogen), with medium changed 24 h later. Transfected cells were
+cultured for 72 h, and RNA and protein were collected for real-time
+PCR and Western blot analysis, respectively.
+Western Blotting
+Cells were lysed in RIPA buffer (20
+mM Tris-HCl (pH 7.5), 150 mM NaCl, 1 mM Na2EDTA, 1 mM EGTA,
+1% (w/v) NP-40, 1% (w/v) sodium deoxycholate, 2.5 mM sodium pyrophosphate,
+1 mM b-glycerophosphate, 1 mM Na3VO4,
+1 mg mL-1 leupeptin, protease inhibitor and
+phosphatase inhibitor). Total protein was separated by 4-12%
+SDS-PAGE and transferred to a PVDF membrane (iBlot system, Invitrogen).
+Blots were developed using chemiluminescence detection (SuperSignal,
+Thermo Fisher Scientific Image Station 4000MM Pro, Kodak). Images
+were quantified using ImageJ image analysis software. Antibody concentrations
+are included as Supporting Information.
+Immunofluorescence and Microscopy
+PANC-1 cells were
+seeded in black optical 96-well plates and treated with compounds
+for 72 h. Cells were fixed using 4% (v/v) paraformaldehyde for 20
+min, permeabilized for 20 min with 0.1% (v/v) Triton X-100, blocked
+with PBS containing 2% (w/v) BSA at 4 degC overnight, and incubated
+at 4 degC overnight with either p-ATM (S1981) mouse mAb (10H11.E12,
+Cell Signaling) or p-ATR (S428) rabbit Ab (Cell Signaling) at 1:250
+dilution. Cy3-labeled secondary antibodies (Jackson ImmunoResearch)
+were added with Hoechst 33342 (Invitrogen) and observed with an Axiovert
+200 M fluorescence microscope (Zeiss) at 400X magnification. Cell
+number analysis was performed on an ImageXpress Micro automated microscope
+(Molecular Devices) using a 4X objective with laser-based focusing.
+Image analysis was performed using the Cell Count module in the MetaXpress
+software application (Molecular Devices).
+Senescence Analysis
+PANC-1 cells were seeded in 12-well
+plates, treated with compounds and siRNAs, and stained with Senescence
+b-Galactosidase Staining Kit (Cell Signaling), with detection
+of blue color by light microscopy.
+Anchorage-Independent Soft Agarose Assay
+PANC-1 cells
+were seeded and treated with BRD4770 in 6-well plates for 72 h. Cells
+were trypsinized and tested for soft agar colony formation using CytoSelect
+96-Well Cell Transformation Assay (Cell Biolabs), using the CyQuant
+GR dye to measure total cellular nucleic acid levels. Fluorescence
+was detected with an Analyst HT plate reader (LJL Biosystems) using
+a 485/520 nm filter set.
+Flow Cytometry
+Treated cells were washed in PBS, fixed
+in ice-cold 70% (v/v) ethanol for 30 min at 4 degC, followed by
+two washes with PBS. Next, 100 mg mL-1 RNase
+was added and incubated at 37 degC for 15 min, 50 mg mL-1 propidium iodide was added, and cell cycle was analyzed
+with a BD LSR II flow cytometer (BD Biosciences).

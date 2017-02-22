@@ -1,0 +1,182 @@
+[Abstract, Results, Methods]
+
+Naphthoquinones from Onosma paniculata Induce Cell-Cycle Arrest and Apoptosis
+in Melanoma Cells. Activity-guided fractionation of a petroleum ether-soluble extract of the roots of Onosma paniculata, which has been shown to affect the cell cycle and to induce apoptosis in melanoma cells, led to the isolation of several shikonin derivatives, namely, b-hydroxyisovalerylshikonin (1), acetylshikonin (2), dimethylacrylshikonin (3), and a mixture of a-methylbutyrylshikonin and isovalerylshikonin (4+5). All compounds exhibited strong cytotoxicity against eight cancer cell lines and MRC-5 lung fibroblasts, with 3 found to possess the most potent cytotoxicity toward four melanoma cell lines (SBcl2, WM35, WM9, and WM164). Furthermore, 3 and the mixture of 4+5 were found to interfere with cell-cycle progression in these cell lines and led to an increasing number of cells in the subG1 region as well as to caspase-3/7 activation, indicating apoptotic cell death.
+
+Results and Discussion
+HPLC analysis of the active
+petroleum ether-soluble extract pointed to several shikonin derivatives.17 Using preparative HPLC, seven fractions were
+collected, from which fractions 2, 4, 6, and 7 gave b-hydroxyisovalerylshikonin
+(1), acetylshikonin (2), dimethylacrylshikonin
+(3), and a mixture of a-methylbutyrylshikonin (4) and isovalerylshikonin (5), respectively.
+Since it has been demonstrated that biological activity
+can be lost due to polymerization during isolation processes,4 the one-step isolation procedure used was a great
+benefit in the present work. The isolates were identified using 1H and 13C NMR and CD spectroscopic measurements
+(Tables S1 and S2, Supporting Information) and by comparison with published data.12,18 Compounds 4+5 were obtained as a mixture
+and could not be separated, but 1H and 13C NMR
+data clearly revealed them to occur in a ratio of 2:1. The enantiomers
+shikonin and alkannin give identical NMR spectra19 but vary in configuration at C-11. They are not capable
+of being differentiated by optical rotation with a sodium lamp as
+light source, but CD measurements may be used for this purpose. All
+isolated compounds exhibited a positive Cotton effect and were identified
+as shikonin derivatives.19,20 This is the first report
+concerning the CD data of 1-3.
+Subsequently, the compounds were evaluated for their
+cytotoxic potential using eight human cancer cell lines and human
+nontumorigenic
+MRC-5 lung fibroblasts. Cytotoxicity was compared to vinblastine,
+which was used as positive control (Table 1). All isolated compounds exhibited cytotoxicity with IC50 values ranging from 600 nM to 70 mM. The most sensitive was
+the CCRF-CEM leukemia cell line, showing up to 6-fold lower IC50 values than MRC-5 cells. The four melanoma cell lines (SBcl2,
+WM35, WM9, and WM164) were isolated primarily from different stages
+of melanoma progression.21 It has been
+shown that numerous genetic mutations leading to altered cell signaling
+are involved in the transformation from benign nevi to melanoma.22 These changes enable melanoma cells to escape
+apoptosis and contribute to unrestricted cell proliferation. The effects
+of 3 and the mixture of 4+5 regarding cell morphology, cell-cycle distribution, and apoptosis
+induction were analyzed. Test compounds were freshly dissolved in
+DMSO and used immediately since storage in DMSO led to a considerable
+loss of activity. Compound 3 exhibited the lowest IC50 values toward melanoma cell lines, which is probably due
+to the presence of an unsaturated carbonyl group in the side chain.
+Morphological changes (Figure S3, Supporting Information) were observed after 24 h and continued up to 48 h. Cells exposed
+to the IC50 concentrations of 3 or 4+5 exhibited less density and a more round shape phenotype
+with fewer dendrites. It has been reported that shikonin induces apoptosis
+in several cell lines23-25 and affects the cell cycle.24,26 However, compound 3 and 4+5 are less well investigated. Investigations of the cell-cycle distribution
+revealed that 3 and 4+5 strongly
+affected the amount of cells in the G1 phase and, accordingly, the
+G2/M or S phase. For 3, it was found that there were
+up to 50% fewer cells in the G1 phase and an increasing number of
+cells in the S phase (SBcl2 and WM35) or G2/M phase (WM9 and WM164)
+(Figure 1). In contrast to 3 and
+also 4+5, shikonin led to an arrest in the
+G1 phase in melanoma26 and bladder24 cancer cells, while cells in the G2/M phase
+decreased, indicating a different mode of action. Additionally, cells
+in the subG1 region (up to about 20%) increased after 24 h (up to ca. 20%), indicating
+apoptotic cell death, which was confirmed using a CaspaseGlo 3/7 assay
+(Figure 2). The results for cells exposed
+to the IC50's of 4+5 were similar
+(Figures S3-S5, Supporting Information).
+Figure 1
+Treatment of melanoma cells with 3 reduced cells in
+the G1 phase and increased cells especially in the S-phase (SBcl2 (A) and WM35 (B)), and G2/M phase (WM9 (C) and WM164 (D)). Gray bars: Vehicle-treated
+control cells. Colored bars: Cells exposed to 3 (IC50). The times shown represent the duration of treatment, n = 3, with mean values shown. Areas from the bottom to
+the top: subG1 cells (black and purple), G1 phase cells (lower light
+gray and blue), S phase cells (dark gray and turquoise), and G2/M
+phase cells (upper light gray and green).
+Figure 2
+Caspase 3/7 activity measured using the Caspase-Glo 3/7
+assay. Caspase activity peaked after 24 h when cells were exposed
+to the IC50 value of 3, indicating apoptotic
+cell death.
+In summary, it has been shown that roots of O. paniculata are a rich source of acetylshikonin (2), dimethylacrylshikonin (3), a-methylbutyrylshikonin
+(4), and isovalerylshikonin (5). All of
+these compounds exhibited cytotoxicity toward a panel of cancer cell
+lines. For the melanoma cell lines used, the results indicated that 3 and the mixture of 4+5 affect
+the cell cycle and induce apoptosis.
+
+Experimental Section
+General Experimental Procedures
+CD measurements were
+recorded on a JASCO J-715 spectropolarimeter, at 210-600 nm
+in CHCl3. NMR spectra were recorded in chloroform-d1 (Eurisotop, Saint-Aubin Cedex, France) on
+a Varian Unitylnova 400 MHz (400 MHz for 1H and 100 MHz
+for 13C) or 600 MHz (600 MHz for 1H and 150
+MHz for 13C) spectrometer at 25 degC using TMS as internal
+standard. For analytical HPLC experiments, a LiChroCART RP18 column
+(250 x 4 mm, 5 mm) and a Merck Hitachi system consisting
+of an L-7100 pump, L-7200 autosampler, L-7455 diode array detector,
+and a D-7000 interface were used. Preparative reversed-phase HPLC
+was performed on a Varian R PrepStar SD-1 with Dynamax R solvent delivery
+system and an absorbance detector model UV-1 using a VDSpher 100 RP18
+column (250 x 25 mm, 10 mm). For both, the mobile phase
+consisted of water (A) and ACN (B). The following gradient was used:
+0-45
+min, 70-100% B; 45-60 min, 100% B.
+Plant Material
+The dried roots of O. paniculata were purchased at a medicinal plant market in Kunming, China, in
+November 2003. They were identified macroscopically by Prof. Xiao-Jiang
+Hao, and the identity was confirmed based on its ITS and trnL-F regions
+by Prof. Guenther Heubl as described previously.17 A voucher specimen is deposited at the herbarium of the
+Institute for Plant Sciences, University of Graz, Austria.
+Extraction and Isolation
+The petroleum ether extract
+was prepared by Soxhlet extraction.17 A
+400 mg aliquot of this extract was dissolved in MeOH (40 mg/mL) and
+fractionated using preparative HPLC. Seven fractions were collected,
+from which fractions 2, 4, 6, and 7 gave 1 (1.1 mg), 2 (31.1 mg), 3 (48.6 mg), and 4+5 (46.3 mg), respectively.
+b-Hydroxyisovalerylshikonin (1):
+red powder; CD (c 2.5 mM, CHCl3) [th]315 -15 450, [th]365 +15 910; 1H NMR (CDCl3, 400 MHz) data, see Table S1 Supporting Information; 13C NMR (CDCl3, 100 MHz) data, see Table S2 Supporting
+Information.
+Acetylshikonin (2):
+red powder; CD (c 5.0 mM, CHCl3) [th]305 -1470,
+[th]356 +1650; 1H NMR (CDCl3, 600 MHz) data, see Table S1 Supporting Information; 13C NMR (CDCl3, 150 MHz) data, see Table
+S2 Supporting Information.
+Dimethylacrylshikonin (3):
+red powder;
+CD (c 4.0 mM, CHCl3) [th]315 -990, [th]359 +540; 1H NMR (CDCl3, 400 MHz) data, see Table S1 Supporting
+Information.
+a-Methylbutyrylshikonin (4) and Isovalerylshikonin
+(5):
+red powder; 1H NMR (CDCl3, 600 MHz) data, see Table S1 Supporting
+Information; 13C NMR (CDCl3, 150 MHz)
+data, see Table S2 Supporting Information.
+Sample Preparation
+The compounds were freshly dissolved
+in DMSO, subsequently diluted with medium, and used immediately. Control
+cells represent vehicle-treated cells (0.5% DMSO). The final DMSO
+concentration did not affect the cells.
+Cell Culture
+Human CCRF-CEM leukemia and MDA-MB-231
+breast cancer cells lines were maintained in RPMI 1640 medium (Sigma-Aldrich,
+St. Louis, MO, USA), supplemented with 2 mM l-glutamine (Sigma-Aldrich),
+10% fetal bovine serum (FBS, PAA Laboratories, Pasching, Austria),
+100 units/mL penicillin (PAA), and 100 mg/mL streptomycin (PAA)
+(1% penicillin/streptomycin). Human U251 glioblastoma and HCT 116
+colon cancer cell lines were grown in high-glucose Dulbecco's modified
+Eagle medium (DMEM, Sigma-Aldrich) supplemented with 2 mM l-glutamine, 10% FBS, and 1% penicillin/streptomycin. Human SBcl2,
+WM35, WM9, and WM164 melanoma cell lines were grown in RPMI 1640 medium
+with 2 mM l-glutamine, 2% FBS, and 1% penicillin/streptomycin.
+Human MRC-5 lung fibroblasts were grown in minimum essential medium
+(MEM, Gibco, Invitrogen, Vienna, Austria) supplemented with 2 mM l-glutamine, 10% FBS, and 1% penicillin/streptomycin. All cells
+were kept in a humidified 5% CO2 atmosphere at 37 degC
+and passaged at 90% confluence. The cell cultures were periodically
+checked for the presence of mycoplasma by PCR.
+XTT Viability Assay
+The XTT viability assay was performed
+as described previously17 and in accordance
+with the manufacturer's protocol (Roche Diagnostics, Mannheim, Germany;
+cell proliferation kit II (XTT), cat. no 11 465 015 001). In brief,
+10 000 cells/well in the case of CCRF-CEM and MRC-5 cells and
+5000 cells/wells for the other cell lines were seeded into 96-well
+plates (100 mL, flat bottom) and treated with various concentrations
+of 1-3 or 4+5 for 72 h. Adherent cell lines were grown overnight before the test
+compounds were added. After 72 h, a freshly prepared XTT solution
+(5
+mL of XTT plus 100 mL of electron coupling reagent) was added
+and analyzed after another 1.5 or 4 h (CCRF-CEM cells) using a Victor2 1420 multilabel counter (PerkinElmer Life Sciences,
+Waltham, MA, USA). Vinblastine served as positive control (0.01 mM).
+Cell-Cycle Analysis
+Cells were treated with the respective
+IC50 concentration for 12-72 h and harvested by
+trypsinization. Then, 5 x 105 cells were fixed with
+70% ice-cold EtOH for 10 min at 4 degC. After washing with PBS,
+the cell pellet was resuspended in propidium iodide (PI) staining
+buffer (50 mL/mL
+PI, RNase A, Beckman Coulter, Krefeld, Germany) and incubated at 37
+degC for 15 min. Cell-cycle distribution was analyzed using a FACSCalibur
+flow cytometer (BD Biosciences, Heidelberg, Germany) using Modfit
+Software version 3.0 (Verity Software House, Topsham, ME, USA).
+Caspase-Glo 3/7Assay
+For this assay, 10 000
+cells/well (100 mL) were treated with the respective test-compound
+IC50 concentration for 6-72 h and analyzed for caspase
+activation using the Caspase-Glo 3/7 assay (Promega Corporation, Madison,
+WI, USA), according to the manufacturer's protocol. Luminescence was
+measured 30 min after adding the Caspase-Glo 3/7 reagent (Caspase-Glo
+substrate and buffer).
+Statistical Analysis
+Statistical analysis was carried
+out using SigmaPlot 12.0 (Systat Software Inc., Chicago, IL, USA).
+IC50 values were determined using the four-parameter logistic
+curve, at least eight concentrations of the test compound, and two
+different cell passages each tested in three independent wells. Results
+are expressed as mean +- SEM.

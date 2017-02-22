@@ -1,0 +1,399 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Arylsulfatase B (N-Acetylgalactosamine-4-Sulfatase): Potential Role
+as a Biomarker in Prostate Cancer. BACKGROUND The enzyme Arylsulfatase B (ARSB; N-acetylgalactosamine-4-sulfatase) degrades chondroitin-4-sulfate (C4S) and is reduced in malignant colonic and mammary tissues, but has not previously been evaluated in prostate cancer.   METHODS ARSB immunostaining was performed on two tissue microarrays (TMA) and analyzed by digital image analysis, generating ARSB H-scores for prevalence and intensity of epithelial, stromal, and combined epithelial and stromal immunostaining. Also, paired malignant and normal prostate tissues were analyzed for ARSB activity, C4S, total sulfated glycosaminoglycans, and versican content. The quantities of C4S and of the epidermal growth factor receptor that co-immunoprecipitated with versican were determined in the normal and malignant paired prostate tissues.   RESULTS 44 cases of prostate cancer were paired by age (+- 5y), race, Gleason score (in order), and pathologic TNM score. The pairs differed by recurrence vs. non-recurrence of elevated PSA at 4 or more years. When TMA cores were analyzed for ARSB H-score, 18 of the 22 pairs had lower ARSB H-scores in the recurrent member of the pair, whereas higher initial PSA values were associated with recurrence in only 65% of the paired cases. In a second TMA, Gleason scores 6 and 7 were associated with higher ARSB H-scores than Gleason scores 8 and 9 for stroma, epithelium, and stroma and epithelium combined (p=0.052, p=0.015, p<0.0001, respectively) and were inversely correlated (r = -0.98, -0.97, and -0.99, respectively). In other paired normal and malignant prostate tissues, ARSB activity was significantly higher in the normal tissues, and C4S and versican values were lower (p<0.0001). C4S that co-immunoprecipitated with versican was greater in the malignant than in the normal tissue, whereas total EGFR that co-immunoprecipitated with versican was reduced.   DISCUSSION Study findings suggest that ARSB may be useful as a prognostic biomarker in prostate cancer, and that the biological action of ARSB on chondroitin sulfate may impact upon versican's effects in the tumor microenvironment.
+
+Introduction
+Arylsulfatase B (ARSB; N-acetylgalactosamine-4-sulfatase) is the lysosomal
+enzyme that removes the 4-sulfate group of N-acetylgalactosamine-4-sulfate at the
+non-reducing end of chondroitin-4-sulfate (C4S) and dermatan sulfate (DS) and
+thereby regulates their degradation [1,2]. Recent studies demonstrated extra-lysosomal
+localization of ARSB in epithelial and endothelial membranes in human cells [3-7]. Decline in ARSB activity was shown in malignant mammary and colonic
+epithelial tissues and in metastatic colonic epithelial cells [3,8-10], and the intensity and localization of ARSB
+immunostaining was reduced in higher grade colonic adenocarcinomas [3]. The current studies were undertaken to
+determine if the previously identified reductions in ARSB in malignant mammary and
+colonic tissues were also evident in malignant prostate tissue.
+Previously, chondroitin sulfate and versican, an extracellular matrix
+proteoglycan with chondroitin sulfate attachments, were reported to predict
+progression in early-stage prostate cancer and considered as potential biomarkers of
+prostate cancer [11,12]. Versican is an important extracellular matrix proteoglycan
+composed of three domains: the G1 domain has hyaluronan attachments that interact
+with the CD44 cell surface protein; the G2 domain has chondroitin sulfate
+attachments; and the G3 domain at the C-terminus has epidermal growth factor
+(EGF)-like repeats and a carbohydrate recognition domain [13]. These domains enable versican to interact with multiple
+binding partners, including type 1 collagen, tenascin-R, fibronection, P- and
+L-selectins, b1-integrins, EGF receptor, and P-selectin glycoprotein
+ligand-1 (PSGL-1) [14]. Versican is regarded
+as a critical factor affecting the attachment of prostate cancer cells to
+fibronectin in the stroma, thereby mediating motility and invasiveness [15]. Since decline in ARSB activity leads
+directly to increase in chondroitin sulfation and transcriptionally to increase in
+versican expression [8,16], the associations among versican, chondroitin sulfate, and
+ARSB are of interest and were addressed in the studies in this report.
+Although prostate specific antigen (PSA) has been widely used as a biomarker
+of prostate cancer, the benefits of screening by PSA remain controversial and a
+better prognostic marker of prostate cancer has been the subject of considerable
+investigation [17,18]. In this report, the potential role of ARSB as a biomarker
+of prostatic malignancy was considered. Measurements of the intensity of ARSB
+immunostaining by digitized image analysis (H-scores) were calculated for prostate
+cancers in two small tissue microarrays (TMA) and the associations of H-scores with
+recurrence vs. non-recurrence and Gleason score were determined. In addition, ARSB
+enzyme activity, C4S, and versican were compared between normal and malignant
+regions from radical prostatectomies performed for prostate cancer. The study data
+that follow suggest that further evaluation of ARSB as a biomarker and possible
+tumor suppressor in prostate cancer is warranted.
+
+Materials and Methods
+Cancer tissue arrays and tissue samples
+Prostate cancer tissues from three sources were analyzed. These included
+a cancer tissue microarray (TMA) obtained from the National Disease Research
+Interchange (NDRI, Philadelphia, PA) which included 30 cores with Gleason scores
+from 6-9. A second cancer tissue array from the Cooperative Prostate
+Cancer Tissue Resource (CPCTR; from A. K.-B.) included 22 pairs of cases that
+varied by biochemical recurrence (increased PSA) vs. non-recurrence after four
+or more years, and were matched by age +- 5 y, race, Gleason score
+matched by sequence and score, treatment (radical prostatectomy), and pathologic
+TNM stage [19]. Also, fresh frozen
+tissues from nine prostatectomies for prostate cancer were obtained from the
+University of Illinois at Chicago (UIC) Tissue Bank under a protocol approved by
+the Institutional Review Board and the Cancer Center of UIC. Frozen sections
+were performed and benign and malignant foci, consisting of epithelium and
+stroma, were identified by two observers (G.G and L. F.), isolated, dissected
+out, and frozen for subsequent analysis, as described below.
+Arylsulfatase B immunostaining and digitized image analysis
+Tissue microarray (TMA) slides were hydrated using xylene and an alcohol
+gradient and rinsed in distilled water. Antigen unmasking was performed with a
+10X concentrated retrieval solution by Dako (DakoCytomation, Carpenteria, CA),
+according to the manufacturer's instructions, then slides were rinsed in
+phosphate-buffered saline (PBS) for 5 minutes. Endogenous peroxidase activity
+was blocked by H202 blocking reagent for 10 minutes at
+room temperature, then the TMA slides were treated with a protein blocking
+solution for 10 minutes at room temperature, rinsed and incubated with
+arylsulfatase B polyclonal rabbit antiserum (Open Biosystems, ThermoFisher
+Scientific, Huntsville, AL; 1:100) or negative IgG control for 30 minutes at
+room temperature. Slides were rinsed and then treated with EnVision Plus labeled
+polymer (DakoCytomation) for 30 minutes at room temperature. DAB Plus
+(DakoCytomation) was used for 10 minutes to detect ARSB, and slides were rinsed
+in distilled water, counterstained with hematoxylin, dehydrated through an
+alcohol gradient and mounted with Permount. The TMA slides were digitally
+scanned at 20x magnification on an Aperio ScanScope(r) CS (Aperio
+Technologies, Inc., Vista, CA) using the Aperio ImageScope program
+(v10.0.35.1800) and loaded into Spectrum version 11.1. Other prostate cancer and
+normal tissue sections from frozen tissue were immunostained with ARSB
+polyclonal antibody. Negative IgG controls were also prepared and imaged.
+The TMA slides were digitally scanned at 20x magnification on an Aperio
+ScanScope(r) CS (Aperio Technologies, Inc., Vista, CA) using the Aperio
+ImageScope program (v10.0.35.1800) and loaded into Spectrum version 11.1. The
+TMA Lab(r) software module was used to segment the TMAs into individual
+cores, while the Genie(r) module was used to map distinct epithelial and
+stromal regions within each core [20].
+Genie(r) is a machine learning program that classifies each pixel in an
+image according to a set of hand-drawn, pre-classified training images provided
+by a skilled human operator. For this study, we created three classes:
+epithelial, stromal, and no-tissue, using 16, 7 and 1 training images
+respectively. The resulting classifier algorithm, which was determined to be
+highly accurate in classifying pixels within the training set of images, was
+then applied to the entire TMAs. Once epithelial and stromal regions were
+mapped, it was possible to score staining solely within epithelial or stromal
+compartments or in combination. The Positive Pixel Count(r) (Aperio, Inc.)
+algorithm was used within the epithelial and stromal compartments to measure
+brown chromogen staining in each relevant pixel at four ordinal intensity
+levels, from 0 to 3. The H-score, an index that combines stain prevalence and
+intensity, was determined based on the proportion of weakly, moderately and
+strongly stained pixels in each core using the formula: (% weak
+x 1 + % moderate x 2 + % strong x 3) /
+100.
+The H-scores were calculated independently for the NDRI and CPCTR cores.
+Mean H-score +- standard deviation (S.D.) for Gleason scores 6-9
+in the NDRI TMA was calculated. The H-scores for the recurrent vs. non-recurrent
+member of the paired samples in the CPCTR were compared. When multiple cores
+from the same surgery were present on an array, the H-scores for the cores were
+averaged, and the average value used in subsequent analysis. Each TMA core was
+reviewed visually before scoring to exclude artifacts or missing tissue, and
+again after scoring. No gross discrepancies with the automated scoring were
+identified.
+Arylsulfatase B activity assay and Western blot
+Tissue homogenates were prepared from the normal and malignant foci
+isolated from the prostatectomies performed at UIC. Arylsulfatase B (ARSB)
+activity was determined using a fluorometric assay and the exogenous substrate
+4-methylumbeliiferyl sulfate, as previously detailed [10]. Briefly, 20 ul of tissue homogenate and 80
+ul of assay buffer (0.05 M Na acetate buffer, pH 5.6) were combined with
+100 ul of substrate (5mM 4-MUS in assay buffer) in wells of a
+microplate. After incubation for 30 minutes 37degC, the reaction was
+stopped by 150 ul of stop buffer (Glycine-Carbonate buffer) at pH 10.7,
+and fluorescence was measured at 360 nm (excitation) and 465 nm (emission) in a
+microplate reader (FLUOstar, BMG, Cary, NC). ARSB activity was expressed as
+nmol/mg protein/hour, based on a standard curve for ARSB activity prepared with
+known quantities of 4-methylumbilleferyl at pH 5.6. Protein content of the
+tissue homogenate was determined by total protein assay kit (Pierce, Thermo
+Fisher Scientific, Inc., Rockford, IL).
+Western blot for ARSB was performed using paired normal and malignant
+prostate tissue samples from three of the UIC cases. Tissue lysates were
+prepared from prostate tissue with cell lysis buffer (Cell Signaling Technology,
+Inc., Danvers, MA) and protease and phosphatase inhibitors (Halt(tm)
+Protease and Phosphatase Inhibitor Cocktail, Thermo Scientific, Pittsburgh, PA).
+Western blot of ARSB was performed on 10% SDS gel with ARSB antibody, as
+above, and b-actin (Santa Cruz Biotechnology, Santa Cruz, CA, USA). An
+ARSB inhibitory peptide, composed of the sequence which was used to generate the
+antibody, was added to three of the wells to show the specificity of the ARSB
+band. The sequence of the inhibitory peptide used in the Western blot was:
+RLQFYHKHSVPVYFPAQDPR (NP_15848.1; AA: 501-520). Immunoreactive bands
+were visualized using enhanced chemiluminescence (Amersham, GE Healthcare,
+Piscataway, NJ, USA). Density of the ARSB was compared to b-actin in the
+malignant and normal samples.
+Measurement of sulfated glycosaminoglycans
+Total sulfated glycosaminoglycan (GAG) content in normal and malignant
+prostate tissues was measured using the substrate 1,9-dimethylmethylene blue
+(Blyscan(tm), Biocolor Ltd., Newtownabbey, Northern Ireland), which detects
+chondroitin-4-sulfate, chondroitin-6-sulfate, dermatan sulfate, keratan sulfate,
+heparan sulfate, and heparin, but does not detect unsulfated glycosaminoglycans
+or disaccharides [3-5,21]. The substrate 1,9-dimethylmethylene blue combines with the sulfate
+groups of the sulfated GAG and detects the sulfated polysaccharide component of
+proteoglycans and the protein-free sulfated GAG chains. Tissue lysates were
+prepared using RIPA buffer (50 mmol/L Tris-HCl containing 0.15 mol/L NaCl,
+1% Nonidet P40, 0.5% deoxycholic acid and 0.1% SDS, pH
+7.4). Absorbance maximum of 1,9-dimethylmethylene blue was detected at 656 nm
+(FLUOstar), and sulfated GAG concentration expressed as ug/mg of protein
+of tissue lysate.
+Immunoprecipitation of tissue lysates by chondroitin-4-sulfate
+antibody
+Tissue lysates were prepared using RIPA buffer, as above. Antibody
+specific to native chondroitin-4-sulfate (C4S; 4D1, Abnova, Littleton, CO) was
+previously tested by the recovery of pure C4S following immunoprecipitation with
+the C4S antibody (1 ug) and shown to be 93.3 +- 2.7%
+[8]. Cross-reactivity of the antibody
+with CS-E or C6S was excluded by similar tests. The C4S antibody (1
+ug/mg of cell lysate protein) was added to the prostate cell lysates in
+tubes, and tubes were rotated overnight in a shaker at 4degC. Next, 100
+ul of pre-washed Protein L-agarose (Santa Cruz Biotechnology, Santa
+Cruz, CA) was added to each tube, and tubes were incubated overnight at 4
+degC. Subsequently, the beads were washed three times with
+phosphate-buffered saline containing Protease Inhibitor Mixture, and the
+precipitate was eluted with dye-free elution buffer and subjected to C4S
+antibody measurement by Blyscan assay, as described above [8].
+Determination of versican by competitive ELISA
+Human versican was measured by a competitive ELISA (My BioSource, San
+Diego, CA), in which color development was inversely proportional to the
+versican content in the test samples. Standards, ranging from 1 to 25 ng/ml
+(ug/L), tissue samples, and versican-horseradish peroxidase conjugate
+were added to wells pre-coated with versican antibody, incubated for 1 hour at
+37degC, and washed three times. Color was developed by adding hydrogen
+peroxide/ tetramethylbenzidine (TMB) substrate. The reaction was stopped by 2N
+sulfuric acid, and the color was read at 450 nm in a plate reader (BMG). The
+concentration of versican in the samples was extrapolated from the standard
+curve and expressed per mg of total tissue protein, measured by protein assay
+(Pierce).
+Measurement of total EGFR by ELISA
+Total human epidermal growth factor receptor (phosphorylated and
+unphosphorylated EGFR and ErbB1) was measured in the tissue extract using a
+standardized ELISA (R&D, Minneapolis, MN). Total EGFR in the samples was
+captured in the wells of microtiter plates that were pre-coated with specific
+capture antibody. The immobilized total EGFR was detected by a biotinylated
+second EGFR, and Streptavidin-hydrogen peroxidase (HRP) was added. The bound
+enzyme activity was determined by chromogenic substrate [(hydrogen
+peroxide/tetramethylbenzidine (TMB)], and color development due to HRP activity
+was stopped by 2N sulfuric acid. Intensity of color was measured at 450 nm in a
+plate reader (BMG), and the values of the samples were extrapolated from a
+standard curve and normalized using the total tissue protein concentration as
+measured by protein assay (Pierce).
+Measurement of C4S immunoprecipitated with versican
+Versican was immunoprecipitated from tissue lysates using versican
+antibody (V0 isoform; SCBT, Santa Cruz, CA) covalently bound to Dynabeads (Life
+Technologies, Carlsbad, CA). Total versican concentration in the
+immunoprecipitate was determined by competitive ELISA as described above.
+Prostate cancer samples were diluted by 50% in diluent to bring versican
+to approximately the same concentration as in the normal tissue
+immunoprecipitates. Blyscan assay for C4S was conducted as described above to
+detect the C4S that co-immunoprecipitated with versican.
+Immunohistochemistry of chondroitin-4-sulfate
+Tissue sections were prepared from the frozen normal and malignant
+prostate tissues and immunostained with chondroitin-4-sulfate (C4S) mouse
+monoclonal antibody (4D1 clone, SCBT; 1:100). Sections were incubated with
+primary antibody or IgG negative control overnight at 4degC, then washed,
+then incubated with secondary antibody which was conjugated with HRP for 1 h at
+room temperature. Color was developed following wash with 3,3-diaminobenzidine
+and counterstained with hematoxylin. Digitized images were obtained with
+QCapture software (QImaging, Surrey, BC, Canada) at 20X magnification.
+Background color was modified with GIMP Portable software (Portable Apps, New
+York, NY).
+Statistics
+Results are expressed as mean +- Standard Deviation. Statistical
+significance of differences in H-scores between paired samples that varied by
+recurrence vs. non-recurrence and association between H-scores and Gleason
+scores was determined using Instat (GraphPad Software, San Diego, CA) by either
+paired or unpaired t-tests, two-tailed, or by one-way analysis of variance,
+followed by the Tukey-Kramer post-test to correct for multiple comparisons.
+Paired t-tests were performed with 6 pair of normal and malignant biological
+samples using averages of technical duplicates of each measurement. P-value of
+less than 0.05 was considered statistically significant. One asterisk represents
+p< 0.05, ** represents p<0.01, *** p<0.001, and ****
+p<0.0001.
+
+Results
+Lower Arylsulfatase B H-score predicts recurrence in paired cancer
+cases
+Prostate cancer cases in the CPCTR array were paired for age +- 5
+years, race, treatment intervention, Gleason scores (in same sequence), and
+pathological TNM stage, and were differentiated only by biochemical (elevated
+PSA) recurrence vs. non-recurrence after 4 or more years of followup.
+Arylsulfatase B (ARSB; N-acetylgalactosamine-4-sulfatase) immunostaining of the
+tissue microarray containing 22 pairs of cores from prostatectomies was
+performed. ARSB H-scores for epithelium, stroma, and combined epithelium and
+stroma were determined by digitized image analysis for each case, and were
+compared between the recurrent and non-recurrent members of the pairs.
+82% (18/22) of the pairs had higher H-scores for the non-recurrence than
+for recurrence using the combined stroma and epithelium ARSB H-score (Table 1). In contrast, initial PSA values
+were lower in only 65% (13/20) of the recurrences, making the PSA in
+this sample less effective as a predictor of recurrence than the ARSB H-score.
+The combination of higher ARSB H-score and lower PSA value predicted 95%
+(21/22) of the recurrences.
+Mean ARSB H-score for recurrence for combined stroma and epithelium was
+0.28 +- 0.26 and for non-recurrence was 0.62 +- 0.28. By paired
+t-test, the difference in ARSB H-scores was highly significant for combined
+(p=0.0006, paired t-test, two-tailed), for epithelium (p=0.0003), and for stroma
+(p=0.0021) (Fig. 1A). ARSB H-scores less
+than 0.25 for combined predicted recurrence with 100% specificity, and
+H-scores greater than 0.70 for combined were highly predictive of non-recurrence
+(Fig. 1B). Overlap between the scores
+for recurrence and non-recurrence was evident between 0.25 and 0.70, and over
+50% (23/44) of the cases were in this range.
+Inverse association between ARSB immunostaining and Gleason score
+Mean ARSB H-scores for cores on the NDRI array were calculated and
+associated with the corresponding Gleason scores. 11 cores were designated
+Gleason 6, 6 were Gleason 7, 8 were Gleason 8, and 5 were Gleason 9. Mean ARSB
+H-scores were compared between Gleason scores 6+7 and Gleason scores 8+9 for
+stroma, epithelium, and combined epithelium and stroma and found to be
+significant (p=0.052, p=0.015, and p<0.0001, respectively, unpaired
+t-test, two-tailed) (Fig. 2A).
+Representative images demonstrate greater intensity of ARSB immunostaining for
+Gleason scores 6 and 7 compared to scores 8 and 9 (Fig. 2B-2E). The ARSB positive epithelial cell membrane becomes
+increasingly less continuous and more punctate with increasing Gleason score.
+Overall intensity of stromal and epithelial staining declined with increasing
+Gleason score. Representative TMA cores demonstrate positive staining for ARSB
+(Fig. 2F) and negative staining with
+IgG control (Fig. 2G).
+Linear regression analysis demonstrated inverse correlations for ARSB
+H-scores and Gleason scores (7-9) for combined epithelium and stroma,
+epithelium, and stroma (Fig. 2H). The
+r-values were -0.99, -0.97, and -0.98, respectively.
+Reduced ARSB associated with increased sulfated glycosaminoglycans and
+chondroitin-4-sulfate in malignant prostatic tissue compared to normal
+Western blot demonstrated greater ARSB in the normal than in the
+malignant prostate tissue (Fig. 3A). The
+ARSB inhibitory peptide, composed of the epitope to which the antibody was
+developed, completely blocked the appearance of the ARSB band, demonstrating the
+specificity of the antibody. B-actin band demonstrated equal loading.
+Densitometry confirms the visual impression (Fig.
+3B) and indicates significant differences between intensity of bands
+between normal and malignant tissue and inhibition by ARSB inhibitory
+peptide.
+In the paired normal and malignant fresh frozen tissue samples obtained
+from the UIC Tissue Bank from radical prostatectomies performed as initial
+treatment for localized prostate cancer, PSA at diagnosis ranged from 4.3 to
+25.4 ng/ml (ug/L), and Gleason scores ranged from 6-9. In these
+samples, the ARSB activity in the malignant prostate tissue was
+~50% of the value in the normal tissue. Mean ARSB activity in
+the normal tissue was 139.3 +- 13.4 nmol/mg protein/h, compared to 76.1
++- 7.1 ng/mg protein/h in the malignant tissue (p<0.0001, paired
+t-test, two-tailed) (Fig. 3C).
+Since decline in ARSB activity leads to reduced degradation of
+chondroitin 4-sulfate (C4S), the content of C4S and total sulfated
+glycosaminoglycans (GAGs) were measured in the normal and malignant prostate
+samples. C4S was significantly increased in the malignant prostate tissue,
+compared to the normal tissue (p<0.0001, paired t-test, two-tailed)
+(Fig. 3D). The mean difference in C4S
+content between the malignant and normal paired samples was almost 6
+ug/mg total protein, and accounted for 81% of the increase in
+the total sulfated GAGs in the malignant tissue compared to the normal tissue.
+Immunohistochemistry of C4S also demonstrates less intense staining of C4S
+staining in the normal (Fig. 3E), compared
+to the malignant prostate tissue (Fig. 3F),
+consistent with the decline in ARSB in the malignant tissue and the resultant
+increase in C4S. IgG control staining is negative (Fig. 3G).
+Versican increased in malignant prostate tissue
+Versican, an extracellular matrix proteoglycan with chondroitin sulfate
+attachments, has previously been considered as a biomarker of prostate cancer.
+Measurements of versican showed significant increases in versican in the
+malignant prostate tissues, compared to levels in the normal tissues. The mean
+value of the increase between the malignant and the normal paired tissues was
+119.4 ng/mg protein, an increase of more than 76% over the baseline
+(p<0.0001, paired t-test, two-tailed) (Fig. 4A).
+The G2 domain of versican has sites where chondroitin sulfate attaches,
+and versican isoforms with differences in these attachment sites have been
+associated with changes in cell proliferation and apoptosis [22]. To determine if the amount of C4S
+associated with versican differed between the normal and malignant prostate
+tissue, the C4S that co-immunoprecipitated with versican was measured. In the
+malignant tissue, C4S increased to 2.6 times the level in the normal prostate
+tissue (Fig. 4B). This increase is
+consistent with the marked decline in ARSB activity and the overall increase in
+C4S content in the malignant tissue. Levels of versican and
+chondroitin-4-sulfate directly correlated in both the normal and malignant
+prostate tissues, with lower values for the normal tissue and higher values for
+the malignant tissue (r = 0.94).
+Decline in total EGFR that co-immunoprecipitates with versican in malignant
+prostate tissue
+Specific versican isoforms and overexpression of specific domains of
+versican have been reported to impact on cell proliferation and EGF-EGF receptor
+(EGFR) signaling. Particular attention has been focused on the two epidermal
+growth factor (EGF)-like motifs in the G3 domain at the C-terminus [23-26]. To detect if there were changes in the EGFR in the malignant
+vs. the normal prostate tissue, the EGFR was quantified by ELISA. In contrast to
+the increase in C4S that co-immunoprecipitated with versican in the malignant
+compared to the normal prostate tissue (above), the EGFR that
+co-immunoprecipitated with versican in the malignant tissue declined to 17.6
++- 1.0% of the value in the normal tissue (Fig. 5A). In contrast, the total EGFR in the malignant
+tissue increased to over three times the baseline value (Fig. 5B). These results suggest that the increased C4S bound
+with versican in malignant prostate tissue may impede the binding of the stromal
+versican EGF-like repeats with epithelial EGFR. The overall increase of EGFR in
+the malignant tissue suggests that more EGFR may be available for interaction
+with endogenous EGF, leading to effects on cell proliferation.
+
+Discussion
+This is the first report of decline in ARSB in prostatic malignancy. The
+study findings are consistent with a role for ARSB in the determination of the
+composition of the tumor microenvironment and suggest that decline in ARSB activity
+contributes to the malignant phenotype, as we have previously reported in other
+epithelial tissues [3, 8-10]. Study data
+suggest that ARSB may be useful as a biomarker of prostate cancer. In 82% of
+paired cases, the biochemical recurrences had lower ARSB immunostaining at the time
+of prostatectomy. This contrasts with the results for PSA, since PSA values were
+higher in only 65%. ARSB immunostaining, determined by digitized analysis,
+was inversely associated with Gleason scores for epithelial and stromal compartments
+separately and in combination. Also, when ARSB activity was determined in normal and
+malignant regions of prostatectomies, ARSB activity was significantly less in the
+malignant compared to normal tissue. In association with reduced ARSB activity,
+total sulfated glycosaminoglycans and chondroitin-4-sulfate content were increased
+in the malignant prostatic tissue, and the chondroitin-4-sulfate containing matrix
+proteoglycan versican was also increased. The chondroitin-4-sulfate that
+co-immunoprecipitated with versican (V0 isoform) was increased in the malignant
+prostate tissue, whereas the total EGFR that co-immunoprecipitated with versican
+declined.
+Versican was previously reported as a biomarker of prostate malignancy, and
+increases in versican and in chondroitin sulfate have been identified as predictors
+of disease progression by other investigators [11,12]. This report suggests that
+the decline in ARSB activity and the associated increase in C4S may impact on
+versican-associated processes in the stroma and on the stromal-epithelial
+interactions. By presenting and recruiting molecules to the epithelial cell surface,
+stromal versican can interact with epithelial cell surface receptors and can
+modulate signaling pathways, including the EGF-EGFR pathway, since two epidermal
+growth factor (EGF)-like motifs are located at the C-terminus of the G3 domain of
+versican [13-14,22-27]. The interaction of the versican EGF-like
+repeats with the epithelial cell EGFR has been reported to affect EGFR signaling and
+to influence malignant growth and invasiveness. Other work has shown that exogenous
+EGF influenced prostatic cancer behavior, including the migration of malignant cells
+to metastatic sites, cell cycle activation through Cyclin D1, and invasiveness
+through the urokinase-type plasminogen activator (uPA) pathway [28-30]. Study findings suggest that increased chondroitin sulfate may
+inhibit the interaction of the versican EGF-like repeats with the endogenous EGFR,
+and may have consequences for development of the malignant phenotype and/or
+invasiveness.
+Further studies are required to determine the usefulness of ARSB as an
+effective biomarker of prostate cancer aggressiveness, and the combination of ARSB
+and PSA may be more informative than either test alone. Analysis of larger databases
+with outcome data will enable clarification if measurements of ARSB activity or ARSB
+immunohistochemical scores can help to predict recurrence and severity of disease.
+Specific cutoffs for ARSB H-scores or for ARSB activity may become associated with
+recurrence or non-recurrence. Standardization of H-scores may be difficult, since
+variation in the range of H-scores was present in the two small arrays analyzed in
+this report. Potentially, microgram quantities of tumor tissue from biopsy samples
+can be studied to determine ARSB activity and to correlate activity with outcome
+data. Since ARSB treatment is used safely and effectively for replacement in
+Mucopolysaccharidosis VI [31], a therapeutic
+role for ARSB in prostate cancer may emerge in the future.

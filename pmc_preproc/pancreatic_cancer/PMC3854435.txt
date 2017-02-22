@@ -1,0 +1,294 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Adipose tissue-derived stem cells promote pancreatic
+cancer cell proliferation and invasion. To explore the effects of adipose tissue-derived stem cells (ADSCs) on the proliferation and invasion of pancreatic cancer cells in vitro and the possible mechanism involved, ADSCs were cocultured with pancreatic cancer cells, and a cell counting kit (CCK-8) was used to detect the proliferation of pancreatic cancer cells. ELISA was used to determine the concentration of stromal cell-derived factor-1 (SDF-1) in the supernatants. RT-PCR was performed to detect the expression of the chemokine receptor CXCR4 in pancreatic cancer cells and ADSCs. An in vitro invasion assay was used to measure invasion of pancreatic cancer cells. SDF-1 was detected in the supernatants of ADSCs, but not in pancreatic cancer cells. Higher CXCR4 mRNA levels were detected in the pancreatic cancer cell lines compared with ADSCs (109.3+-10.7 and 97.6+-7.6 vs 18.3+-1.7, respectively; P<0.01). In addition, conditioned medium from ADSCs promoted the proliferation and invasion of pancreatic cancer cells, and AMD3100, a CXCR4 antagonist, significantly downregulated these growth-promoting effects. We conclude that ADSCs can promote the proliferation and invasion of pancreatic cancer cells, which may involve the SDF-1/CXCR4 axis.
+
+Introduction
+It has been increasingly recognized that cancer cells actively recruit stromal cells
+into tumors and that this recruitment is essential for the generation of a
+microenvironment that promotes tumor growth (1). In recent years, it has been suggested that stromal cells are not
+only associated with pancreatic cancer, but also play an active role in cancer
+progression. Pancreatic stroma cells can stimulate tumor growth and invasiveness
+(2,3), induce chemotherapy resistance, and inhibit apoptosis of cancer
+cells (4,5). The pancreas has abundant stroma surrounding it, and tumor-stroma
+interactions play a critical role in tumor progression (6). Although the exact mechanisms of tumor-stroma interactions
+are unclear, some chemokines, including hepatocyte growth factor, epidermal growth
+factor, vascular endothelial growth factor, and stromal cell-derived factor-1
+(SDF-1), have been shown to be involved in the interaction (7,8).
+SDF-1 belongs to the CXC chemokine family and is a ligand for CXCR4. SDF-1 is
+expressed in stromal cells (9), and CXCR4
+expression has been found in many cancer types, including breast, ovary, kidney,
+prostate, and stomach cancer tissue as well as cell lines (10-12). In addition, it
+has been demonstrated that the SDF-1/CXCR4 receptor-ligand system plays an important
+role in pancreatic cancer progression by promoting tumor cell migration and
+angiogenesis (13,14).
+The interactions between mesenchymal stem cells from bone marrow and malignant tumors
+from breast, prostate, ovaries, and stomach have been described (10,15).
+Compared to bone marrow-derived stem cells, adipose tissue-derived stem cells
+(ADSCs) are locally adjacent to the tumor tissues and may interact with tumor cells
+directly. However, the ability of ADSCs to promote tumor cell proliferation remains
+controversial. It has been reported that ADSCs can promote breast, prostate,
+non-small lung, and glioblastoma cancer cell growth in vivo (16-18).
+In contrast, several reports have shown an anti-tumor effect of mesenchymal stem
+cells. Khakoo et al. (19) used systemic
+injection of mesenchymal stem cells to inhibit the growth of a subcutaneous Kaposi
+sarcoma xenotransplant. In addition, the coimplantation of breast cancer cells with
+mesenchymal stem cells results in tumor growth inhibition and a reduction of
+metastasis in vivo (20).
+However, the impact of ADSCs, which are a type of local mesenchymal stem cell, on
+proliferation and invasion of pancreatic cancer has not been reported to date.
+Therefore, in this study, we determined whether ADSCs can promote the growth and
+metastasis of pancreatic cancer cells and sought to determine the mechanism
+responsible for these observed effects.
+
+Material and Methods
+Cell lines and reagents
+Human pancreatic cancer (PaCa) cell lines SW1990 and PANC-1 were purchased from
+the Chinese Academy of Sciences (Shanghai, China). Dulbecco's modified Eagle's
+medium (DMEM) and fetal bovine serum (FBS) were provided by Gibco (USA),
+recombinant human CXCL12 (SDF-1) was purchased from R&D Systems (USA), and
+AMD3100 and Matrigel were obtained from Sigma-Aldrich (USA).
+Isolation of human ADSCs
+Adipose tissue was obtained from healthy people undergoing bariatric surgery who
+had provided informed written consent. The protocol of all procedures was
+approved by the institutional review board of the First Affiliated Hospital of
+Wenzhou Medical College. Fresh visceral fat tissue was washed with
+phosphate-buffered saline (PBS) and immediately processed. The tissue was minced
+into pieces less than 2 mm in diameter and then digested with collagenase type
+IV at 37degC for 1 h. The digested tissue was then centrifuged at 400
+g for 10 min. The supernatant containing adipocytes and
+debris was discarded, and the pelleted cells were washed with Hanks balanced
+salt solution. Finally, cells were resuspended and grown in 1000 mg/L
+low-glucose DMEM (L-DMEM) containing 20% FBS, 100 ug/L penicillin, and 100 ug/L
+streptomycin in a humidified environment with 5% CO2 at 37degC. After
+24 h, red blood cells and unattached cells were washed and removed. The cells
+were then grown in a humidified incubator at 37degC. After the cells were cultured
+for three to five passages, cell surface markers, such as CD45, CD73, and CD90,
+were analyzed for characterization of the ADSCs.
+Differentiation of human ADSCs into adipocytes
+ADSCs were cultured to confluence on 35-mm dishes containing DMEM. The medium was
+then removed and fresh DMEM was added containing 0.5 mM IBMX, 1.0 uM
+dexamethasone, and 300 nM insulin. The cells were cultured in this
+differentiation medium for 2 days, and then the medium was changed every 2 days
+with DMEM containing only 300 nM insulin for a total of two times. After this
+step, the cells were incubated in DMEM without any additives, with a change of
+medium every 10 days. Fully differentiated adipocytes were observed by light
+microscopy based on morphology. Oil red O staining was used to detect fat
+droplets for the various treatments as described earlier. Using parallel time
+and conditions, ADSCs were incubated in DMEM without any additives as a negative
+control.
+Transwell coculture of ADSCs and PaCa cells
+ADSCs were cultured in the apical compartments of Transwells (Transwell insert
+0.4 uM; Millipore, USA) with PaCa cells grown in the basal compartment of a
+6-well plate (Millipore). ADSCs were seeded onto the upper layer of Transwells
+at a density of 2x105 cells/well and were not in direct contact with
+PaCa cells. PaCa cells were seeded onto the lower layer of Transwells at a
+density of 2x104 cells/well. All cells were cultured in L-DMEM
+supplemented with 10% FBS at 37degC in 5% CO2. As a control, the same
+PaCa cells were seeded instead of ADSCs onto the upper layer. After the cells
+were cultured for 72 h, cell proliferation was analyzed using a cell counting
+kit (CCK-8, Dojindo, Japan) following the manufacturer's instructions.
+Absorption (A) was measured at 450 nm using a spectrophotometer. The
+proliferation rate (%) of PaCa cells was calculated using the following
+equation: 1-(A of control-A of ADSCs)/(A of control-A of PaCa)x100%. The
+experiments were performed in triplicate and repeated twice.
+Invasion assay
+An in vitro invasion assay was performed using Boyden chambers
+with inserts (pore size 8 um) coated with Matrigel on 24-well plates. Briefly,
+PaCa cells (4x105 cells/mL) were suspended in 250 uL medium
+containing 2% FBS in the upper chamber, which was precoated with 15 uL Matrigel
+(0.5 ug/mL). ADSCs were seeded onto the lower layer of Transwells at a density
+of 2x105 cells/well. The coculture system was incubated at room
+temperature for 15 min. The control group consisted of plates with medium
+containing 2% FBS and PaCa cells in the upper chamber only. The plates were
+incubated for 24 h at 37degC in 5% CO2. Cells on the upper side of the
+filters were removed with cotton-tipped swabs, and invaded cells were fixed with
+4% paraformaldehyde, washed with PBS, air dried, and stained with crystal violet
+for 30 min. They were then rinsed several times with distilled water. The number
+of invading cells was counted in five random microscopic fields. Each experiment
+was repeated three times.
+SDF-1 ELISA
+After the cells were cultured for 72 h at 37degC with 5% CO2 in a
+humidified incubator, the culture medium was collected separately and
+centrifuged at 800 g for 5 min to remove debris. The
+supernatants were then frozen at -80degC for further assessment by ELISA. ELISA
+was performed using a human CXCL12/SDF-1 kit (R&D Systems) according to the
+manufacturer's instructions.
+SDF-1 and CXCR4 qRT-PCR
+Total RNA was extracted from cultured cells using Trizol (Invitrogen, USA). The
+cDNA was synthesized using a random primer from 1 ug total RNA with the
+RevertAid First Strand cDNA Synthesis Kit according to the manufacturer's
+instructions (Fermentas, USA). The following primers were used for qRT-PCR:
+human SDF-1 (sense: 5'-gctttgagtgactgggtt-3', antisense:
+5'-gtggcaagatgatggttt-3'), PCR product size 124 bp; human CXCR4 (sense:
+5'-gaagctgttggctgaaaagg-3', antisense: 5'-gagtcgatgctgatcccaat-3'), PCR product
+size 345 bp; human b-actin (sense: 5'-actcttccagccttccttc-3', antisense:
+5'-tgtcaccttcaccgttcc-3'), PCR product size 516 bp. PCR was performed following
+the manufacturer's instructions. The cycling conditions were 3 min at 94degC,
+followed by 30 cycles of denaturation at 94degC for 30 s, annealing at 54degC for 30
+s, and extension at 72degC for 60 s. Amplified DNA fragments were resolved by
+electrophoresis on 1% agarose gels containing ethidium bromide.
+Proliferation assay
+PaCa cells were seeded into culture medium containing 10% FBS on a 96-well plate
+at a cell density of 5000 cells/well. Cells were incubated with the indicated
+concentration of SDF-1 for 72 h and then counted using a CCK-8 kit. Absorbance
+was measured with a microplate reader at a wavelength of 490 nm. In another set
+of experiments, cells were first treated with the indicated concentration of
+AMD3100 (100 ng/mL) for 6 h and then refed with medium containing SDF-1 (1
+ng/mL). After 72 h, the number of cells was determined using the CCK-8 kit and
+absorbance was measured with a microplate reader at a wavelength of 490 nm. Each
+condition was assessed with five independent samples, and the experiments were
+repeated three times.
+Transwell coculture of ADSCs and PaCa cells with AMD3100
+PaCa cells were seeded in culture medium containing 10% FBS on a 96-well plate at
+a density of 5000 cells/well. AMD3100 (100 ng/mL) was added to the wells and the
+same Transwell cocultured system was set up as described above. Cells were
+cultured for 72 h and then the number of PaCa cells was counted using the CCK-8
+kit. Absorbance was measured with a microplate reader at 490 nm. Each condition
+was assessed with five independent samples, and the experiments were repeated
+three times.
+Statistical analysis
+Data are reported as means+-SD and analyzed using analysis of variance. A value of
+P<0.05 was considered to be statistically significant.
+
+Results
+Identification of ADSCs
+Morphologically, primary human ADSCs were spindle shaped and adherent to the
+dish. Several ADSCs markers were confirmed by flow cytometric analysis,
+including CD73, CD90, and CD45 (97.32%, 92.25%, and 98.37% positivity,
+respectively; Figure 1). The CD marker
+analysis of ADSCs was consistent with typical mesenchymal stem cells. After
+differentiation, the accumulated adipocytes in ADSCs were detected by oil red O
+staining for the various treatments. Most of the ADSCs differentiated into
+adipocytes successfully, and oil red O staining detected numerous fat droplets
+in the cytoplasm of adipocytes. However, in the negative control, no adipocytes
+were observed in ADSCs (Figure 1).
+Figure 1
+A, Phenotype of adipose tissue-derived stem cells
+(ADSCs) isolated from human adipose tissue (on the 1st day).
+B, Expression of CD45, CD73, and CD90 in isolated
+ADSCs. C, Fat droplets were observed in the cytoplasm
+of adipocytes at 100X magnification. D, Fat droplets
+were stained with oil red O.
+Effect of ADSCs on the proliferation and invasion of PaCa cells
+Using a cell coculture system, we next found that ADSCs promote the proliferation
+of PaCa cells (Figure 2A). The number of
+pancreatic SW1990 and PANC-1 cells cultured with ADSCs in the system was
+significantly higher than the cells grown in the absence of ADSCs (P<0.05).
+Moreover, the invasive behavior of PaCa cells incubated with ADSC supernatant
+was enhanced (P<0.05; Figure 2B).
+Figure 2
+Effect of adipose tissue-derived stem cells (ADSCs) on the
+proliferation and invasion of human pancreatic cancer (PaCa) cell lines
+(SW1990 and PANC-1). A, After coculturing ADSCs with
+PaCa cells for 72 h, the proliferation of PaCa cells was examined using
+the CCK-8 assay. The proliferation of SW1990 and PANC-1 cells cocultured
+with ADSCs was significantly increased compared to the respective cells
+cultured alone (*P<0.05, t-test).
+B, ADSCs were cocultured with PaCa cells for 72 h and
+the percentage of PaCa cell invasion was examined under a microscope.
+The invasion of SW1990 and PANC-1 cells was significantly greater in the
+presence of ADSCs compared to control cells (*P<0.05,
+t-test).
+Secretion of SDF-1 by ADSCs
+The amount of SDF-1 secreted by ADSCs and PaCa cells was next determined by
+ELISA. The concentration of SDF-1 in the ADSC supernatant was 1110.8+-91.5 pg/mL
+(range: 1007.3-1201.2 pg/mL). Importantly, a very low concentration of SDF-1 was
+detected in the supernatant of PaCa cells. These data confirmed that ADSCs, but
+not PaCa cell lines, secrete SDF-1.
+Expression of SDF-1 and CXCR4 in cultured PaCa cell lines and ADSCs
+We evaluated the expression of SDF-1 and CXCR4 by qRT-PCR in cultured cells.
+ADSCs exhibited a higher expression of SDF-1 compared to SW1990 and PANC-1 cells
+(69+-5 vs 0 and 0, respectively; P<0.01). However, these two
+PaCa cell lines showed a higher expression of CXCR4 compared to ADSCs
+(109.3+-10.7 and 97.6+-7.6 vs 18.3+-1.7, respectively;
+P<0.01).
+Effects of SDF-1 on the proliferation of PaCa cell lines
+The effect of SDF-1 on SW1990 and PANC-1 cell growth was determined using the
+CCK-8 assay. We found that SDF-1 enhanced the proliferation of PaCa cells in a
+dose-dependent manner 1 (0, 0.5, 1, 10, 100 ng/mL) compared to controls
+(P<0.05; Figure 3A). Importantly, the
+CXCR4 antagonist AMD3100 significantly blocked SDF-1-induced proliferation
+(P<0.05) but did not inhibit SW1990 and PANC-1 basal cell growth in the
+absence of SDF-1 (Figure 3B).
+Figure 3
+Effect of SDF-1 on the proliferation of human pancreatic cancer
+(PaCa) cell lines (SW1990 and PANC-1) using the CCK-8 assay.
+A, SDF-1 enhanced the proliferation of PaCa cells
+in a dose-dependent manner (*P<0.05, t-test).
+B, AMD3100 blocked SDF-1-mediated proliferation
+(*P<0.05, t-test).
+Effects of ADSCs on the proliferation of PaCa cells in the presence of
+AMD3100
+The effect of ADSCs on SW1990 and PANC-1 cell growth in the presence of AMD3100
+was also determined using the CCK-8 assay. We found that ADSCs enhanced the
+proliferation of both PaCa cell lines, which was significantly reduced by the
+addition of 100 ng/mL AMD3100 (P<0.05; Figure
+4).
+Figure 4
+Effect of adipose tissue-derived stem cells (ADSCs) on the
+proliferation of human pancreatic cancer (PaCa) cell lines (SW1990 and
+PANC-1) in the presence of AMD3100. AMD3100 downregulated the effects of
+ADSCs on PaCa cell line proliferation (*P<0.05,
+t-test).
+
+Discussion
+The interaction between a tumor and tumor-associated stroma has been reported in many
+studies, and the importance of the local tumor microenvironment for tumor
+progression has been recognized for many years (21,22). In many solid tumors, the
+stroma is critically important for promoting tumor growth. Our study demonstrated
+that ADSCs promote pancreatic cancer cell proliferation and invasion in
+vitro. Furthermore, we demonstrated that the SDF-1/CXCR4 axis plays an
+important role in mediating the tumor-promoting effect.
+Our findings that ADSCs promote the growth of PaCa cells are of particular
+importance, because ADSCs are derived from adipose tissue that is abundant in the
+tissues adjacent to the pancreas. ADSCs are ubiquitously distributed in all tissues
+and may interact with tumors directly (10).
+We first found that ADSCs, but not PaCa cells, secrete SDF-1. SDF-1 is a secreted
+chemokine that is released into the interstitial space, where it acts on cells in
+the local microenvironment in a paracrine fashion to stimulate directional migration
+of hematopoietic and nonhematopoietic normal and malignant cells (23). SDF-1 exerts a variety of biological
+functions, including the regulation of angiogenesis and inhibition of apoptosis, as
+well as tumor growth, migration, and invasion-promoting effects (24-26)
+through the SDF-1/CXCR4 receptor ligand axis. Furthermore, Brand et al. (27) demonstrated that SDF-1 stimulation induces
+a significant increase in vascular endothelial growth factor protein levels in the
+colorectal cancer line HT-29. SDF-1 has also been shown to play a role in tumors
+from breast, melanoma, ovaries, stomach, and other carcinomas (12).
+We also assessed the expression of CXCR4 in the two PaCa cell lines using qRT-PCR and
+found that the mRNA levels were elevated compared to controls. In contrast, CXCR4
+mRNA levels were very low in ADSCs. Importantly, these results were in agreement
+with previous studies (13,28). We also found that the SDF-1/CXCR4 axis
+plays an important role in the proliferation of PaCa cells. In this study, we
+demonstrated that recombinant SDF-1 could significantly promote the proliferation of
+PaCa cells. Blocking the receptor with AMD3100 was sufficient for preventing
+SDF-1-mediated proliferation in PANC-1 and SW1990 cells. It has also been reported
+that CXCR4 signaling in pancreatic cancer cell lines can promote PaCa proliferation
+(29). Therefore, taken together, these
+observations indicate that CXCR4 is a potential therapeutic target in pancreatic
+cancer.
+In this study, we also found that ADSCs stimulate the migratory and invasive behavior
+of PaCa cells. In a Transwell chamber migration assay, the presence of ADSCs
+significantly increased migration of PaCa cells. An invasion assay using
+Matigel-coated invasion chambers also showed that ADSCs stimulated invasion of PaCa
+cells and that these effects were inhibited by the addition of the CXCR4 inhibitor
+AMD3100. Therefore, SDF-1 plays a key role in promoting the migration and invasion
+of PaCa cells. However, although the ADSC-induced proliferation was inhibited by
+AMD3100, proliferation was still higher than the control. Therefore, other factors,
+such as matrix metalloproteinase (MMP)-9, MMP-2, and vascular endothelial growth
+factor (10,30), may also be involved in promoting the proliferation, migration, and
+invasion of PaCa cells. It has been shown that myofibroblast-derived SDF-1 recruits
+endothelial progenitor cells to sites of carcinomas and thereby enhances
+angiogenesis and tumor growth (31).
+Therefore, ADSC-derived SDF-1 may be partially responsible for the proliferation and
+invasion of PaCa cells.
+The aim of this study was to gain a better understanding of the mechanisms related to
+pancreatic cancer growth and invasion. Despite advances in surgical and medical
+therapies, pancreatic cancer continues to have a very poor prognosis. The poor
+prognosis of pancreatic cancer is attributable to late presentation, aggressive
+local invasion, early metastases, and poor response to chemotherapy (32,33).
+Therefore, a better understanding of the fundamental nature of this cancer is needed
+to improve clinical outcomes. Our finding that local stem cells adjacent to
+pancreatic cancer cells are involved in tumor growth and metastasis may be useful
+for pancreatic tumor resection, because these results suggest that the adipose
+tissue surrounding pancreatic tissue should be resected completely. However, future
+studies are needed to confirm these findings.

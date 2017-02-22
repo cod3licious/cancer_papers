@@ -1,0 +1,192 @@
+[Abstract, Introduction, Mixed, Mixed, Mixed, Mixed, Mixed, Mixed, Discussion]
+
+Ipilimumab for advanced melanoma: A pharmacologic perspective. Ipilimumab, a fully human anti-CTLA-4 antibody, has been approved for the treatment of unresectable or metastatic melanoma based on its survival benefit demonstrated in randomized phase III studies. The current approved dosing schedule of ipilimumab is 3 mg/kg as a 90-min intravenous infusion every 3 weeks for a total of 4 doses. The immune-mediated mechanism of action of ipilimumab can result in tumor response patterns that may differ from those observed with conventional chemotherapy; therefore, revised response criteria to fully capture the spectrum of responses have been developed and are being prospectively validated. The safety profile of ipilimumab also reflects its mechanism of action and is characterized by immune-related adverse events. Although most of these events are mild, tolerable and reversible, high-grade immune-related adverse events have been observed in 15% of patients and can be potentially life-threatening if not managed appropriately. Guidelines for the management of these events emphasize thorough patient education, vigilant monitoring and prompt intervention with corticosteroids when appropriate. Ongoing research, including evaluation of ipilimumab in the adjuvant setting, investigation of its use in combination with other agents and assessment of alternative doses, will help optimize and expand the use of this innovative treatment.
+
+Introduction
+In 2012, the incidence of melanoma in the United States is estimated at 76,250 new cases,
+with projected deaths being 9180.1 Melanoma accounts for only 4% of all skin cancers; however, it is
+responsible for approximately 80% of all skin cancer deaths.2 The prognosis of patients with unresectable
+stage III or stage IV melanoma has been dismal. Benchmark data from a recent meta-analysis
+reveal a 1-year survival rate of 25%, with median overall survival of 6.2 months.3
+Until recently, treatment options for patients with advanced melanoma have been very
+limited, with dacarbazine (DTIC) and interleukin-2 (IL-2) being the only two approved agents
+in the United States.4
+DTIC is associated with low response rate (~7%) and unclear survival benefit.4 Temozolomide, a congener of
+DTIC with similar clinical activity, 100% oral bioavailability and improved blood-brain
+barrier penetration, is commonly used as an oral alternative to DTIC. Various combined
+chemotherapeutic regimens have also been explored. Disappointingly, multi-drug combinations
+did not prolong survival despite improved response rates and increased toxicities. IL-2 was
+approved by the US Food and Drug Administration (FDA) for advanced melanoma based on durable
+disease control observed in a small group of patients in phase II.4,5 Pooled analysis of eight clinical trials evaluating high-dose IL-2
+between 1985 and 1993 demonstrated an overall response rate of 16%, with long-term remission
+of 5 years or more occurring in 4% responders.5 However, high-dose IL-2 has a substantial
+toxicity profile, limiting its clinical utility to those patients with good performance
+status and without preexisting cardiopulmonary comorbidities.4,5 Safe administration of high-dose IL-2 should take place in intensive
+care units under the supervision of an experienced oncology team.4,5
+In 2011, the FDA approved two first-in-class agents, ipilimumab and vemurafenib, for
+advanced melanoma based on demonstration of improved survival in phase III studies. The
+present review will focus on the pharmacology, pharmacokinetics and clinical experience of
+ipilimumab in advanced melanoma.
+
+Mechanism of action
+Improved understanding of the interactions among the immune system, the tumor and its
+associated microenvironment has unearthed several potential molecular targets for
+immunotherapy. One of these targets is cytotoxic T-lymphocyte antigen-4 (CTLA-4), a cell
+surface molecule that plays an essential role in regulating the adaptive immune response.
+T-cell activation is a tightly controlled process that requires two signals: (a) the initial
+binding of tumor-associated antigens (TAAs) on antigen presenting cells (APCs) to T-cell
+receptors (TCRs) and (b) the subsequent binding of B7 molecules on the APC to CD28 receptors
+on T cells. Without the costimulatory B7-CD28 interaction, TCR-TAA engagement results in
+anergy rather than a productive immune response.6 Immediately following T-cell activation, the
+expression of CTLA-4, an inhibitory molecule that competes with CD28 for binding to B7, is
+up-regulated on the T-cell surface. CTLA-4-B7 ligation interrupts the costimulatory signal,
+blunting T-cell proliferation response.7 Ipilimumab is a fully human IgG1 monoclonal
+antibody that blocks CTLA-4. It is thought that by negating the inhibitory action of CTLA-4,
+ipilimumab augments T-cell responses to tumor antigens, resulting in immune-mediated
+antitumor activity.7
+
+Pharmacokinetics
+The pharmacokinetics of ipilimumab was derived from 499 patients with unresectable or
+metastatic melanoma who received the drug at three dose levels; 0.3, 3 or 10 mg/kg;
+administered once every 3 weeks for 4 cycles. Peak and trough concentrations and area under
+the curve of ipilimumab were dose proportional within this dose range. Steady-state
+concentration was reached by the third dose. Population pharmacokinetic analyses determined
+mean (% coefficient of variation) terminal half-life of 14.7 days (30.1%), clearance of
+15.3 mL/h (38.5%) and volume of distribution at steady-state of 7.21 L (10.5%).8,9 The target trough concentration of
+20 mcg/mL, the level at which ipilimumab attains maximum CTLA-4 blockade, was achieved in
+30% of patients in the 3 mg/kg group.10
+High body weight, preexisting mild to moderate renal insufficiency (creatinine clearance of
+29 mL/min or above) or various degrees of hepatic dysfunction at baseline did not have a
+clinically meaningful effect on ipilimumab's pharmacokinetics; therefore, no dosage
+adjustment is indicated for these conditions. Other variables, such as age, gender,
+concomitant use of budesonide, performance score, HLA-A2*0201 status, anti-ipilimumab
+antibody positivity, prior history of systemic anticancer therapy or baseline lactate
+dehydrogenase (LDH) levels, did not appear to significantly impact the clearance of
+ipilimumab. Due to insufficient numbers of non-Caucasian patients participating in clinical
+trials, the effects of ethnicity were not examined.8,9
+
+Clinical trials
+Early phase I and II studies evaluated different doses of ipilimumab in various single or
+repeated dosing schedules10 as well as in combination with other agents, such as vaccines,11 IL-212 or DTIC.13 The results of these
+trials suggested that ipilimumab had clinical activity against melanoma, produced
+dose-proportional antitumor efficacy and could be combined safely with other biologics or
+DTIC. In addition, atypical clinical response patterns and the immune-mediated side-effect
+profile of ipilimumab began to be appreciated.
+The efficacy and safety of ipilimumab in patients with advanced melanoma were later
+confirmed in two large randomized phase III trials. In the first study (MDX010-20), 676
+previously treated patients with unresectable stage III or IV melanoma were randomized in a
+3:1:1 ratio to receive ipilimumab with the melanoma peptide vaccine gp100
+(n = 403), ipilimumab with gp100 placebo (n = 137) or
+gp100 vaccine with ipilimumab placebo (n = 136). All patients were
+HLA-A*0201-positive because the presentation of the gp100 peptide vaccine to T cells is
+HLA-A*0201-restricted.14 Ipilimumab was dosed at 3 mg/kg intravenously (IV) every 3 weeks for a
+total of 4 treatments. The vaccine was administered subcutaneously immediately after each
+ipilimumab infusion. At a median follow-up of about 20 months, median overall survival was
+10.0, 10.1 or 6.4 months for patients treated with the combination, ipilimumab alone or
+gp100 alone, respectively. The overall survival advantage favoring both
+ipilimumab-containing regimens was statistically significant. Based on the modified World
+Health Organization (WHO) response criteria, the overall response rate was 10.9% in the
+ipilimumab-alone group, with 60% of the responses lasting more than 2 years. Ipilimumab's
+side-effect profile was consistent with phase I/II experience, with grade III or IV
+immune-related adverse events (irAEs) observed in 10-15% of patients.14
+In the second phase III study (CA184-024), 502 treatment-naive patients with unresectable
+stage III or IV melanoma were randomly assigned to receive either DTIC with ipilimumab
+(n = 250) or DTIC with ipilimumab placebo (n = 252).
+Ipilimumab was administered at 10 mg/kg for 4 doses followed by a maintenance phase. The
+addition of ipilimumab to DTIC significantly improved overall survival compared to DTIC
+alone (11.2 vs. 9.1 months).15 Most of the toxicities of the combination were irAEs; however, the
+presentation of irAEs was slightly different than in previous clinical reports for
+ipilimumab, with higher rates of elevated liver-function tests and lower rates of
+gastrointestinal (GI) complications and endocrinopathies.15
+Considering the clinical benefit and safety profile of ipilimumab from these two phase III
+trials, the FDA approved ipilimumab for patients with unresectable or metastatic melanoma,
+regardless of prior treatment history. Postmarketing studies--to evaluate ipilimumab in the
+adjuvant setting, to investigate its use in combination with other agents and to assess
+alternative doses--are ongoing and will help optimize and expand the use of this innovative
+treatment.
+
+Unconventional patterns of clinical response
+In addition to the usual antitumor effects seen with conventional cytotoxic therapy,
+atypical response patterns have been observed with ipilimumab. In fact, its clinical benefit
+may follow initial increase in tumor volume or development of new lesions. These
+unconventional responses reflect the mechanism of action of ipilimumab, which activates T
+cells to infiltrate the tumor and exert cell-mediated cytotoxicity. Antitumor immunity takes
+time to fully develop and can induce heavy infiltration of immune cells into tumor
+lesions.16
+Therefore, the traditional WHO or Response Evaluation Criteria in Solid Tumors (RECIST)
+criteria are unable to capture the complete spectrum of responses to ipilimumab. Wolchok and
+colleagues have proposed the use of immune-related response criteria (irRC), a novel
+assessment tool better adapted to the antitumor activity of immunotherapy.16 The irRC permit the
+inclusion of new lesions in the total measurable tumor burden and require disease
+progression be confirmed twice, provided that patients have no rapid clinical deterioration.
+The irRC continue to undergo prospective evaluation in clinical trials.17
+
+Safety profile and recommended management of irAEs
+The most common adverse events associated with ipilimumab are irAEs, reflecting the agent's
+mechanism of action (Table
+1).18,19 At the approved 3 mg/kg
+dose, irAEs affect approximately 60% of patients; 10 - 15% of these are severe grade 3 or 4.
+The GI tract and skin are most frequently affected while hepatic, endocrine and neurologic
+events are less common. Typically, irAEs occur during the 12-week induction period, although
+rarely they can develop several months after the last dose of ipilimumab.19 Dermatologic irAEs are the
+earliest to occur, usually after dose 1 of ipilimumab. The median onset of GI and hepatic
+events is between 6 and 7 weeks, followed by endocrinopathies, which appear at a median of 9
+to 11 weeks after treatment initiation.19
+Generally, irAEs are mild to moderate in severity; however, high-grade irAEs have been
+observed in 15% of patients. In an effort to improve safety, ipilimumab is approved with an
+accompanying communication-based risk evaluation and mitigation strategy (REMS) to inform
+patients about the risks of irAEs and to assist healthcare professionals in evaluation and
+management of irAEs.20
+Although high-grade irAEs can be life-threatening, most can be controlled through early
+reporting by patients in combination with close monitoring and immediate initiation of
+appropriate therapy. Treatment algorithms have been developed to guide irAE management.
+Besides symptom-directed measures, the cornerstone of these guidelines is high-dose systemic
+steroid (1-2 mg/kg/day of prednisone or equivalent). Interestingly, evidence to date
+suggests corticosteroid administration does not appear to affect tumor response to
+ipilimumab.21
+Budesonide, an orally active steroid with limited systemic exposure due to substantial
+first-pass effect, was evaluated as a prophylactic measure for GI irAEs associated with
+ipilimumab at 10 mg/kg. Unfortunately, budesonide was ineffective in reducing the rate of
+grade >= 2 diarrhea. However, it can still have a therapeutic effect in patients with mild
+cases of loose stools and is listed as a therapeutic option for grade 2 diarrhea/colitis in
+the GI irAE management algorithm.22 It should be noted that the use of opioids to manage abdominal pain may
+mask signs of bowel perforation. If not successfully treated, colitis can lead to bowel
+perforation. When bowel perforation occurs, surgical intervention is the management of
+choice and the use of immunosuppressants is contraindicated.
+The management strategies for specific irAEs are summarized in Table 2.20 Time to resolution is dependent on the
+affected organ system. Dermatologic, GI, and liver immune-related toxicities begin to
+improve in 2 to 4 weeks; however, endocrinopathies can take a long time to resolve and in
+some cases are not reversible. Once symptoms improve, it is critical to taper steroid off
+slowly over 4 to 6 weeks to avoid relapse. Ipilimumab rechallenge can be considered in
+patients with grade 1 or 2 irAEs once symptoms resolved to grade 0-1. However, in general,
+ipilimumab should be permanently discontinued in patients with high-grade irAEs.
+
+Dosing and administration
+The current approved dosing schedule for ipilimumab is 3 mg/kg every 3 weeks for a total of
+4 doses or up to 16 weeks from the first dose, whichever comes first.8,9 Each dose is administered IV over 90 minutes
+and does not require prophylactic antiemetics or premedications for infusion-related
+reactions. To determine whether a higher dose of ipilimumab further extends survival, a
+randomized phase III trial comparing 3 mg/kg to 10 mg/kg of ipilimumab is underway in
+patients with previously untreated or treated metastatic melanoma. In the previously
+mentioned MDX010-20 study, 31 patients with tumor response or stable disease to prior
+ipilimumab were given reinduction therapy upon disease relapse. Interestingly, about 70% of
+patients who received reinduction ipilimumab were able to regain disease control.14 Although reinduction is
+not part of the FDA approval, it is listed as an option in the US National Comprehensive
+Cancer Network (NCCN) guidelines for melanoma.23 Maintenance ipilimumab was incorporated in
+a number of clinical trials. However, its addition to the standard induction schedule has
+not been systematically evaluated and therefore is not recommended at this time.
+
+Conclusions
+Ipilimumab, the first agent demonstrating survival benefit in patients with advanced or
+metastatic melanoma, represents a major breakthrough in the treatment of melanoma. The
+FDA-approved schedule is induction dosing with ipilimumab as a 90-min IV infusion at 3 mg/kg
+every 3 weeks for 4 doses. Toxicities associated with this biologic agent are class-specific
+irAEs. Most irAEs are manageable and reversible; however, high-grade irAEs have been
+observed in 15% of patients. Although high-grade irAEs can be life threatening, they can be
+controlled through early reporting by patients and immediate management by the oncology
+team. Ipilimumab-related irAE treatment algorithms, built on a framework of corticosteroids
+and other immunosuppressants, have been used successfully in clinical practice to minimize
+morbidity and mortality. Ongoing research, including evaluation of ipilimumab in the
+adjuvant setting, investigation of its use in combination with other agents and assessment
+of alternative doses, will help optimize and expand the use of this innovative
+treatment.

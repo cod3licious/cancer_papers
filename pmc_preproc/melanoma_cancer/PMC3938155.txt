@@ -1,0 +1,474 @@
+[Abstract, Introduction, Results, Discussion, Methods]
+
+Pro-Invasive Activity of the Hippo Pathway Effectors YAP and TAZ in Cutaneous
+Melanoma. YAP and its paralog protein TAZ are downstream effectors of the Hippo pathway. Both are amplified in many human cancers and promote cell proliferation and epithelial-mesenchymal transition. Little is known about the status of the Hippo pathway in cutaneous melanoma. We profiled Hippo pathway component expression in a panel of human melanoma cell lines and melanocytic lesions, and characterized the capacity of YAP and TAZ to control melanoma cell behavior. YAP and TAZ immuno-staining in human samples revealed mixed cytoplasmic and nuclear staining for both proteins in benign nevi and superficial spreading melanoma. TAZ was expressed at higher levels than YAP1/2 in all cell lines and in those with high invasive potential. Stable YAP or TAZ knockdown dramatically reduced the expression of the classical Hippo target CCN2/connective-tissue growth factor (CTGF), as well as anchorage-independent growth, capacity to invade Matrigel, and ability form lung metastases in mice following tail-vein injection. YAP knockdown also reduced invasion in a model of skin reconstruct. Inversely, YAP overexpression increased melanoma cell invasiveness, associated with increased TEA domain-dependent transcription and CCN2/CTGF expression. Together, these results demonstrate that both YAP and TAZ contribute to the invasive and metastatic capacity of melanoma cells and may represent worthy targets for therapeutic intervention.
+
+Introduction
+Components of the Hippo pathway were initially identified in Drosophila in which
+a strong overgrowth phenotype was shared by pathway mutants (Staley
+and Irvine, 2012). Hippo pathway components are highly conserved and are often
+found mutated or expressed at lower levels in a variety of cancers (Zhao et al., 2008a; Bao et al.,
+2011; Chan et al., 2011; Yin and Zhang, 2011; Varelas and Wrana,
+2012). The Hippo suppressor pathway consists of a cascade of kinases, MST and
+LATS in mammals, that phosphorylate the effector proteins YAP and TAZ, thereby controlling
+their nucleo-cytoplasmic localization and functions. MST1/2 phosphorylate and activate
+the kinases LATS1/2. The latter phosphorylate YAP and TAZ, leading to their
+cytoplasmic retention by 14-3-3 proteins (Mauviel et al.,
+2012). Inactivation of the MST and LATS kinases results in nuclear
+accumulation of YAP and TAZ and subsequent activation of target genes, many of them
+involved in cell proliferation. Complex cell membrane-associated signals upstream of the
+Hippo kinases involve numerous proteins such as Merlin and Kibra, the protocadherin FAT4,
+the cell polarity-associated Crumbs complex (review in Grusche et
+al. (2010)), and the adherens junction protein a-catenin
+(Schlegelmilch et al., 2011).
+There are two main YAP isoforms, YAP1 and YAP2, also called YAP1-1 and YAP1-2, each
+existing as four isoforms, and one TAZ molecule. All three contain WW domain(s) and an SH3
+domain-binding motif, as well as a PDZ-binding motif in their C-terminus (Gaffney et al., 2012). YAP1 and YAP2 contain a
+proline-rich N-terminal sequence not present in TAZ and differ from each other by their
+number of WW domains: YAP1, like TAZ, contains one WW domain, whereas YAP2 has two. WW
+domain proteins have the property to bind other partners that exhibit proline-rich modules
+named PY motifs (reviewed in Sudol et al.
+(2001)).
+The primary partners of YAP and TAZ in the cell nucleus are TEA domain (TEAD)
+transcription factors, for which they function as transcriptional co-activators. Knockdown
+experiments in mice have shown that a number of phenotypes associated with disruption of
+the Hippo pathway may be recapitulated by alteration of TEAD function. A classical target
+gene associated with YAP/TAZ-regulated TEAD-dependent transcription is CCN2,
+which encodes connective-tissue growth factor (CTGF), a secreted factor implicated in
+tumor progression (reviewed in de Winter et al.
+(2008) and Dhar and Ray (2010)). YAP/TAZ
+interact with other transcription factors, such as SMADs, RUNX2, and p73 (for review, see
+Sudol (2010) and Mauviel et
+al. (2012)).
+Alterations in the expression and function of upstream components of the Hippo pathway in
+human cancers, together with functional studies in vitro and in mice, point to a
+tumor suppressor role of the Hippo pathway. For example, overexpression in mammary
+epithelial cells of YAP/TAZ mutants that cannot be phosphorylated, and are therefore
+exclusively nuclear, leads to cell transformation and acquisition of tumorigenic potential
+associated with their binding to TEAD transcription factors (Chan
+et al., 2011; Yin and Zhang, 2011).
+Conditional and simultaneous knockout of Mst1/2 and YAP overexpression in mouse liver
+both result in the development of hepatocarcinomas (Liu et
+al., 2012). YAP and TAZ are expressed at high levels with strong
+nuclear localization in a number of cancers, and their oncogenic potential is often
+associated with their interactions with TEADs and WW domain-binding proteins (reviewed in
+Zeng and Hong (2008); Pan
+(2010); and Sudol et al. (2012)).
+Conversely, expression of LATS and MST is often reduced in cancer, possibly via
+hypermethylation of their gene promoters (reviewed in Hergovich
+(2012)). Noteworthy, both TAZ and YAP expression in mammary epithelial tumor
+cells contribute to their metastatic properties associated with expression of
+epithelial-to-mesenchymal transition (markers; Overholtzer et
+al., 2006; Chan et al.,
+2008).
+To date, little is known about the role of Hippo signaling and its effectors YAP and TAZ
+in cutaneous melanoma biology. In this work, using both cell-based assays and tumor
+xenograft experiments in mice, we undertook an in-depth analysis of the expression,
+activation status, and function of YAP and TAZ in melanoma.
+
+Results
+Expression profiles of Hippo pathway members in human melanoma cell
+lines
+The expression of Hippo pathway effector molecules YAP1, YAP2, and TAZ in a panel of 12
+human melanoma cell lines and 4 distinct normal human melanocyte cultures was measured
+by quantitative reverse transcriptase-PCR (Figure 1a).
+Levels of these three transcripts were highly variable across the panel. TAZ
+was expressed at levels 5-10 times higher than those for YAP2, itself at
+levels 10-20 times higher than YAP1. YAP1 and YAP2 were expressed at
+similar low levels in both normal human epidermal melanocytes and melanoma cell lines.
+Noticeably, expression of TAZ was higher in all melanoma cell lines compared with
+melanocytes, except in the MNT1 cell line that expressed the lowest levels of
+TAZ among melanoma lines. MNT1 cells are non-tumorigenic after sub-cutaneous
+injection in mice under conditions whereby all other cell lines form tumors (Moore et al., 2004).
+Four melanoma cell lines were selected for subsequent determination of YAP and TAZ
+protein levels. 1205Lu and WM852 were the two cell lines of the panel with the highest
+expression of TAZ, whereas the SKmel28 and 501mel cell lines express
+TAZ at lower levels. 1205Lu and WM852 cell lines are the more aggressive,
+when compared in either Matrigel invasion assays or in a model of experimental bone
+metastasis in mice (Javelaud et al., 2007;
+Alexaki et al., 2010; Mohammad et al., 2011). Western analysis revealed higher TAZ and
+YAP protein levels in 1205Lu and WM852 cells compared with SKmel28 and 501mel cells
+(Figure 1b), consistent with the gene expression profiles.
+Phosphorylated TAZ and YAP were detected in all cell lines, with slightly higher
+phospho-TAZ levels in SKmel28 and 501mel cells compared with 1205Lu and WM852 cells.
+Consistent with the presence of P-YAP/TAZ in melanoma cell lines, Hippo pathway
+kinases MST and LATS were expressed in all cell lines: MST1 and MST2
+were expressed at similar levels within a given cell line, yet at variable levels and
+degree of phosphorylation across cell lines (Supplementary Figures
+S1A and S1B online, respectively). LATS2 was expressed at levels
+5-10 times higher than LATS1. Merlin/NF2 expression was also
+highly variable across cell lines (Supplementary Figure
+S1A online).
+Immunofluorescent staining of proliferating 1205Lu melanoma cells confirmed that most
+YAP and TAZ protein is nuclear, whereas a small proportion is cytoplasmic Supplementary Figure S1C online). As expected, P-YAP/TAZ
+were exclusively cytoplasmic (Supplementary Figure S1C
+online), consistent with a partial constitutive activation of the pathway, as already
+suggested by P-YAP/TAZ levels detected by western blotting (see above). As all
+melanoma cell lines except WM852 (11/12) carry an activating mutation on the
+BRAF gene, we conclude that the expression pattern of Hippo pathway members
+is independent from the BRAF mutational status.
+YAP and TAZ expression in human melanocytic lesions
+To our knowledge, there has been no analysis of Hippo signaling effector molecules in
+human melanocytic lesions published to date. We thus examined the expression of YAP and
+TAZ by immunohistochemistry in a series of clinical samples, including benign nevi
+(n=8) and superficial spreading melanoma (n=29).
+Representative images are shown in Figure 2. Blinded
+analysis by a professional dermato-pathologist found no significant differences in the
+staining of TAZ and YAP between benign and malignant melanocytic lesions. We did not
+find any trend in the positivity or distribution of both antibodies according to Breslow
+thickness. When positive in melanocytes, all other cells including keratinocytes and
+stromal cells stained positive for both antibodies as well. TAZ and YAP were distributed
+either in the nucleus or cytoplasm or both, but YAP was more often distributed in the
+cytoplasm.
+YAP and TAZ knockdown specifically inhibit melanoma cell tumorigenicity and
+invasiveness, not proliferation, in vitro
+To determine whether there is a causal relationship between YAP/TAZ expression and
+melanoma cell behavior, we performed lentivirus-driven, small hairpin RNA-mediated
+stable knockdown of YAP1/2 or TAZ in 1205Lu, WM852, SKmel28, and 501mel melanoma
+cell lines. Efficacy and specificity of each knockdown was verified by quantitative PCR
+(Supplementary Figure S2A online) and western blotting
+(Figure 3a and Supplementary Figure
+S2B online). No obvious modification of cell morphology or population
+doubling times was observed after either knockdown when compared with mock-infected
+cells (Supplementary Figure S2C and S2D online,
+respectively). Cell cycle analysis determined by flow cytometry after BrdU incorporation
+showed no changes in the relative proportion of cells in G1, S, and G2/M phases upon
+either YAP or TAZ knockdown (not shown). Likewise, small interfering RNA
+(siRNA)-mediated YAP or TAZ knockdown showed high efficacy and specificity in 1205Lu and
+SK28 melanoma cells (Supplementary Figures S3A and S3B
+online), without affecting cell proliferation (Supplementary Figure
+S3C online).
+To determine whether YAP and TAZ contribute to the tumorigenicity of melanoma cells, we
+first performed anchorage-independent growth assays on soft agar. As shown in Figure 3b (left panels and corresponding histograms), both YAP and
+TAZ knockdown reduced the number of colonies formed by 1205Lu cells by
+30-50%. In SKmel28 cells, YAP knockdown had a strong inhibitory activity,
+whereas TAZ knockdown had limited effects (Figure 3b, right
+panels and histograms).
+Both YAP and TAZ stable knockdown efficiently reduced the propensity of 1205Lu (Figure 3c, left panel) and SKmel28 (right panel) cells to invade
+Matrigel. Similar results were obtained after siRNA-mediated YAP and TAZ knockdown
+(Supplementary Figure S3D online, left panels).
+Simultaneous YAP/TAZ siRNA knockdown was not more efficient than either single
+knockdown (Supplementary Figure S3D online, right
+panels).
+In a skin reconstruct model, shYAP-transduced 1205Lu melanoma cells, identified as
+S100-positive cells in 6-mm thick histological sections, did not migrate as deep into
+the dermis as control shRNA (shCTL)-transduced cells (Figure
+3d online). Also, the number of cells that transmigrated from the epidermal
+compartment to the dermis was dramatically lower after YAP knockdown.
+YAP and TAZ knockdown inhibits melanoma lung metastasis in mice
+Next, we determined whether YAP and TAZ are implicated in the capacity of 1205Lu
+melanoma cells to form lung metastases following tail-vein injection in mice. Forty-five
+days later, mice were killed when the first signs of distress were noticed in
+shCTL-injected group. Macroscopic examination of lungs revealed massive development of
+metastases in five out of six mice from the shCTL group, whereas metastases were found
+in the lungs of only two out of six and one out of six mice inoculated with shYAP and
+shTAZ cells, respectively (Figure 4a). The latter was
+dramatically smaller in size than those observed in the two former groups. Histological
+analysis confirmed these post-autopsy observations and indicated a drastic reduction in
+total metastasis area per lung in shYAP and shTAZ groups compared with the shCTL group
+(Figure 4b). Thus, YAP and TAZ knockdown reduce both the
+incidence and the growth of lung metastases by intravenously inoculated 1205Lu melanoma
+cells.
+YAP overexpression enhances the clonogenic potential and invasive capacity of
+melanoma cells in vitro
+We next generated clones of 1205Lu and SKmel28 melanoma cells overexpressing YAP, as
+verified by quantitative PCR (Supplementary Figure S4A
+online) and western blotting (Figure 5a). No modification of
+cell morphology (Supplementary Figure S4B online) or
+growth rate was observed in either cell line upon YAP overexpression (Supplementary Figure S4C online), consistent with the knockdown
+data, which also did not show modifications of cell growth (see Supplementary Figure S2C and D online).
+YAP overexpression did not significantly increase the capacity of 1205Lu cells to grow
+as clones on agar (Figure 5b, left panels and histograms),
+whereas markedly increasing SKmel28 anchorage-independent growth (Figure 5b, right panels and histograms). It is possible that 1205Lu cells,
+which express a lot more TAZ than SKmel28 cells (see Figure
+1), may be less responsive to forced YAP overexpression, as these proteins
+have been known to be functionally redundant in certain situations (Mauviel et al., 2012). In fact, although both cells lines
+exhibited increased invasive capacity in a Matrigel assay upon YAP overexpression, the
+effect was markedly higher in SKmel28 compared with 1205Lu cells (Figure 5c right versus left panel, respectively), consistent with their
+lower levels of endogenous YAP/TAZ.
+Altering YAP and TAZ levels modifies TEAD-dependent transcription and
+CCN2/CTGF expression in 1205Lu melanoma cells
+To gain insight into the molecular mechanisms underlying forced alteration of YAP and
+TAZ expression, we focused our attention on the modulation of CTGF, a canonical
+YAP/TAZ target (Zhang et al., 2009) that
+contributes to metastasis both in melanoma and breast cancer (Kang
+et al., 2003; Mohammad et al.,
+2011). CTGF is encoded by CCN2, a TEAD transcription factor gene
+target (Zhang et al., 2009) for which YAP and
+TAZ function as transcriptional co-activators (Vassilev et
+al., 2001). Stable YAP and TAZ knockdown in 1205Lu cells reduced
+CCN2 mRNA steady-state levels (Figure 6a, left
+panel), whereas YAP overexpression did the opposite (right panel). CCN2 gene
+modulation was transcriptional as CCN2 promoter activity showed parallel
+modulation upon YAP/TAZ knockdown or YAP overexpression (Figure
+6b). TEAD-specific transcription followed the same modulation (Figure 6c). TAZ knockdown was consistently more efficient than YAP
+knockdown in regulating CCN2 expression and TEAD-dependent transcription,
+likely reflecting the higher expression levels of TAZ versus YAP in melanoma cells (see
+Figure 1). Also, YAP and TAZ mutants with an exclusive
+nuclear localization (YAP5SA and TAZS89A) efficiently enhanced TEAD-specific
+transcription, whereas YAPS94A, incapable of binding TEADs, and the exclusively
+cytoplasmic mutant TAZD393 did not (Figure 6d).
+In SKmel28 cells, YAP and TAZ knockdown had little effect on CCN2 expression,
+promoter activity, and TEAD-specific transcription (Supplementary
+Figure S5A-C online), whereas YAP overexpression increased
+CCN2 expression and promoter activity, as well as TEAD-specific transcription
+(Supplementary Figure S5D-F online).
+Overexpression of nuclear mutants of YAP and TAZ (YAP5SA and TAZS89A) dramatically
+increased TEAD-dependent transcription, whereas cytoplasmic mutants YAPS94A and
+TAZD393 did not (Supplementary Figure S5G online).
+Reduced CCN2 expression upon siRNA-mediated knockdown of YAP and TAZ, either
+alone or in combination, occurred in 1205Lu, not SKmel28 melanoma cells (Supplementary Figure S6 online), consistent with the lower
+levels of expression of YAP and TAZ in SKmel28 compared with 1205Lu cells.
+These data provide direct evidence for the dependence of TEAD-dependent transcription
+and target gene expression with YAP and TAZ expression levels in melanoma cells. How
+this relates to their invasive and metastatic capacity remains to be determined.
+
+Discussion
+Overexpression of YAP and TAZ induces cell transformation and tumor-forming ability in
+mammary epithelial cells (Overholtzer et al.,
+2006; Dong et al., 2007; Chan et al., 2008), because of their capacity to interact
+with, and function as transcriptional co-activators of, the TEAD family of transcription
+factors (Zhao et al., 2008b; Chan et al., 2009; Zhang et al.,
+2009). YAP overexpression in mouse livers results in hepatocellular carcinomas
+(Zhou et al., 2009; Lu
+et al., 2010; Song et al.,
+2010), and a wide range of cancers displays high levels of TAZ or YAP
+expression (reviewed in Zhao et al. (2010)). In
+this report, we provide evidence for active Hippo signaling in both benign and malignant
+melanocytic lesions and in melanoma cell lines, with both proteins localized both in the
+cytoplasm and in the nucleus.
+We also provide evidence that endogenous YAP/TAZ contribute to the metastatic
+behavior of melanoma cells, as specific knockdown of either of these Hippo effectors lead
+to reduced clonogenic and invasive capacity in vitro, and reduced their
+propensity to metastasize to lungs following tail-vein injection in nude mice. Inversely,
+YAP/TAZ overexpression increased anchorage-independent growth and invasion into
+Matrigel, thus identifying a direct role for endogenous YAP and TAZ in controlling
+melanoma cell metastatic potential. Consistent with our observations, it was recently
+found that overexpression of a mutant YAP with exclusive nuclear localization enhances the
+metastatic potential of the 4T1 mammary carcinoma cell line, as well as that of the A375
+melanoma cell line (Lamar et al., 2012). In the
+latter study, based solely on overexpression approaches, the authors concluded that
+YAP-TEAD interactions were necessary for the pro-metastatic activity of YAP. Our
+data are consistent with their conclusion, yet bring important information about the role
+of Hippo effectors in melanoma biology. Although Lamar et
+al. (2012) only examined the effects of overexpression of mutant forms
+of YAP with altered functional domains in one melanoma cell line and one breast carcinoma
+cell line, they did not examine TAZ function. We chose a broader approach, which consisted
+in profiling human melanocytic lesions and melanoma cell lines for endogenous YAP and TAZ
+expression, followed by thorough mechanistic analysis of the respective roles played by
+endogenous YAP or TAZ in melanoma cell behavior. As TAZ is expressed at much higher levels
+than both YAP isoforms in melanoma cells (see Figure 1), TAZ
+knockdown was more potent in inhibiting melanoma cell invasive and metastatic capacities
+than YAP knockdown (Figures 3 and 4). Yet, in agreement with the data by Lamar et
+al. (2012), overexpression of wild-type YAP enhanced the invasive
+capacity of melanoma cells, associated with increased TEAD-dependent transcription and
+CCN2 expression (Figures 5 and 6). Thus, despite active Hippo signaling, as evidenced by the detection of
+cytoplasmic, phosphorylated YAP and TAZ in melanoma cells, the nuclear functions of YAP
+and TAZ are enhanced by overexpression of wild-type proteins. Our knockdown approach
+allowed, to our knowledge previously unreported demonstration for a role of endogenous
+YAP/TAZ in melanoma cell behavior, and suggest that YAP and TAZ may be important
+targets for therapeutic intervention. From our data herein and those by Lamar et al. (2012), it appears that disrupting or
+antagonizing their capacity to enhance TEAD transcriptional activity, and possibly that of
+other signaling pathways known to promote melanoma metastasis, including transforming
+growth factor-b and WNT/b-catenin signaling (Ferrigno
+et al., 2002; Javelaud et al.,
+2007, 2008; Mohammad
+et al., 2011; Mauviel et al.,
+2012), is likely to negatively affect melanoma cell invasiveness and capacity
+to metastasize. In this respect, the aromatic heterocyclic small-molecule verteporfin was
+recently found to disrupt YAP-TEAD interactions (Liu-Chittenden
+et al., 2012). This molecule, known commercially as Visudyne
+(Novartis International AG, Basel, Switzerland), is approved by the FDA for photodynamic
+therapy of neovascular macular degeneration (Michels and
+Schmidt-Erfurth, 2001). Based upon these findings, it will be interesting to
+test the capacity of verteporfin to interfere with melanoma cell invasive properties.
+We did not observe any significant effect of the modulation of YAP/TAZ expression on
+the proliferative capacity of melanoma cells, either after knockdown or overexpression.
+All melanoma cell lines used in our studies carry the BRAFV600E mutation,
+except for the WM852 cell line that carries the NRASQ61K mutation. These
+oncogenic mutations, found in a large percentage of melanoma tumors (Chin et al., 2006), result in active MEK/ERK signaling and have
+an important role in promoting melanoma cell proliferation (Chin
+et al., 2006). Our data suggest that the roles played by
+BRAFV600E and NRASQ61K as drivers of melanoma cell growth are not
+significantly affected by YAP/TAZ levels.
+To conclude, this report provides comprehensive profiling of YAP/TAZ expression and
+function in melanoma: YAP and TAZ were detected in both benign nevi and metastatic
+melanoma with similar distribution and expression levels. Thus, we could not establish any
+prognostic value for either YAP or TAZ. Yet, from our functional studies, it appears that
+YAP and TAZ Hippo effector molecules are important players controlling the invasive and
+metastatic potential of melanoma cells.
+
+Materials and Methods
+Cell culture
+All human melanoma cell lines have been described previously (Rodeck et al., 1999; Javelaud et
+al., 2007; Alexaki et al., 2008,
+2010; Javelaud et al.,
+2011). They all carry an activating mutation (V600E) of the BRAF
+gene, except for the WM852 cell line, which carries an activating mutation of
+NRAS (Q61K). They all were grown in RPMI 1640 (Invitrogen, Carlsbad, CA)
+supplemented with 10% fetal calf serum and antibiotics, at 37 degC,
+5% CO2 in a humidified atmosphere. Primary human melanocytes from
+neonatal foreskins were obtained from four distinct Caucasian individuals, and grown in
+modified MCDB medium (GIBCO, Invitrogen), as described previously (Busca et al., 2005).
+Immunohistochemistry and human tissues
+Paraffin-embedded pathological samples from human melanocytic lesions were obtained
+from the pathology archives of the National Health Services (West Hertfordshire
+Hospitals NHS Trust, Herts, UK). All specimens were re-evaluated by an expert
+pathologist. Tissues were obtained according to local ethical guidelines and approved by
+the local ethics committee. Five-mm sections were de-waxed and rehydrated through
+graded alcohol baths. After antigen retrieval (20 minutes at 95 degC) in
+citrate buffer, pH 6.0, tissue sections were preincubated for 30 minutes with
+20% horse serum, then incubated with antibodies directed against YAP (sc-15407,
+1:200, 1 hour at room temperature), TAZ (sc-17130, 1:200, overnight at
+4 degC), or S100 (Dako France SAS, Trappes, France, Z0311 1:1000, 1 hour
+at room temperature). A Vectastain ABC kit (Vector Laboratories, Burlingame, CA) was
+used as biotinylated secondary antibody. Counterstaining was performed with
+hematoxylin.
+Cell proliferation assays
+Human melanoma cells were seeded in six-well culture plates. Every other day, cells
+were trypsinized and enumerated using a Coulter Counter (Beckman Coulter, Fullerton,
+CA).
+Cells transfections
+For reporter assays, melanoma cells were seeded in 24-well plates and transfected at
+70-80% confluency in fresh medium with the polycationic compound FuGENE
+(Roche Diagnostics, Indianapolis, IN). Cells were transfected with 200 ng of
+firefly luciferase promoter reporter construct, CCN2-luc or
+(8XGTII)2-luc ((Ota and Sasaki, 2008;
+Zhang et al., 2009), kind gifts from Kun-Liang
+Guan, UCSD, La Jolla, CA, and Hiroshi Sasaki, Kumamoto University, Japan, respectively),
+together with 50 ng of expression vectors, pcDNA, YAP5SA, YAPS94A ((Zhang et al., 2009), gifts from K.-L. Guan), TAZS89A or
+TAZD393 ((Varelas et al., 2008), gifts from
+Jeffrey Wrana, University of Toronto, ON, Canada). Fifty nanogram of Renilla
+luciferase expression vector was co-transfected to estimate transfection efficiencies.
+After incubation, luciferase activities were determined with a Dual-Glo luciferase assay
+kit (Promega, Madison, WI) using a Fluoroskan Ascent FL (Thermo Labsystems, Courtaboeuf,
+France). All experiments were performed at least three times.
+For stable YAP overexpression, melanoma cells in 100-mm diameter culture dishes were
+transfected with 10 mg of either empty pEGFP or the same vector-expressing YAP
+(Basu et al., 2003). Three days later, G418
+(Sigma-Aldrich, St Louis, MO, 0.7 g ml-1) was added to
+the culture medium. Selection of stably transfected clones occurred over a 3-week
+period. For transient, acute YAP and TAZ silencing, subconfluent melanoma cells were
+transfected with two distinct siRNAs targeting either YAP or TAZ (Sigma-Aldrich human
+YAP or TAZ Mission siRNAs 1 and 2, respectively) using HiperFect (Qiagen, Courtaboeuf,
+France). Two non-targeting siRNAs (Sigma-Aldrich Mission Universal Negative control
+siRNAs 1 and 2) were used as controls. For stable YAP or TAZ gene
+silencing, subconfluent human melanoma cells were infected in 96-well dishes with
+lentiviral particles that expressed a control, non-targeting, scrambled small hairpin
+RNA sequence or three distinct target-specific constructs that encode
+19-25 nt (plus hairpin) small hairpin RNA to knock down YAP1/2 or TAZ
+expression (Santa Cruz Biotechnology, Santa-Cruz, CA, sc-108080, sc-38637-V and
+sc-38568-V, respectively), in the presence of
+4 mg ml-1 polybrene. Stably transduced cell
+populations were selected with puromycin (2 mg ml-1).
+Reverse transcriptase-PCR was used to verify YAP expression after each
+passage and before new experiments.
+RNA extraction and gene expression analysis
+Total RNA was isolated from cell cultures using a NucleoSpin RNA kit (Macherey-Nagel,
+Duren, Germany). Genomic DNA contamination was eliminated by DNase I treatment. One
+microgram of RNA was reverse transcribed using a Thermoscript kit (Invitrogen). cDNAs
+were processed for real-time reverse transcriptase-PCR using SYBR Green technology
+in a 7900 Real-Time PCR System (Applied Biosystems, Foster City, CA). Reactions were
+carried out for 40 cycles (95 degC for 15 seconds and 60 degC
+for 1 minute) after an initial 10-minute incubation at 95 degC. Data
+were analyzed using Applied Biosystems Sequence Detection Software (version 1.2.1) and
+normalized to GAPDH expression. Experiments were performed in triplicate to
+validate gene expression data in each cell line. Primers are: GAPDH, forward
+(F): 5'-TGGGTGTGAACCATGAGAAGTATG-3', reverse (R),
+5'-GGTGCAGGAGGCATTGCT-3' MERLIN, F:
+5'-TGAACGCACGAGGGATGAGTTG-3', R:
+5'-GCCTTTTCAGCCAACAGGTCAG-3' LATS1, F:
+5'-CACTGGCTTCAGATGGACACAC-3', R:
+5'-GGCTTCAGTCTGTCTCCACATC-3' LATS2, F:
+5'-GTTCTTCATGGAGCAGCACGTG-3', R:
+5'-CTGGTAGAGGATCTTCCGCATC-3' MST1, F:
+5'-CTGTGTAGCAGACATCTGGTCC-3', R:
+5'-CTGGTTTTCGGAATGTGGGAGG-3' MST2 F:
+5'-GGCAGATTTTGGAGTGGCTGGT-3', R:
+5'-AATGCCAAGGGACCAGATGTCG-3' YAP1, F:
+5'-GTGAGCCCACAGGAGTTAGC-3', R:
+5'-CTCGAGAGTGATAGGTGCCA-3' YAP2, F:
+5'-TCTTCCTGATGGATGGGAAC-3', R:
+5'-GGCTGTTTCACTGGAGCACT-3' TAZ, F:
+5'-GTATCCCAGCCAAATCTCG-3', R:
+5'-TTCTGAGTGGGGTGGTTC-3' CCN2, F:
+5'-TGCACCGCCAAAGATGGT-3', R:
+5'-GACTCTCCGCTGCGGTACAC-3'.
+Western blotting
+Whole-cell extracts were prepared on ice in 50 mM Tris pH 7.5,
+150 mM NaCl, 0.5% NP40, 20 mM
+phenylmethylsulfonyl fluoride and protease inhibitor cocktail for 10 minutes.
+Debris were removed by centrifugation. Protein concentration was assayed with a one-step
+colorimetric method (Bio-Rad protein reagent; Bio-Rad, Hercules, CA), and
+35 mg of protein were resolved by SDS-PAGE and transferred to Hybond ECL
+nitrocellulose filters (Amersham Biosciences, Glattburgg, Switzerland). Filters were
+placed in blocking solution (1 x Tris-buffered saline, 5% nonfat milk) for
+1 hour and immunoblotted with either rabbit anti-YAP (Santa Cruz Biotechnology,
+sc-15407), rabbit anti-phospho-YAP (Cell Signaling Technology, Danvers, MA, #4911),
+rabbit anti-TAZ (Cell Signaling Technology, #4883) rabbit anti-phospho-TAZ
+(sc-17610), rabbit anti-MERLIN (sc-332) rabbit anti-LATS1 (sc-28223), rabbit
+anti-phospho-LATS1 (Cell Signaling Technology, #9157), rabbit anti-MST2 (Cell
+Signaling Technology, #3952), rabbit anti-phospho-MST1/2 (Cell Signaling
+Technology, #3681), at a 1:1,000 dilution in 1 x Tris-buffered saline,
+0.1% Tween-20, and 5% nonfat milk, overnight at 4 degC. A goat
+anti-UKHC (sc-13356) antibody was used as a control. For detection of phosphorylated
+proteins, BSA replaced nonfat milk. Filters were then washed and incubated with
+horseradish peroxidase-conjugated secondary antibodies (rabbit or goat, Santa Cruz
+Biotechnology) for 2 hours. Filters were washed, developed, and revealed
+according to chemiluminescence protocols (ECL; Amersham Biosciences).
+Invasion assays
+Tissue culture Transwell inserts (8 mm pore size; Falcon, Franklin Lakes, NJ)
+were coated for 3 hours with 10 mg (1205Lu and WM852) or 5 mg
+(SKmel28 and 501mel) of Matrigel (Biocoat, BD Biosciences, San Jose, CA) in
+100 ml of phosphate-buffered saline at 37 degC. After air-drying the
+chambers for 16 hours, the Matrigel barrier was reconstituted with
+100 ml Dulbecco's minimal essential medium for 24 hours at
+37 degC. The chambers were then placed into 24-well dishes containing
+500 ml of RPMI medium supplemented with 1% fetal calf serum. 5 x
+104 melanoma cells were added to the upper well of each chamber in
+250 ml of serum-free RPMI medium. After a 24-hour (1205Lu and WM852) or a
+48-hour (SKmel28 and 501mel) incubation period, invading cells were counted by bright
+field microscopy at x 200 in six random fields. Additional details of the
+procedure may be found in Alexaki et al. (2010).
+Experiments were performed at least three times, each with triplicate samples.
+Anchorage-independent growth
+Mock-, YAP-, and TAZ-knockdown melanoma cells (1 x 104 or 2 x
+104) resuspended in RPMI 1640 medium containing 0.3% agar
+(Sigma-Aldrich) and supplemented with 10% fetal calf serum were seeded into
+six-well plates on top of a 0.6% soft agar bed in similar medium. Cultures were
+maintained for 28 days and the total number of colonies in each well was determined
+using a phase contrast microscope (Nikon France, Rollay, France). Results are expressed
+as the mean+-SEM of three independent experiments performed with triplicate
+dishes.
+Human skin reconstructs
+Human skin reconstructs were generated as described previously (Li
+et al., 2011). Briefly, dermal reconstructs consisted of bovine
+type I collagen contracted for 4 days with embedded dermal fibroblasts (7.5 x
+104 per dish) before seeding control shCTL, or shYAP-infected 1205Lu cells
+(0.83 x 105) together with keratinocytes (4.17 x 105)
+on top of the dermal reconstructs over an 4-day period in skin reconstruct medium before
+air exposure until day 18 to allow epidermal differentiation. At that point, skin
+reconstructs were harvested and fixed in 10% neutral buffered formalin for
+2-3 hours, processed by routine histological methods, embedded into
+paraffin, sectioned (5 mm), then stained with an S-100 antibody (1:1,000,
+30 minutes at room temperature (Z0311, DAKO, Les Ulis, France)) to identify cells
+of melanocytic origin, and with Ki67 (ready to use, 1 hour at room temperature,
+(08-0156 Life technologies) as a marker of cell proliferation.
+Experimental lung metastasis in nude mice
+Female 6-week-old Swiss nu/nu (nude) mice (Janvier, Le-Genest-Saint-Isle,
+France) were housed at the animal facility of the Curie Institute, under pathogen-free
+conditions. Their care was in accordance with the principles of the Declaration of
+Helsinki Principles and with the institutional guidelines of the French Ethical
+Committee (Ministere de l'Agriculture et de la Foret, Direction de la
+Sante et de la Protection Animale, Paris, France). Experiments were performed
+under supervision of authorized investigators. shCTL, shYAP, or shTAZ 1205Lu melanoma
+cells in logarithmic growth phase (4 x 105/200 ml
+phosphate-buffered saline) were slowly injected into the tail vein. Mice were killed 45
+days later, as the first signs of distress were noticed. Lungs were rapidly excised and
+dissected, photographed, and fixed in paraformaldehyde (Sigma-Aldrich) for further
+immunohistochemical analysis.
+Statistical analyses
+Differences between groups were determined by one-way analysis of variance followed by
+Bonferroni's posttest. All data were analyzed using GraphPad Prism v6.0 software
+(GraphPad Software, La Jolla, CA), and expressed as mean+-SEM. Statistical
+significance was set at P<0.05.

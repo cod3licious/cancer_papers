@@ -1,0 +1,96 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed]
+
+Galectin-1 and Galectin-3 mRNA expression in renal cell carcinoma. Background Galectins are known to regulate cell differentiation and growth as well as cell adhesion and apoptosis. Galectins have been discussed as possible prognosticators for survival in renal cell cancer (RCC) and other urological tumors. They might also play an emerging role as possible new marker-proteins for RCC. In this study, we analyzed the expression of galectin-1 and galectin-3 mRNA in order to further investigate their clinical significance in RCC.   Methods Tissue samples were obtained from 106 patients undergoing surgery for RCC. The expression of galectin-1 and galectin-3 mRNA in normal kidney and corresponding cancer tissue was analyzed using quantitative real time PCR. Differences in expression levels of paired tissue samples were assessed using paired two-sample tests. Associations of relative mRNA expression levels in tumor tissues with clinical findings were analyzed using univariate logistic regression.   Results The expression of galectin-1 (p < 0.001) and -3 (p < 0.001) mRNA were significantly higher in RCC when compared to the adjacent normal kidney tissue. For clear cell RCC, an association of male gender with higher galectin-1 and galectin-3 mRNA expression (p = 0.054, p = 0.034) was detected. For all RCCs, galectin-1 mRNA expression failed to show a significant association with advanced disease as well as a higher rate of lymph node metastases (p = 0.058, p = 0.059).   Conclusion The mRNA expression of galectin-1 and galectin-3 is significantly increased in RCC cancer tissue. The higher mRNA expression in tumor tissue of male patients raises the question of a functional connection between galectins and the higher prevalence of RCC in men. Associations with advanced disease might lead to new ways of identifying patients at higher risk of recurrent disease and might even facilitate early metastasectomy with curative intent.
+
+Background
+RCC accounts for approximately 2-3% of all malignancies in adults with a higher incidence in males. Incidence peaks in the sixth and seventh decade of life
+[1,2]. A variety of risk factors for RCC, such as obesity and tobacco exposure, have been proposed in the past
+[1,3]. The incidence of RCC is increasing, most likely due to the wide implementation of imaging modalities, such as ultrasonography and CT-scanning
+[4]. The clinical course of the tumor is not or at least difficult to predict
+[5]. Decision making on active treatment and surveillance is therefore difficult, especially in the elderly population where aggressive surgery might put the patient at an increased peri-operative risk. Although there are no randomized controlled trials, there is evidence for a benefit of early and complete metastasectomy in patients with RCC with regard to an improved overall survival
+[6]. Given these difficulties of clinical decision making, there is a strong need for risk stratification in order to improve early identification of patients with recurrent disease after curative treatment. However reliable predictive biomarkers to adequately assess the hazard of treated and untreated patients with RCC are currently lacking.
+Galectins are proteins of 30 kDa that can be found in the cellular nucleus, the cytosol and also in the extracellular space. They are members of the lectin family, a group of b-galactoside binding proteins. Lectins had previously been shown to be involved in several cellular functions, such as cell-cell interactions, cell adhesion, proliferation, angiogenesis, inflammation, fibrogenesis and apoptosis
+[7-10]. We previously reported on alterations of galectin expression in prostate and bladder cancer
+[11,12]. Out of the currently described 18 galectins, we focused our research on galectin-1 and -3 because they both had previously been correlated with the development of various malignancies
+[13-15]. Objective of our current study was the further characterization of galectin-1 and -3 mRNA expression in RCC. Furthermore we were looking for correlations of galectin-1 and -3 mRNA expression with clinical parameters including progression free survival.
+
+Methods
+Tissue sampling
+Tissue from the tumor itself and adjacent corresponding tumor free renal tissue of 106 patients undergoing kidney surgery were collected between 2001 and 2005. Samples were collected at Eberhard Karls University Tuebingen. All tissue samples were obtained during the operation. Adjacent normal appearing tissues were sampled [?]0.5-2 cm distant from the margin of the primary tumor site. All samples were collected immediately after surgery, snap frozen in liquid nitrogen and stored at -80degC. Tissue was selected to include at least 75% vital tumor.
+Tumor stages and histological subtypes were assessed according to the UICC 2002 issue of the TNM system
+[16] by two separate pathologists. Grading was based on the Fuhrman grading system
+[17] while histological subtypes were defined in accordance with the consensus classification of renal cell neoplasia
+[18]. All patients were systemic therapy-naive and did not receive any neoadjuvant treatment before definitive surgery.
+Localized RCC was defined as pT <= 2 without lymph node involvement or the presence of organ-metastasis and grading <= G2, while advanced RCCs were defined as pT >= 3 or lymph node positive or organ metastasis or > G2.
+All data were gathered by data managers and physicians and maintained by a relational database. The approval was granted by the ethics committee (Ethics Committee of the Medical Faculty, University of Tuebingen - Germany) and informed consent was obtained from all patients prior to surgery. Patient's clinical and histopathological parameters are summarized in Table
+1.
+Patients
+The mean age of all patients was 63.7 years (SD +- 11.8). The male-female ratio was 68/38 (64.2% / 35.8%). Histopathological subclassification showed 77 patients with clear cell RCC, 22 patients with papillary and five patients with chromophobe tumors; two patients had non-classified histology.
+Primary cells
+For an external reference control, renal proximal tubular epithelial cells (RPTEC; Lonza (Basel, Switzerland) were cultured and prepared according to the manufacturers instructions.
+Quantitative real-time PCR analysis
+Of each tissue sample two sections were stained with hematoxylin-eosin and evaluated by a pathologist. Tissue was prepared from 20 cryo sections (each 20 mm). The total RNA was then extracted using TriReagent (Ambion). Conversion into single-stranded complementary DNA (cDNA) was performed using the High Capacity cDNA Reverse Transcription Kit (Applied Biosystems, Foster City, CA, USA). For quantitative real time PCR (qRT-PCR), we used the ABI 7900 Fast Sequence Detection System with universal PCR master mix and TaqMan expression assays (Applied Biosystems) according to the manufacturers instructions. The here used TaqMan assays were LGALS1 (Assay ID: Hs00355202_m1), LGALS3 (Assay ID: Hs00173587_m1), RPL13A (Hs03043885_g1), HPRT1 (Hs99999909_m1) and GUSB (Hs00939627_m1). The human RPL13A, HPRT1 and GUSB transcripts were used as endogenous controls. For biological control, we used cDNA from RPTEC primary cell transcripts. In addition, blank, no-template and no reverse transcription controls were included for each measurement. The method of Livak et al.
+[19] and reference DCt values derived from the biological reference RPTEC were used for calculation of DDCt and all relative quantity values. Data were assessed using the SDS 2.3 Manager, dataAssist V1.0 software. The endogenous controls RPL13A, HPRT1 and GUSB were combined using the dataAssist software V1.0 and "arithmetic mean" as method for normalization. 106 measurements for galectin-1 expression were successfully performed; for galectin-3 one measurement did not meet the standards and was excluded. All statistics and graphics were performed using the statistical programming language R 2.15-2. For graphical analysis we used assorted differences plots, jitter plots and bean plots that were generated using R statistical software
+[20]. In all statistical tests the two-sided type-I-error was set to 5%. For statistical analysis of galectin mRNA expression in tumor vs. paired adjacent tissue, we used the paired t-test and the Wilcoxon signed-rank test. For correlation of relative expression levels with recurrence free survival we dichotomized our data according to median, mean as well as stepwise dichotomization analysis. Kaplan-Meier analysis and Cox regression was then used to evaluate the influence of mRNA expression patterns on recurrence free survival. Logistic regression was used to correlate galectin mRNA expression with clinical parameters.
+
+Results
+Paired analysis of tumorous kidney tissue in comparison with adjacent microscopically normal appearing tissue was performed with 75 samples for galectin-1 and galectin-3 mRNA expression. Patient characteristics are depicted in Table
+2. The mRNA expression of galectin-1 (p < 0.001, Figure
+1) and galectin-3 (p < 0.001, Figure
+2) were significantly higher in RCC when compared to the surrounding normal kidney tissue in paired analysis.
+Figure 1
+Assorted differences plot for paired analysis: Difference between relative logarithmic (ln) expressions of galectin-1 mRNA in RCC tissue compared to the surrounding normal kidney tissue (p < 0.001).
+Figure 2
+Assorted differences plot for paired analysis: Difference between relative logarithmic (ln) expressions of galectin-3 mRNA in RCC tissuecompared to the surrounding normal kidney tissue (p < 0.001).
+For galectin-1, mean mRNA expression in RCC and adjacent normal tissue was 1.57 (SD 0.86) and 0.99 (SD 0.62). For galectin-3, mean expression was -0.3 (SD 0.88) and -0.9 (SD 0.53) respectively. Relative expression levels with regard to sample and tumor characteristics are depicted in Table
+3.
+For clear cell RCC, logistic regression showed an association of male gender with higher galectin-1 (p = 0.054) and -3 (p = 0.034) mRNA expression as depicted in Figure
+3 and Figure
+4.
+Figure 3
+Jitter plot showing the relative logarithmic (ln) expression of galectin-1 mRNA in clear cell RCC tissue in male and female patients (p = 0.054) with the horizontal line indicating the median expression level.
+Figure 4
+Jitter plot showing the relative logarithmic (ln) expression of galectin-3 mRNA in clear cell RCC tissue in male and female patients (p = 0.034) with the horizontal line indicating the median expression level.
+These gender differences were seen exclusively in clear cell RCC tissue and did not occur in the corresponding normal tissue.
+We also compared clinical parameters with the expression of galectin-1 and galectin-3. Clinical follow up was available for 43 patients. As could be expected, recurrence free survival was associated with advanced disease (p = 0.01) and metastases (p = 0.002). However no correlation between galectin-1 (p = 0.11) or galectin-3 expression (p = 0.214) and RCC recurrence after 75 month could be demonstrated in univariate analysis.
+When dichotomizing our data according to the mean expression level or in stepwise dichotomization analysis, no differences with regard to recurrence free survival could be demonstrated in Cox regression or Kaplan Meier analysis.
+There was no association of galectin-1 (p = 0.48) or galectin-3 (p = 0.45) mRNA expression with tumor grade.
+When looking at extend of disease, galectin-1 mRNA expression for all patients with RCC failed to reach the significance level with regard to advanced disease (p = 0.058, Figure
+5) and lymph node metastasis (p = 0.059, Figure
+6).
+Figure 5
+Bean plot analysis of relative logarithmic (ln) galectin-1 expression in patients with localized vs. advanced disease (p = 0.058) with the horizontal line indicating the median expression level.
+Figure 6
+Bean plot analysis of relative logarithmic (ln) galectin-1 expression in patients with- and without nodal involvement (p = 0.059). The horizontal line is indicating the median expression level.
+
+Discussion
+Galectin-1 had previously been shown to be elevated in a variety of cancers such as head and neck squamous cell carcinoma, thyroid cancer or hepatocellular carcinoma
+[13,14,21]. Moreover, the plasma levels of galectin-1 were shown to be significantly higher in RCC patients when compared to healthy controls
+[15]. Galectin-3 had also previously been associated with several cancer entities, such as small-cell lung cancer, gastric and colorectal cancer
+[22-24]. Previous studies were able to show an up-regulation of galectin-3 in RCC
+[25,26].
+It is well known that the expression of galectin variants varies between different organ tissues
+[27]. Therefore we took great interest in identifying the relative galectin-1 and galectin-3 mRNA concentration by using tumor and non-tumor tissue from the same patient as reference. By doing so, we were able to eliminate any intra individual variance in distribution of galectin-1 and -3.
+In contrast to our findings, previous studies implicated a possible negative correlation of galectins with regard to RCC cancer
+[28]. Albeit, these results were based on immunohistochemistry of proteins and not on mRNA expression analysis, they show that the physiological role of galectins is highly complicated and may vary between subtypes. Additionally, among the tumor samples of the aforementioned study a high expression of galectin-3 was initially noted that vanished with increasing stage and grade among tumors and therefore showed the reported results.
+In the present study a significantly increased expression of galectin-1 and galectin-3 mRNA in RCC was shown when compared to normal adjacent renal tissue.
+These findings support the hypothesis that galectin-1 and -3 may play a role in RCC progression or carcinogenesis. In this study extend of disease and lymph node involvement did not correlate with galectin-1 or galectin-3 mRNA expression.
+Significance levels were narrowly missed. Others could show a significant correlation of advanced RCC and metastasis for galectin-3 using real time PCR as well as immunehistochemistry
+[29].
+Our findings of higher galectin-1 and -3 levels in clear cell RCC tissue of male patients and the fact that neither of the two encoding genes is located on the sex chromosomes is very interesting since RCC most predominantly occurs in the male population.
+With regard to a possible mechanism of action, previous data on various tumors suggest that galectin-3 may mediate invasion and the migration of cancer cells via the Wnt/ b-catenin signaling pathway and Akt (Protein Kinase B) phosphorylation. The proposed model describes galectin-3 to increase Akt phosphorylation, thereby increasing phosphorylation and inactivation of glycogen synthase kinase-3 b (GSK-3 b). With inactivation of GSK-3 b, the degradation of b-catenin is reduced. With increased cellular levels, b-Catenin can translocate to the nucleus and activate transcription after binding to transcription factors
+[30,31]. Others have argued that the effect of galectins in the immune T-cell response plays an important role: Higher levels of galectin-3 for instance have previously been shown to induce T-cell apoptosis, thereby providing a potential immune escape mechanism
+[32]. The latter findings originate from animal models, colorectal cancer research or in vitro studies. The impact of galectin mediated T-cell supression had not yet been fully shown in RCC
+[33,34].
+Our findings are not without limitations. One possible issue in our evaluation might be a possible contamination of renal cell tissue with lymphocytes. Lymphatic cells are often predominantly found in or around cancerous tissue. It has been shown that the expression of galectins is upregulated in the presence of stimulated B-cells where they play a putative role in immune modulation and T-cell control
+[35]. Likewise immune mediated activation of T-cells is known to lead to an increased expression of galectin-1
+[36]. In view of our histopathological control sections we can however exclude higher concentrations of lymphatic tissue invasion. Therefore the aforementioned confounding effects may not play an important role in this study. In addition, our data are in accordance with other studies showing equivalent elevations of galectins in cancerous tissue
+[26,29,37,38].
+Our data on galectin-1 and -3 encourage further investigations such as the influence on survival in larger patient cohorts or the relevance of these proteins with regard to new therapeutic agents and targeted therapy. Further studies should also include the role of galectin-1 and -3 on the protein level as well as sex specific expression.
+
+Conclusion
+To our knowledge this is the first study simultaneously correlating clinical tumor parameters with galectin-1 and -3 using real time PCR and mRNA expression patterns. The here found higher expression of galectin-1 and galectin-3 in male patients might lead to further molecular and biochemical research with regard to gender specific differences for the prevalence of RCC. The shown results regarding with advanced RCCs might lead to new ways of identifying patients at higher risk of recurrent disease and might even facilitate early metastasectomy.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1472-6890/14/15/prepub

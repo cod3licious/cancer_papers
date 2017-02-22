@@ -1,0 +1,410 @@
+[Abstract, Introduction, Results, Discussion, Methods]
+
+p16INK4A Represses the paracrine tumor-promoting effects of breast stromal
+fibroblasts. Cancer-associated fibroblasts (CAFs), the most abundant and probably the most active cellular component of breast cancer-associated stroma, promote carcinogenesis through paracrine effects; however, the molecular basis remains elusive. We have shown here that p16INK4A expression is reduced in 83% CAFs as compared with their normal adjacent counterparts cancer-free tissues isolated from the same patients. This decrease is mainly due to AUF1-dependent higher turnover of the CDKN2A mRNA in CAFs. Importantly, p16INK4A downregulation using specific siRNA activated breast fibroblasts and increased the expression/secretion levels of stromal cell-derived factor 1 (SDF-1) and matrix metalloproteinase (MMP)-2. Consequently, media conditioned with these cells stimulated the proliferation of epithelial cells. Furthermore, the migration/invasion of breast cancer cells was also enhanced in an SDF-1-dependent manner. This effect was mediated through inducing an epithelial-mesenchymal transition state. By contrast, increase in p16INK4A level through ectopic expression or AUF1 downregulation, reduced the secreted levels of SDF-1 and MMP-2 and suppressed the pro-carcinogenic effects of CAFs. In addition, p16INK4A-defective fibroblasts accelerated breast tumor xenograft formation and growth rate in mice. Importantly, tumors formed in the presence of p16INK4A-defective fibroblasts exhibited higher levels of active Akt, Cox-2, MMP-2 and MMP-9, showing their greater aggressiveness as compared with xenografts formed in the presence of p16INK4A-proficient fibroblasts. These results provide the first indication that p16INK4A downregulation in breast stromal fibroblasts is an important step toward their activation.
+
+Introduction
+Breast cancer is a major health problem that threatens the lives of millions of women
+worldwide each year.1 Large amount of data
+indicate that cancer-associated fibroblasts (CAFs), which constitute the major component
+of the tumor stroma, actively participate in tumor cells proliferation and
+spread.2, 3
+Indeed, it has been shown that human breast cells produced significantly faster growing
+tumors when mixed with CAFs than when mixed with normal fibroblasts.4, 5, 6 Furthermore, co-injection of lethally irradiated fibroblasts or
+inclusion of fibroblast-conditioned medium (CM) with breast cancer cell grafts increased
+carcinogenesis and tumor growth, indicating that activated fibroblasts promote tumor
+growth by secreting soluble factors.7, 8 Indeed, Orimo et al.9 have clearly shown that stromal fibroblasts present in invasive
+human breast carcinomas promote tumor growth and angiogenesis through elevated stromal
+cell-derived factor 1 (SDF1) secretion. Several other chemokines, growth factors and
+matrix metalloproteinases (MMPs) are secreted by stromal fibroblasts and their secretion
+increases when these fibroblasts are activated.3,
+10 However, the molecular mechanisms that
+regulate the secretion of these chemotactic factors are still obscure.
+p16INK4A (hereafter referred to as p16) is a cyclin-dependent kinase inhibitor
+that has multiple biological functions, including the inhibition of cell cycle
+progression,11 and the induction of
+senescence.12 The tumor suppressor functions
+of p16 have been extensively studied in tumor cells, paying only little attention to its
+potential cell nonautonomous effects from the surrounding stromal cells, including
+fibroblasts.
+The presented data clearly show that in addition to its well-known cell autonomous tumor
+suppressor functions, p16 has also a major cell nonautonomous tumor inhibitory role.
+
+Results
+p16 is downregulated in breast cancer-associated stromal fibroblasts
+The p16 expression was first investigated in 12 human breast CAFs and their counterpart
+fibroblasts isolated from histologicaly normal cancer-free tissues (TCFs). CAF/TCF
+pairs were always used simultaneously at similar passages. Whole-cell extracts were
+prepared and specific anti-p16 and anti-GAPDH (used as internal control) antibodies were
+utilized for immunoblotting analysis. Figures 1a and b show
+that the level of p16 is lower in 10 out of 12 CAFs (83%) as compared with their
+corresponding TCFs. However, p16 level was similar in 2 CAF/TCF pairs 114 and 148
+(Figures 1a and b). In addition, a great interindividual
+variation in p16 expression was observed between the various CAFs and also TCFs (Figures 1a and b).
+The level of the CDKN2A mRNA was also assessed in the same cells by reverse
+transcription (RT)-PCR. Therefore, total RNA was prepared and specific primers for
+CDKN2A as well as b-actin (used as internal control) were utilized for
+amplification. Figures 1c and d show a clear decrease in the
+CDKN2A mRNA level in 10 out of 12 (83%) CAFs, as compared with their
+adjacent TCFs, while CDKN2A mRNA was similar in the two CAF/TCF pairs 114
+and 148. These results were confirmed for some CAF/TCF pairs with quantitative
+RT-PCR (data not shown). This shows that the expression of the CDKN2A
+mRNA reflects that of the corresponding protein in the majority of the TCF/CAF pairs
+(Figures 1b and d), indicating that the decrease in p16
+protein level is due, at least in part, to a decrease in the level of its corresponding
+transcript.
+To provide evidence that p16 downregulation in CAFs is also taking place in breast
+tissues, frozen sections including both tumor and their adjacent normal tissues were
+double immunostained by fluorescent anti-p16 and anti-vimentin (fibroblast cells marker)
+antibodies. Figure 1e shows lower positive staining for p16
+in fibroblasts present in tumors than in their counterparts present in normal parts.
+This indicates that p16 is also downregulated in CAFs in vivo.
+The CDKN2A mRNA turnover is faster in CAFs versus TCFs
+Next, we sought to study the CDKN2A mRNA half-life in the TCF/CAF-180
+pair. To this end, cells were treated with the transcription inhibitor, actinomycin D
+(5 mg/ml) for different periods of time. Subsequently, total RNA was
+purified and quantified by RT-PCR using specific primers for CDKN2A and
+b-actin. Figure 2a shows that the CDKN2A mRNA
+is more stable in TCF cells as compared with their corresponding CAFs. Indeed, while the
+CDKN2A mRNA half-life is >6 h in TCF-180, it is only 45 min
+in CAF-180 (Figure 2a). Similar results were obtained for
+other CAF/TCF pairs (data not shown), which strongly suggests that the lower level
+of the CDKN2A mRNA in CAFs is due to its faster turnover in these cells as
+compared with their adjacent counterparts.
+The level of the AUF1 protein is higher in CAFs than in TCFs
+To explore the cause of the CDKN2A mRNA instability in CAFs, we assessed the
+level of the RNA decay-promoting protein AUF1, which is known to regulate the RNA
+stability of the CDKN2A mRNA,13 by
+immunoblotting. To this end, cell extracts from the 12 CAF/TCF pairs, and specific
+anti-AUF1 as well as anti-GAPDH antibodies were used. Figure
+2c shows that the AUF1 protein (46 kDa band) is clearly upregulated in
+8 out of 12 CAFs (66%) as compared with their corresponding TCFs. Importantly,
+the CDKN2A mRNA was downregulated in all CAFs were AUF1 was found highly
+expressed (Figures 1d and 2c).
+To further elucidate the link between AUF1 and p16 downregulation in CAFs, we tested
+the effect of AUF1 knockdown using specific siRNA on the expression level of the
+CDKN2A mRNA in CAF-64. Therefore, these cells were transfected with plasmids
+harboring either AUF1-siRNA or control siRNA for 24 h, and then cells were
+harvested. Total RNA was purified and the level of the CDKN2A mRNA was assessed
+by RT-PCR. Figure 2d shows that the AUF1
+level decreased significantly in the AUF1-siRNA-expressing cells as compared
+with the control cells. Concomitantly, the CDKN2A mRNA level increased in the
+AUF1-siRNA-expressing cells (Figure 2d),
+indicating that AUF1 is indeed a negative regulator of CDKN2A in breast stromal
+fibroblasts, and it's increase reduced p16 expression in these cells.
+p16 Downregulation upregulates the a-SMA, SDF-1 and MMP-2
+proteins
+In an effort to study the various effects of p16 downregulation, TCF-64 cells were
+transfected with a vector expressing either CDKN2A siRNA or a nonspecific
+control siRNA as previously described.14
+Subsequently, specific antibodies were used for immunoblotting analysis. Figure 3a shows that p16 protein level declined 7.7-fold in the
+CDKN2A-siRNA-treated cells (T64-si) as compared with their corresponding
+control cells (T64C). However, the level of p14 was not affected, while the expression
+of p21 decreased, as expected,15 like in
+CAF-64 cells (Figure 3a).
+Interestingly, like in the corresponding CAF-64 cells, this decrease in the p16 protein
+level was accompanied by strong increase in the levels of a-SMA (10-fold) and
+SDF-1 (threefold; Figure 3a), two important markers of
+activated stromal fibroblasts.9, 10 Likewise, p16 downregulation increased the expression of MMP-2
+(twofold). This suggests a possible role of p16 in repressing breast stromal
+fibroblasts.
+The effect of the p16 knockdown was also assessed on the MMP-2 and
+SDF-1 mRNA levels by real-time RT-PCR. Figure
+3b shows that the mRNA levels of the two genes increased by about 50%
+in p16-defective cells as compared with their corresponding controls, with
+P-values of 5 x 10-5 and 5 x
+10-4, respectively. Similar results were obtained when p16 was
+downregulated with a specific shRNA targeting different sequence of the gene and used
+transiently (data not shown). To further show this, CAF-64 cells were transfected with
+adenovirus-based plasmids-expressing CDKN2A (C64-ORF (open reading frame)) or
+not (C64C). Total RNA was purified from these cells 3 days post infection and real-time
+RT-PCR using specific primers was performed. Figure 3c
+upper panel shows the increase in the expression of CDKN2A in cells expressing
+the gene. The lower panel shows that the introduction of the CDKN2A ORF in
+CAF-64 cells significantly reduced the expression of the MMP-2 and
+SDF-1 mRNAs. Therefore, the mRNA levels of these genes are modulated in a
+p16-dependent manner.
+p16 Suppresses the secretion of SDF-1 and MMP-2 from breast stromal
+fibroblasts
+CAF-64 and TCF-64 as well as T64-si and T64C cells were cultured in complete media for
+24 h, and CM from each culture were collected and the levels of SDF-1 and MMP-2
+were assessed by enzyme-linked immunosorbent assay (ELISA)-based assay. Figure 3c shows that the levels of secreted proteins from CAF-64
+were higher than their levels secreted from TCF-64. Likewise, the downregulation of p16
+also increased the secretion of these proteins (Figure 3c).
+Indeed, the levels of SDF-1 and MMP-2 were 2.5-fold higher in T64-si cells than in the
+control cells (Figure 3c). These values mirror those of
+protein expression obtained by immunobloting and depicted on Figure
+3a. Similar results were obtained using CDKN2A-shRNA (data not
+shown). Furthermore, CM from CAF-64 cells expressing the CDKN2A gene (C64-ORF)
+and their respective control cells (C64C) were collected, and the levels of SDF-1 and
+MMP-2 were assessed by ELISA. Figure 3e shows that the
+increase in the level of the p16 coding gene reduced the secreted levels of SDF-1 and
+MMP-2. This indicates that p16 restrains the secretion of these cancer-promoting
+proteins in breast stromal fibroblasts.
+p16-Deficient fibroblast secretions stimulate breast cancer cell
+invasion/migration in an SDF1-dependent manner
+Next, we sought to study the effect of p16 downregulation in fibroblast cells on the
+migration/invasion of breast cancer cells. To this end, we used serum-free-CM
+(SF-CM) collected from T64-si and T64C after 24 h of culture. In addition, CpM
+and SFM were used as controls. Subsequently, 105 MDA-MB-231 cells in
+200 ml SF-CM were seeded in the upper compartment of the migration and
+invasion plates for 24 h. The migration and invasion of MDA-MB-231 cells were
+higher in the presence of CpM than in the presence of SFM (Figure
+4a). Interestingly, the migration and invasion of cancer cells were more
+significant when these cells were incubated with media from p16-defective cells. Indeed,
+the migration and invasion of MDA-MB-231 cells were, respectively, two and threefold
+higher in the presence of SF-CM from T64si cells than from the control cells
+(P-values=0.0039 and 1.92 x 10-5, respectively;
+Figure 4a). Likewise, the invasion and migration of
+MDA-MB-231 cells were twofold higher in the presence of SF-CM from TCF-64 cells
+expressing CDKN2A-shRNA than in the presence of SF-CM from the control cells
+(data not shown). Similarly, SF-CM from p16-/- mouse embryonic
+fibroblasts (MEFs) stimulated the migration/invasion of MDA-MB-231 cells more than
+SF-CM from p16+/+ MEFs (Figure 4b).
+Interestingly, increasing the expression of the CDKN2A gene through ectopic
+expression in the CAF-64 cells (C64-ORF) significantly reduced the ability of these
+cells (as compared with their control counterparts) in enhancing the
+invasion/migration of breast cancer cells (Figure
+4c).
+In an attempt to investigate the possible role of SDF-1 in this stimulation in both
+human and mouse cells, SF-CM from T64-si and p16-/- MEFs were either
+challenged either with immunoglobulin G1 antibody or with anti-SDF-1 inhibitory
+antibody, and the effect on the migration/invasion of the MDA-MB-231 cells was
+studied as described above. Figure 4d confirms the
+stimulatory effect of CDKN2A downregulation and also shows that the inhibition
+of SDF-1 in SF-CM from both human and mouse fibroblasts reduced the
+migration/invasion potential of breast cancer cells to levels similar to those
+obtained with SF-CM from the respective cells.
+p16-Deficient fibroblast secretions stimulate an epithelial-mesenchymal
+transition-like state in breast cancer cells
+Next, the level of the active forms of extracellular signal-regulated kinase and Akt
+was assessed by immunoblotting in MDA-MB-231 cells treated with SF-CM from TCF-64,
+CAF-64 as well as T64-si and T64C. Figure 5a shows that
+while the levels of the inactive forms of these proteins did not change, the levels of
+the phosphorylated extracellular signal-regulated kinase and Akt increased in MDA-MB-231
+cells treated with SF-CM from CAF-64 and T64-si, as compared with their respective
+controls. These factors are known to induce the motile and invasive capacities of cancer
+cells via promotion of epithelial-mesenchymal transition state.16 To further confirm this transition, we assessed the
+levels of N-cadherin, CD90 and vimentin as important markers of mesenchymal
+cells.17
+Figure 5a shows that the level of the N-cadherin protein
+increased in MDA-MB-231 cells treated with SF-CM from T64-si cells as compared with the
+control. Using flow cytometry, we have also shown that CD90 and vimentin levels were
+markedly higher in breast cancer cells exposed to media conditioned with p16-defective
+cells as compared with their respective controls (Figure
+5b). Together, these results indicate that p16-defective breast stromal
+fibroblasts trigger epithelial-mesenchymal transition state in a paracrine
+manner.
+p16 Downregulation in stromal fibroblasts stimulates epithelial cell
+proliferation through paracrine signaling
+CAF-64, TCF-64, T64-si and T64C were cultured in SFM for 24 h, counted and SF-CM
+was collected and then added separately to MCF-10 cells in 96-well plates. The real-time
+cell electronic sensing system (ACEA Biosciences Inc., San Diego, CA, USA) was used to
+monitor the effect of each SF-CM as well as SFM and complete media (used as controls) on
+cellular proliferation. Although MCF-10 cells proliferated rapidly in the presence of
+CpM, their multiplication was very slow in the presence of SFM (Figure 5c). Furthermore, MCF-10A proliferated faster under the effect of
+CAF-64 SF-CM than in the presence of SF-CM from the corresponding cells (TCF-64).
+Interestingly, SF-CM from p16-defective T64-si cells enhanced more than twofold the
+proliferation rate of MCF-10 cells as compared with their proliferation in the presence
+of SF-CM from control cells (Figure 5c). This indicates that
+p16 in breast stromal fibroblasts inhibits epithelial cell proliferation through
+paracrine secreted factors.
+AUF1 downregulation suppresses the effects of p16-deficient stromal
+fibroblasts
+After showing that AUF1 downregulation upregulates p16 in CAF-64 cells (Figure 2d), we sought to investigate the effect of this
+downregulation on the level of secreted SDF-1 and MMP-2. To this end, the levels of
+these proteins were assessed by ELISA in CM from CAF-64-expressing AUF1-siRNA
+or control-siRNA. Figure 6a shows that AUF1-defective cells
+wherein p16 level increased showed a strong decrease in the secreted levels of SDF-1 and
+MMP-2.
+Next, we sought to study the effect of AUF1 downregulation in CAF-64 cells on the
+migration/invasion of breast cancer cells using SF-CM collected from
+CAF-64-expressing AUF1-siRNA or control-siRNA. The invasion and the migration
+of MDA-MB-231 cells were assessed as described above, and were found to be lower in the
+presence of SF-CM from C64-si cells than from C64C cells
+(P-values=0.002246 and 0.000608, respectively; Figure
+6b). This indicates that AUF1 downregulation reduces the pro-carcinogenic
+effects of p16-defective stromal fibroblasts, may be through p16-upregulation.
+p16-Deficient fibroblasts stimulate breast cancer xenograft growth in
+mice
+To investigate the effect of p16 deficiency in fibroblasts on tumor growth and
+angiogenesis in vivo, 25 nude mice were randomized into five groups and breast
+cancer xenografts were created subcutaneously by coimplantation of MDA-MB-231 cells (2
+x 106) with p16-/- or p16+/+ MEFs
+(106) into the right leg of each mouse. As controls 5 x
+106 and 2 x 106 MDA-MB-231 cells and 106
+p16-/- cells were injected separately. MEF cells were used in these
+experiments because of their fast growth as compared with the transfected breast stromal
+fibroblasts (T64si and the corresponding T64C). Although all mice coinjected with
+MDA-MB-231 and p16-/- MEF cells developed tumors, only two out of five
+mice coninjected with MDA-MB-231 and p16+/+ MEFs had tumors.
+Interestingly, tumors containing p16-deficient fibroblasts (T-MEFp16-/-)
+appeared only 1 week post injection and grew faster than those containing p16-proficient
+fibroblasts (T-MEFp16+/+), which appeared after 3 weeks (Figure 7a). No tumors were obtained by injecting
+p16-/- or MDA-MB-231 (2 x 105) cells alone, while four
+out of five mice developed tumors following the injection of MDA-MB-231 (5 x
+105) cells alone and appeared only after 4 weeks. However, the histology of
+the formed tumors was similar in both cases (data not shown). These results show that
+p16-defective fibroblasts promoted breast cancer tumor formation and enhanced their
+growth rate in nude mice as compared with their isogenic normal cells.
+To further elucidate the role of p16 in the effect of these fibroblasts on cancer cells
+in vivo, whole-cell extracts were prepared from the two tumor xenografts
+T-MEFp16+/+ and 2 T-MEFp16-/-, and the levels of various
+cancer- and metastasis-promoting genes were assessed by immunoblotting. Figure 7b shows that while the level of Akt is similar in all the
+four tumors, the level of the phosphorylated form of the protein was higher in the two
+T-MEFp16-/- than in the T-MEFp16+/+ tumors. Then, we
+assessed the levels of important downstream targets of the Atk/NF-kB pathway, namely
+Cox-2 and cyclin D1. In fact the levels of these two important oncogenes were markedly
+higher in the two T-MEFp16-/- than in the T-MEFp16+/+
+tumors (Figure 7b). We also assessed the level of MMP-9 and
+MMP-2 and have found that these two proteins are also highly expressed in the two tumors
+with MEFp16-/- than in the two T-MEFp16+/+ (Figure 7b). As MDA-MB-231 cells do not express p16, this protein
+was not detected in both types of tumors T-MEFp16-/- and
+T-MEFp16+/+ (data not shown). Furthermore, we assessed the level of p16,
+cyclin D1 and MMP-9 in MEFp16-/- and MEFp16+/+ and have
+shown that p16 knockdown did not affect the level of MMP-9 and rather decreased the
+level of cyclin D1 in pure MEF cells (data not shown), confirming that the observed
+effects were rather on breast cancer epithelial cells.
+
+Discussion
+In this study, we have shown that the tumor suppressor p16 protein has an important role
+in controlling mammary stromal fibroblast autocrine and paracrine signaling. We started
+this study by showing that p16 is downregulated in CAFs as compared with their
+corresponding TCFs, isolated from the same patients. This p16 decrease suggests a role of
+cancer cells in suppressing p16 expression in fibroblast cells present in their vicinity,
+either directly or indirectly through sustained proliferative stress. In fact, several
+lines of evidence indicate that neoplastic cells have the ability to affect their
+microenvironment and modulate gene expression in the surrounding fibroblasts through
+secreted factors.18, 19 In addition, p16 expression was also low in some TCF cells as
+compared with TCFs from other patients, which could be owing to interindividual variation
+in the expression of p16.
+The reduction in p16 level did not result from methylation of the p16 promoter (data not
+shown), but was due to a decrease in the stability of the CDKN2A mRNA in CAFs,
+which resulted from the increase in the expression of the CDKN2A mRNA
+destabilizing protein AUF1.20 AUF1 knockdown in
+CAF cells increased the expression of the CDKN2A mRNA and also suppressed the
+pro-carcinogenic effects of these cells. Intriguingly, AUF1 level was found higher in
+TCF-114 than in its counterpart CAF-114, with no much effect on p16 level. This could
+suggest alteration in other p16/AUF1-regulatory pathway(s) in these cells.
+Interestingly, AUF1 controls also the expression of many other important breast
+cancer-related proteins such as Cox-2, cyclin D1, C-Myc, Bcl-2, ERa and many
+others.21 This indicates that the increase
+in the level of AUF1 in breast stromal fibroblasts could constitute a major change in CAFs
+that could explain, in great part, the significant modulation in gene expression that has
+been previously reported in such cells.22, 23, 24, 25
+In addition, we have shown that p16 negatively regulates the expression of both SDF-1 and
+MMP-2 in breast stromal fibroblasts. SDF-1, a promoter of tumor growth and
+angiogenesis,9 is also negatively controlled
+by p53.26 This indicates that this important
+cancer-promoting factor is under the control of two master tumor suppressor proteins p16
+and p53. Indeed, inhibition of SDF-1 in CM severely reduced the pro-invasive/migratory
+effects of p16-defective human and MEF cells (Figure 4).
+Regarding MMP-2, several lines of evidence suggests that p16 negatively regulates this
+pro-invasion protein in various cell types. Indeed, p16 expression inhibited the
+expression of MMP-2 in lung cancer cells27 and
+in glioma.28 The present findings corroborate
+these results and provide clear evidence that MMP-2 expression is modulated in a
+p16-dependent manner in breast stromal fibroblasts. These results raise an important
+question on how p16 regulates the expression/secretion of these factors. In fact,
+several lines of evidence indicate that p16 is not a mere CDKI. p16 Overexpression has
+also been found in some benign tumors and in some cancer types, such as cervical cancer,
+breast cancer and head and neck cancer.29, 30 Therefore, it is possible that p16 is affecting the
+expression of these genes through modulating the kinase activity of CDK4 and/or CDK6.
+The other possibility is that this p16 function is mediated through interaction with other
+proteins. Indeed, it has been shown that p16 interacts with several proteins involved
+directly or indirectly in the control of gene expression such as HSP90, EF-2, hnRNP C1 and
+others.31 Furthermore, it has been recently
+shown that p16 interacts with GRAM-19 to regulate E2F1-responsive gene
+expression.32
+The enhancement of the migratory ability of breast cancer cells was higher in the
+presence of media conditioned with p16-defective human cells than with
+p16-/- MEFs as compared with their respective controls (Figure 4). It is possible that the pro-migratory effect of p16 deficiency is
+higher in human fibroblasts than in MEFs, owing to higher amounts of secreted cytokines
+and growth factors. It is also possible that the secreted human factors are more efficient
+than their counterpart mouse factors in enhancing the migration of human breast cancer
+cells.
+Importantly, we have shown that CM from p16-defective stromal fibroblast cells induced
+the three major mesenchymal markers N-cadherin, vimentin and CD90 and also activated Akt
+and extracellular signal-regulated kinase, two migration- and invasion-promoting
+factors,16 in MDA-MB-231 cells (Figure 5a). It has been previously shown that this
+epithelial-mesenchymal transition can be induced by active fibroblasts and enhances
+the migratory and invasiveness capacity of breast cancer cells.33 This shows that p16 has a major role in stromal
+fibroblast-mediated epithelial-mesenchymal transition state and its consequent
+increase in the invasive and metastatic behavior of neoplastic cells.
+In addition, p16-deficient fibroblasts enhanced the proliferation of epithelial cells
+in vitro and the formation and growth of breast tumor xenografts in mice, which
+is another major feature of activated fibroblasts. The tumors formed in the presence of
+p16-deficient cells expressed high levels of Cox-2 and MMP-9, known to promote tumor cell
+invasion and has been recently shown to be an important mediator of CAF-induced tumor
+growth and progression.34 These tumors showed
+also high levels of MMP-2, cyclin D1 and active Akt, which explains their faster onset and
+growth.
+In addition to p16, other important tumor suppressor genes such as p53, p21,
+PTEN and CAV-1 are also implicated in repressing the procarcinogenic
+effects of breast stromal fibroblasts both in vitro and in
+vivo.26, 35,
+36, 37, 38, 39
+In summary, the present findings have shown that in addition to its well-known
+cell-autonomous tumor suppressor function within incipient pro-carcinogenic epithelial
+cells, stromal fibroblast p16, like other tumor suppressor genes, exerts also cell
+nonautonomous effects on breast tumorigenesis. Therefore, stromal fibroblast p16 might
+constitute a valid therapeutic target to stop tumor progression and/or recurrence.
+
+Materials and methods
+Cells, cell culture and chemicals
+Breast fibroblast cells were obtained, characterized and cultured as previously
+described.40 MEF cell lines (a generous
+gift from Dr R A DePinho) were cultured as described previously41 and used at low passages (6-8). In the present
+experiments, CAFs and their corresponding TCFs were always cultured simultaneously, in
+the same conditions and at similar passages (4-8). CAFs grow slightly faster than
+their corresponding TCFs and slight variation in cellular growth was also observed
+between various CAFs and various TCFs,40 and
+both can reach passage 12 with no sign of senescence.
+MDA-MB-231 and MCF-10 cell lines were obtained from ATCC (Manassas, VA, USA) and were
+cultured following the instructions of the company. All supplements were obtained from
+Sigma (St Louis, MO, USA) except for antibiotics and antimycotics solutions, which were
+obtained from Gibco (Grand Island, NY, USA).
+Immunohistochemical staining
+Frozen tissues plated on coverslips were used as detailed in the Supplementary Materials and methods.
+Cellular lysate preparation and immunoblotting
+This has been performed as described previously.14 See Supplementary Materials and
+methods for details.
+RNA purification, RT-PCR and real-time RT-PCR
+Total RNA was purified using the TRI reagent (Sigma) according to the
+manufacturer's instructions, RT-PCR and real-time RT-PCR were
+performed as described in the Supplementary Materials and
+methods.
+Analysis of mRNA stability
+Cells were challenged with 5 mg/ml actinomycin D for various periods of
+time (0-6 h) and then total RNA was purified and assessed using
+RT-PCR.
+siRNA transfection
+The permanent transfection using CDKN2A-siRNA and control-siRNA was performed
+as described previously.14
+pSILENCER-AUF1siRNA and control-siRNA plasmids20 were used to carry out transient transfection using the human
+dermal fibroblast nucleofector kit (Amaxa Biosystems, Gaithersburg, MD, USA) following
+the protocol recommended by the manufacturer. Low passage cells (2-4) were used
+for transfection.
+Cell proliferation analysis
+A volume of 100 ml of complete medium containing 2-4 x
+103 cells was loaded in each well of the 96-well microtiter E-plates with
+integrated microelectronic sensor ayyars at the bottom of each well, and cell
+proliferation was assessed by the real-time cell electronic sensing system as
+describedpreviously40 and detailed in the
+Supplementary Materials and methods.
+Chemotaxis and invasion assay
+The 24-well BD BioCoat Matrigel Invasion Chambers were used as per the manufacturer
+guideline (BD Bioscience, Chicago, IL, USA). See Supplementary
+Materials and methods for a detailed description.
+Conditioned media
+Cells were cultured in media+-serum for 24 h, and then the media were
+collected and centrifuged. The resulting supernatant was either used immediately or
+frozen at -80degC until needed.
+Tumor xenografts
+Animal experiments were approved by the KFSH&RC institutional Animal Care and Use
+Committee (ACUC) and were conducted according to relevant national and international
+guidelines. See Supplementary Materials and methods for
+a detailed description.
+Statistical analysis
+Statistical analysis was performed by the Student's t-test and
+P-values of 0.05 and less were considered as statistically significant.

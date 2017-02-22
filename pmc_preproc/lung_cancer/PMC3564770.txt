@@ -1,0 +1,151 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed]
+
+Socioeconomic Inequalities in Lung Cancer Treatment: Systematic Review and Meta-Analysis. In a systematic review and meta-analysis, Lynne Forrest and colleagues find that patients with lung cancer who are more socioeconomically deprived are less likely to receive surgical treatment, chemotherapy, or any type of treatment combined, compared with patients who are more socioeconomically well off, regardless of cancer stage or type of health care system.
+
+Introduction
+Lung cancer is the most commonly occurring cancer worldwide. In the USA and the UK it is the second most incident cancer [1],[2], as well as the most common cause of cancer mortality [2],[3]. Survival differs internationally. In the UK, fewer than 10% of those diagnosed with lung cancer survive for 5 years [3],[4], with higher survival rates found in Nordic countries [4],[5], the USA [2],[5], Australia, and Canada [4].
+Lung cancers are classified into small cell (SCLC) and non-small cell (NSCLC) lung cancers. NSCLC is more common than SCLC and has a better survival rate [6]. National Institute for Health and Clinical Excellence (NICE) guidelines recommend radical surgery for stage I or II NSCLC [6]. Chemotherapy and radiotherapy are recommended for later-stage NSCLC patients and are the treatments of choice for SCLC [6]. Treatment intervention with surgery, chemotherapy, or radiotherapy has been shown to improve lung cancer survival [6].
+Socioeconomic inequalities in incidence of, and survival from, the majority of cancers have been reported [1],[3],[7]. A recent non-systematic review revealed socioeconomic inequalities in receipt of treatment for colorectal cancer [8], and it has been suggested that socioeconomic differences in access to treatment might at least partially explain socioeconomic differences in survival [9]. Unintended variations in outcome that result from the way that health interventions are organised and delivered have been described as intervention-generated inequalities [10].
+Incidence of lung cancer is higher [1],[11], and survival poorer [7], in the most deprived patient groups. However, it is not known whether socioeconomic inequalities in receipt of treatment exist for lung cancer and, if so, what contribution they make to overall socioeconomic inequalities in outcome. In order to explore the first of these questions, we undertook a systematic review and meta-analysis of cohort studies examining the association between socioeconomic position (SEP) and receipt of lung cancer treatment.
+
+Methods
+A protocol (see Text S2) was developed and systematic methods were used to identify relevant studies, assess study eligibility for inclusion, and evaluate study quality. The review is reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [12] (see Text S1 for PRISMA checklist).
+Literature Search
+The online databases of MEDLINE and EMBASE were searched up to September 2012 (see Table S1 for full search strategies). No language restriction was applied. A search of Scopus uncovered no further papers. Additional studies were identified by reviewing the reference lists of all included studies and by using a forward citation search to identify more recent studies that had cited included studies. EndNote X5 software was used to manage the references.
+Study Eligibility
+Studies that met the following criteria were included in the review: primary, cohort studies of participants with a primary diagnosis of lung cancer (ICD10 C33 or C34) reported separately from other cancers; published in a peer-reviewed journal; where at least one reported outcome was receipt of treatment (measured by rates or odds of receiving treatment); and where receipt of this outcome was reported by a measure of SEP. Any curative or palliative treatment for lung cancer including surgery, chemotherapy, and radiotherapy was included.
+Studies where SEP was included as a descriptive variable or confounder, but where outcomes for receipt of treatment by SEP were not presented, were not eligible for inclusion, but the authors were contacted to determine whether relevant data were available that might allow for inclusion in the review.
+Studies where multivariable analysis was conducted (and included control for a minimum of age and sex as confounders); receipt of treatment was compared to not receiving treatment; odds ratios (ORs) and 95% confidence intervals (CIs) of receipt of treatment in low compared to high SEP were calculated; and SEP was not further stratified by another variable, were considered suitable for inclusion in meta-analysis.
+Acceptable measures of SEP were: area-based indices of deprivation (e.g., Index of Multiple Deprivation [IMD], Townsend Score, Carstairs Index); and area or individual measures of income, poverty, or education level.
+Multiple papers using the same or overlapping study data were included. Sensitivity analyses were conducted including all eligible papers and using different combinations of included papers, but only data from the better quality or more detailed paper in each overlapping study group were included in the final meta-analyses. Sensitivity meta-analyses are included in the supplemental material.
+Study Selection and Data Extraction
+Studies obtained from the database searches were independently assessed by two researchers (LFF and HW) in three phases: title, abstract, and full paper screening. Any disagreements at any of the screening stages were resolved by discussion between the two researchers in the first instance and with a third reviewer (JA) if agreement could not be reached. Data extraction was carried out by LFF using an Access database pro-forma developed for this purpose, and double-checked by HW.
+There is evidence to suggest that health insurance status is an important factor relating to access to lung cancer care in countries such as the USA that rely on insurance-based health care systems [13]. Insurance status is less relevant and rarely measured in most other countries. Therefore, three analytical categories were developed a priori: studies conducted in a universal health care system (UHCS), free at the point of access (similar to the UK); studies conducted in countries with primarily private insurance health care systems (non-UHCS, similar to the USA) [14]; and studies conducted in countries with social insurance health care systems (similar to many European countries). No studies were identified that fell into the third category.
+Study Quality
+A study quality tool, adapted from existing quality tools [15],[16], was used to divide studies into six quality categories, with 1 being the lowest, and 6 the highest, quality (see Text S3). Quality assessment was carried out by LFF and checked by HW.
+Cohort studies reporting only univariable analysis are of lower quality in terms of their ability to control for confounding. Only studies conducting multivariable analysis (quality scores 3-6) were included in the meta-analysis. All studies that met the inclusion criteria were analysed in the narrative synthesis.
+Statistical Analysis
+Trends in receipt of treatment across SEP groups were described in the narrative analysis of all studies that met the inclusion criteria.
+Meta-analysis of eligible studies was undertaken using Cochrane Collaboration Review Manager 5.1. Natural logs of the ORs and their standard errors (SEs) were calculated for use in forest plots. Random-effects meta-analysis of the odds of treatment in the lowest compared to the highest SEP group was conducted. Where a study reported the most deprived class as the comparator, reverse ORs were calculated. Studies that presented a single OR as either an OR for a one unit increase in deprivation score or incremental quintile increase in income were not included.
+Subgroup analyses by treatment type and health care system were conducted. In meta-analyses where a "substantial" percentage [17] of the variability appeared to be due to the heterogeneity of the studies rather than to chance, further subgroup analyses by stage, histology, and quality score were conducted, where appropriate, in order to examine potential sources of heterogeneity. A funnel plot was used to assess potential publication bias.
+
+Results
+Included Papers/Studies
+A total of 46 papers met the inclusion criteria and were included in the review (see the PRISMA flow diagram [Figure 1]). Twenty-eight papers were from UHCS countries (Tables 1 and 2). Of these, 19 UK papers examined 13 study populations, although as these included national and regional populations from different sources, there was some further population overlap. One UK paper also compared treatment in Scotland and Canada [18]. A further nine papers from Canada (2), Sweden (1), Australia (1), Italy (1), France (1), and New Zealand (3) were included. The three New Zealand papers all examined the same population.
+10.1371/journal.pmed.1001376.g001
+Figure 1
+Flow diagram of study selection and exclusion.
+CI, confidence interval; SEP, socioeconomic position.
+Eighteen papers were from non-UHCSs, all of which were from the USA (Tables 3 and 4). The majority of non-UHCS papers used sub-groups of the National Cancer Institute's Surveillance, Epidemiology and End Results (SEER) database population and, again, some population overlap was found.
+An individual measure of SEP (education level) was used in one study [19]. All other studies used area-level measures of deprivation, income, poverty, or education level.
+In terms of quality, the non-UHCS studies that carried out multivariable analyses had better control for confounding than did UHCS studies, as they tended to stratify by stage and histology. However, half of the non-UHCS papers used a Medicare-only population aged over 65, and so were more restrictive in population terms than the UHCS studies.
+Twenty-nine papers met the criteria for meta-analysis--19 from UHCSs and 10 from non-UHCSs. However, six studies that examined receipt of treatment in low compared to high SEP presented the results as a single OR and so could not be included in the meta-analyses. Seventeen studies were included in the final meta-analyses and a further six in the sensitivity meta-analyses.
+Surgery
+Thirty-one papers (29 study populations) included receipt of surgery as an outcome--18 UHCS papers (15 study populations) and 13 non-UHCS papers (14 study populations) (Tables 5 and 6). Of the papers that reported measures of significance (CIs or p-values), 20 out of 27 (74%) reported that lower SEP was significantly associated with lower likelihood of surgery when comparing the lowest with the highest SEP group, although three of these 20 papers did not find a significant trend across groups.
+Meta-analysis of all 16 populations that were suitable for inclusion showed a significant negative effect of lower SEP on the likelihood of receiving surgery: OR = 0.72 (95% CI 0.65 to 0.80), p<0.001, I2 = 80% (Figure S1). Including only non-overlapping study populations (n = 12) gave a similar result: OR = 0.68 (95% CI 0.63 to 0.75), p<0.001, I2 = 53% (Figure 2). Similar results were also seen for the subgroup of eight papers including NSCLC patients only (OR = 0.73 [95% CI 0.68 to 0.80] p<0.001, I2 = 24%) (Figure S2) and with further stratification by health care system; NSCLC (UHCS): OR = 0.75 (95% CI 0.66 to 0.85), p<0.001, I2 = 29%; NSCLC (non-UHCS, early stage only, co-morbidity included): OR = 0.71 (95% CI 0.64 to 0.78) p<0.001; I2 = 2% (Figure 2).
+10.1371/journal.pmed.1001376.g002
+Figure 2
+Meta-analysis of odds of receipt of surgery in low versus high SEP.
+CI, confidence interval; non-UHCS, non-universal health care system; NSCLC, non-small cell lung cancer; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+Lower SEP was associated with a lower likelihood of receiving lung cancer surgery, in both types of health care system, and in studies where histology and stage at diagnosis were taken into account.
+Chemotherapy
+Twenty-three papers included chemotherapy as an outcome--14 UHCS papers (12 populations) and nine non-UHCS papers (10 populations) (Tables 7 and 8). Of the 21 papers that reported measures of significance, 15 (71%) reported that lower SEP was significantly associated with lower likelihood of receipt of chemotherapy.
+Meta-analysis of the ten populations that were suitable for inclusion found a significant negative effect of lower SEP on the likelihood of receiving chemotherapy: OR = 0.81 (95% CI 0.73 to 0.89), p<0.001, I2 = 68% (Figure S3). Similarly, in a meta-analysis of the eight papers containing non-overlapping populations that were selected for inclusion, the odds of receiving chemotherapy were significantly lower for those with low SEP compared to those with high SEP (OR = 0.82 [95% CI 0.72 to 0.93], p = 0.003, I2 = 67%), overall. A similar pattern was found in UHCS (OR = 0.80 [95% CI 0.68 to 0.95], p = 0.01, I2 = 46%); and in non-UHCS settings (OR = 0.85 [95% CI 0.68 to 1.07], p = 0.16, I2 = 85%), although this did not reach significance (Figure 3).
+10.1371/journal.pmed.1001376.g003
+Figure 3
+Meta-analysis of odds of receipt of chemotherapy in low versus high SEP.
+CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+Radiotherapy
+Eighteen papers (18 populations) examined receipt of radiotherapy for lung cancer--12 in UHCS settings (11 populations) and six in non-UHCS settings (seven populations) (Tables 9 and 10). Only one UHCS study found an association between SEP and receipt of radiotherapy. The non-UHCS studies had very heterogeneous outcomes.
+Overall, no association between SEP and receipt of radiotherapy was seen in the meta-analysis of the seven studies with non-overlapping populations selected for inclusion (OR = 0.99 [95% CI 0.86 to 1.14], p = 0.89, I2 = 54%) (Figure 4), or when all nine studies were included (OR = 0.95 [95% CI 0.85 to 1.06], p = 0.40, I2 = 71%) (Figure S4). A significant association was seen for non-UHCS studies but only two studies were included here, each looking at different stage patients.
+10.1371/journal.pmed.1001376.g004
+Figure 4
+Meta-analysis of odds of receipt of radiotherapy in low versus high SEP.
+CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+Treatment Type not Specified
+Seven papers (eight study populations) examined receipt of unspecified treatment, and three papers considered receipt of unspecified curative treatment in three populations (Tables 11-13). In the meta-analysis of five non-overlapping studies, low SEP was associated with a lower likelihood of receiving unspecified treatment (OR = 0.78 [95% CI 0.74 to 0.83], p<0.001, I2 = 0) (Figure 5). This was also seen when studies with overlapping populations were included (OR = 0.80 [95% CI 0.77 to 0.84], p<0.001, I2 = 17%) (Figure S5).
+10.1371/journal.pmed.1001376.g005
+Figure 5
+Meta-analysis of odds of receipt of unspecified treatment in low versus high SEP.
+CI, confidence interval; OR, odds ratio; SE, standard error; SEP, socioeconomic position.
+When the surgery, chemotherapy, and radiotherapy papers included in the separate treatment meta-analyses in this systematic review were analysed together to produce an overall summary effect meta-analysis OR, a similar result was seen, with low SEP associated with a lower likelihood of receiving any type of treatment. This was found when including only studies with non-overlapping populations (OR = 0.79 [95% CI 0.73 to 0.86], p<0.001, I2 = 77%) (Figure S6) and when including all eligible studies (OR = 0.80 [95% CI 0.75 to 0.86], p<0.001, I2 = 82%) (Figure S7).
+
+Discussion
+Principal Findings
+To our knowledge, this is the first systematic review and meta-analysis examining socioeconomic inequalities in receipt of lung cancer treatment. It shows an association between low SEP and reduced likelihood of receipt of any type of treatment, surgery, and chemotherapy. The results were generally consistent across different health care systems.
+Interpretation of Results
+Surgery is suitable only for patients with early-stage NSCLC, and it has been suggested that patients with cancer in a lower SEP are more likely to present later and with later-stage disease [20]. This may help explain why socioeconomic inequalities in receipt of surgery are observed in some studies. However, presentation with later-stage cancer in lower SEP patients has not been consistently observed [19]. In this review, when receipt of treatment was examined in studies of early-stage patients only (from non-UHCS studies), low SEP remained associated with reduced likelihood of surgery. Thus, the association between SEP and receipt of surgery appears to be independent of stage. Similar results were seen for NSCLC studies in both health care systems.
+Receipt of treatment may also be influenced by clinical suitability for treatment, and socioeconomic differences in the number of co-morbidities present may explain socioeconomic inequalities in treatment. In the three UHCS studies that took co-morbidity into account, SEP was not associated with receipt of surgery [21],[22] or of any treatment [23] when the trend across SEP groups was examined, suggesting that co-morbidity may be a potential mediator of socioeconomic inequalities in treatment in UHCSs. However, most of the non-UHCS studies did include co-morbidity as a confounder, and socioeconomic inequalities in treatment were still observed, suggesting that there may be differences between health care systems here.
+Strengths and Weaknesses of the Review and of the Available Evidence
+This is one of the first equity reviews published [24],[25], the first systematic review of the literature on intervention-generated inequalities in lung cancer treatment to our knowledge, and the first cancer equity review to include a meta-analysis. Extensive searches were carried out to identify studies. However, it is possible that not all relevant studies were obtained.
+The included studies reported observational data only. The suitability of meta-analysis for observational studies has been questioned, as it may produce precise but spurious results [26]. Examining the possible sources of heterogeneity by conducting sensitivity analyses across different sub-groups may be less prone to bias than calculating an overall summary effect [26]. Here, although an overall summary effect OR was calculated, heterogeneity was taken into account. Separate analyses by type of treatment were carried out, with further stratification by stage and histology. Universal and non-UHCSs were examined separately and random effects rather than fixed effects meta-analyses were conducted. These precautions did not change the overall pattern of results seen.
+Significant heterogeneity remained in some cases, which could be considered a limitation, although this is not surprising because of the characteristics of the studies included. For studies examining receipt of chemotherapy and radiotherapy it was generally not possible to differentiate between curative and palliative treatment and, if patterns of care differ for these by SEP, this might explain the high degree of heterogeneity seen. However, although there is some suggestion that heterogeneity can be considered high at >50% [17], when confidence intervals were calculated these were wide, so it was difficult to be confident about the degree of heterogeneity present [27].
+Results for receipt of radiotherapy differed in the non-UHCS sub-group compared to overall but, as only two studies were included in this sub-group, it is difficult to be sure that different patterns of receipt of radiotherapy by SEP are due to differences in health care system.
+Many of the non-UHCS studies used overlapping population sub-groups from the SEER database. There was also population overlap between some UHCS datasets. We attempted to include only substantially non-overlapping datasets within the final meta-analyses to ensure independence of results. A judgement had to be made as to which was the best-quality and most appropriate paper to include, but sensitivity analyses using different inclusion combinations (Figure S8) did not change the overall findings, nor did including all suitable studies regardless of population overlap (Figures S1, S3, S4, S5, S7).
+Included papers contained data for patients diagnosed between 1978 and 2008. As treatment guidance has changed over time, older studies may be less applicable to current clinical practice. However, the majority of included studies were published within the last five years, and sensitivity analyses excluding studies published prior to 2000 did not change the overall findings.
+Various measures of SEP were used, and these were categorised differently--an acknowledged problem in equity reviews [28]. All but one study measured SEP at the area level. This is a further limitation, as area-based measures of SEP are unlikely to be accurate markers of individual-level circumstances and access to resources [29]. Area-based measures of SEP can be calculated using address, making them easy to add to disease registers, such as those used in many of the studies synthesised here. However, the reliance on area-based markers of SEP may underestimate the strength of the true association between SEP and receipt of treatment.
+Not all studies reported details of stage and histology--both of which influence treatment type--and very few UHCS studies took co-morbidity into account. Thus, the ORs used in the meta-analyses were not consistently adjusted for the same covariates. However, we attempted to take these factors into account in the quality scores and by conducting subgroup sensitivity analyses. Examining only high-quality studies did not alter our findings nor did sensitivity analyses, although consequent reduction in numbers did result in loss of significance in some analyses, potentially due to lack of power to detect differences.
+In order to conduct meta-analysis it is necessary to compare the odds of treatment in the lowest-SEP group with the odds in the highest, which simplifies what may be a complex relationship across SEP groups. However, studies that reported a change in odds ratios across the SEP categories, and thus explored trends in receipt of treatment, generally supported the overall findings of the review.
+A number of existing tools suitable for assessing cohort study quality were considered [15],[16]. However, none of these tools was entirely appropriate for the type of studies included and, as has been done in previous reviews [13],[30], we devised a unique tool, adapting and utilising aspects of other available tools. This approach has the benefit of producing a quality tool that is highly specific for the type of studies examined.
+As with any systematic review, we are unable to exclude the possibility of publication bias. Studies reporting null findings are less likely to be published or, if they are published, not to report numerical outcomes [17]. A funnel plot to assess potential publication bias did not show obvious bias (Figure S9). However, a number of papers recovered in the search included SEP in the description of the study population but did not report receipt of treatment by SEP [31]-[34]. Study authors were contacted and asked to provide further information, but only one supplied the requested data [34]. It is likely that SEP was not significantly associated with receipt of treatment in the other studies, but this was not always clearly reported. However, publication bias is thought to be less important than other sources of bias, such as confounding, in meta-analyses of observational studies [26].
+Implications for Policy and Practice
+Socioeconomic inequalities in receipt of treatment may exacerbate socioeconomic inequalities in incidence of lung cancer, which is strongly associated with higher smoking rates in more deprived populations, so may further contribute to the poorer outcomes in lower SEP groups.
+Socioeconomic inequalities in treatment may be due to differences in access to care. Within a non-UHCS it might be expected that socioeconomic differences in receipt of treatment would be observed due to income-related differences in health insurance status. Patients with lung cancer in the USA who do not have insurance have been shown to have more limited access to care [13]. However, as socioeconomic inequalities in receipt of lung cancer treatment were also observed in UHCSs that do not depend on ability to pay and in non-UHCS studies where insurance type was taken into account, this would suggest that other system factors may be contributing to this inequality. The extent to which receipt of treatment is influenced by factors such as patient choice is not known.
+Variability at the patient, tumour, system, and individual clinician levels needs to be investigated before clear recommendations for changes to policy and practice can be made.
+Future Research
+This review has demonstrated a clear association between lower SEP and reduced likelihood of receiving surgery, chemotherapy, and any type of unspecified treatment for lung cancer. The reasons for these inequalities need to be more thoroughly investigated. Better-quality UHCS studies, including statistical control for co-morbidity and stratification by stage and histology--so that only those patients eligible for a particular treatment are included in the population-denominator--are required. It would also be useful to be able to distinguish between curative and palliative intent of treatment. In non-UHCS, studies in younger populations, examining a range of insurance providers, are required.
+Further investigation into the system and patient factors that might contribute to socioeconomic inequalities in receipt of lung cancer care is necessary, to help develop interventions that ensure equitable receipt of appropriate treatment. This should include a quantitative exploration of inequalities at each stage of the care pathway as well as qualitative work exploring reasons for inequality. Inequalities in receipt of treatment may contribute to inequalities in cancer survival and so cohort survival analyses are warranted in order to investigate intervention-generated inequalities in lung cancer outcomes.
+
+Supporting Information
+Figure S1
+Meta-analysis of odds of receipt of surgery in low versus high SEP (overlapping populations). CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+(TIF)
+Click here for additional data file.
+Figure S2
+Meta-analysis of odds of receipt of surgery for NSCLC in low versus high SEP (non-overlapping populations). CI, confidence interval; OR, odds ratio; SE, standard error; SEP, socioeconomic position.
+(TIF)
+Click here for additional data file.
+Figure S3
+Meta-analysis of odds of receipt of chemotherapy in low versus high SEP (overlapping populations). CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+(TIF)
+Click here for additional data file.
+Figure S4
+Meta-analysis of odds of receipt of radiotherapy in low versus high SEP (overlapping populations). CI = confidence interval, non-UHCS = non-universal health care system, OR = odds ratio, SE = standard error, SEP = socioeconomic position UHCS = universal health care system.
+(TIF)
+Click here for additional data file.
+Figure S5
+Sensitivity meta-analysis of odds of receipt unspecified treatment in low versus high SEP (overlapping populations). CI, confidence interval; OR, odds ratio; SE, standard error; SEP, socioeconomic position.
+(TIF)
+Click here for additional data file.
+Figure S6
+Meta-analysis of odds of receipt of any type of treatment in low versus high SEP. CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+(TIF)
+Click here for additional data file.
+Figure S7
+Meta-analysis of odds of receipt of any type of treatment in low versus high SEP (overlapping populations). CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+(TIF)
+Click here for additional data file.
+Figure S8
+Meta-analysis of odds of receipt of surgery in low versus high SEP (partially-overlapping populations). CI, confidence interval; non-UHCS, non-universal health care system; OR, odds ratio; SE, standard error; SEP, socioeconomic position; UHCS, universal health care system.
+(TIF)
+Click here for additional data file.
+Figure S9
+Funnel plot to assess publication bias. CI, confidence interval; non-UHCS, non-universal health care system; NSCLC, non-small cell lung cancer; UHCS, universal health care system.
+(TIF)
+Click here for additional data file.
+Table S1
+Full search strategies (MEDLINE and EMBASE).
+(DOC)
+Click here for additional data file.
+Text S1
+PRISMA checklist.
+(DOC)
+Click here for additional data file.
+Text S2
+Protocol.
+(DOC)
+Click here for additional data file.
+Text S3
+Quality score checklist.
+(DOC)
+Click here for additional data file.

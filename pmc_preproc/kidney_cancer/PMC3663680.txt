@@ -1,0 +1,226 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed]
+
+A new method to estimate parameters of the growth model for metastatic tumours. Purpose Knowledge of natural tumour growth is valuable for understanding tumour biology, optimising screening programs, prognostication, optimal scheduling of chemotherapy, and assessing tumour spread. However, mathematical modelling in individuals is hampered by the limited data available. We aimed to develop a method to estimate parameters of the growth model and formation rate of metastases in individual patients.   Materials and methods Data from one patient with liver metastases from a primary ileum carcinoid and one patient with lung metastases from a primary renal cell carcinoma were used to demonstrate this new method. Metastatic growth models were estimated by direct curve fitting, as well as with the new proposed method based on the relationship between tumour growth rate and tumour volume. The new model was derived from the Gompertzian growth model by eliminating the time factor (age of metastases), which made it possible to perform the calculations using data from all metastases in each patient. Finally, the formation time of each metastasis and, consecutively, the formation rate of metastases in each patient were estimated.   Results With limited measurements in clinical studies, fitting different growth curves was insufficient to estimate true tumour growth, even if patients were followed for several years. Growth of liver metastases was well described with a general growth model for all metastases. However, the lung metastases from renal cell carcinoma were better described by heterogeneous exponential growth with various growth rates.   Conclusion Analysis of the regression of tumour growth rate with the logarithm of tumour volume can be used to estimate parameters of the tumour growth model and metastasis formation rates, and therefore the number and size distribution of metastases in individuals.
+
+Introduction
+Studying natural tumour growth is valuable for understanding tumour biology, optimising screening programs, prognostication
+[1], optimal scheduling of chemotherapy
+[2], and assessing tumour spread (number and size distribution of metastases, including micro-metastases)
+[3,4]. Mathematical models such as the exponential and the Gompertzian growth models are usually used to describe tumour growth. The growth of a tumour can be described by a curve defined by the selected model, where the tumour volume (V) is a function of time (t): V = f(t).
+The exponential model is a simple growth model of solid tumours. Assuming exponential tumour growth, the growth rate can be calculated from tumour volume measurements from at least two occasions, either as the tumour volume doubling time (DT) or the specific growth rate (SGR)
+[5]. DT is the time needed for a tumour to double its volume, and SGR is the relative volume increase per unit time, given in %/day. If the tumour volume is measured at times t0 and t, the following equation is valid
+[5]:
+(1)
+V
+=
+V
+0
+e
+SGR
+t
+-
+t
+0
+The above equation shows that SGR is equivalent to the exponential growth constant of the tumour. In other words:
+(2)
+SGR
+=
+1
+V
+dV
+dt
+If tumour volume is measured on two occasions, t1 and t2, then the SGR of the tumour during the period of observation can be calculated as:
+(3)
+SGR
+=
+ln
+V
+2
+/
+V
+1
+t
+2
+-
+t
+1
+where V1 and V2 are the tumour volume at t = t1 and t2, respectively. SGR is reciprocally related to DT as follows:
+(4)
+SGR
+=
+ln
+2
+DT
+.
+We have previously demonstrated that SGR is less affected by measurement uncertainties than DT, and is a better variable to characterise tumour growth rate
+[5,6].
+According to the exponential model, the tumour's SGR is constant and independent of tumour volume. However, studies have shown that tumour growth rate may decline with time
+[7-9] (i.e., non-exponential growth).
+The Gompertzian model is widely used to describe the growth of non-exponentially growing tumours. According to the Gompertzian growth model, the variation of tumour volume with respect to time is as follows:
+(5)
+V
+=
+V
+0
+e
+SGR
+0
+l
+1
+-
+e
+-
+l
+t
+-
+t
+0
+where SGR0 is the initial tumour growth rate at t = t0, and l is the growth deceleration constant. When l approaches zero, the Equation 5 reduces to Equation 1 (i.e., the exponential growth model).
+The standard method to find the growth model that best describes tumour growth is direct curve fitting. Exponential and Gompertzian growth curves are fitted to the volume of each tumour, and the model with the best fit is selected. Using direct curve fitting with the Gompertzian model requires at least three data points per tumour. However, in clinical studies, therapy is usually initiated soon after diagnosis; therefore, the natural tumour growth patterns can only be followed for a limited time before the onset of treatment. Thus, clinical observations of growth rate decline in tumours (i.e., non-exponential growth curves) are very rare, and the exponential model is most commonly used
+[10].
+The aim of this study was to develop a new method to estimate the parameters of the non-exponential growth model for metastatic tumours in patients. To demonstrate the applicability of the new proposed method, we applied the method to data from one patient with liver metastases arising from a primary ileum carcinoid and one patient with lung metastases arising from a primary renal cell carcinoma.
+
+Materials and methods
+Patients
+Data from two patients were used in this study. The first patient was diagnosed with primary midgut carcinoid and liver metastases. The primary tumour was surgically resected in 1995. Growth data were obtained from eight computed tomography (CT) examinations performed annually during 1995-2002. During this period, the patient was treated with octreotide (Sandostatin, Sandoz/Novartis, Basel, Switzerland) for hormonal symptom relief, and interferon alfa-2b (IntronA, Schering-Plough Corporation, New Jersey, USA) was administered on three occasions without clinical response. The volume of each tumour was measured by point counting: a transparent paper marked with square millimeters was used to measure the tumour area in CT slices, and the tumour volume in the slice was estimated by multiplying the tumour area by the slice thickness. The total tumour volume was calculated as the sum of tumour volumes from the individual CT slices.
+The second patient was diagnosed with primary renal cell carcinoma with lung metastases. Renal cancer is notoriously chemotherapy resistant. During the 1980th biological therapy with interferon with few responses, but considerable toxicity, was introduced and in the 1990th also IL2 was added, again with modest efficacy but with significant side effects
+[11]. Due to the frequently very slow disease progression with few symptoms (as in this case), many oncologists in the Scandinavian countries preferred expectation. The frequent X-ray investigations were probably done for psychological reasons. Therefore, this patient was untreated and we studied the natural growth of seven lung metastases in this patient. A total of 32 conventional two-dimensional AP chest radiographs collected from 1989 to 1999 were available. The area of each tumour in each radiograph was estimated using Osirix (cf. http://www.osirix-viewer.com/). Each tumour was assumed to be equal to the volume of a sphere with the diameter of a circle with the same area as the estimated tumour area in the radiograph. Because the lining border of the tumour could not be clearly defined in all images, the number of available data points may vary for different metastatic tumour masses.
+All CT and X-ray imaging data used in this study concern deceased persons and were retrieved retrospectively from the patient imaging database at Sahlgrenska University Hospital, Gothenburg, Sweden. This type of information on deceased persons is exempt from ethical approval according to the Ethical Review Act in Sweden (2003:460).
+Studying the tumour growth model
+We first attempted to estimate the growth model of each tumour by direct curve fitting, where it was not possible to select the most probable growth model of each metastasis directly. However, exponential growth rates were higher for smaller tumours than for larger tumours, possibly as a result of growth deceleration as tumours grow (the Gompertzian growth model). Therefore, we developed a new mathematical method assuming that, in each patient, the smaller metastases represent the growth of larger metastases when they were of small size and vice versa. Based on this assumption, all metastases of the same type, in the same tissue and in the same patient, follow a general Gompertzian growth model; variations in growth rates are because of volumetric differences. If the time of formation of each metastasis were available, it would be possible to estimate the parameters of such a general Gompertzian model by fitting the Gompertzian curve to data from all metastases in a single curve fitting. However, the formation time of each metastasis can, in turn, be estimated only if the growth model of the metastasis is known. Therefore, we reformulated the Gompertzian curve (i.e., Equation 5) by eliminating the time parameter. From Equations 2 and 5, the relation between SGR and tumour volume is as follows (see Appendix A):
+(6)
+SGR
+=
+SG
+R
+0
+-
+l
+ln
+V
+/
+V
+0
+Equation 6 does not include time, which makes it possible to use data from all metastases of the same type in a single patient without knowing the age of each individual tumour. Equation 6 shows that the regression of tumour SGR with the logarithm of its volume is linear if the growth model is Gompertzian. Therefore, the parameters of the general Gompertzian growth model of metastasis in each patient (SGR0 and l) can be estimated using the linear regression parameters in Equation 6.
+This method was applied to our patient data as follows. (1) SGR values were calculated for each metastasis, using Equation 3 for each pair of consecutive tumour volume measurements. (2) The logarithm of the geometric mean of the two volumes (used in stage 1) was calculated for each pair of consecutive tumour volume measurements of each metastasis. (3) Using all SGRs (stage 1) and volumes (stage 2) from all metastases in each patient, l and SGR0 were estimated using the linear regression parameters in Equation 6, assuming V0 = 10-9 cm3 (one cell). (4) Equation 5 with the estimated l and SGR0 values (from stage 3) was assumed to represent the general Gompertzian growth curve of all metastases in each patient. According to this assumption, the general growth curve can describe the growth of each metastasis when the time origin is changed (i.e., the curve is shifted backward and forward). Therefore, (5) the general growth curve was fitted to the volume of each metastasis with time origin as a variable, and the formation time of each metastasis was estimated using the best fit for each tumour.
+All curve fittings were performed using Matlab 6.5.1 with the curve fitting toolbox (The MathWorks, USA).
+
+Results
+For both patients, it was possible to examine direct curve fitting for most tumours because the tumours had been followed for relatively long periods of time. The volume of each tumour, in the liver (except metastases E and F) or in the lungs, was well described by either the exponential or the Gompertzian model with high r2 values (Table
+1). Liver metastases E and F were only observed on two occasions, and the Gompertzian model requires three data points for curve fitting. Based on the results of the direct model fitting, it was not possible to select the most probable growth model for each tumour. However, the estimated tumour formation times and SGR0 values differed when estimated by the different models. The estimated formation year of liver tumour A, obtained by the exponential fit model, was 1947, which is 5 years before the birth of the patient (1952) and, therefore, not realistic. For the best exponential fits, the SGR values were 0.14-0.33%/day for liver metastases (Figure
+1A) and 0.14-0.39%/day for lung metastasis (Figure
+1B), respectively. These values correspond to DT values of 7-17 and 6-17 months, respectively.
+Figure 1
+The logarithm of tumour volume vs. time for all metastases in the liver (A) and lungs (B), with corresponding exponential growth fit to each metastasis. SGR is given for each tumour; the values in parentheses for each line depict the doubling time in months. A trend of decreasing growth rate (slope of line) from large to small tumours is visible for liver metastases, but not for lung metastases. C The best exponential (dashed line) and Gompertzian (solid line) model curve fits to the logarithm of the volume of liver metastasis A with extrapolation to the volume of one cell. b represents the birth of the patient.
+Figure
+1C shows the best exponential and Gompertzian model curve fits for the volume of liver metastasis A. Although both models fit well with tumour volume in a short time interval, the extrapolated tumour formation times differed by a large margin: 1947 and 1982 with the exponential and Gompertzian models, respectively. The estimated SGR at time of tumour formation (SGR0) differed by an order of magnitude: 0.14%/day and 1.1%/day with the exponential and the Gompertzian models, respectively. These values correspond to DT values of 17 months and 2 months, respectively.
+For the liver metastases, the negative correlation between SGR and the logarithm of tumour volume was statistically significant (r2 = 0.33, p < 0.005), and the estimated l and SGR0 values were 0.00023 and 0.79%/day, respectively (Figure
+2A). For the lung metastases, the correlation was not statistically significant. However, the estimated l and SGR0 values were 0.00007 and 0.46%/day, respectively (Figure
+2B). Curve fitting of the general Gompertzian growth model to data for the metastases in each patient are depicted in Figure
+2C,D. In each patient, the same growth curve was shifted in time to fit the volume of each metastasis.
+Figure 2
+SGR vs. the logarithm of the volume of the metastases in the liver (A) and the lungs (B). The best linear regression fits are shown. The correlation was statistically significant in the liver (r2 = 0.33, p < 0.005), but not in the lungs. The logarithm of the tumour volume vs. time for all metastases in the liver (C) and the lungs (D) with the general Gompertzian growth model curve fits.
+Figure
+3 depicts the number of metastases as a function of time in each patient. The number of metastases increased exponentially with respect to time, assuming that the tumours grow exponentially with different growth rates or according to a general Gompertzian model. The increase rate of the number of metastases based on the general Gompertzian model was higher than the rate based on the exponential model.
+Figure 3
+The number of metastases vs. the time from formation of the first metastasis. Metastasis formation rates were determined for liver and lung metastases according to the exponential and Gompertzian growth models. Values in parentheses represent the constant of the exponential increase rate (per year).
+
+Discussion
+Our results demonstrate that, when the observation of tumour growth is limited in time, fitting of different growth curves to the volume of each tumour is not sufficient to estimate the true metastatic growth. In two patients, direct curve fitting was insufficient even when metastatic growths were followed for several years. Selection of the correct tumour growth model is crucial for further analyses of metastatic formation rate, number of metastases present, and response estimates in targeted radionuclide therapy
+[8].
+Because the data available in clinical studies is limited, the exponential model is often used to characterise tumour growth. However, in the present study we demonstrated that extrapolation of different growth curves can generate diverse tumour formation times and metastasis formation rates (Figure
+1C). This problem has also been addressed before, and some attempts to handle limited data more efficiently have been proposed. One method to assess tumour growth decline in clinical studies has been to calculate the correlation between DT and tumour volume
+[12,13]. However, by definition this technique is not mathematically valid according to the Gompertzian growth model. The present study was therefore based on the linear regression of tumour SGR with the logarithm of tumour volume, a relation that was obtained by reformulating the Gompertzian model. In addition, our approach enabled us to estimate metastasis formation times and rates. Akanuma previously attempted to find the model constants for the Gompertzian growth model using the linear correlation between growth rate and the logarithm of tumour volume
+[14]. Akanuma's method was based on a graphic estimation of SGR at different tumour volumes. Tumours were scaled according to their doubling time, and very high or negative values were excluded. However, we have previously shown that negative and zero values should not be excluded from such calculations
+[5,6].
+In the proposed method, a significant negative correlation between SGR and the logarithm of tumour volume indicates that growth deceleration is a dominating factor in the observed growth rate variations. In other words, the smaller tumours represent the growth of larger tumours when they were of small size and vice versa, and a general Gompertzian growth model (with specific SGR0 and l values) can describe the growth of all tumours. Lack of correlation between SGR and the logarithm of tumour volume indicates that biological factors other than growth deceleration dominate the observed growth rate variations. Thus, these tumours may grow exponentially with different growth rates or according to the Gompertzian model, but the model constants (SGR0 and l) are heterogeneously distributed among tumours.
+According to the linear regression of tumour SGR with the logarithm of tumour volume, the liver metastases in the carcinoid patient probably grow according to a general Gompertzian growth model. This patient was treated with octreotide. Because, based on curve fitting results, no tumours in this patient deviated from exponential growth, the treatment was assumed to have no effect on tumour growth. The growth of lung metastases in the patient with renal cell carcinoma exhibited high variability with our proposed method, indicating that the renal cancer metastases in the lungs likely grew exponentially with different growth rates. To further strengthen the accuracy of the model selection, we extended our methodology by including analysis of the metastatic formation rate.
+The exponential model presented to describe the metastasis formation rate does not depend on the origin of a metastasis (e.g., whether it originates from the primary or a metastatic lesion). The model described well the increase of the number of metastases growing exponentially with different growth rates, or growing according to a general Gompertzian model. This finding is similar to the results of a previous study that employed a different approach
+[3].
+Our results showed that a decelerating growth model such as the Gompertzian model implies a higher metastasis formation rate than the exponential model. However, a higher metastasis formation rate does not necessarily mean a larger number of metastases at any time point, and the number of metastases should be calculated for any specific time to compare different models. The time origin in Figure
+3 is time of the formation of the first metastasis, which is different for different models. The estimated number of liver metastases at the time of primary surgery in the ileum carcinoid patient was 9 using the exponential model and 22 using the Gompertzian model. The value of 9 metastases did not reflect reality; 24 metastases were imaged aside from the studied metastases. Therefore, the Gompertzian model provided the best estimate of the number of liver metastases. The estimated number of lung metastases at the time of primary surgery in the renal cell carcinoma patient was 14 according to the exponential model and 84 according to the Gompertzian model. The value of 84 metastases is unlikely to reflect reality, because only one small, non-growing metastasis was imaged aside from the seven lesions studied. If other metastases were present, they should have grown to visible size during 10 years of follow-up. Therefore, the exponential model provided the best estimate of the number of lung metastases. Our results emphasise the importance of having correct tumour growth information to correctly estimate the number and size distribution of metastases.
+We evaluated the Gompertzian growth model in the present study because it is the most commonly adopted model in clinical studies
+[7,8]; however, our approach is theoretically applicable to all growth models.
+
+Conclusion
+Analysis of the regression of tumour growth rate with its volume can be used to estimate the non-exponential growth model parameters of metastatic tumours. These results are valuable for the optimisation of targeted radionuclide therapy based on the estimated number and size distribution of metastases in individual patients.
+
+Appendix A
+Relation between tumour growth rate and tumour volume
+From Equation 5 (Gompertzian model):
+(7)
+ln
+V
+V
+0
+=
+SGR
+0
+l
+1
+-
+e
+-
+lt
+and
+1
+V
+dV
+dt
+=
+SGR
+0
+l
++
+l
+e
+-
+lt
+Replacing the left side of the above equation with Equation 2 gives:
+SGR
+=
+SGR
+0
+e
+-
+lt
+or
+e
+-
+lt
+=
+SGR
+SGR
+0
+If exp (-lt) in Equation 7 is replaced by the above equation, then:
+ln
+V
+V
+0
+=
+SGR
+0
+l
+1
+-
+SGR
+SGR
+0
+Readjustment of the above equation gives Equation 6 in the article:
+SGR
+=
+SG
+R
+0
+-
+l
+ln
+V
+/
+V
+0
+where SGR is the value of tumour SGR at each period of observation (calculated using Equation 3 in the article) and V is the geometric mean of tumour volume at that period of observation.
+In the following example, Table 2 and Figure 4, we assume that the SGR0 and volume of a tumour at time t = 0 are 0.1%/day (= 0.001 day-1) and V0 = 1 (arbitrary unit), respectively. The tumour grows according to the Gompertzian model with l = 0.0003 day-1. Tumour volume is measured every six months (180 days). The last two columns in Table 2 show the calculated logarithm of the geometric mean of tumour volume and the tumour SGR at each consecutive pair of measurements, respectively:
+Figure 4
+Variation of specific growth rate (SGR) with logarithm of tumour volume.
+Figure 4 shows variation of SGR with the logarithm of tumour volume according to the Table 2. The estimated SGR0 and l values are equal to the assumptions (i.e., 0.001 day-1 and 0.0003 day-1, respectively).

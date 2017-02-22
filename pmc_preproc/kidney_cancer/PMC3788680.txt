@@ -1,0 +1,620 @@
+[Abstract, Introduction, Results, Discussion, Methods, Mixed]
+
+BAP1 loss defines a new class of renal cell carcinoma. The molecular pathogenesis of renal cell carcinoma (RCC) is poorly understood. Whole-genome and exome sequencing followed by innovative tumorgraft analyses (to accurately determine mutant allele ratios) identified several putative two-hit tumor suppressor genes including BAP1. BAP1, a nuclear deubiquitinase, is inactivated in 15% of clear-cell RCCs. BAP1 cofractionates with and binds to HCF-1 in tumorgrafts. Mutations disrupting the HCF-1 binding motif impair BAP1-mediated suppression of cell proliferation, but not H2AK119ub1 deubiquitination. BAP1 loss sensitizes RCC cells in vitro to genotoxic stress. Interestingly, BAP1 and PBRM1 mutations anticorrelate in tumors (P=3x10-5), and combined loss of BAP1 and PBRM1 in a few RCCs was associated with rhabdoid features (q=0.0007). BAP1 and PBRM1 regulate seemingly different gene expression programs, and BAP1 loss was associated with high tumor grade (q=0.0005). Our results establish the foundation for an integrated pathological and molecular genetic classification of RCC, paving the way for subtype-specific treatments exploiting genetic vulnerabilities.
+
+INTRODUCTION
+Kidney cancer is estimated to have been diagnosed in over 60,000 individuals
+in the US in 20111. Most kidney
+tumors are renal cell carcinomas (RCCs) and 70% are of clear-cell type
+(ccRCC)2. Despite recent
+advances3, when metastatic,
+ccRCC remains largely incurable.
+ccRCC is characterized by von Hippel-Lindau (VHL) gene
+inactivation4-6. VHL, which is on
+3p25, is a two-hit tumor suppressor gene. One allele is typically inactivated
+through a point mutation (or indel) and the other through a large deletion resulting
+in loss-of-heterozygosity (LOH)7,8. Also on 3p is Polybromo 1
+(PBRM1), which is frequently mutated in ccRCC9. Other genes implicated in ccRCC
+development include SETD210, KDM5C10, and KDM6A11, but their mutation frequency is estimated at
+<5%10,11.
+ccRCC are classified into low and high grade tumors12, and nuclear grade is an important prognostic
+factor13,14. High-grade tumors exhibit mammalian target of
+rapamycin (mTOR) complex 1 (mTORC1) activation15. mTORC1 is a critical regulator of cell growth and is
+negatively regulated by a complex formed by the tuberous sclerosis complex 1 (TSC1)
+and 2 (TSC2) proteins16.
+mTOR9,10,17 and TSC118 are both mutated in sporadic ccRCC, however,
+mutations are infrequent, and the genetic determinants of tumor grade remain largely
+unknown19.
+
+RESULTS
+Identification of candidate two-hit tumor suppressor genes
+We sequenced the genome of a sporadic high-grade ccRCC and paired normal
+sample to >94% coverage and a mean depth >=35x
+(Supplementary Figures 1
+and 2). We found 6,571 somatically-acquired single-nucleotide
+mutations or indels including 59 in protein-coding regions (Supplementary Table 1).
+Every mutation evaluated was confirmed by Sanger sequencing (Table 1 and Supplementary Table 2).
+However, mutant allele ratios (MARs) - the fraction of mutant over mutant and
+wild type alleles for each mutation - were low; few mutations reached
+0.5 (expected for heterozygous mutations), and no mutations reached 1 (expected
+for mutations accompanied by LOH) (Table
+1 and Supplementary
+Table 2). In the case of VHL, the MAR was 0.52
+(Table 1; Fig. 1a), which suggested a heterozygous mutation. However,
+these results conflicted with DNA copy number analyses showing that one copy of
+3p was lost (Fig. 1b). We attributed the
+low MARs to tumor contamination by normal stroma. Contamination occurred despite
+careful sample selection (Supplementary Figure 2c).
+Tumor implantation in mice expands the neoplastic compartment while human
+stroma is replaced by the host20 and therefore, tumorgrafts may serve to calculate MARs with
+accuracy. RCC tumors implanted orthotopically in mice preserve the
+characteristics of patient tumors21. We performed Sanger sequencing of mutated genes in a
+tumorgraft derived from the index subject's tumor using human-specific
+primers. By comparison to tumor MAR (MART) values, tumorgraft MAR
+(MARTG) values often increased to ~0.5, and for several
+genes, including VHL, they reached 1 (Table 1, Supplementary Figure 3 and Supplementary Table 2).
+To determine whether MARTG reflected those expected in the
+subject's tumor, we asked whether a correlation existed between
+MARTG and the corresponding regional DNA copy numbers in the
+patient's tumor (Table 1, Supplementary Table 2 and
+Fig. 1b). A correlation was found with
+MARTG (p=0.000013), but not with MART
+(p=0.054). These data suggest that MARs in tumors are more
+accurately determined by evaluating tumorgrafts. Consistent with the notion that
+tumorgrafts represent largely pure populations of human tumor cells, paired copy
+numbers (PCNs) and allele-specific copy numbers (ASCNs) in tumorgrafts more
+closely approached integer values (Table
+1 and Fig. 1b and Supplementary Table
+2).
+To identify putative two-hit tumor suppressor genes, we searched for
+genes with MARTG~1. Some genes (STK40,
+UBE3B, HS6ST3, STK24,
+C1orf167, ADAMTSL1 and C14orf43) were in
+regions of deletion (PCNTG~1), whereas others
+(CRISPLD1, TMEM151A, TREH
+and CTNND1) were in areas of copy-neutral LOH
+(PCNTG~2 and tumorgraft ASCNmin~0 and
+ASCNmax~2) (Table
+1, Fig. 1b). Because mutations
+in copy-neutral LOH regions could be either homozygous (e.g.
+CRISPLD1) or heterozygous (such as ZNF434)
+(Table 1, Fig. 1b), accurate MARs were essential to establish whether
+mutated genes were putative two-hit tumor suppressors.
+Accurate MARs were also helpful in inferring whether in areas of
+duplication (PCNTG~3) the allele amplified was mutant (e.g.
+GFPT2; MARTG = 0.65 (expected 0.66)) or
+wild-type (e.g. DIAPH1; MARTG = 0.31 (expected
+0.33)) (Table 1). In the case of
+GFPT2, the mutation may have preceded the duplication,
+whereas in the case of DIAPH1, the mutation is likely to have
+followed the duplication. Thus, analyses in tumorgrafts identified candidate
+tumor suppressor genes and shed light into the temporal sequence of mutation
+acquisition.
+Evaluation of somatically mutated genes in a discovery cohort
+Twenty-one genes mutated in the sequenced ccRCC and not previously
+examined by the Sanger Institute10 were sequenced in a discovery set of 76 ccRCCs, and
+mutations were examined in the corresponding normal samples (Supplementary Table 3).
+As determined by VHL sequencing, which revealed somatically
+acquired mutations in 79% of tumors (see Supplementary Data 1),
+sensitivity for mutation detection was excellent. Several putative two-hit tumor
+suppressor genes were mutated at higher than expected frequencies including
+CRISPLD1, which was mutated in two additional tumors
+(q=0.044) and TMEM151A, mutated in three
+(q=0.005) (Supplementary Table 4). In addition, several other genes
+were recurrently mutated including OCA2 and
+MT-ND1 (Supplementary Table 4). Germline mutations in OCA2
+cause autosomal recessive oculocutaneous albinism type 2 and the two somatic
+mutations we identified (p.Pro211Leu and p.Val443Ile; Supplementary Table 4)
+are known disease-causing mutations22,23. Two
+additional somatically-acquired mutations were found in MT-ND1
+(Supplementary Table
+4), a gene mutated in oncocytomas, a benign tumor type24. Their presence in ccRCC
+suggests that oncocytomas could transform into malignant tumors. Transformation
+may result from VHL inactivation, which was observed in all the
+tumors with somatic ND1 mutations (Supplementary Data 1). VHL inactivation could change the
+morphological appearance of the tumor by affecting cellular metabolism and
+angiogenesis. In addition, 3 additional mutations were identified in
+TSC1, which we previously reported elsewhere18.
+Exome sequencing identifies BAP1 as a candidate two-hit
+tumor suppressor gene
+We performed exome sequencing on 7 ccRCC primary tumors, including 6 of
+high grade (and corresponding normal samples). A metastasis from one patient was
+also sequenced. We found 345 somatically acquired mutations (Supplementary Table 5).
+In the tumor/metastasis pair we observed 37 and 39 mutations respectively and 32
+were shared.
+To determine concordance of the mutations called, we performed Sanger
+sequencing. If concordance was >95%, Sanger sequencing of 82
+mutations would predict for >90% accuracy for the whole cohort.
+Among 82 randomly selected mutations, 78 were confirmed (see methods) with an
+accuracy >95% (Supplementary Table 6 and Supplementary Data 2). For 7 samples, there were
+tumorgrafts, and sequencing analyses of mutated genes therein, uncovered 16
+potential two-hit tumor suppressor genes (Supplementary Table
+6).
+We focused on 10 genes mutated in at least two tumors (Supplementary Table 7).
+All the mutations validated by Sanger sequencing. Whereas MART
+analysis failed to identify any putative two-hit tumor suppressors, another gene
+besides VHL and PBRM1 exhibited
+MARTG~1, BAP1 (Supplementary Table
+7).
+BAP1 sequencing in the discovery set of 76 ccRCCs
+identified 11 non-synonymous mutations, including 10 confirmed to be somatically
+acquired (Table 2). Examination of a
+validation ccRCC set (n=92), with corresponding normal samples,
+uncovered 11 additional nonsynonymous mutations, including 10 that were
+somatically acquired (Table 2). Two
+mutations without matching normal samples were truncating and likely
+deleterious. Altogether, the BAP1 mutation rate was 14%
+(24/176 tumors). BAP1 encodes a nuclear deubiquitinatinase
+(DUB) of the ubiquitin C-terminal hydrolase (UCH)-domain containing
+family25-27 that is mutated in both
+uveal28 and cutaneous
+melanoma29 as well as
+in mesothelioma30. In ccRCC,
+most mutations were predicted to truncate the protein and mutations were
+enriched in the UCH domain (Fig. 2a and
+b).
+Development of a clinical IHC assay for BAP1 detection
+As most mutations were truncating, we developed, in a CLIA-certified
+laboratory, an immunohistochemistry (IHC) test for the presence/absence of BAP1
+protein. Genetically characterized ccRCC samples validated by western blot were
+used as controls (Fig. 2c and d). Scoring
+was performed by a clinical pathologist (P.K.) masked to the
+BAP1 genotype. IHC was interpretable in 175/176 tumors.
+Nuclear BAP1 was detected in 150 tumors, and 148 were wild-type (Supplementary Figure 4).
+The 2 discordant samples had missense mutations (p.Gly13Val and p.Phe170Leu).
+Twenty-five samples were negative by IHC and 22 had BAP1
+mutations. Analysis of an IHC-negative but BAP1 wild type
+sample by western blot failed to reveal detectable BAP1 protein suggesting that
+other mechanisms exist to inactivate BAP1. Overall, the positive and negative
+predictive values of the IHC test were ~100% and 98.6%,
+respectively.
+Structural analyses of BAP1 missense mutations
+To evaluate missense mutations in a structural context, we generated a
+BAP1 protein model on the basis of the related family members Uch-L3 and Uch37
+(Fig. 2b). Since ubiquitin binding
+orders a significant portion of the protein, the UCH domain of BAP1 was modeled
+after Uch-L3 bound to ubiquitin (PDB: 1xd3). The interaction with the ULD domain
+was built by superimposing Uch37 (PDB: 3ihr). Four mutations abrogated protein
+expression; 3 were predicted to destabilize the protein (p.Val43Gly and
+p.Leu112Pro removed side chains that contribute to the hydrophobic core, and
+p.Ala95Pro disrupted the backbone of a central a-helix) and the fourth
+(p.His144Asn) disrupted the position of a flexible loop (Fig. 2b). Two mutations did not abrogate protein expression
+(p.Gly13Val and p.Phe170Leu). These mutations disrupted side chains implicated
+in either an intramolecular interaction with the ULD domain (Gly13) or ubiquitin
+binding (Phe170), and highlight the importance of these interactions for tumor
+suppressor function.
+BAP1 suppresses RCC cell proliferation and deubiquitinates H2Aub1 in renal
+cancer cells
+Studies of the role of BAP1 in cell proliferation have led to
+conflicting results25-27,30-33. To
+examine BAP1 in an appropriate context, ccRCC cell lines were sought in which
+natural selection had led to BAP1 inactivation. Among 12 RCC
+cell lines examined initially, only 769-P had a BAP1 mutation
+(Supplementary Table
+8). The mutation (c.97T>G; p.Tyr33Asp) disrupted a residue
+binding ubiquitin and did not abrogate protein expression (Fig. 2b and Fig.
+3a).
+To determine the role of BAP1, 769-P cells were reconstituted with
+epitope-tagged wild-type BAP1 (or an empty vector control). BAP1 repressed cell
+proliferation without causing apoptosis (Fig.
+3a and data not shown). However, BAP1 did not completely abrogate
+cell proliferation. To determine whether endogenous mutant BAP1 acted as a
+dominant negative, endogenous BAP1 was depleted using shRNA.
+However, mutant BAP1 depletion did not increase the effects of ectopically
+expressed wild-type BAP1 indicating that mutant BAP1 does not function in a
+dominant negative fashion (Fig. 3b).
+The BAP1 orthologue in Drosophila, Calypso, targets
+monoubiquitinated histone H2A (H2Aub1)34. An examination of H2AK119ub1 levels in 769-P cells
+reconstituted with wild-type BAP1 showed downregulation of basal H2Aub1 levels
+indicating that mammalian BAP1 similarly deubiquitinates H2A in renal cancer
+cells (Fig. 3c).
+BAP1 binds HCF-1 and HCF-1 binding is required for suppression of cell
+proliferation
+BAP1 interacts with host cell factor-1 (HCF-1)31,33,35, which serves as a scaffold
+for several chromatin remodeling complexes36. HCF-1 binds to multiple transcription factors
+including several E2Fs37,38, and recruits histone
+modifying enzymes such as Set1/MLL1 histone methyltransferases39-41, LSD1 histone demethylase42, Sin3 histone
+deacetylase39, and MOF
+histone acetyltransferase43.
+We asked whether BAP1 interacted with HCF-1 in 769-P cells. An
+interaction was confirmed by reciprocal immunoprecipitation experiments (Fig. 3d). Interestingly, anti-HCF-1
+antibodies depleted BAP1 from cell extracts to the same extent as anti-BAP1
+antibodies, suggesting that, as in other cell types35, the majority of BAP1 in renal cancer cells is
+bound to HCF-1 (Fig. 3d). BAP1 has been
+proposed to deubiquitinate HCF-131,33 and regulate
+HCF-1 levels31, but consistent
+with other reports33, HCF-1
+levels were similar in BAP1-deficient and reconstituted 769-P cells (Fig. 3d).
+We mutated sequences in BAP1 encoding the HCF-1 binding motif and
+evaluated this mutant (HBM) in cell proliferation assays. HBM suppressed HCF-1
+binding and compromised the inhibitory effect of BAP1 on cell proliferation
+(Fig. 3e). However, the HBM mutant did
+not differ from wild-type BAP1 in its ability to deubiquitinate H2A (Fig. 3f). Thus, BAP1 binds HCF-1, and binding
+to HCF-1, but not H2Aub1 deubiquitination, is important for the inhibition of
+cell proliferation.
+Next, we performed gel-filtration chromatography. Extracts from 769-P
+cells expressing either an empty vector or wild-type BAP1 were fractionated
+using a size-exclusion column and subjected to western blotting. As shown in
+Supplementary Figure
+5, most BAP1 was found in complexes >1 MDa and eluted with
+HCF-1.
+BAP1 loss sensitizes renal cancer cells to radiation and PARP
+inhibitors
+BAP1 is phosphorylated following DNA damage44,45 and
+we asked whether BAP1 loss affected the response to g-irradiation. Empty
+vector and BAP1 reconstituted 769-P cells exhibited a similar pattern of Rad51
+and gH2AX foci (Supplementary Figure 6a). However, BAP1-deficient cells were more
+sensitive to ionizing radiation (Supplementary Figure 6b) and fewer colonies formed in
+clonogenic assays (Supplementary Figure 6c). In addition, BAP1 loss sensitized cells to
+the PARP inhibitor olaparib (Supplementary Figure 6d and e).
+We examined 4 additional ccRCC cell lines (Supplementary Table 8).
+UMRC6 lacked BAP1 protein and had a frameshift mutation (c.430delC) (Supplementary Figure 7a and
+b). As in 769-P cells, (i) cell proliferation was inhibited by
+wild-type BAP1 and substantially less so by an HBM mutant, (ii) the HBM mutant
+reduced H2Aub1 levels, (iii) BAP1 cofractionated with HCF-1, and (iv)
+restoration of BAP1 protected UMRC6 cells against genotoxic death (Supplementary Figure
+7).
+BAP1 binds HCF-1 and elutes with HCF-1 in tumorgrafts
+The usefulness of RCC cell lines is limited by the development of
+mutations and copy number alterations as tumor cells adapt to growth in
+culture7,46. Divergence from tumors may be
+particularly striking with respect to epigenetic regulation, as growth
+conditions of cell lines and tumors are very different. In contrast, the pattern
+of gene expression is reproduced in tumorgrafts growing orthotopically in
+mice21 and
+tumorgrafts, like cell lines, represent a renewable source of tumor material. To
+determine whether the interaction of BAP1 with HCF-1 was physiologically
+significant, we analyzed tumorgrafts. As in cell lines, BAP1 bound to and
+co-fractionated with HCF-1 (Fig. 4a and b).
+In addition, we examined whether there was a correlation between
+BAP1 mutation and H2Aub1 levels in tumorgrafts, but no
+correlation was observed (Fig. 4c). Taken
+together these data show that BAP1 binding to HCF-1 is likely to be important
+for BAP1 suppression of RCC development.
+BAP1 loss is associated with high grade
+Deep sequencing studies largely focused on high-grade tumors. An
+analysis of all 176 tumors examined showed that BAP1 loss correlated with high
+Fuhrman nuclear grade (q=0.0005) (Supplementary Data 1).
+Because nuclear grade is associated with mTORC1 activation15, we tested whether a
+correlation existed with between BAP1 loss and mTORC1 activity. As determined by
+the phosphorylation of both S6 and 4E-BP1, BAP1 loss correlated with mTORC1
+activation (q=3*10-4 and 0.029,
+respectively) (Fig. 5a and Supplementary Data 1).
+This association did not appear to be direct, however, and similar levels of
+mTORC1 activation were observed in BAP1-deficient and wild-type
+BAP1-reconstituted cells (Supplementary Figure 8).
+BAP1 and PBRM1 mutations anticorrelate in
+ccRCC
+To explore whether a relationship existed between the loss of BAP1 and
+PBRM1, we first developed an IHC assay for PBRM1 (also known as BAF180) (Fig. 5a). Evaluation of the 176 tumors showed
+confident PBRM1 staining for 146 samples, and 53% were negative for
+PBRM1 (Supplementary Data
+1). As PBRM1 was lost in ~50% of tumors, BAP1 loss
+should distribute equally between PBRM1-expressing and -deficient tumors.
+However, only 4 of 21 BAP1-IHC-deficient tumors were also deficient for PBRM1
+(Supplementary Figure
+9a). These results suggest that PBRM1 and BAP1 loss anticorrelated in
+tumors (p=7*10-4).
+To explore this further, we sequenced PBRM1 in the 176
+ccRCCs. We identified 92 somatic mutations, including 6 missense mutations
+(Supplementary Data
+1). Structural analyses are shown in Supplementary Figure 10.
+We correlated sequencing data with the results from IHC; ~90% in
+of samples that were negative for PBRM1 by IHC had a mutation, and
+~90% of the samples that were positive were wild type
+(p=4*10-23; Supplementary Figure 9b).
+An analysis of BAP1 and PBRM1 mutations in
+tumors revealed that only 3 of 24 samples with BAP1 mutations
+had a somatically-acquired PBRM1 mutation (Supplementary Figure 9c).
+Once again, an anticorrelation was found
+(p=3*10-5).
+As a reference, we evaluated the distribution of mutations in
+SETD2 and KDM5C respect to
+PBRM1 in ccRCCs from the Sanger Institute9,10. Among 348 ccRCCs genotyped for PBRM1,
+15 mutations in SETD2 were observed, and these mutations
+distributed similarly between PBRM1 mutant and wild-type tumors
+(8 vs. 7; Supplementary Data
+3). KDM5C mutations were also similarly distributed
+(5 vs. 4; Supplementary Data
+3).
+Combining the IHC and mutation data, 5 out of 27 BAP1-deficient tumors
+were also deficient for PBRM1. Assuming a binomial distribution of BAP1 loss,
+these data indicate that simultaneous inactivation of BAP1 and PBRM1 is
+negatively selected for in tumors (p=0.0008). Notably, however,
+loss of BAP1 or PBRM1 was observed in 70% of ccRCC (Fig. 5b).
+To obtain further insight into the relationship between BAP1 and PBRM1,
+we performed gene expression analyses. We grouped tumors and tumorgrafts
+according to their BAP1 and PBRM1 status and evaluated differences with respect
+to wild-type tumors and tumorgrafts (Fig.
+5c). Probesets (probes) that we had previously determined using
+tumorgrafts to be driven by non-neoplastic cells21 were excluded from the analysis. We identified
+1,451 probes that were deregulated in BAP1-deficient tumors by comparison to
+those that were wild type (for both BAP1 and
+PBRM1) (q<0.05) (Supplementary Data 4). A
+similar number of probes distinguished PBRM1-deficient tumors (Supplementary Data 4).
+These two datasets shared 94 probes in common (Fig. 5d). However, the overlap expected at random was 67. Similarly,
+pathway analyses of the two signatures showed little overlap. These results
+suggest that BAP1 and PBRM1 do not function in the same pathway, and that the
+tumorigenic advantage to mutating BAP1 and
+PBRM1 is context dependent.
+Further supporting the notion that loss of BAP1 and PBRM1 in tumors is
+not equivalent, analyses of the 176 tumors showed that PBRM1 loss was not
+associated with high grade (q=0.26) (Supplementary Data 1). In
+the 348 ccRCC tumors sequenced by the Sanger Institute9,10 (Supplementary Data 3), we
+found a non-significant correlation between PBRM1 loss and low grade
+(p=0.074). Furthermore, when focusing the analyses of 176
+tumors on those that had exclusively lost PBRM1, a statistically significant
+correlation with low tumor grade was found (q=0.025).
+Tumors with simultaneous inactivation of BAP1 and
+PBRM1 exhibit rhabdoid features
+A few tumors had loss of both BAP1 and
+PBRM1 (n=5) (Supplementary Data 1).
+While co-ocurrence of mutations in tumors may not indicate their occurrence
+together in the same cell and there is substantial mutation heterogeneity in
+RCC17,47, in two tumors for which tumorgrafts were
+available, MARTG for both BAP1 and
+PBRM1 were ~1 and no wild-type alleles were
+detected (data not shown). These data suggest that the two mutations were indeed
+present in the same tumor cells and highlight another application of
+tumorgrafts.
+Tumors deficient for both BAP1 and PBRM1 were uniformly of high grade
+and exhibited characteristic features: abundant acidophilic cytoplasm, eccentric
+nuclei and prominent macronucleoli (Fig.
+5a). These features were consistent with rhabdoid morphology48, a form of dedifferentiation
+portending aggressive tumor behavior49. They were present in all tumors for which there was
+sufficient material for analysis (4/5), and while not unique to tumors deficient
+for both BAP1 and PBRM1, the association was significant
+(q=0.0007; Supplementary Data 1).
+
+DISCUSSION
+These results implicate BAP1 as a tumor suppressor in ccRCC
+and establish the foundation for a molecular genetic classification of RCC. We show
+that 70% of ccRCCs lose either BAP1 or PBRM1, that tumors tend to segregate
+into BAP1 or PBRM1-deficient subtypes, and that BAP1 loss but not PBRM1 loss is
+associated with high tumor grade.
+BAP1 functions as a two-hit tumor suppressor in ccRCC and consistent with
+this, mutant BAP1 does not act as dominant negative. Both copies of
+BAP1 are also lost in melanoma28,29,50 and mesothelioma30,51. While the number of RCC samples with BAP1
+mutations is small, it is interesting that no second-hit point mutations or indels
+were observed. In contrast, both BAP1 alleles may be inactivated
+through a point mutation (or indel) in mesothelioma51. We speculate that the different modes of
+inactivation of the "second" BAP1 allele reflect
+tissue-specific tumor suppressor gene cooperativity. Indeed, in ccRCC, 3p loss may
+simultaneously inactivate several genes suppressing renal tumorigenesis including,
+most importantly, VHL, which is rarely mutated in other tumor
+types. In metastatic uveal melanoma, whole chromosome 3 losses are frequent, and
+other melanoma metastasis suppressors may exist on 3q. Thus, the deletion
+architecture of tumors may reflect tissue-specific cooperativity of tumor suppressor
+genes.
+We propose that following a VHL mutation, which likely
+represents an early event17, the
+loss of 3p leaves cells vulnerable to the loss of the remaining
+PBRM1 or BAP1 allele. The acquisition of a
+PBRM1 or BAP1 mutation may set the course for
+ccRCCs with different properties. PBRM1 and BAP1 likely affect different epigenetic
+programs, and BAP1 loss is associated with high grade and mTORC1 activation.
+Interestingly, whereas mutations in SETD2, also on 3p, appear to
+distribute equally between PBRM1-deficient and wild-type tumors,
+this is not the case for BAP1 mutations. PBRM1 and
+BAP1 mutations anticorrelate in ccRCC. These data suggest that
+there is a genetic context of tumor suppressor function and that simultaneous loss
+of BAP1 and PBRM1 in most tumors may be disadvantageous.
+The clinical implications of BAP1 loss remain to be explored. Inasmuch as
+BAP1 loss was associated with high tumor grade and correlated with metastasis
+development in uveal melanoma28,
+BAP1 loss in ccRCC may be associated with poor prognosis. From a therapeutic
+standpoint, while RCC is considered radioresistant, BAP1-deficient tumors may be
+more sensitive. Evaluating the prognostic and therapeutic implications of BAP1 loss
+will be greatly facilitated by the development in a clinical laboratory of a highly
+sensitive and specific IHC assay.
+Interestingly, BAP1 is mutated in the germline, where it
+predisposes to melanoma and mesothelioma28,29,50,51. Given
+the role of BAP1 in sporadic ccRCC, germline BAP1 mutations may
+similarly predispose to RCC. In fact, a germline variant (c.121G>A;
+p.Gly41Ser) was identified in one individual who had two first and one second degree
+relatives with RCC and who had been previously evaluated for a germline
+VHL mutation, which he did not have. In addition, a recently
+reported pedigree had one individual with a germline BAP1 mutation
+who had RCC51. Thus, BAP1 mutation
+in the germline may predispose to RCC, in which case, RCC development may also be
+initiated by loss of BAP1.
+Multiple lines of evidence implicate HCF-1 in BAP1-mediated RCC tumor
+suppression function. First, BAP1 binds to and cofractionates with HCF-1. Second, as
+determined by immunodepletion experiments, the majority of BAP1 is bound to HCF-1.
+HCF-1 is a very abundant protein52
+and this may explain why mutant BAP1 does not function as a dominant negative.
+Third, the growth inhibitory effect of BAP1 is compromised by a mutation that, while
+not disrupting protein structure (as determined by deubiquitinating activity),
+disrupts HCF-1 binding. Finally, the interaction with HCF-1 is unlikely to reflect
+an abnormal epigenetic state of tumor cell lines in culture, as BAP1 binds to and
+cofractionates with HCF-1 also in tumorgrafts. Tantalizingly however, the HCF-1
+binding motif in BAP1 is not conserved in the
+Drosophila Calypso protein.
+The role of H2Aub1 in ccRCC requires further study. BAP1 binding to HCF-1
+was required for the suppression of cell proliferation but dispensable for H2Aub1
+deubiquitination. Thus, these two functions of BAP1, HCF-1 binding and H2Aub1
+deubiquitination, can be separated. We did not find a correlation between BAP1
+inactivation and global H2Aub1 levels in tumors. Nevertheless, the levels of H2Aub1
+were not uniform across tumors and we cannot rule out that BAP1 may affect the
+levels of H2Aub1 at specific sites.
+Our studies were greatly aided by the availability of tumorgrafts.
+Tumorgrafts were instrumental in determining mutant allele ratios with accuracy and
+for the identification of putative two-hit tumor suppressor genes. They made
+possible determining the co-occurrence of mutations in tumor cells and when
+mutations occurred in regions of amplification, they shed light on the temporal
+sequence of mutation acquisition. Finally, tumorgrafts provided a renewable source
+of tumor material allowing us to evaluate the significance of biochemical
+observations made in cell lines in culture.
+While this manuscript was in preparation, a brief communication reported a
+list of 12 genes mutated in ccRCC53, including TSC1, which we previously showed to
+be mutated in sporadic ccRCC18,
+and BAP1. The mutation frequency reported for BAP1
+was 8%, but a VHL mutation frequency of 27%
+suggests low sensitivity.
+
+ONLINE METHODS
+Regulatory
+Patients provided written informed consent of an Institutional Review
+Board (IRB)-approved protocol for tissue collection for genetic studies.
+Whole-genome and exome sequences were released in dbGaP for those patients
+giving explicit authorization in the consent form.
+Annotation
+Patient tumor samples are labeled with a number or a number preceded by
+a T if those samples were also used for tumorgraft generation. Tumorgrafts are
+labeled with the same number as patient tumors prefixed by "TG"
+and followed by the cohort "c" number (when applicable),
+referring to the tumor passage (e.g. c0 for primary tumorgraft).
+Staging was based on the TNM classification from the American Joint
+Committee on Cancer. Samples were annotated according to the corresponding
+edition based on the date of surgery. Per the seventh edition, all tumors with
+lymph node metastases were referred to as pN1. All Fuhrman grade 3 and 4 samples
+were reviewed by P.K. for the presence of rhabdoid features.
+Tissue selection
+ccRCC and adjacent normal kidney samples were frozen fresh in liquid
+nitrogen and stored at -80degC. Tumor content and quality was
+inferred by a pathologist from perpendicular sections immediately flanking
+1-3 mm thick fragments that were oriented using pathology dyes (Supplementary Fig. 2c).
+For whole-genome sequencing a sample was selected with ~90%
+tumor content in both sections. For the Discovery Set, 76 ccRCC samples with
+>=80% tumor cellularity were selected among 431 fresh-frozen
+tumor samples from 133 patients. Seven tumor samples and a metastasis with
+>=85% tumor cellularity were selected for exome sequencing among
+16 patients with tumorgrafts growing in mice21. For the Validation Set, 92 ccRCC samples with
+>=70% tumor cellularity were selected among 535 fresh-frozen
+tumor samples from 165 RCC patients. Genomic DNA and RNA were simultaneous
+extracted from each tissue (detailed in the Supplementary Note).
+Reference DNA, extracted from either adjacent normal kidney or peripheral blood
+mononuclear cells (PBMCs), was available for 71/76 tumors in the Discovery Set
+and 82/92 tumors of the Validation Set.
+Whole-genome sequencing of paired-end libraries from tumor and matched normal
+genomes
+Tumor and PBMCs samples were processed in a CLIA-certified and
+CAP-accredited laboratory. The preparation of short-insert (212-263 bp)
+Illumina paired-end sequencing libraries, flow cells and clusters have been
+described previously54.
+Paired-end sequence reads of 100 bases were generated using the Genome Analyzer
+IIx. Image analysis, base calling and Phred quality scoring were performed using
+the Illumina analysis pipeline (RTA, v1.5). Sequence reads were filtered out
+from clusters whose proximity to others resulted in mixed sequence data.
+Whole-genome somatic substitution and indel detection
+Single-nucleotide variants (SNVs) from the reference sequence (human
+NCBI36.1) were determined separately for the tumor and normal genomes using
+CASAVA, v1.6. Prediction of a homozygous SNV required a minimum allele score of
+10 (equivalent to at least three high quality (Q33) base calls). Additionally,
+for heterozygous calls, the second allele was required to have a score of at
+least 6 (equivalent to two Q30 base calls) and the ratio of the two allele
+scores had to be <=3, so that allele ratios did not deviate from the
+expected 1:1 for heterozygous calls. Indels relative to human NCBI36.1 were
+predicted using GROUPER. SNVs and indels in the tumor were only considered as
+candidate somatic events if the read depth at the equivalent site in the normal
+genome build was at least 10. SNVs and indels observed in both genomes were
+subtracted from the tumor calls. Previously known SNPs (dbSNP130) were also
+removed. Indels in the tumor overlapping a contig of assembled shadow reads in
+the normal genome, were removed. The impact of somatic changes on protein coding
+and non-coding genes was annotated using Ensembl version 54.
+Exome capture and sequencing
+Exome capture was performed by Illumina FastTrack using Illumina Truseq
+exome target enrichment. For more details, please see Supplementary Note.
+Exome mutation detection and validation
+The sequences of tumor, metastasis, and normal samples were compared to
+NCBI reference sequence and SNVs and indels were determined independently using
+CASAVA v1.8.0a4 without any filtering. Mutations predicted in tumors also
+present in the corresponding normal samples were eliminated (Supplementary Table 5).
+Synonymous mutations were removed and the resulting mutations were inspected
+visually using the Integrative Genomics Viewer (IGV, see URLs) to confirm that
+their presence in tumor but not normal sequence reads (see Supplementary Table 5).
+All genes with recurrent mutations were validated by Sanger sequencing (Supplementary Table 7).
+For the rest, a mutation calling accuracy of >95% for 82
+mutations would signify >90% accuracy for the whole cohort,
+according to a cumulative hypergeometric distribution. Sanger sequencing of 82
+randomly-selected mutations (proportional to the number of mutations in seven
+tumors and one metastasis) showed 4 false positives (MAR in tumor or metastasis
+<0.1 and MARTG<0.2; <5%), all of
+which had been scored based on two mutant reads (Supplementary Table 6).
+Among the remaining genes, those with just two mutant reads (3) were inferred to
+represent false positives (see Supplementary Data 2).
+Mutation Analyses and Mutant Allele Ratios (MARs)
+Single-nucleotide variants and indels in chromatograms were scored with
+Mutation Surveyor v3.30 and v3.98 (Softgenetics) using an overlapping factor of
+0.2 and a dropping factor of 0.1. Reference sequences were obtained from NCBI.
+Only bidirectionally-observed somatic mutations are reported. Mutations within
+seven nucleotides before or after an exon were considered to be splice-site
+mutations. A somatically-acquired PBRM1 variant outside this
+range (15 nt upstream of exon 8) was not included in the analyses (sample ID
+78).
+Mutant allele ratios (MARs) refer to the fraction of mutant allele for a
+particular mutation over the sum of mutant plus wild-type alleles (MAR of 1,
+only mutant allele detected; MAR of 0.5, mutant and wild-type alelles detected
+at similar frequencies). MARs were calculated by measuring the nucleotide
+intensities of chromatograms using ImageJ (see URLs) (whole-genome data) or the
+Mutation Quantifier function of Mutation Surveyor v3.98 (exome data). For
+indels, MARs were calculated taking the average of the measurements of at least
+five nucleotides. MARs were scored as <0.10 if they accounted for
+<10% of all alleles, but were clearly present in tumorgrafts.
+For Illumina tracings, MARs were based on the number of mutant over total
+reads.
+Copy Number Analyses
+Genomic DNA was hybridized to Affymetrix SNP Arrays 6.0 at the Genome
+Science Resource (Vanderbilt University) using standard procedures. Several
+tumor and tumorgraft SNP arrays were previously evaluated for other purposes and
+have been reported elsewhere21. CEL files were quantile normalized with Partek Genomics Suite
+6.5 (Partek Inc., St. Louis, MO) adjusting for fragment length and probe
+sequence without background correction. Paired copy numbers for tumors and
+tumorgrafts were calculated from the intensities of the corresponding normal
+samples. Genotypes were estimated using birdseed v2 algorithm in Affymetrix
+Genotyping Console 4.0. Regions of allelic imbalance were identified by
+determining the allele-specific copy number for the primary tumor or tumorgraft
+respect to normal DNA using Partek Genomics Suite. Copy numbers were adjusted
+for local GC content and were segmented using Circulary Binary Segmentation
+(CBS)55, where
+log2 ratios were analyzed with the DNAcopy
+package of R/Bioconductor (see URLs) considering a type I error
+(a=0.001) and a minimum segment size of 5 markers. Maximum and minimum
+allele-specific copy numbers were segmented independently by CBS.
+Establishment and maintenance of tumorgrafts
+Tumorgraft studies were approved by the IACUC. Fresh tumor fragments
+(~2 mm in diameter) were implanted in the kidney of NOD/SCID mice as
+described elsewhere21.
+Gene Expression Analyses
+RNA samples were labeled with biotin and hybridized to Affymetrix Human
+Genome U133 Plus 2.0 arrays by the UTSW Microarray Core. Gene expression arrays
+on 13 out of 29 tumors and tumorgrafts were previously evaluated to identify a
+tumor-specific signature and have been previously reported21. CEL intensity files were
+analyzed as described elsewhere56. Probesets with non-specific hybridization were removed
+(8,696, 16%). 2,443 probesets representing signal attributed to
+stromal/immune signature21
+were similarly removed. Tumors and tumorgrafts with mutations in either
+BAP1 or PBRM1 (but not both) were compared
+to tumors and tumorgrafts wild type for both BAP1 and
+PBRM1 using t tests and a Benjamini and
+Hochberg false discovery rate (FDR) correction57. Probesets with FDR
+q<0.05 were analyzed with Ingenuity Pathways Analysis
+(IPA).
+Statistics
+To determine whether a correlation (inverse correlation) existed between
+regional DNA copy numbers and MARTG (or MART), a
+two-tailed Spearman correlation test was utilized (data not normally distributed
+according to a Shapiro-Wilk test). Correlations were compared as previously
+described58. The
+p values for the identification of 2 or 3 additional gene
+mutations among the 76 patients of the Discovery Set were calculated using a
+binomial distribution assuming, based on the index patient, that the probability
+of identifying a non-synonymous mutation in a gene was 0.0022 (47 mutations
+among the 21,099 protein-coding genes annotated in GRCh37.p6 assembly). For the
+Sanger Institute dataset9,10, the highest tumor grade was
+used for each tumor. Throughout, a Fisher's exact test was used to
+determine if there were nonrandom associations between two binary variables. A
+Benjamini and Hochberg FDR correction of the p values
+(q values) was calculated to account for multiple
+comparisons57. SPSS
+Statistics 17.0 and SAS 9.0 were used to analyze data.
+Primer sequences and antibody information are provided in Supplementary Tables 9 and
+10, respectively. Further details and description of other
+experimental methods and materials are available in the Supplementary Note.
+
+Supplementary Material
+Suppl. Data 1
+Suppl. Data 2
+Suppl. Data 3
+Suppl. Data 4
+Supp. Note, Figures, and Tables

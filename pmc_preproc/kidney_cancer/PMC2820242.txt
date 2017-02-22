@@ -1,0 +1,19 @@
+[Abstract, Methods, Mixed]
+
+Systematic sequencing of renal carcinoma reveals inactivation of histone modifying genes. Clear cell renal cell carcinoma (ccRCC) is the most common form of adult kidney cancer, characterised by the presence of inactivating mutations in the VHL gene in the majority of cases1,2 and by infrequent somatic mutations in known cancer genes. To elucidate further the genetics of ccRCC, we have sequenced 101 cases through 3544 protein coding genes. Here we report the identification of inactivating mutations in two genes encoding enzymes involved in histone modification, SETD2, a histone H3 lysine 36 methyltransferase and JARID1C (KDM5C), a histone H3 lysine 4 demethylase in addition to mutations in the histone H3 lysine 27 demethylase, UTX (KMD6A), we recently reported3. The results highlight the role of mutations in components of the chromatin modification machinery in human cancer. Additionally, NF2 mutations were found in non-VHL mutated ccRCC and several other likely cancer genes were identified. These results indicate that substantial genetic heterogeneity exists in a cancer type dominated by mutations in a single gene and that systematic screens will be key to fully elucidating the somatic genetic architecture of cancer.
+
+Methods Summary
+Genomic DNA samples were obtained from clinical tumour samples (>80% tumour cellularity), matching peripheral blood/adjacent normal kidney taken at nephrectomy and cancer cell lines as indicated utilizing standard protocols. Collection and use of patient samples were approved by the appropriate IRB of each Institution in addition to this study having LREC approval locally. RCC clinical samples and cell lines screened are given in Supplemental Table 1. SNPArray hybridization on the SNP6.0 platform was as per Affymetrix Protocols and as as described at http://www.sanger.ac.uk/cgi-bin/genetics/CGP/cghviewer/CghHome.cgi. PCR-based exon resequencing was performed and data analysed as previously described9 with sequencing traces being first analysed using a semiautomated system24 followed by manual inspection. PCR primer sequences are available for download at http://www.sanger.ac.uk/genetics/CGP/Studies/Renal/. Overall significance of an excess of non-silent mutations was determined using the methods previously described25 and is described in detail in the supplemental methods Gene expression profiling. RNA was harvested from fresh frozen patient tissue with Trizol according to manufacturer's instructions (Invitrogen) and analyzed using human U133 Plus 2.0 Array probe sets according to manufacturer's instructions (Affymetrix). Summarized expression values were computed using the robust multichip average (RMA) approach, corrected for batch effects, and used for clustering analysis and discriminate gene analysis using a moderated t-statistic. The patient and cell line expression data were deposited with Gene Expression Omnibus and Array Express under accession numbers GSE17895 and E-TABM-770, respectively. Further detail on analysis can be found in the Supplemental Methods.
+
+Supplementary Material
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11

@@ -1,0 +1,479 @@
+[Abstract, Introduction, Results, Discussion, Methods, Mixed]
+
+GWAS of Follicular Lymphoma Reveals Allelic Heterogeneity at 6p21.32
+                    and Suggests Shared Genetic Susceptibility with Diffuse Large B-cell
+                    Lymphoma. Non-Hodgkin lymphoma (NHL) represents a diverse group of hematological                     malignancies, of which follicular lymphoma (FL) is a prevalent subtype. A                     previous genome-wide association study has established a marker, rs10484561 in                     the human leukocyte antigen (HLA) class II region on 6p21.32 associated with                     increased FL risk. Here, in a three-stage genome-wide association study,                     starting with a genome-wide scan of 379 FL cases and 791 controls followed by                     validation in 1,049 cases and 5,790 controls, we identified a second independent                     FL-associated locus on 6p21.32, rs2647012                     (ORcombined = 0.64,                         Pcombined = 2x10-21)                     located 962 bp away from rs10484561 (r2<0.1 in controls). After                     mutual adjustment, the associations at the two SNPs remained genome-wide                     significant (rs2647012:ORadjusted = 0.70,                         Padjusted = 4x10-12;                         rs10484561:ORadjusted = 1.64,                         Padjusted = 5x10-15).                     Haplotype and coalescence analyses indicated that rs2647012 arose on an                     evolutionarily distinct haplotype from that of rs10484561 and tags a novel                     allele with an opposite (protective) effect on FL risk. Moreover, in a follow-up                     analysis of the top 6 FL-associated SNPs in 4,449 cases of other NHL                     subtypes, rs10484561 was associated with risk of diffuse large B-cell lymphoma                         (ORcombined = 1.36,                         Pcombined = 1.4x10-7).                     Our results reveal the presence of allelic heterogeneity within the HLA class II                     region influencing FL susceptibility and indicate a possible shared genetic                     etiology with diffuse large B-cell lymphoma. These findings suggest that the HLA                     class II region plays a complex yet important role in NHL.
+
+Introduction
+Non-Hodgkin lymphoma (NHL) represents a diverse group of B- and T-cell malignancies
+                of lymphatic origin. The most common subtypes are of B-cell origin and are further
+                classified on the basis of their resemblance to normal stages of B-cell
+                differentiation [1]. Epidemiological studies indicate that these may have
+                different environmental and genetic risk factors, although some etiological factors
+                may also be shared [2]. Familial studies provide substantial evidence for a
+                genetic influence on susceptibility to the major mature B-cell neoplasms, including
+                diffuse large B-cell lymphoma (DLBCL), follicular lymphoma (FL) and chronic
+                lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) [3], [4]. Recent genome-wide association
+                studies (GWAS) of the FL subtype of NHL identified associations with two variants
+                within the human leukocyte antigen (HLA) region, one at 6p21.33 (rs6457327) [5] and the other
+                at 6p21.32 (rs10484561) [6]. Additional true associations, particularly in the HLA
+                region, may have been missed because a limited number of samples were used in the
+                initial genome-wide screens, and the selection of a few top single nucleotide
+                polymorphisms (SNPs) for validation is further subject to chance. In this study, we
+                conducted a larger independent genome-wide scan of FL using 379 cases and 791
+                controls from the Scandinavian Lymphoma Etiology (SCALE) study of Sweden and
+                Denmark, which was used in the validation of the previous GWAS [6]. This scan was followed by two
+                stages of validation in European-ancestry cases of FL and other common B-cell NHL
+                subtypes and controls from the US, Canada and Australia (Table 1, Table S1, Table S2, Figure 1).
+10.1371/journal.pgen.1001378.g001
+Figure 1
+Schematic representation of the three-stage study design.
+Summary of contributing studies and number of samples per case/control
+                        status. Abbreviations: FL: follicular lymphoma, NHL: non-Hodgkin lymphoma,
+                        DLBCL: diffuse large B-cell lymphoma, CLL/SLL: chronic lymphocytic
+                        leukemia/small lymphocytic lymphoma, SNP: single nucleotide polymorphism,
+                        GWAS: genome-wide association study, SCALE: Scandinavian lymphoma etiology,
+                        SF: San Francisco, BC: British Columbia, NCI-SEER: National Cancer
+                        Institute-Surveillance, Epidemiology and End Results, NSW: New South Wales,
+                        Yale: Yale University, Mayo: Mayo Clinic. The complete list of the number of
+                        other NHL subtypes in each study is detailed in Table
+                            S1.
+
+Results
+In total, 298,168 SNPs were analyzed in Stage 1 (l = 1.028;
+                    l1000 = 1.055 [7]), in which we observed
+                suggestive associations (adjusted trend P-value<10-5) at 4q32.3,
+                6p21.32 and 10q25.3 (Table S3) with the strongest at rs2647012 (odds ratio
+                (OR) = 0.58, PPCAadjusted =
+                    1.59x10-7) within the HLA class II region on 6p21.32. Sixteen
+                SNPs in close proximity to the HLA-DQ genes showed association with
+                adjusted P-values<10-4, including the previously reported
+                rs10484561 (Figure 2, Table S4) [6]. The previously
+                reported HLA class I associated SNP rs6457327 [5] was modestly associated with FL
+                risk (OR = 0.82, P = 0.03) in Stage 1, and
+                was not in linkage disequilibrium (LD; r2 = 0) with
+                any of the top 100 SNPs.
+In Stage 2, we carried out an in silico validation of the top 40
+                SNPs from Stage 1 (Table S5) in 213 FL cases and 750 controls from the San Francisco Bay
+                Area, USA (Table 1), the study
+                that reported an association at 6p21.32 [6]. Among 38 out of 40 SNPs, seven
+                showed association (P<0.05) in Stage 2 (Table S5), six of which were located within the
+                6p21.32 region. We tested the independence of multiple association signals in
+                6p21.32 using a stepwise logistic regression analysis (entering SNPs based on a
+                criterion of likelihood ratio test p-value<0.05) and found that with rs2647012
+                (the top SNP within the region) forced in the model, only the addition of rs10484561
+                contributed significantly to the association with increased risk of FL. The OR for
+                this SNP, adjusted for rs2647012, was 1.43, P = 0.006 (Table S6).
+10.1371/journal.pgen.1001378.g002
+Figure 2
+Recombination plot showing associations in 6p21.32 in Stage 1.
+Plot showing the pattern of associations in Stage 1, the recombination rate
+                        (build 36, HapMap CEU) and genes located in the region. The two SNPs showing
+                        independent association and their respective P-values are labeled (blue:
+                        rs2647012, green: rs10484561); other SNPs are color-coded according to their
+                        LD with rs2647012 (red r2>0.8, orange 0.5-0.8, grey
+                        0.2-0.5, white <0.2).
+After excluding previously identified and non-independent association signals, we
+                selected rs2647012, and an additional four top SNPs to be taken forward to a third
+                stage (Table
+                    S7, S8), wherein these were genotyped in 836 FL cases and 3202 controls from
+                the Mayo Clinic (US) [8], National Cancer Institute-Surveillance, Epidemiology and
+                End Results (NCI-SEER, US) [9], Yale University (US) [10], New South Wales (NSW,
+                Australia) [11]
+                and British Columbia (BC, Canada) [12] studies. The association of rs2647012 with FL was
+                validated, showing consistent associations with similar ORs (no heterogeneity,
+                P = 0.32) across all independent studies and reaching
+                genome-wide significance in both the combined analysis of the validation samples
+                    (P = 3x10-15) and the combined
+                analysis of all three stages (1428 FL cases, 4743 controls;
+                OR = 0.64,
+                    P = 2x10-21) (Table.2, Figure 3). After adjustment for rs10484561, the
+                association at rs2647012 remained genome-wide significant with minimal change in
+                magnitude (ORadjusted = 0.70,
+                    Padjusted = 4x10-12). The
+                LD between the two SNPs is low (r2<0.1 in the SCALE controls and
+                HapMap CEU [Utah residents with northern and western European ancestry]
+                samples release27). Taken together, our results suggest that the association at
+                rs2647012 is independent from rs10484561, and tags a different disease-predisposing
+                variant. We also found suggestive evidence for an association at rs6536942 on 4q32.3
+                (OR = 1.36,
+                    P = 2x10-5) (Table 2, Figure S1A).
+10.1371/journal.pgen.1001378.g003
+Figure 3
+Forest plots of main associations with risk of FL.
+Forest plots showing the associations in each study (ORs and P-values) at
+                        rs2647012 before adjustment
+                        (Pheterogeneity = 0.32), and at rs2647012
+                            (Pheterogeneity = 0.67) and rs10484561
+                            (Pheterogeneity = 0.54) after mutual
+                        adjustment. Squares indicate the odds ratios, with the size proportional to
+                        the weight of the study in the meta-analysis. Abbreviations: CI: confidence
+                        interval, SCALE: Scandinavian lymphoma etiology, SF: San Francisco, BC:
+                        British Columbia, NCI: National Cancer Institute-Surveillance, Epidemiology
+                        and End Results, NSW: New South Wales, YALE: Yale University, MAYO: Mayo
+                        Clinic.
+To fine-map the association signals in the HLA class II region, we imputed 10,639
+                SNPs within 600 kb surrounding the top SNP rs2647012 using data from the 1000
+                Genomes (1000G, 60 CEU subjects, August 2009) and HapMap projects (HapMapII release
+                22, CEU) in Stage 1. Among the imputed SNPs, 258 SNPs located in a strong LD block
+                of 236 kb (r2>0.8) showed stronger evidence of association than all
+                the genotyped SNPs within the region (Figure S2). Since a moderate discordance of
+                reference genotypes was observed between 1000 G and HapMapII, we analyzed only SNPs
+                showing a concordance of >95% in the two datasets and identified the
+                strongest association at rs9378212 (OR = 1.66,
+                    P = 3.21x10-8), located 219 kb
+                upstream of rs2647012 (r2 = 0.56 in controls). We
+                subsequently confirmed the imputed genotypes by Taqman genotyping in 345 of the FL
+                case subjects used in Stage 1 and found a 99.4% concordance with the imputed
+                genotypes, demonstrating high confidence in the results of the imputation.
+Next, we performed a haplotype analysis using rs2647012, rs10484561 and an additional
+                12 adjacent genotyped SNPs located within a block of minimal recombination. Out of
+                the eight haplotypes identified, three were neutral
+                (OR = 0.9-1.1), three increased risk (ORs>1.2;
+                strongest risk haplotype tagged by rs10484561) and two were protective (OR<=0.8;
+                both tagged by rs2647012) (Table S9), suggesting the presence of at least
+                two susceptibility alleles within the region. Coalescence analysis of the eight
+                haplotypes indicated that rs2647012 and rs10484561 arose on two distal branches of
+                the ancestral recombination graph [13] (Figure S3), which was also supported by the
+                analysis of median-joining network [14] using seven SNPs without any recombination (Figure 4). Further haplotype
+                analysis of the seven genotyped SNPs (Table S9) and the imputed SNP rs9378212 indicated
+                that the two alleles of rs9378212 tag the two different evolutionary lineages (Figure 4), each harboring either
+                rs2647012 or rs10484561. Thus, the associations at the two SNPs are likely due to
+                two distinct susceptibility variants, instead of a single risk allele, that arose
+                independently on different haplotype backgrounds.
+10.1371/journal.pgen.1001378.g004
+Figure 4
+Coalescence analysis of rs2647012 and rs10484561.
+Median-joining network [14] of haplotypes constructed using seven SNPs (Table
+                            S9). Circles represent haplotypes with area proportional to their
+                        frequency. SNPs are shown on the links (black lines). SNPs and haplotypes
+                        associated with increased or decreased FL risk are labeled in red or blue,
+                        respectively. The percentage of alleles of the imputed SNP rs9378212 (C/T)
+                        phased on each haplotype are shown in bold.
+The FL-associated SNP, rs10484561, was previously found to tag the extended haplotype
+                    HLA-DQA1*0101-HLA-DQB1*0501-HLA-DRB1*0101
+[6]. Here, to test
+                whether any HLA class II alleles may also be responsible for the observed
+                association at rs2647012, we imputed known HLA tag SNPs [15], [16] using data from the 1000G and
+                HapMapII European datasets. We confirmed the association of the
+                    HLA-DRB1*0101-HLA-DQA1*0101-HLA-DQB1*0501 extended
+                haplotype, tagged by rs10484561. The association at rs2647012 remained significant
+                after adjustment for these three HLA alleles (OR = 0.64,
+                    P = 8.11x10-6), suggesting that
+                these are not driving the association at rs2647012. Furthermore, rs2647012 was not
+                in strong LD (r2<0.8 in HapMap CEU or SCALE controls) with any other
+                known HLA tags [15], including those tagging FL-associated alleles previously
+                reported [17], [18]
+                (r2<0.39 with the six HLA-DRB1*13 tag SNPs
+                [rs2395173, rs2157051, rs4434496, rs6901541, rs424232, rs2050191] [17] and
+                r2<0.25 with the three HLA-B*0801 and
+                    HLA-DRB*0301 tag SNPs [rs6457374, rs2844535,
+                rs2040410] [15]). Of the other 17 HLA class II alleles (~39%
+                of all the class II alleles) that could be imputed, none showed significant
+                association or were found to be responsible for the association at rs2647012 (Table S10).
+                Detailed HLA allelotyping on large numbers of cases and controls is needed to
+                determine if particular HLA class II alleles are responsible for the observed
+                association at rs2647012.
+To assess whether the FL-associated SNPs may be involved in the development of other
+                NHL subtypes, we genotyped the five SNPs selected for Stage 3 together with
+                rs10484561 in a total of 1592 DLBCL, 1075 CLL/SLL, 336 marginal zone lymphoma (MZL),
+                262 mantle cell lymphoma, 306 T-cell lymphoma and 878 rare or unspecified NHL cases
+                and 5220 controls from the SCALE2, SF2, BC, Mayo, NCI-SEER, Yale and NSW studies
+                    (Table 1, Table S1, Figure 1). Among these SNPs,
+                rs10484561 showed evidence of association with DLBCL
+                (OR = 1.36,
+                    P = 1.41x10-7) (Figure S1B) and
+                all NHL (OR = 1.23,
+                    P = 6.81x10-7). ORs were consistent
+                across the seven studies. There was also a suggestive association for rs2647012 with
+                MZL (OR = 1.32,
+                    P = 6.34x10-4) (Table.3), consistent across six
+                studies.
+Finally, we investigated the possibility of additional susceptibility loci for FL
+                outside of the HLA region by performing a joint analysis of the top 41 to 1000
+                variants of our scan and the previously published GWAS of follicular lymphoma [6]. From this
+                combined analysis, we did not find any additional markers with a strong association
+                    (P<10-6) with FL that were not in LD with our top 5 markers
+                taken forward to stage 3 (data not shown).
+
+Discussion
+Through the identification of a second variant, rs2647012, that is independent of the
+                previously identified risk variant rs10484561 [6] within the 6p21.32 region, our
+                findings substantiate a major link between HLA class II loci and genetic
+                susceptibility to FL. In addition, our study revealed evidence that rs10484561 is
+                associated with DLBCL risk suggesting some shared biological mechanisms of
+                susceptibility between these two common NHL subtypes. The association of rs2647012
+                with FL risk was not detected in earlier GWAS studies [5], [6], and that of rs10484561 with
+                DLBCL risk previously reported was only marginal [6], perhaps because of the smaller
+                sample sizes in Stage 1. The number of FL cases scanned in this study was almost
+                double compared to the previous individual GWAS [6].
+HLA class II molecules are expressed in antigen presenting cells such as
+                B-lymphocytes, and act to present exogenous antigens to CD4+ helper T-cells.
+                Efficiency of antigen presentation may influence lymphomagenesis through effects on
+                anti-tumor immunity or on immune response to infections that are directly or
+                indirectly oncogenic (e.g., through viral genome insertion or nonspecific chronic
+                antigenic stimulation) [19]. Allelic variants in coding regions may affect the
+                structure of the peptide binding groove of the class II molecules, leading to
+                differences in the efficiency of oncogenic peptide binding or T-cell recognition.
+                Coding sequence variation in the molecules encoded by the extended
+                    HLA-DRB1*0101-HLA-DQA1*0101-HLA-DQB1*0501 haplotype
+                may be responsible for the association at rs10484561 [6].
+Alternatively, variants in the regulatory sequences may influence the expression
+                level of the HLA molecules and consequently the efficiency of antigen presentation.
+                We note that rs2647012 is strongly associated with the average expression levels of
+                    HLA-DRB4 (b = 0.78,
+                    P = 3.4x10-22) and
+                    HLA-DQA1 (b = -0.58,
+                    P = 5.1x10-13) probes in
+                Epstein-Barr virus-transfected lymphoblastoid cell lines (mRNA by SNP browser) [20], and rs10484561
+                is also associated with the expression levels of HLA-DQA1 probes
+                (b = -0.884,
+                    P = 1.6x10-10). We speculate that
+                this may be an alternative mechanism underlying the observed associations,
+                especially at rs2647012.
+Interestingly, SNPs within the same LD block harboring rs2647012
+                (r2>0.7 in HapMap CEU) have previously been associated with rheumatoid
+                arthritis with the same direction of effect [21]. Since autoimmune disorders
+                such as rheumatoid arthritis and Sjogren syndrome are associated with increased
+                risk of NHL, in particular with DLBCL but also with FL [22], our finding may suggest a
+                molecular link between these diseases, although their associations within this
+                region of high LD could also be due to different causal variants.
+Previously, large-scale candidate gene studies have pointed to susceptibility loci in
+                the HLA class III region mainly between the TNF variant
+                    -308G->A (rs1800629) and risk of DLBCL [23], [24]. We provide
+                novel evidence of association of DLBCL with an independent HLA marker in the class
+                II region (rs10484561; r2 = 0), 1.1Mb away from
+                rs1800629, strongly suggesting that alleles in the HLA class II region may play an
+                important role in the pathogenesis of this subtype as well. The weaker association
+                of rs10484561 with DLBCL (OR 1.36) than with FL (OR 1.95) [6] could imply that the
+                DLBCL-association is confined to a subset of DLBCL tumors with specific
+                morphological or molecular features more closely related to FL, such as the germinal
+                center-like B-cell phenotype [25]. However, the observed effects could also be due to
+                modification of other concurrent DLBCL-specific susceptibility variants, or
+                rs10484561 could tag a more strongly associated marker in this region of high
+                LD.
+Moreover, we found suggestive evidence of association at rs6536942 on 4q32.3, located
+                within an intron of the tolloid-like 1 (TLL1) gene, with FL risk.
+                However, larger studies are needed to validate this finding. Although the strongest
+                associations so far have been observed in the HLA region, and extended pooling of
+                available scan data failed to identify additional loci outside of HLA, we expect
+                that future larger meta-GWAS efforts will more robustly identify additional loci in
+                other regions.
+In conclusion, our results strongly suggest that future genetic and functional work
+                focused on the HLA class II region will provide important insight into the disease
+                pathology of FL, DLBCL and other subtypes of NHL. In addition, further studies of
+                this region and potential interaction with environmental factors in NHL risk, and of
+                NHL prognosis are warranted.
+
+Methods
+Ethics statement
+The studies described in this manuscript have been approved by the ethics
+                    committee of the respective institutions: Karolinska Institutet (Sweden),
+                    Scientific Ethics Committee system (Denmark), University of California, Berkeley
+                    (US), National Cancer Institute, National Institutes of Health (US), Mayo Clinic
+                    (US), University of British Columbia (Canada), Yale University (US), University
+                    of Sydney (Australia).
+Study subjects
+The SCALE study is a population-based study of the etiology of NHL carried out in
+                    all of Denmark and Sweden during 1999 to 2002 [26]. NHL subtype diagnoses were
+                    reviewed and reclassified according to the World Health Organization (WHO)
+                    classification [1] as previously described [26]. For this GWAS (SCALE1) we
+                    used DNA from 400 cases with follicular lymphoma (FL; 150 from Denmark and 250
+                    from Sweden) and from 150 Danish controls, individually matched to the Danish FL
+                    cases by sex and age at study inclusion. We also used material collected from
+                    673 control subjects in a separate Swedish population-based case-control study
+                    of rheumatoid arthritis (the Eira study) [21], [27]. The latter was conducted
+                    during 1996 to 2005 among residents 18 to 70 years of age in the southern and
+                    central parts of Sweden (including 90% of Swedish residents). Hence, the
+                    population controls recruited in this study were considered to represent the
+                    same study population as the Swedish component of the SCALE study with regard to
+                    genetic variation. Genotyping completion rates were similar between cases and
+                    controls; out of 400 cases and 823 controls genotyped, 379 cases (95%)
+                    and 791 controls (96%) were included in the final analysis. Study
+                    subjects used in Stages 2, 3 and validation in other NHL subtypes (Table 1, Table S1,
+                        S2)
+                    have been previously described [6], [8]-[12], and details are
+                    available as supporting text (Text S1). For the SCALE2 NHL subtype
+                    validation study, we used the rest of the lymphoma cases with blood samples
+                    originally recruited in SCALE (n = 1869), Danish control
+                    subjects not included in the GWAS (n = 556), a second set
+                    of control subjects from the Eira study (n = 742) and a
+                    third group of controls recruited in a national population-based case-control
+                    study of breast cancer, the Cancer and Hormones Replacement in Sweden (CAHRES)
+                    study [28]
+                    (n = 720). The control subjects from this study were
+                    randomly selected from the Swedish general population to match the expected age
+                    distribution of the participating breast cancer cases (50 to 74 years).
+Genotyping
+Stage I genotyping of 317,503 single nucleotide polymorphisms (SNPs) was done on
+                    the HumanHap300 (version 1.0) array. Validation genotyping was done using
+                    Sequenom iPlex; SNPs in the human leukocyte antigen (HLA) region that failed
+                    primer design for Sequenom assays were genotyped using Taqman (Applied
+                    Biosystems).
+Genome-wide association study
+The scan included 317,503 SNPs from the HumanHap300 (version 1.0) array. The
+                    datasets were filtered on the basis of SNP genotyping call rates
+                    (>=>95% completeness), sample completion rate (>=90%),
+                    minor allele frequency (MAF; all subjects as well as cases and controls
+                    separately >=0.03) and non-deviation from Hardy-Weinberg equilibrium (HWE;
+                        p<10-6). We also excluded SNPs with cluster plot
+                    problems, and those on the X and Y chromosomes. Study subjects with gender
+                    discrepancies and/or labelling errors were removed. We also removed individual
+                    samples with evidence of cryptic family relationships (identified using
+                    the-genome command in PLINK). To detect outliers in terms of population
+                    stratification, we performed principal component (PC) analysis using the
+                    EIGENSTRAT software (Figure S4). A subset of linkage
+                    disequilibrium (LD) thinned SNPs was selected such that all pair-wise
+                    associations had r2<0.2, and long-range regions of high LD,
+                    reported to potentially confound genome scans, were removed [29]. Twenty-five
+                    samples were removed as population outliers on the basis of their values on the
+                    first three PCs. To adjust for possible stratification in our association
+                    analyses we adjusted the regression analyses using the first three PCs; the
+                    number of PCs used for adjustment was determined by plotting the eigenvalues and
+                    locating the position of the "elbow" on the scree plot (Figure S5).
+                    Wald tests, treating minor allele counts as continuous covariates were used to
+                    test for association. The genomic inflation factor (l) was calculated to be
+                    1.0283 after adjusting for the first three PCs, suggesting the presence of
+                    minimal stratification. Quantile-quantile plots for the associations before and
+                    after adjustment are shown in Figure S6. Finally, we assessed associations
+                    of age and sex with main genotypes among the control subjects to address the
+                    possibility of confounding by these factors (Table S11).
+                    As there was no evidence of associations of age or sex with genotypes among the
+                    controls, we did not adjust for them in the final main effects analyses of
+                    genotypes.
+Validation and meta-analysis
+In Stage 2, similar quality control measures were applied as in Stage 1,
+                    including genotyping call rate >=95%, sample completion rate
+                    >=90%, and MAF >=0.05. We tested each validation study for
+                    association using trend tests. For meta-analyses across studies and NHL
+                    subtypes, we used the Cochran-Mantel-Haenszel method to calculate the combined
+                    odds ratio and P-value, and kh2 tests for heterogeneity.
+                    Multivariate logistic regression was used to test for independence of SNP
+                    effects. For validation among other NHL subtypes, the control subjects were the
+                    same as those in Stages 2 and 3 for validation in FL for all studies except
+                    SCALE2. Only European-ancestry subjects were included, and the possibility of
+                    population stratification affecting the results has been thoroughly explored and
+                    found to be low in earlier investigations in the same populations [6], [8].
+Imputation
+We used IMPUTEv1 for the imputation of SNPs from the 1000 Genomes pilot1 CEU data
+                    (August 2009 release); and the HapMap Phase II release 22 CEU data. We set a
+                    strict threshold for imputation, using only SNPs with confidence scores of
+                    >=0.9, call rates >=90%, non-deviation from Hardy-Weinberg
+                    equilibrium P >0.001 and MAF >0.01. The imputation was done on the Stage 1
+                    samples separately for each of the two reference datasets and SNPs showing a
+                    discordance of >5% between the genotypes imputed with the two datasets
+                    were excluded from further analysis. The data were then merged using HapMap II
+                    as the master dataset to which additional imputed SNPs from the 1000 Genomes
+                    dataset were added. HLA alleles were imputed by identifying tag SNPs [15] from the
+                    genotyped and imputed SNP dataset. We used PLINK for haplotype imputation with
+                    the tag SNPs and downstream association analyses. Only haplotypes with call
+                    rates >90%, MAF>1% and probability thresholds >0.8 were
+                    analyzed.
+Haplotype and coalescence analyses
+For coalescence analysis all 12 SNPs (genotyped in this study and within a region
+                    of ~177 Kb) adjacent to the two SNPs associated with the FL risk were used
+                    to construct haplotypes. These were phased using the PHASE program [30] and
+                    tested for association using PLINK. The ancestral haplotype was constructed from
+                    the chimpanzee (PanTro2) allele whenever possible, and otherwise from the
+                    macaque alleles. An ancestral recombination graph was constructed using the
+                    program Beagle [13], [31] which allows recombination assuming an infinite site
+                    mutation model. After identifying the first recombination event the haplotype
+                    segment before the recombination spot was used to construct a median
+                    -joining network using the Network program [14]. The alleles of the
+                    imputed SNP rs9378212 were then phased on each haplotype segment using the PHASE
+                    program.
+The URLs for the data and analytic approaches presented herein are as
+                    follows:
+1000 Genomes http://1000genomes.org
+HapMapII http://www.hapmap.org
+IMPUTEv1 https://mathgen.stats.ox.ac.uk/impute/impute_v1.html
+mRNA by SNP browser http://www.sph.umich.edu/csg/liang/asthma/
+R script for recombination plot http://www.broadinstitute.org/science/projects/diabetes-genetics-initiative/plotting-genome-wide-association-results
+
+Supporting Information
+Figure S1
+Forest plots of main associations with risk of follicular lymphoma (FL) and
+                        diffuse large B-cell lymphoma (DLBCL).
+(0.18 MB PDF)
+Click here for additional data file.
+Figure S2
+Association results for imputed SNPs and genotyped SNPs.
+(0.03 MB PDF)
+Click here for additional data file.
+Figure S3
+Ancestral reconstruction graph based on the 14 SNPs in the Stage 1
+                        samples.
+(0.05 MB PDF)
+Click here for additional data file.
+Figure S4
+Testing of population structure using principal components analysis.
+(0.11 MB PDF)
+Click here for additional data file.
+Figure S5
+Principal components analysis scree plot.
+(0.02 MB PDF)
+Click here for additional data file.
+Figure S6
+Quantile-quantile plots before and after genomic control correction.
+(0.07 MB PDF)
+Click here for additional data file.
+Table S1
+Number of patients with Non-Hodgkin lymphoma subtypes other than follicular
+                        lymphoma.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S2
+Overlap of samples from the current genome-wide association study and the
+                        previous GWAS reporting association between 6p21.32 and follicular lymphoma
+                        risk.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S3
+Top 40 SNPs taken forward to Stage 2, sorted by significance level (trend
+                        P-value) of association with risk of follicular lymphoma.
+(0.02 MB PDF)
+Click here for additional data file.
+Table S4
+SNPs on chromosome 6p21.32 that showed genome-wide per allele P-values <
+                        1E-04 in association with risk of follicular lymphoma in Stage 1, sorted by
+                        position.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S5
+Summary statistics for associations with risk of follicular lymphoma in
+                        Stages 1 and 2 with combined P-values.
+(0.02 MB PDF)
+Click here for additional data file.
+Table S6
+Crude and adjusted logistic regression analyses of the six SNPs in 6p21.32
+                        showing significant association with risk of follicular lymphoma in Stages 1
+                        and 2.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S7
+Individual study results for associations between the 5 SNPs taken forward to
+                        Stage 3 and risk of follicular lymphoma in Stage 3.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S8
+Genotype counts of main SNPs per Cases/Controls, per study and in total.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S9
+Associations with risk of follicular lymphoma for haplotypes phased with 14
+                        SNPs or 7 SNPs based on genotyped SNPs in Stage 1.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S10
+Imputation of HLA class II alleles and risk of follicular lymphoma.
+(0.01 MB PDF)
+Click here for additional data file.
+Table S11
+Trend p-value of associations of age and sex with main genotypes among
+                        controls subjects per study.
+(0.02 MB PDF)
+Click here for additional data file.
+Text S1
+Additional description of validation study subjects.
+(0.04 MB PDF)
+Click here for additional data file.

@@ -1,0 +1,361 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+A spheroid-based 3-D culture model for pancreatic
+cancer drug testing, using the acid phosphatase assay. Current therapy for pancreatic cancer is multimodal, involving surgery and chemotherapy. However, development of pancreatic cancer therapies requires a thorough evaluation of drug efficacy in vitro before animal testing and subsequent clinical trials. Compared to two-dimensional culture of cell monolayer, three-dimensional (3-D) models more closely mimic native tissues, since the tumor microenvironment established in 3-D models often plays a significant role in cancer progression and cellular responses to the drugs. Accumulating evidence has highlighted the benefits of 3-D in vitro models of various cancers. In the present study, we have developed a spheroid-based, 3-D culture of pancreatic cancer cell lines MIAPaCa-2 and PANC-1 for pancreatic drug testing, using the acid phosphatase assay. Drug efficacy testing showed that spheroids had much higher drug resistance than monolayers. This model, which is characteristically reproducible and easy and offers rapid handling, is the preferred choice for filling the gap between monolayer cell cultures and in vivo models in the process of drug development and testing for pancreatic cancer.
+
+Introduction
+Pancreatic cancer has a poor prognosis. For about the last 10 years, gemcitabine has
+remained the first-line chemotherapeutic agent for advanced pancreatic cancer;
+however, the success of drug treatment is poor, and overall survival has not
+improved for decades. Drug resistance is thought to be a major reason for the
+limited benefit of most pancreatic cancer therapies. Increasing drug efficiency and
+decreasing drug resistance are current principal aims in pancreatic cancer research
+(1).
+The most common drug model for in vitro study of cancer cells is the
+monolayer culture of cells. Although the two-dimensional (2-D) model has made
+significant contributions to cancer research, it has certain intrinsic limitations
+that have promoted the development of three-dimensional (3-D) culture models.
+Compared to 2-D culture models, 3-D culture models can provide a microenvironment
+that more closely mimics the microenvironment observed in tumor tissues. This
+feature is crucial for drug testing, since environmental cues can have profound
+effects on properties, behaviors, and functions of cancer cells, which may in turn
+affect cellular responses to drugs (2-4). Thus, 3-D culture models offer a more
+sophisticated means of mimicking in vivo environments, including
+the control of concentration gradients of signaling molecules and therapeutic
+agents, composition and structure of extracellular matrix surrounding the cancer
+cells, and the morphology and arrangement of individual cells.
+Multicellular spheroids are probably the most widely accepted model for 3-D culture
+(5). Several studies have highlighted the
+potential of multicellular tumor spheroids (MCTS) in cancer research and treatment
+(6-12). Multicellular spheroid cultures can reflect the tumor
+microenvironment, volume growth kinetics, and cytoarchitecture, similar to those of
+avascular tumor nodules, micrometastasis, or the intervascular region of large,
+solid tumors. Previous research has studied MCTS-based drug screening in various
+types of tumors (13 (14). MCTS in pancreatic cancer were first described by McLeod
+(15). However, MCTS remain poorly
+investigated in spheroid-based chemotherapy research.
+In the present study, a spheroid-based 3-D culture model of MIAPaCa-2 and PANC-1
+MCTS, using the acid phosphatase assay, was established to investigate the
+chemotherapy characteristics of pancreatic cancer cells. As an important supplement
+to monolayer-based assays, well-controlled MCTS may provide new insights and a
+better estimation of antitumor efficacy for pancreatic cancer drug testing.
+
+Material and Methods
+Cell lines and spheroid culture
+The MIAPaCa-2 and PANC-1 human pancreatic cancer cells were the kind gift of
+Professor Helmut Friess at the Department of Surgery, Klinikum Rechts der Isar,
+Technische Universitat Munchen, Germany. Cells were thawed from frozen stock and
+subcultured for <20 passages. Dulbecco's modified Eagle's medium (DMEM)
+containing 1 g/L glucose, 1% (w/v) sodium pyruvate, 1% (w/v) L-glutamine, and
+3.7% (w/v) NaHCO3, supplemented with 100 U/mL penicillin, 100 ug/mL
+streptomycin, and 10% fetal calf serum (FCS), was used for culturing (HyClone,
+USA). All cultures were kept at 37degC in a humidified atmosphere with 5%
+CO2. Cell transfer and preparation of single-cell suspensions
+were performed by mild enzymatic dissociation, using 0.05% trypsin and 0.02%
+EDTA in phosphate-buffered saline (HyClone). Spheroids were initiated in a
+liquid overlay by seeding 1.2x103 MIAPaCa-2 cells and
+1.0x103 PANC-1 cells/well in 200 uL medium using agarose-coated,
+96-well culture plates (50 uL 1.5% agarose/well). After an initiation interval
+of 4 days, 50% of supernatant was replaced with fresh medium, repeated every 48
+h thereafter except for a 72 h drug treatment setup described in the drug
+treatment section.
+Cell counting, flow cytometry, and microscopy
+For the detection of viable cells, 15 to 30 spheroids were collected and
+dissociated using a spheroid dispersion solution (SCIVAX, Inc., USA), and the
+cell number was counted with a NucleoCounter (Chemometec, Denmark). Cell
+aliquots were stained with the DNA intercalating dye propidium iodide (PI, 2
+ug/mL per 106 cells), and the cells were analyzed on an Accuri C6
+Flow Cytometer using CFlow Plus software packages (Accuri Cytometers, Inc.,
+USA).
+Morphological analyses of spheroids and phase contrast imaging in 96-well
+microplates were carried out manually on a DM IL inverted phase-contrast
+microscope (Leica, Germany). The volumes of the spheroids were calculated as
+previously described (16
+17). Generated data tables contained the
+following morphometric information: maximum diameter (d1), the
+diameter at right angles to maximum diameter (d2), mean
+spheroid diameter (D), and spheroid volume. Volumes were
+calculated with the AVD mass and volume calculator 7.2.1 (Avlan Design, Canada).
+Briefly, d1 and d2 were measured and recorded.
+D was calculated using the formula . Spheroid
+volume (mm3) was calculated using the formula .
+Acid phosphatase assay
+A modified acid phosphatase (APH) assay, which was based on quantification of
+cytosolic APH activity, was validated for determining viable cells in spheroids
+(18). Intracellular APH in viable
+cells hydrolyzed p-nitrophenyl phosphate to
+p-nitrophenol. Its absorbance at 405 nm was directly
+proportional to the cell number in the range of 103 to 105
+cells/monolayer. MCTS cultures grown in liquid overlay were transferred with
+supernatant onto flat-bottom, 96-well microplates and centrifuged for 10 min at
+1500 g to spin down spheroids, clusters, and single cells. The
+pellet was washed by carefully replacing 160 uL of supernatant with phosphate
+buffer solution (PBS). Centrifugation was repeated, and the supernatant was
+discarded to a final volume of 100 uL. Then, 100 uL of assay buffer was added
+per well and incubated for 90 min at 37degC. Following incubation, 10 uL NaOH was
+added to each well, and absorbance at 405 nm was measured within 10 min with a
+WellScan MK3 microplate reader (Labsystems Dragon, Finland).
+Drug treatment
+Treatment was performed with 5-fluorouracil (5-FU, Sigma-Aldrich, USA) and
+gemcitabine hydrochloride (Eli Lilly and Company, USA). Drugs (100 mM stock
+solutions in dimethyl sulfoxide) were applied in the following concentrations:
+200, 100, 50, 25, 10, 1, 0.1, and 0.01 uM, in culture medium. Treatment with 10%
+Triton-X-100 (Sigma-Aldrich) in culture medium for 1.5 h at 37degC led to a 100%
+loss of cell membrane integrity in structurally intact spheroids, and served as
+positive control. For treatment, MIAPaCa-2 and PANC-1 monolayer cultures were
+grown in 96-well plates by plating 5x102 exponentially growing cells
+per well. Spheroids were grown in liquid overlay, as described above. Both
+monolayer and spheroid cultures were treated for 96 h after inoculation by
+replacing 50% (100 uL) of the culture supernatant with drug-supplemented fresh
+medium. The spheroid diameter at the onset of treatment was 370 to 410 um. The
+treatment interval was 72 h. Untreated control cells and spheroids were always
+cultured in parallel, using 100 uL dimethyl sulfoxide-containing medium for the
+drug dilution.
+Analysis of drug efficacy
+Drug effects were documented after 72 h of treatment via the APH assay and
+spheroid volume analysis. All experiments were carried out in triplicate. APH
+data were corrected for background absorption at 405 nm. Drug effects were
+recorded relative to untreated controls, using the mean APH signal of untreated
+spheroids (n=9) measured for each individual experiment.
+Statistical analysis
+Dose-response curves and IC50 values were calculated for each
+individual experiment by sigmoidal dose-response analysis, using the Hill
+fitting equation in the Prism 5 software (GraphPad Software, Inc., USA). The
+individual dose-response curves and IC50 values for each drug were
+averaged, and are reported as means+-SD.
+
+Results
+Characteristics of MIAPaCa-2 and PANC-1 pancreatic cancer spheroids
+Single MCTS of about 400 um in diameter were harvested after a 96-h initiation
+incubation of 1.2x103 MIAPaCa-2 cells and 1.0x103 PANC-1
+cells per culture well. With the medium being refreshed every 48 h, spheroid
+volume increased according to the Gomertz equation, which classically and
+mathematically describes tumor and also spheroid growth kinetics (19). Maximum spheroid diameter of about 1
+mm was reached after about 9 days for MIAPaCa-2 and 10 days for PANC-1
+spheroids. Double spheroid volume was obtained after 29 h for MIAPaCa-2 and 28 h
+for PANC-1 spheroids (Figure 1A).
+Figure 1
+General characteristics of spheroid growth. A,
+Volume of MIAPaCa-2 and PANC-1 spheroids as a function of time in
+culture, with an initiation interval of 4 days and a seeding density of
+1.2x103 MIAPaCa-2 cells and 1.0x103 PANC-1
+cells per well. Data points are mean spheroid volumes for 8 to 16
+spheroids. B, Proportion of propidium iodide
+(PI)-positive cells in MIAPaCa-2 and PANC-1 spheroids as a function of
+the average spheroid diameter determined by flow cytometry following
+dissociation of 15 to 30 spheroids. C, Viable cells in
+MIAPaCa-2 and PANC-1 spheroids as a function of the average spheroid
+diameter. Data are reported as average cell numbers determined from 3
+aliquots of 15 to 30 spheroids.
+We compared the dead cells, calculated as the proportion of PI-stained cells in
+spheroids, as determined by flow cytometric analysis following dissociation
+(Figure 1B). The proportion of dead
+cells in MIAPaCa-2 spheroids of 400 and 600 um in size was about 5 to 8.58% and
+15.52 to 20.02%, respectively. On the other hand, the proportion of dead cells
+in PANC-1 spheroids with sizes of 400 and 600 um was about 4.96 to 10% and 15.78
+to 19.86%, respectively.
+The number of viable cells per spheroid, was determined by automated counting
+following spheroid dissociation. For MIAPaCa-2 and PANC-1, a positive linear
+correlation between spheroid size and viable cells per spheroid was observed
+(Figure 1C). Meanwhile, the proportion
+of PI-positive cells (membrane-defective cells) monitored by flow cytometry
+increased during spheroid growth, reflecting the initiation of more cell death
+in the spheroid center at sizes >500 um. On the other hand, spheroids of
+smaller size (e.g., 400 um) contained only 5 to 10% membrane-defective
+cells.
+Applicability and linearity of the APH assay in pancreatic cancer cell
+spheroid cultures
+The linearity of the APH assay signal in MIAPaCa-2 and PANC-1 spheroids as a
+function of the viable cell count/spheroid is shown in Figure 2. The absorption signal was linear in MIAPaCa-2
+spheroids, with cell number from 3.3x103 to 1.24x105
+cells/spheroid, covering spheroid diameters of up to 1000 um. In PANC-1
+spheroids, the APH signal was linear up to a maximum cell number of
+1.19x105 cells/spheroid and a diameter of about 1000 um. These
+results showed applicability and well-fitting linearity of the APH assay in both
+MIAPaCa-2 and PANC-1 spheroid cultures.
+Figure 2
+Linearity of the acid phosphatase (APH) assay in MIAPaCa-2 and PANC-1
+spheroids. APH colorimetric measurement in MIAPaCa-2 and PANC-1
+spheroids (mean, n>=8 spheroids) as a function of the average number of
+viable cells per spheroid. Three aliquots of 20 spheroids were measured
+for each data point.
+Cytotoxicity in MCTS using the APH assay
+In order to investigate the applicability of the APH method for determining
+drug-induced cytotoxicity in spheroids, MIAPaCa-2 and PANC-1 MCTS at day 4 with
+a size of 360 to 410 um, that consisted of about 0.78 to 1.5x104 and
+0.70 to 1.5x104 viable cells and <10% dead cells, were incubated
+with gemcitabine. Spheroids were analyzed after a 72-h treatment interval with
+0.01 to 200 uM gemcitabine for the following parameters: spheroid size and
+volume, APH-assay signal, and cell count per spheroid. The effect of gemcitabine
+relative to untreated controls was calculated, and the results of the APH assay
+and cell count analysis were elevated (Figure
+3). The results showed quite similar curves across the gemcitabine
+concentration range that was applied here. The results further indicated that
+the APH assay would be a reliable and valuable model to investigate drug
+efficacy in spheroids.
+Figure 3
+Acid phosphatase (APH) activity reflects cell viability in MIAPaCa-2
+and PANC-1 spheroids after treatment. Comparison of APH activity and
+live cell counts following dissociation in MIAPaCa-2 and PANC-1
+spheroids after treatment with different concentrations of gemcitabine
+for 72 h. Drug efficacy was documented relative to the respective
+untreated controls. Data are reported as means.
+Drug efficacy in MCTS vs monolayer culture using the APH
+assay
+Drug efficacy in 3-D cultures was revealed to be different from that observed in
+classical 2-D cell cultures. The APH assay is a novel tool used to investigate
+and quantify differences of drug sensitivity in spheroid and monolayer cultures.
+In this study, two drugs (gemcitabine and 5-FU) were compared in relation to
+application of the APH assay in spheroids. The drug dilutions used did not alter
+the background absorbance. Dose-response curves were documented in MIAPaCa-2 as
+well as PANC-1 monolayer cultures and in spheroids ranging in size from 360 to
+410 um at the initiation of treatment. Drug efficacy experiments were performed
+on a 96-well plate using 0.01 to 200 uM gemcitabine and 5-FU.
+Drug effects in MIAPaCa-2 and PANC-1 cells were elevated after 72-h treatment
+intervals in three independent experiments per drug with n=8 spheroids per
+condition in each experiment. After a 72-h drug treatment, the APH signal
+decreased in a dose-dependent manner relative to untreated controls. Treatment
+with 200 uM gemcitabine of MIAPaCa-2 cells resulted in >64% loss of cell
+viability, whereas PANC-1 monolayer cells generally showed a 45% survival rate,
+even at high gemcitabine concentrations. When treated with 200 uM 5-FU,
+MIAPaCa-2 and PANC-1 monolayer cells showed a 38.6% and 51.24% survival rate,
+respectively. The IC50 values in MIAPaCa-2 monolayer cultures were
+47.6+-25.2 uM for gemcitabine and 61.9+-21.2 uM for 5-FU. PANC-1 monolayer
+cultures showed IC50 values of 64.9+-10.3 uM for gemcitabine. At the
+highest drug concentration of 200 uM, a reduction of cell viability >50% was
+not observed; thus the IC50 in PANC-1 monolayer culture could not be
+estimated for 5-FU (Figure 4).
+Figure 4
+Application of the acid phosphatase (APH) assay to determine drug
+effects in MIAPaCa-2 and PANC-1 spheroid cultures. APH activity/cell
+viability in MIAPaCa-2 and PANC-1 monolayer and spheroid cultures after
+72 h of treatment with gemcitabine and 5-fluorouracil (5-FU). Data are
+reported as means of >=3 individual experiments each with eight spheroids
+treated and measured per condition. IC50 values were
+calculated to investigate the difference of drug efficacy in 2-D
+vs 3-D culture and in these two pancreatic cancer
+cell lines.
+MIAPaCa-2 and PANC-1 spheroid cultures demonstrated significantly reduced
+sensitivities to two different chemotherapeutic agents. Even at the highest drug
+concentration of 200 uM, a >=50% reduction of cell viability was not observed in
+either MIAPaCa-2 or PANC-1 spheroids (Figure
+4). Thus, the IC50 in MIAPaCa-2 and PANC-1 spheroid
+cultures could not be estimated for gemcitabine and 5-FU. These results showed
+that the efficacy of the drugs tested in this study was generally lower in
+MIAPaCa-2 and PANC-1 spheroids than in monolayer culture.
+Microscopic imaging was performed prior to the APH assay in order to test the
+hypothesis that the spheroid volume after treatment was not necessarily
+indicative of cell viability and the signal intensity of the APH assay. Phase
+contrast images of MIAPaCa-2 spheroids treated with gemcitabine and 5-FU are
+shown in Figure 5. Spheroid volume
+reduction and disruption reflected a cell loss. Evident spheroid shedding and
+disruption occurred in spheroids of MIAPaCa-2 cells treated with 100 uM
+gemcitabine, but viable cells could still be detected by the APH assay.
+Nevertheless, microscopic images might still be supplementary parameters of 3-D
+cultures when they are used for drug-efficacy testing.
+Figure 5
+Spheroid integrity following treatment with gemcitabine and
+5-fluorouracil (5-FU). Phase contrast images of MIAPaCa-2 spheroids at
+the initiation of drug treatment and after a 72-h treatment interval
+with 0.1, 10, and 100 uM (Bar: 500 um).
+
+Discussion
+The limitations of 2-D cell culture have motivated researchers to develop an
+in vitro model for the study of cancer and drug efficacy.
+Compared to animal models, in vitro models are conducive to
+systematic, repetitive, and quantitative investigation of cell or tissue physiology
+in drug discovery and development (20 (21). These models can be more easily controlled
+and are usually less expensive and less time-consuming than animal models.
+In vitro models can be used to assess a large number of
+combinations of experimental parameters. Such high-throughput testing is usually not
+feasible with animal-based models. Here, we have established a spheroid-based 3-D
+culture model in MIAPaCa-2 and PANC-1 MCTS using the APH assay, and investigated the
+potential of the model as a spheroid-based drug assay for pancreatic cancer in 3-D
+cultures.
+The MCTS model was first described in the 1970s by Sutherland et al. 5) as a way to mimic the heterogeneity present
+in solid tumors and account for the effect of the tumor microenvironment on drug
+transport and efficacy. This model attempted to bridge the gap between standard
+monolayer cell culture and actual tumors. In fact, tumor cells grown as spheroids
+acquire some type of clinically relevant multicellular resistance to
+apoptosis-inducing drugs, which may mimic the chemoresistance found in solid tumors
+(22-24). Thus, experts in the field have proposed including MCTS as a
+mandatory model in major programs for drug screening and development. The underlying
+benefits of using MCTS in antitumor drug testing have frequently been alluded to
+(13,25,26). In our previous study
+27), a 3-D culture method was found for
+assessing chemosensitivity. However, the spheroids used in that method were not
+homogeneous, and the complex method was not convenient for antitumor drug
+testing.
+In this study, spheroids grown from MIAPaCa-2 and PANC-1 pancreatic cancer cell lines
+showed an exponential growth pattern in agarose-treated, 96-well plates. A maximum
+spheroid diameter of approximately 1 mm was reached after about 9 days of culture
+for MIAPaCa-2 and 10 days for PANC-1 spheroids. The physiological state of spheroids
+depends on the spheroid size, the individual and cell-type-specific behavior of
+pancreatic cancer cells, the cell density, and also the culture time. We intended to
+establish a spheroid-based screen from these two pancreatic cancer cell lines with
+clear pathophysiological gradients but without obvious cellular death at the
+initiation of drug treatment. According to the literature and our experience, a
+4-day initiation interval for spheroid formation was found to establish spheroids of
+pancreatic cancer cells reproducibly under identical culture conditions (15,28).
+The spheroids would reach a standard size of 365 to 410 um after 96 h of incubation
+at the initiation of drug treatment. Small spheroids with a size of up to 200 um are
+often used for drug testing and may be sufficient to reflect 3-D cell-cell and
+cell-matrix interaction (29-31). It is clearly inappropriate, when
+attempting to create pathophysiological conditions, to have a hypoxic area in the
+spheroid center. Hypoxia is not only a well-established radio- and drug-resistance
+factor, but also leads to numerous indirect effects in tumor cells by modulating
+expression patterns (25,32). Larger spheroids with a diameter between 500 and 600 um
+develop secondary central necroses, which make the pathophysiological conditions
+complex and difficult to control. Thus, we chose spheroids with a size of 365-410 um
+for drug treatment.
+Easy and rapid handling of both spheroid culture and analysis are crucial
+requirements of a model for drug testing of pancreatic cancer. Different techniques
+for spheroid culturing have been extensively described in studies, including
+advantages and disadvantages (25,26,33).
+We selected the easy and rapid agarose-overlay, 96-well plate approach to set up the
+spheroid-based model.
+Several different cytotoxicity/viability assays for 2-D culture, based on absorption,
+luminescence, or fluorescence, were considered and tested in MCTS. Parameters
+included cellular uptake of membrane-impermeable dyes such as CCK-8, MTT, Alamar
+blue, and EtHD-1, release of substrates such as lactate dehydrogenase or
+glucose-6-phosphate dehydrogenase, activity of mitochondrial dehydrogenases or
+intracellular esterases, and cellular adenosine triphosphate level and the ratio of
+ATP/ADP. These commercially available systems have been successfully applied in
+monolayer cultures in various tumor cell lines, including pancreatic cancer cells
+(34-37). However, most of these tests could not be easily adapted to
+application in 3-D culture.
+Recently, the APH assay was established as a reliable tool to determine cell
+viability in complex 3-D culture (18,33). The APH assay is simple, rapid, and
+high-throughput compatible, as it does not require spheroid dissociation. Our study
+also verified that the APH assay 1) is applicable for single MIAPaCa-2 and PANC-1
+spheroids in 96-well plates, 2) does not require spheroid dissociation, and 3) is
+linear and highly sensitive for MIAPaCa-2 and PANC-1 spheroids up to
+1.24x105 and 1.19x105 cells/spheroid, respectively (both
+up to a size of 1000 um).
+To establish a pancreatic cancer-specific, spheroid-based model, we used the APH
+assay by treating MIAPaCa-2 and PANC-1 spheroids with gemcitabine and 5-FU, two
+drugs that are commonly used for pancreatic cancer. The efficacy of gemcitabine and
+5-FU in monolayer and spheroid cultures was compared. We observed a reduced
+sensitivity of spheroid cell cultures to gemcitabine and 5-FU compared to monolayer
+cultures, which should be reflected not only by spheroid integrity and size but also
+by APH signals and APH-dependent IC50 values. In the present study,
+monolayer controls of MIAPaCa-2 and PANC-1 showed dose-response curves and
+IC50 values consistent with the published literature, both for
+gemcitabine and 5-FU (35,38,39).
+Drug effects on MIAPaCa-2 spheroids were shown via the APH assay, but the incubation
+interval necessary to reach the IC50 demonstrated that spheroids of the
+MIAPaCa-2 pancreatic cancer cell line were less sensitive to gemcitabine and 5-FU
+than monolayer culture. Reduced drug efficacy was also seen in PANC-1 in the
+spheroids compared with monolayer culture. We conclude that our pancreatic cancer
+spheroid model more closely reflected the efficacy of antitumor drugs. With the APH
+assay, classic drugs for pancreatic cancer such as gemcitabine and 5-FU could be
+easily monitored in spheroids and compared with monolayer data. One of the potential
+applications of the spheroid-APH assay is the testing of single and combined
+therapeutic strategies with new target-, and/or pathway-specific treatment
+modalities.
+In conclusion, we established a spheroid-based culture model in the MIAPaCa-2 and
+PANC-1 pancreatic cancer cell lines for drug testing with the APH assay. The model
+integrates reproducible, easy, and rapid handling for drug testing of pancreatic
+cancer. The model would help to fill the gap between monolayer cultures and
+in vivo models in the process of drug development and testing
+for pancreatic cancer.

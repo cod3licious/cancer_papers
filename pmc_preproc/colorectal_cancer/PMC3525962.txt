@@ -1,0 +1,359 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion]
+
+Analysis of molecular aberrations of Wnt pathway gladiators in colorectal cancer in
+the Kashmiri population. The development and progression of colorectal cancer (CRC) is a multi-step process, and the Wnt pathways with its two molecular gladiators adenomatous polyposis coli (APC) and b-catenin plays an important role in transforming a normal tissue into a malignant one. In this study, we aimed to investigate the role of aberrations in the APC and b-catenin genes in the pathogenesis of CRC in the Kashmir valley, and to correlate it with various clinicopathological variables. We examined the paired tumour and normal-tissue specimens of 86 CRC patients for the occurrence of aberrations in the mutation cluster region (MCR) of the APC gene and exon 3 of the b-catenin gene by polymerase chain reaction-single-strand conformation polymorphism (PCR-SSCP) and/or PCR-direct sequencing. Analysis of promoter hypermethylation of the APC gene was also carried out using methylation-specific PCR (MS-PCR). The overall mutation rate of the MCR of the APC gene among 86 CRC cases was 12.8 per cent (11 of 86). Promoter hypermethylation of APC was observed in 54.65 per cent (47 of 86) of cases. Furthermore, we found a significant association between tumour location, tumour grade and node status and the methylation status of the APC gene (p <= 0.05). Although the number of mutations in the APC and b-catenin genes in our CRC cases was very low, the study confirms the role of epigenetic gene silencing of the pivotal molecular gladiator, APC, of the Wnt pathway in the development of CRC in the Kashmiri population.
+
+Introduction
+Colorectal cancer (CRC) is a major cause of mortality and morbidity, and the third most
+common malignancy in the world [1]. The incidence
+of this malignancy shows considerable variation among racially or ethnically defined
+populations in multiracial/ethnic countries. It is the fourth most common cancer in men
+and the third most common in women worldwide [1].
+Kashmir has been reported as being a high-incidence area for gastrointestinal (GIT)
+cancers [2,3]. In the
+Kashmir valley, CRC represents the third most common GIT cancer after oesophageal and
+gastric cancer [4,5].
+It has been suggested that CRC is a multi-step process which arises from cumulative
+aberrations of a number of different genes (including tumour suppressor genes,
+proto-oncogenes, DNA repair genes, the genes encoding growth factors and their
+receptors, cell cycle checkpoint genes and apoptosis-related genes) or from epigenetic
+changes in DNA at different stages of development and progression [6,7]. It is believed that mutations
+in the gene encoding adenomatous polyposis coli (APC) or that encoding
+b-catenin set the stage for the initiation and transformation of normal
+colonic epithelial cells. Further accumulation of mutations in other genes then
+contributes to the progression of cancer through adenoma - carcinoma - metastasis
+stages. The generally accepted model of CRC tumorigenesis for the majority of tumours
+has been a stepwise progression, in which mutations in APC are followed by
+several other mutations, including alterations in the genes encoding Kirsten ras
+(K-ras) and tumour protein 53 (TP53) [6-8]. During the accumulation of
+genetic changes, a complex signalling network is established among inactivated and
+activated cellular pathways [9].
+The Wnt pathway regulates cell adhesion, morphology, proliferation, migration and
+structural remodelling [9,10] and plays an important role in a variety of cellular processes,
+including proliferation, differentiation, survival, apoptosis and cell motility
+[11]. Loss of regulation of the Wnt
+pathway has been implicated in the development of several types of cancers, including
+colon, lung, breast, thyroid and prostate cancers and leukemia [12-15]. Two of the most important gladiator molecules of the Wnt
+pathway are APC and b-catenin.
+APC is a classical tumour suppressor gene, located on 5q21, containing 21
+exons. The APC transcript is 9.0 kilobases (kb) in length and the most common
+isoform of the APC protein contains 2,843 amino acids, with a molecular weight of 310
+kD. Exon 15 of APC is most important, as it comprises > 75 per cent of the
+coding sequence of APC and hence is the common target for both germline and
+somatic mutations, which usually span codons 1286-1513 of this exon [16,17]. This region represents the
+mutation cluster region (MCR), and 68-77 per cent of somatic mutations in APC
+occur in this region [18]. Mutations in
+APC are considered to be the earliest genetic aberrations in the initiation
+and progression of CRC,[7,9,19] and have also been found in ~60-80 per cent of
+sporadic carcinomas and adenomas [20,21]. Using mutant mouse models, various genetic studies have
+demonstrated that mutations in APC are responsible for intestinal tumorigenesis
+[22-24]. Homozygous APC mutations in mice lead to embryonic
+lethality,[23,25,26] and conditional deletion of the gene in the adult
+mouse disrupts homeostasis, not only in the intestines but also in other tissues
+[27-29].
+In addition to the mutational inactivation, hypermethylation of the gene promoter is
+another important mechanism associated with gene silencing [30]. In many tumours the hypermethylation of CpG islands in gene
+promoters has been found to be a frequent epigenetic change in cancers, and is usually
+associated with the loss of transcription of APC [31-38]. Hypermethylation of the APC
+gene promoters has been reported in about 20-48 per cent of human CRCs
+[32,37,39,40].
+The b-catenin gene is located at 3p22-p21.3 and encompasses 23.2 kb of DNA. It
+contains 16 exons, with a mRNA transcript of about 2343 base pairs (bp), encoding a
+781-amino-acid-residue protein with a molecular weight of 92 kD [41]. This gene is mutated in up to 10 per cent of all sporadic
+CRC by point mutations or in frame deletions of the serine and threonine residues that
+are phosphorylated by glycogen synthase kinase 3-beta (GSK3b) [42]. These mutations result in the stabilisation of
+b-catenin and the activation of Wnt signalling. Mutations in the b-catenin
+gene occur in exclusivity to APC aberrations, as both molecules are
+components of the same pathway [19].
+Based on the hypothesis that CRC carcinogenesis is a multi-step and multi-gene event, we
+designed this study to elucidate the role of APC and b-catenin in
+the development and progression of CRC in the Kashmiri population, and to correlate the
+gene aberrations and hypermethylation with the clinicopathological parameters of CRC
+cases.
+
+Materials and methods
+Patients and specimens
+Out of 104 patients who were diagnosed with CRC by clinicians using either
+sigmoidoscopy or colonoscopy and confirmed by MRI, a total of 86 CRC tissue
+specimens, comprising tumour tissues and corresponding adjacent normal tissues as
+controls, were collected for analysis. All samples were surgically resected and
+collected fresh at the Department of Surgery of the Sher-I-Kashmir Institute of
+Medical Sciences, Srinagar, Kashmir. Tissue samples were divided into two parts; one
+part was sent for histopathological diagnosis and the other was snap-frozen at
+-70degC immediately until needed for further analysis. Only histopathologically
+confirmed cases were included for molecular analysis. No follow-up of the CRC
+patients was carried out after the curative surgery. Written informed consent was
+obtained from all the subjects (and/or their guardians) included in the study,
+recorded on a prede-signed questionnaire (available on request). The study was
+carried out in accordance with the principles of the Helsinki Declaration. The study
+protocol was approved by the Research Ethics Committee of the Sher-I-Kashmir
+Institute of Medical Sciences, Kashmir.
+DNA isolation
+Genomic DNA was extracted from blood and tissue samples (previously stored at
+-70degC) from CRC patients using DNA Extraction Kit II (Zymo Research, Orange,
+CA). The tissue for DNA extraction from the tumour sample was chosen by an
+experienced pathologist and was ascertained to comprise more than 90 per cent of the
+tumour cells.
+Polymerase chain reaction (PCR)
+APC and b-catenin gene analysis was carried out on all of the
+extracted DNA samples. The MCR region of APC, comprising codons 1260 to
+1596, and exon 3 of b-catenin, which encompasses the region for
+GSK-3b phosphorylation, were amplified using specific oligonucleotide primers
+(Table 1). PCR was performed in a 50 ml total volume
+reaction mixture containing 50 ng of genomic DNA, 100 ng of each primer, 100 mM
+of each deoxynucleotide triphosphate (dNTP), 1.5 mM MgCl2, 10x Taq
+buffer and 2 U of Taq DNA polymerase (Fermentas Inc, Glen Burnie, MD). The conditions
+of PCR were as follows: initial denaturation at 95degC for 5 minutes, 35 cycles of
+denaturation at 95degC, annealing at 52-58degC (see Table 1) and extension at 72degC, for 30 seconds each, and final extension at
+72degC for 7 minutes in a Biorad icycler. The PCR products were run on
+2-3 per cent agarose gel and analysed under an ultraviolet illuminator.
+Mutation analysis of the APC gene
+Mutation analysis of the APC gene was performed on all cases. Four sets of
+oligonucleotide primers that have previously been reported were used for
+fragment-wise amplification (APCA, B, C and D) of codons 1260 to 1596 [43]. All amplicons were 300 bp in length (Figure
+1A-D, Table 1), and were then
+subjected to single-strand conformation polymorphism (SSCP) analysis. For the samples
+showing an aberrant band in the SSCP analysis, APC BF and APC DR
+primers were used to amplify the 890 bp target region (Figure 1E) and then were subjected to direct sequencing (Macrogen Inc, Seoul,
+Korea), including the original 300 bp amplicons; however, studying the aberrations of
+only the MCR was a limitation of this study.
+Figure 1A-E
+Representative gel picture of mutation cluster regions of APC gene
+comprising of Exon 15 APCA (295 bp); APCB (293 bp); APCC (290 bp); APCD (295
+bp); and APC Full (890 bp) fragments. Lane M: Molecular size marker 100
+bp (Middle Prominent Band = 500 bp) Lane 1-6: Amplified product from cancer
+samples.
+Mutation analysis of the b-catenin gene
+Genomic DNA from each sample was amplified by PCR using the previously reported
+primer pair, which amplified a 200-bp amplicon of exon 3 of the b-catenin
+gene (Figure 2A, Table 1)
+[43].
+Figure 2A
+Amplified DNA fragment (200 bp amplicon) of exon 3 of b-catenin
+gene. Lane M: 100 bp molecular ladder, Lanes 1-7: Amplicons from
+different tumour tissues.
+Base substitutions in codons 32 and 33 were further confirmed by the HinfI
+restriction endonuclease assay (Fermentas). The 200-bp PCR product for
+b-catenin contains two HinfI restriction endonuclease
+sites, yielding 7-bp, 55-bp and 138-bp DNA fragments after digestion of the wild-type
+allele. b-catenin gene mutations in codons 32 and 33 yield only 62-bp
+and 138-bp fragments after digestion because of ablation of the first HinfI
+site. The digested products were run on 10 per cent polyacrylamide gel
+electrophoresis (PAGE) (Figure 2B) to assess the digested
+fragments.
+Figure 2B
+PAGE analysis of Hinf I digest of 200 bp amplicon of exon 3 of the
+b-catenin gene. Lane M: 100 bp molecular ladder, Lanes
+1-14: HinfI digested amplicons of the b-catenin gene. Lane 11
+shows the codon 32 mutant.
+SSCP analysis
+SSCP analysis of PCR products was carried out on 6 per cent non-denaturing
+polyacrylamide gel (PAG) utilising either non-radioactive silver staining or
+radioactive procedures, as explained previously [4,44]. In non-radioactive SSCP analysis, PCR products
+were mixed together in denaturing buffer (95 per cent formamide, 10 mM NaOH, 0.05 per
+cent xylene-cyanol FF and 0.05 per cent bromophenol blue) in a 1:1 ratio, heat
+denatured at 95degC for 5 minutes and immediately cooled on ice for 20 minutes. Of
+the resulting product, 6 ml was loaded on 6 per cent PAG and electrophoresed in
+0.5x Tris-borate EDTA buffer at +- 17degC at 4 W constant power for 18-22
+hours. Gels were then silver stained. In radioactive SSCP analysis, radiolabelled PCR
+products (using a32-pCTP) were mixed in a denaturing loading buffer (95 per cent
+formamide, 20 mM EDTA, 0.05 per cent xylene-cyanol FF and 0.05 per cent bromophenol
+blue) in a 1:10 ratio and heat denatured at 95degC for 5 minutes. Of the resulting
+product, 3 ml was loaded on 6 per cent PAG and electrophoresed at 4 W constant
+power in 0.5x Tris-borate ethylene diamine tetra-acetic acid (EDTA) buffer at
++- 17degC for 18-22 hours. The gel was then transferred onto 3 mm Whatman
+paper, covered with Saran wrap and dried in a vacuum drier at 90degC for 1 hour.
+The Saran wrap was then replaced by X-ray film and kept at -70degC for 48
+hours.
+The mobility shift in DNA bands was visualised by developing the X-ray film. Purified
+PCR products of the samples showing mobility shift on SSCP analysis and randomly
+chosen samples were used for direct DNA sequencing.
+Methylation-specific PCR (MS-PCR) of APC promoters
+Both normal and tumour DNAs were subjected to sodium bisulphite modification using
+the EZ DNA Methylation Kit (Zymo Research, Irvine, CA). About 10 ul of DNA from each
+sample was modified as described in the protocol. Previously reported primer sets
+were used for amplification of the two promoters - 1A and 1B of the APC gene
+(Table 2) [32,37].
+PCR was performed in a 50 ml total volume reaction mixture containing 10 ng of
+modified genomic DNA, 100 ng of each primer, 100 mM of each dNTP, 1.5 mM
+MgCl2, 5 per cent dimethyl sulphoxide (DMSO), 10x Taq buffer and 2
+U of Taq DNA polymerase (Fermentas). The reactions were hot started at 97degC for
+10 minutes before the addition of 0.75 units of Taq polymerase (Fermentas). The PCR
+conditions were as follows: 40 cycles of denaturation at 95degC for 40 seconds,
+annealing at the temperatures specified in Table 1 for 45
+seconds, extension at 72degC for 45 seconds and a final extension at 72degC for
+10 minutes to complete each PCR. The PCR amplicons were electrophoresed on 2.5 per
+cent agarose gels and were visualised after staining with ethidium bromide (Figure
+3A and 3B).
+Figure 3A
+PAGE analysis of APC 1A promoter methylation. Lane M: 50 bp
+molecular ladder Lanes 1-14: amplicons from paired samples. Case 1 and 5:
+Unmethylated APC 1A promoter Cases 2, 3, 4 and 6: Methylated APC
+1A promoter C1 and C2: Internal unmethylated and methylated human DNA
+controls.
+Figure 3B
+PAGE analysis of APC 1B promoter methylation. Lane M: 50 bp
+molecular ladder Lanes 1-14: amplicons from paired samples. Case 1, 5 and 7:
+Unmethylated APC 1B promoter Cases 2, 3, 4 and 6: Methylated APC
+1B promoter.
+Universal Methylated Human DNA (Zymo Research) was used as positive control for
+methylated alleles whereas DNA from normal lymphocytes was used as a control for
+unmethylated alleles. Water was used as a negative PCR control in both reactions.
+Direct sequencing
+PCR amplicons of the tumour samples and from randomly chosen normal samples were
+first purified using the DNA Recovery Kit (Zymo Research) and then used for direct
+DNA sequencing. DNA sequencing was carried out at Macrogen Inc. To minimise the
+sequencing artefacts by PCR, amplicons from at least two different PCRs were
+sequenced using forward and reverse primers.
+Statistical analysis
+All statistical analysis was performed using PASW software, version 18 (IBM, New
+York, NY). Pearson's chi-square two-proportion test was used to evaluate the
+hypothesis of equal distribution of molecular alterations with different
+clinicopathological variables. A Fisher's two-tailed test (p values) of 0.05
+or less was considered to be statistically significant.
+
+Results
+Of 86 confirmed cases of CRC, 38 were of Dukes' A + B stage and 48 were of C + D stage.
+All patients presented with constipation and bleeding per rectum as their chief
+complaint. Furthermore, 81 of these cases were sporadic, four had familial adenomatous
+polyposis and one had Lynch syndrome. All but one case had adenocarcinoma and only one
+had squamous cell carcinoma (SCC) of the basal cell type. Thirty-seven patients were
+female and 49 male; 59 were rural and 27 urban; 36 cases had carcinoma in the colon and
+50 in the rectum; and 55 were smokers and 31 non-smokers (Table 3).
+Mutation analysis of APC
+The overall mutation rate of the MCR of APC among the 86 patients was 12.8
+per cent (11 of 86). This is in contrast to other studies that have reported APC
+as the main gene to undergo aberration in CRC, with a frequency of about 60 per
+cent. DNA sequencing revealed four missense mutations, three nonsense mutations and
+four frameshift mutations, including three deletions and one insertion (Table 4, Figure 4). Among the three nonsense
+mutations, two were Leu > Stop and one was Lys > Stop.
+Figure 4
+Partial electropherograms representing the mutant (above) and normal (below)
+forms (shown by arrows) of the mutation cluster region (MCR) of
+APC. (A) Deletion of the AAAAG pentamer at codons 1307/08/09 in
+the MCR region of APC and deletion of the AA dimer at codons 1307/08
+in the MCR region of APC. (B) Insertion of A at codon 1525 in the MCR
+region of APC. (C) Polymorphism of codon 1492 in the MCR region of
+APC.
+We also found a novel single nucleotide polymorphism (SNP) in our study, a G > A
+polymorphism in codon 1492 of APC. The polymorphism changes ACG to ACA,
+without changing the resulting amino-acid residue. We found, that among 86 CRC cases,
+only 14 (16.3 per cent) had the homozygous wild-type (GG) genotype, while 53 (61.6
+per cent) had the homozygous variant (AA) genotype and 19 (22.1 per cent) had the
+heterozygous (GA) genotype (Table 5, Figures 3A and 3B). In addition, 72 cases had G > A
+variants, 67 were variants for G > A at codon 1492 only, while five also had
+mutations at other sites.
+Mutation analysis of the b-catenin gene
+The overall mutation rate of the b-catenin gene was 8.1 per cent (seven
+of 86). Of these seven mutations, three affected codon 32, three affected codon 49
+and one affected codon 45 (Figure 5, Table 6); five were missense and two were nonsense mutations. Both nonsense
+mutations affected codon 49, changing lysine to a stop codon leading to truncation of
+the protein. In addition, five of the seven patients with b-catenin
+mutations had higher-grade tumours (C + D). One also had a mutation in
+APC, but six b-catenin had an intact APC gene.
+Figure 5
+Partial electropherograms representing the mutant (above) and normal (below)
+forms (shown by arrows) of exon 3 of the b-catenin gene (AAA >
+TAA).
+Hypermethylation of APC promoters
+Methylation analysis of APC carried out on two promoters, 1A and 1B,
+revealed a high methylation status of these two promoters. Forty-seven (54.65 per
+cent) of the tumours were methylated at either one of the two promoter regions, while
+39 (45.35 per cent) of the tumours were not methylated at any of the promoters
+(Tables 3 and 7). Among the tumours which were methylated, only nine (19.1 per cent)
+were found to be methylated at the APC 1A promoter exclusively, 15 (31.9 per
+cent) were found to be methylated at the APC 1B promoter exclusively, while
+23 (48.9 per cent) tumours were methylated at both promoters. Furthermore, we also
+found that only four tumours were mutated as well as hypermethylated for the APC
+gene (Table 8). Statistical analysis showed a significant
+association between APC methylation status and the age group, tumour
+location (colon) and tumour grade (C + D) of the patients (Table 3).
+
+Discussion
+The Kashmir valley, located in the northern division of India, has a unique ethnic
+population, living in temperate environmental conditions and with distinctive food
+habits, which, along with genetic factors, play a large role in the development of GIT
+cancers [3-5,45]. As previously reported, the
+aetiology and incidence of various GIT cancers in this population has been attributed to
+a probable exposure to nitroso compounds, amines and nitrates reported to be present in
+local foodstuffs such as hoakhe suen (sun-dried vegetables), pharei
+and hoggade (sundried and/or smoked fish and meat), hakh (a leafy
+vegetable of the Brassica family), hot noon chai (salted tea), dried
+and pickled vegetables and red chilli, and also through smoking hukka (a water
+pipe) [2-5,46].
+According to the multi-step model of colorectal tumorigenesis,[7] the most common and principal causes of APC
+inactivation are gene aberrations. A somatic mutation in APC leads to a
+truncated protein in most sporadic CRCs [15,36]. Hypermethylation of APC at the promoter
+region constitutes an alternative mechanism for APC inactivation in breast,
+lung and GIT cancers, especially CRCs [30,33,34,38,40,47]. Combined with these two mechanisms
+of APC inactivation and the aberrations in the b-catenin gene,
+the Wnt pathway molecules play an important role in CRC development and progression
+[48,49].
+The present study involved the mutational analysis of exon 15 (MCR) of APC and
+exon 3 of the b-catenin gene and also the hypermethylation analysis of two
+promoters of APC. Although being the important genetic molecule of the Wnt
+pathway, and implicated in almost 60 per cent of sporadic CRCs, we found APC
+gene to be aberrant in only 12.79 per cent of CRCs, which was considerably lower
+than the previously reported frequencies [9,19,35,50-53]. This low
+frequency suggests that APC may not be the foremost gene to be implicated in
+the development of CRCs in this population.
+Furthermore, we found an SNP (G > A) at codon 1492 in 72 (83.7 per cent) CRC cases. Out
+of 72 cases, 53 were homozygous variants. This was a novel finding, as it has not been
+reported previously.
+We also found a low frequency (8.1 per cent; seven of 86) of b-catenin mutations in
+CRC. These results were in line with those in the published literature [54-57]. Exon 3 of b-catenin contains a
+regulatory domain which is the hotspot for genetic aberrations. Mutations in this exon
+have been reported in various tumours, resulting in its nuclear accumulation and leading
+to progression of the tumour [9,43,58]. The mutations in the hotspot codons
+- 32, 33, 41, 45 and 49 - in exon 3 of b-catenin result in an amino acid
+change at the GSK-3b phosphorylation sites, which in turn affect the
+phosphorylation mechanism and result in the decreased sequestration of
+b-catenin by APC [58].
+Furthermore, the mutation affecting codon 45 (TCT > TTT; Ser > Phe) was present in a
+Lynch syndrome patient, as has been reported previously [55,56]. Also, six of seven tumour samples
+which harboured b-catenin gene mutations were wild-type for APC
+(MCR only), which further corroborated findings in the literature that mutations of
+the genes encoding these two Wnt pathway molecules are mutually exclusive [9,54,57,59,60]. Only one case (A9) had mutations in
+both genes (Tables 4 and 6). Overall, mutations in Wnt pathway molecule genes were found
+to be present in 20.9 per cent (18 of 86) of CRC cases. Thus, our observation identifies
+this pathway as being important in determining the development and progression of CRC
+but is less important than in other populations, where the mutational frequency of these
+Wnt gladiators is higher.
+CpG island hypermethylation is one of the important mechanisms of gene inactivation.
+Cancer cell lines have in general demonstrated an increased frequency of
+hypermethylation by comparison with primary tumours [61]. Inactivation of tumour suppressor genes by promoter
+hypermethylation has been recognised to be as common as gene disruption by mutation in
+tumorigenesis [36,37,62,63]. A number of studies on CRC around
+the globe have demonstrated the role of promoter hypermethylation of a number of
+different genes in the development and progression of CRC [32,64,65]. Promoter
+hypermethylation of APC, similarly to that of other genes, plays a pivotal role
+in the inactivation of APC, which in turn enhances tumour development
+[30,33].
+In the present study, we found hypermethylation in 54.65 per cent (47/86) of CRC cases,
+which is consistent with the results found in some other major studies, although
+markedly higher than reported in others [30,32,33]. However, only 26.7 per
+cent (23/86) of the tumours were hypermethylated at both the 1A and 1B promoters. This
+may be due to the fact that there is less mutational inactivation of APC in
+this population and also because this population is exposed to a special set of
+environmental challenges, such as extreme temperature, high altitude, special food
+habits and exposure to agricultural by-products such as pesticides and nitrosamines
+[5,46]. As has been
+revealed in previous studies, promoter hypermethylation constitutes an alternative hit
+in the inactivation of APC in cancers,[39,66] and we have identified the same phenomenon as the
+major cause of APC inactivation in our population. Various studies have shown
+transcriptional repression of APC by hypermethylation in tumours as well as
+cell lines [34,67].
+Arnold et al. demonstrated the loss of protein expression due to the promoter
+hypermethylation of APC [39]. In
+addition, 42.8 per cent (three of seven) of patients with a mutation in
+b-catenin were also found to have hypermethylation of APC. We
+found the methylation status of the APC promoter to be associated with age (>
+60), tumour location (colon) and nodal status/tumour grade (C + D) in CRC.
+
+Conclusion
+We conclude that, in the Kashmir valley population, although mutational aberration of
+the genes encoding two pivotal molecules of the Wnt pathway - APC and
+b-catenin - occurs at a low frequency in CRC cases, the high level of
+epigenetic silencing of APC plays a pivotal role in the initial tumorigenesis
+and also enhances the chances of tumour development and progression to advanced
+stages.

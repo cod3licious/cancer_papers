@@ -1,0 +1,16 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Statins use and female lung cancer risk in Taiwan. In this present study, we found that the use of rosuvastatin with cumulative using duration >12 months could correlate with 2.8-fold increased risk of lung cancer in women. We did not have specific comments on these results. Further prospective clinical studies of statins use are needed to elucidate this issue.
+
+Introduction
+In order to clarify the association between statins use and female lung cancer risk, we extended the study period and collected more female lung cancer cases by analyzing the Taiwan National Health Insurance database from 2000 to 2010.
+
+Methods
+There were 1117 female subjects with newly diagnosed lung cancer (based on ICD-9 codes 162.X and A-code A101), who were aged 20 years or older at the date of diagnosing lung cancer (mean age 66.5 years and standard deviation 13.4 years). In addition, 4468 control subjects without lung cancer were matched with age and index date (mean age 65.9 years and standard deviation 13.6 years). The insurance program details can be found in previously published studies (1-3). Six commercially available statins in Taiwan were analyzed, including simvastatin, fluvastatin, lovastatin, atorvastatin, pravastatin, and rosuvastatin.
+
+Results
+The lung cancer cases were more likely to have pulmonary tuberculosis (3.58% vs. 0.92%) and chronic obstructive pulmonary disease (31.8% vs. 19.0%) (P<0.0001). Moreover, there were 212 subjects with statins use among lung cancer cases (19.0%) and 752 subjects with statins use among control subjects (16.8%) (P=0.09). There was no statistical difference in using duration of statins between lung cancer cases and control subjects (mean+-SD, months, 23.40+-52.86 vs. 18.85+-33.64, P=0.13) (Table 1).
+After controlling for co-variables, multiple logistic regression analysis showed that no association was detected between statins use and lung cancer risk (odds ratio=1.07, 95% CI=0.90-1.27) (Table 2). In further analysis, only use of rosuvastatin with cumulative using duration > 12 months could correlate with increased risk of lung cancer (odds ratio=2.79, 95% CI=1.37-5.66), as compared with non-use of statins (Table not shown).
+
+Discussion
+To date, controversy exists regarding the association between statins use and lung cancer risk. A case-control study by Khurana and colleagues in the United States showed that statins use for more than 6 months could correlate with a risk reduction of lung cancer (odds ratio=0.45, 95% CI=0.42-0.48) (4), which was contrary to Cheng and colleagues' findings in Taiwan (odds ratio=0.82, 95% CI=0.58-1.15) (5). In this present study, we found that the use of rosuvastatin with cumulative using duration > 12 months could correlate with 2.8-fold increased risk of lung cancer in women. We did not have specific comments on these results. In our view, because of inconclusive clinical data, further prospective clinical studies of statins use are needed to clearly elucidate this issue.

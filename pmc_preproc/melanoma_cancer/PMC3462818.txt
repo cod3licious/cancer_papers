@@ -1,0 +1,116 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Indoor tanning and non-melanoma skin cancer: systematic review and meta-analysis. Objective To synthesise the literature on indoor tanning and non-melanoma skin cancer. Design Systematic review and meta-analysis. Data sources PubMed (1966 to present), Embase (1974 to present), and Web of Science (1898 to present). Study selection All articles that reported an original effect statistic for indoor tanning and non-melanoma skin cancer were included. Articles that presented no data, such as review articles and editorials, were excluded, as were articles in languages other than English. Data extraction Two investigators independently extracted data. Random effects meta-analysis was used to summarise the relative risk of ever use versus never use of indoor tanning. Dose-response effects and exposure to indoor tanning during early life were also examined. The population attributable risk fraction for the United States population was calculated. Results 12 studies with 9328 cases of non-melanoma skin cancer were included. Among people who reported ever using indoor tanning compared with those who never used indoor tanning, the summary relative risk for squamous cell carcinoma was 1.67 (95% confidence interval 1.29 to 2.17) and that for basal cell carcinoma was 1.29 (1.08 to 1.53). No significant heterogeneity existed between studies. The population attributable risk fraction for the United States was estimated to be 8.2% for squamous cell carcinoma and 3.7% for basal cell carcinoma. This corresponds to more than 170 000 cases of non-melanoma skin cancer each year attributable to indoor tanning. On the basis of data from three studies, use of indoor tanning before age 25 was more strongly associated with both squamous cell carcinoma (relative risk 2.02, 0.70 to 5.86) and basal cell carcinoma (1.40, 1.29 to 1.52). Conclusions Indoor tanning is associated with a significantly increased risk of both basal and squamous cell skin cancer. The risk is higher with use in early life (<25 years). This modifiable risk factor may account for hundreds of thousands of cases of non-melanoma skin cancer each year in the United States alone and many more worldwide. These findings contribute to the growing body of evidence on the harms of indoor tanning and support public health campaigns and regulation to reduce exposure to this carcinogen.
+
+Introduction
+The incidence of basal cell carcinoma and squamous cell carcinoma of the skin, collectively termed non-melanoma skin cancer (NMSC), has increased dramatically over previous decades, in what some have termed an epidemic.1
+2 NMSC is by far the most common human malignancy, and nearly 30% of white people living in areas of exposure to high ultraviolet radiation will develop an NMSC in their lifetime.3 Because of its high prevalence, NMSC is a considerable financial burden to healthcare systems.4
+5
+6
+Although NMSC is the most common cancer, it is often excluded from national cancer registries and cancer databases because it typically does not affect survival. NMSC is more common in older men, but more tumours have recently been documented in women and in younger people of both sexes.7
+8 Besides older age and male sex, major risk factors for development of NMSC include light skin, family history, residence at latitudes near the equator, and exposure to ultraviolet radiation.9
+10
+Because it is potentially modifiable, indoor tanning is a particularly important type of exposure to ultraviolet radiation. Indoor tanning is a class I carcinogen, considered "carcinogenic to humans" by the International Agency for Research on Cancer.11 Indoor tanning is significantly associated with increased risk of malignant melanoma and was shown to be a potential risk factor for NMSC in a previous, smaller meta-analysis.12
+13 Several studies have examined the link between NMSC and indoor tanning.14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29 However, the study sizes and the percentage of participants reporting exposure have been small, yielding varied results. Our aim in this study was to synthesise the available data on indoor tanning and NMSC.
+
+Methods
+We carried out this review in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.30
+Literature search
+We defined NMSC as either basal cell carcinoma or squamous cell carcinoma and indoor tanning as the use of an ultraviolet emission device to produce a cosmetic tan. The terminology used in the literature is diverse. In this analysis, we considered indoor tanning, sunbed, sunlamp, tanning bed, tanning booth, solarium, artificial tanning, artificial ultraviolet tanning, non-solar ultraviolet tanning, and variations of these to be synonymous with indoor tanning.
+We identified studies through searches of electronic databases and by scanning reference lists of articles. We searched PubMed (1966 to present), Embase (1974 to present), and Web of Science (1898 to present). Two authors (MRW and MLS) did the search, and the last search was run on 16 March 2012. Additionally, we reviewed identified articles and reviews on the topics of NMSC and ultraviolet exposure closely to locate additional articles. Specifics of the search strategy used in each database are detailed in the supplementary materials.
+All published articles in English that reported an effect statistic for indoor tanning and NMSC or that reported measuring or adjusting for indoor tanning in a study including participants with NMSC were eligible for inclusion. Two authors (MRW and MLS) assessed the eligibility of studies by using the title and abstract for initial screening followed by review of the full text. We excluded articles that presented no data, such as review articles and editorials, and articles in languages other than English. Inclusion criteria for quantitative meta-analysis were studies reporting an effect estimate, such as an odds ratio or hazard ratio, or reporting measurement of or adjustment for indoor tanning that could be used to calculate an effect estimate.
+We used a data extraction sheet, which was developed on the basis of the Cochrane Consumers and Communication Review Group's data extraction template. We extracted the following data items from each study: characteristics of study participants (including age, sex, type of NMSC) and inclusion/exclusion criteria, characteristics of study design (including design type, presence of matching in case-control studies, matching characteristics, and number of controls per case), outcomes (including effect estimates of different doses of exposure to indoor tanning), and statistical methods (including univariate or multivariate analyses, logistic regressions, and variables included).
+Statistical methods
+For the primary meta-analysis, we used the odds ratio or hazard ratio for ever exposure to indoor tanning, which was the exposure measure used by most of the studies. Ever exposure (for example, participants were asked: "Have you ever used an indoor ultraviolet tanning device to produce a cosmetic tan?") was available for 10 studies. For two studies, the only available measure was "regular" exposure (Bakos et al17) or greater than five exposures per year (Walther et al28). We thus did the primary analysis on the 10 studies reporting ever exposure and a subsequent sensitivity analysis that included all 12 studies. In one instance, we calculated an unadjusted odds ratio and 95% confidence interval from the raw data of a matched study.14 Data comparing ever use versus never use of indoor tanning came directly from the authors of one study that did not show this comparison in the manuscript.29 We also did a sensitivity analysis excluding four retrospective studies that did not fully adjust for confounders (see supplementary table).14
+19
+21
+27
+We did additional analyses on studies that reported effect statistics for high dose exposures and on studies that reported effect statistics for young age at exposure. High dose exposure was assessed by four studies, which used exposure measures of "regular use of tanning beds in lifetime,"17 6-26 years of regular exposure,20 exposure more than five times per year,28 and exposure four times per year.29 Three studies reported young age at first exposure, using 16 years of age or younger,20 less than 20 years of age,25 and "high school/college," which is typically 14-25 years of age.29 Although these studies used different doses of exposure for high dose exposure and different cut-off ages for young age, these represent the only and thus best available data.
+We used Stata 11 statistical software to do random effects model meta-analyses, yielding summary relative risks and 95% confidence intervals. All statistical tests were two sided. We analysed data for basal cell carcinoma and squamous cell carcinoma separately. To investigate variability (heterogeneity) in study outcomes, we used a kh2 test for heterogeneity and an I2 statistic.
+We used the STROBE statement guidelines to assess the quality of individual studies.31 Of 16 studies identified, two did not state when data was collected,18
+26 three case-control studies did not match cases and controls,19
+21
+28 and three case-control studies used frequency rather than individual matching.20
+25
+27 Additionally, nine studies did not clearly report participation rates,15
+17
+18
+19
+21
+23
+26
+28
+29 and three did not state ages or sexes of participants.22
+23
+26
+To assess potential small study effects and publication bias across studies, we created funnel plots by plotting the effect found by each study against the inverse of its standard error. We reviewed the funnel plot visually and used Begg's rank correlation test and Egger's weighted linear regression test for formal testing. This aimed to investigate the possibilities that small studies showing no effects may not be published and that small studies are more likely to be done with less methodological rigor, leading to inaccurate effect estimates.
+We calculated population proportional attributable risk as (prevalence of exposurex(RR-1))/(1+prevalence of exposurex(RR-1)), where RR is relative risk. We calculated this for the United States, for which we had representative data on both the incidence of NMSC (estimated at 3 507 693 new cases in 20062) and one year prevalence of indoor tanning (estimated at 13.4% for 200532).
+
+Results
+Figure 1 shows the study selection process. Database searches yielded a total of 558 unique publications whose title and abstract were screened. We discarded 536 because of no relevance (n=416), no unique data presented (for example, editorial article or review, n=110), or language other than English (n=10). We examined the remaining 22 articles in full text. Sixteen studies met the inclusion criteria and are included in table 1. We included 12 studies in the quantitative meta-analysis. Excluded from meta-analysis were one study that reported only mean numbers of exposures (numbers of indoor tanning visits),18 one study that grouped patients with basal cell carcinoma, squamous cell carcinoma, and melanoma,24 and two studies that grouped basal cell carcinoma and squamous cell carcinoma together.23
+26 These last two studies also used patients admitted to hospital with solid organ cancer as controls, which are unlikely to be representative of the population from which the cases arose.23
+26 All four studies showed non-significant associations, although one showed a statistically significant positive association when sunbed exposure was grouped with medical phototherapy.24
+Fig 1 PRISMA flow diagram of literature search and study selection for meta-analysis of indoor tanning and non-melanoma skin cancer. BCC=basal cell carcinoma; NMSC=non-melanoma skin cancer; SCC=squamous cell carcinoma
+The 12 studies included in the meta-analysis were published between 1985 and 2012, used data collected between 1977 and 2010 in six different countries, and included 80 661 total participants and 9328 cases of NMSC. All 12 studies reported or provided raw data for effect estimates as odds ratios or hazard ratios (table 2). When available, we preferentially present effect estimates reported using multivariate models.
+Effect estimates for ever exposure to indoor tanning compared with never exposure were available for 10 out of 12 studies. A meta-analysis of these studies yielded summary relative risks of 1.29 (95% confidence interval 1.08 to 1.53) for basal cell carcinoma and 1.67 (1.29 to 2.17) for squamous cell carcinoma (fig 2). A kh2 test for heterogeneity was non-significant for both basal cell carcinoma (P=0.14) and squamous cell carcinoma (P=0.09); I2 statistics were 36.8% (95% confidence interval 0% to 72%) for basal cell carcinoma and 47.1% (0% to 79%) for squamous cell carcinoma. To include all available studies, we did a sensitivity analysis using the effect statistics from all 12 studies, including the two studies that reported only higher dose exposure.17
+28 Both studies considered only basal cell carcinoma; with these two studies included, the summary relative risk for basal cell carcinoma was 1.25 (1.01 to 1.55). Funnel plots assessing publication bias were symmetrical for both basal cell carcinoma and squamous cell carcinoma, and all Begg's and Egger's tests were not statistically significant, suggesting that publication bias was unlikely. Our results did not change appreciably in a sensitivity analysis excluding four retrospective studies that did not fully adjust for confounders.14
+19
+21
+27
+Fig 2 Relative risk of basal cell carcinoma and squamous cell carcinoma in participants ever exposed to indoor tanning compared with participants never exposed to indoor tanning
+To assess the presence of a dose-response effect, we did a sub-analysis on studies that included effect estimates for frequent or multiple (high dose) exposures to indoor tanning (table 3, top). High dose exposure was associated with a relative risk of 1.50 (0.81 to 2.77) for basal cell carcinoma. To assess the potential effect of exposure to indoor tanning at a young age, we did a sub-analysis on studies that included effect estimates for early life exposure (table 3, bottom). Indoor tanning exposure before age 25 was associated with a relative risk of 1.40 (1.29 to 1.52) for basal cell carcinoma and 2.02 (0.70 to 5.86) for squamous cell carcinoma.
+Population attributable risk
+Applying our summary risk estimates to the prevalence of exposure to indoor tanning in the United States, we calculated the population attributable risk fraction at 3.7% for basal cell carcinoma and at 8.2% for squamous cell carcinoma. This corresponds to 98 408 cases of basal cell carcinoma and 72 244 cases of squamous cell carcinoma, making 170 652 cases of non-melanoma skin cancer each year attributable to indoor tanning (see supplementary figure).
+
+Discussion
+In this systematic review and meta-analysis of more than 9300 cases of non-melanoma skin cancer from 12 studies, we found a positive, statistically significant association between exposure to indoor tanning and NMSC. Ever exposure to indoor tanning was associated with a 67% higher risk for squamous cell carcinoma and a 29% higher risk for basal cell carcinoma. Exposure to indoor tanning at a young age was significantly associated with an increased risk for basal cell carcinoma and showed a non-significant increased risk for squamous cell carcinoma. High dose exposure to indoor tanning showed a non-significant increased risk for basal cell carcinoma. This suggests a critical period for exposure during early life and a potential dose-response effect.
+Possible explanations for findings
+A causal link between indoor tanning and NMSC is one possible explanation for our findings. This link is biologically plausible, because both ultraviolet A and ultraviolet B radiations are established carcinogens in animal models and human studies.11
+33 Several population based studies have documented rapid rises in skin cancer among young women, coinciding with the adoption of indoor tanning and supporting this causal relation.8
+34
+35 The dose-response effect noted in several studies further supports this argument.20
+29 The temporal relation in which indoor tanning at a young age is a stronger risk factor not only supports a causal interpretation but also implies a critical period of higher susceptibility during early life.
+Alternative explanations for these findings include the possibility that these observational and mostly retrospective studies were confounded by skin type or outdoor exposure to ultraviolet radiation. For example, fair skinned people who are more susceptible to NMSC might use indoor tanning more often, and indoor tanners may also get more outdoor ultraviolet exposure.35 Because most of the studies included in the primary meta-analysis (8/10) controlled for skin type or sun sensitivity and many (5/10) controlled for outdoor ultraviolet exposure, we do not feel that this confounding alone could account for the significant associations observed. Also, differential recall of use of indoor tanning in people already diagnosed as having skin cancer is a concern in case-control studies. However, given that prospective cohort studies found similar effect sizes, and are heavily weighted in this meta-analysis, we do not think that recall bias significantly affects our conclusion. Although they are always a concern in literature based meta-analyses, publication bias and small study effects are unlikely to fully explain these findings on the basis of our analyses.
+Comparison with other studies
+These findings are consistent with a previous meta-analysis of indoor tanning and NMSC,13 which, using only five studies, found a significant increase in risk for squamous cell carcinoma (summary relative risk 2.25, 95% confidence interval 1.08 to 4.70) and a non-significant effect for basal cell carcinoma (summary relative risk 1.03, 0.56 to 1.90). Our analysis, using substantially more studies, found a similarly significantly increased risk for squamous cell carcinoma and, notably, found a significantly increased risk for basal cell carcinoma. Our findings add to the growing body of evidence on the harms of indoor tanning. Indoor tanning is already considered a class I carcinogen on the basis of its effect on malignant melanoma.11
+12 Although NMSC is generally not a lethal cancer, it affects a vast number of people worldwide and accounts for a considerable disease burden.1
+2
+6
+36 Although the population attributable risk fraction of indoor tanning on NMSC is modest, when applied to the 3.5 million new cases of NMSC diagnosed each year, indoor tanning may account for hundreds of thousands of new cases each year in the United States alone. Yet this is a global problem: recent studies from Australia, France, Denmark, Germany and Sweden suggest that 10.6-35% of people have used a tanning bed at least once in their lives, and 1.3-29.9% have done so in the previous year.37
+38
+39
+40
+41
+42
+43
+Limitations of study
+This study is limited by the fact that it included only observational and mostly case-control studies. However, a randomised trial of indoor tanning is not realistic, and most of the included studies controlled for multiple potential confounders, making this the best level of evidence possible. Another potential limitation of this meta-analysis is the broad time period spanned by the data. Included studies collected data from the 1970s to the 2010s, which is important because indoor tanning devices have changed over time from high ultraviolet B output to predominately ultraviolet A output.44
+45
+46 However, multiple studies have indicated that both ultraviolet B and ultraviolet A seem to be capable of causing significant mutagenic damage to skin.11
+33
+47
+48
+Conclusions
+Indoor tanning, which is already an established risk factor for malignant melanoma, is probably a risk factor for both squamous cell carcinoma and basal cell carcinoma, which are the most common human cancers. We hope that these findings can support public health campaigns and motivate increased regulation to reduce exposure to this carcinogen, especially during early life.
+What is already known on this topic
+Non-melanoma skin cancer (NMSC) is the most common human cancer
+Indoor tanning is a known risk factor for malignant melanoma, but the data on NMSC are less clear because small individual studies have resulted in varied effect estimates
+What this study adds
+Indoor tanning is associated with NMSC, especially when exposure occurs early in life
+This modifiable risk factor accounts for hundreds of thousands of new cancer cases in the United States each year
+More countries, including the United States, should follow in the footsteps of Europe, Australia, and Canada and restrict tanning bed use for minors

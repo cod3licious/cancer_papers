@@ -1,0 +1,271 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Pluronic P105/F127 mixed micelles for the delivery of docetaxel against Taxol-resistant non-small cell lung cancer: optimization and in vitro, in vivo evaluation. The aim of this work was to establish a novel polymeric mixed micelle composed of Pluronic P105 and F127 copolymers loaded with the poorly soluble antitumor drug docetaxel (DTX) against Taxol-resistant non-small cell lung cancer. A central composite design was utilized to optimize the preparation process, helping to improve drug solubilization efficiency and micelle stability. Prepared by a thin-film hydration method, the average size of the optimized mixed micelle was 23 nm, with a 92.40% encapsulation ratio and a 1.81% drug-loading efficiency. The optimized formulation showed high storage stability in lyophilized form, with 95.7% of the drug content remaining after 6 months' storage at 4degC. The in vitro cytotoxicity assay showed that the IC50 values for Taxotere(r) and mixed micelles were similar for A549, while on A549/Taxol cell lines, DTX-loaded P105/F127 mixed micelles showed a superior hypersensitizing effect; their IC50 value (0.059 mg/mL) was greatly reduced compared to those of Taxotere injections (0.593 mg/mL). The in vivo pharmacokinetic study showed that the mixed-micelle formulation achieved a 1.85-fold longer mean residence time in circulation and a 3.82-fold larger area under the plasma concentration-time curve than Taxotere. In addition, therapeutic improvement of mixed micelles in vivo against A549/Taxol was obtained. The tumor inhibition rate of the micelles was 69.05%, versus 34.43% for Taxotere (P < 0.01). Therefore, it could be concluded from the results that DTX-loaded P105/F127 mixed micelles might serve as a potential antitumor drug delivery system to overcome multidrug resistance in lung cancer.
+
+Introduction
+Docetaxel (DTX), a semi-synthetic analog of paclitaxel, is the one of the most important anticancer drugs in clinical use today,1 and has shown its potency against a variety of solid tumors, including breast, ovarian, prostate, and non-small cell lung cancer, by inhibiting the microtubule depolymerization of free tubulins.2-4 However, due to its poor aqueous solubility, rapid phagocytic activity, renal clearance, and non-selective distribution, its clinical application is extremely hampered. In order to improve the aqueous solubility of DTX, the commercial preparation Taxotere contains a high concentration of the nonionic surfactant Tween 80 (polysorbate 80),5 which unfortunately leads to serious side effects, such as hypersensitivity, nephrotoxicity, neurotoxicity, and incompatibility with common polyvinyl chloride intravenous administration sets.6
+In previous reports, various drug delivery systems have been developed to replace the Tween 80-based vehicle for overcoming the aforementioned limitation, including an HP-b-cyclodextrin inclusion complex,7 nanoparticles,8 liposomes, 9 and microemulsions.10 Among these delivery systems being applied to DTX, polymeric micelles are considered one of the strongest potential alternatives since several micellar formulations have been under clinical evaluation as carriers for anticancer drugs. In particular, paclitaxel-loaded PEG-PLA micelles (Genexol-PM) have been approved by the FDA for treating breast cancer. Another noteworthy advance in polymeric micelle application is doxorubicin-loaded Pluronic L61/F127 mixed micelles (SP1049C), which are currently going through phase III investigation in patients with metastatic adenocarcinoma of the esophagus, gastroesophageal junction, and stomach.11 Polymeric micelles are formed spontaneously into nano-sized aggregates (typically smaller than 100 nm), which possess a core-shell structure. Poorly soluble drugs can be incorporated into the hydrophobic core and protected from inactivation in biological media. Thus the micellar systems exhibit many advantages, such as increasing drug solubility, circumventing reticuloendothelial system (RES) uptake, improving circulation time, and passive tumor targeting by the enhanced permeability and retention (EPR) effect.
+Multi-drug resistance (MDR) is a significant obstacle of chemotherapy in the treatment of cancer patients. In cancer therapy, the overexpression of the ATP-binding cassette transporter family, including P-glycoprotein (P-gp) and other multidrug resistance-associated proteins (MRPs), is responsible for MDR between numerous antitumor P-gp substrates, such as etoposides, anthracyclines, and taxanes.12 DTX was shown to be the substrate of P-gp,13 which means that overcoming MDR or limiting the activity of multi-resistant proteins should increase its anti-tumor efficiency.
+Polymer selection for micelles is critical for the combination of developing an effective system and increasing DTX's antitumor efficiency. An ideal vehicle material is not only biocompatible but also expected to be a biological response modifier.14 As a representative of such materials, Pluronic block copolymers, composed of poly (ethylene oxide) (PEO) and poly (propylene oxide) (PPO) with a PEO-PPO-PEO structure, were shown to be inhibitors of P-gp, which causes the sensitization of multidrug-resistant tumors to various anticancer agents.15,16
+PTX-loaded Pluronic P105 micelles could effectively prolong blood circulation times and modify the biodistribution of PTX in vitro under study in our laboratory.17 However, the in vitro stability and anticancer effect of micelles with one Pluronic carrier still needs to be improved. The Pluronic P105, with a greater portion of PPO, was able to load satisfactory hydrophobic drug content, as well as to inhibit P-glycoproteins. However, due to the rather short PEO length, the stability of micelles formed by a single P105 is not desirable. Owing to the high PEO-PPO ratio, F127 possessed a lower critical micelle concentration (CMC) value, which might contribute to improving the stability of the micellar system. Mixing with P105 and F127 might overcome the shortcomings of Pluronic micelles described above, providing a more stable and effective system. Moreover, mixed Pluronic micelles incorporating DTX against MDR cancers have not been studied yet. Therefore, DTX-loaded mixed micelles composed of Pluronic F127 and P105 were developed.
+To increase the solubility and stability of DTX and enhance its anti-cancer effect, DTX-loaded mixed micelles were prepared by a thin-film hydration method, composed of P105 and F127. The preparation process was optimized with a central composite design (CCD). Taxol-resistant subclones of the human lung adenocarcinoma cell line A549 were selected to investigate the anticancer effect of mixed micelles in vitro and in vivo. In addition, the physicochemical properties, stability, and in vivo pharmacokinetic behavior of the drug-loaded micelles were investigated in this study.
+
+Materials and methods
+Materials
+Docetaxel was purchased from Shanghai Chembest Bioscience Inc (Shanghai, China). Pluronic P105 and F127 were kindly supplied by BASF Ltd (Shanghai, China). Tween 80 (injection-grade) was purchased from Nanjing Will Chemical Ltd (Nanjing, China). The Cell Counting Kit-8 (CCK-8) was purchased from Dojindo Laboratories (Kumamoto, Japan). Penicillin-streptomycin, RPMI 1640, fetal bovine serum, and a 0.25% (w/v) trypsin-0.03% (w/v) EDTA solution were purchased from Gibco BRL (Gaithersberg, MD, USA). Plastic cell culture dishes and plates were purchased from Corning Incorporated (New York, USA). All other solvents were analytical- or chromatographic-grade.
+Male Sprague-Dawley rats (200 +- 20 g) and male BALB/c nude mice (22 +- 2 g) were obtained from Fudan University's Experimental Animal Center. All animal experiments were performed in accordance with protocols evaluated and approved by Fudan University's ethics committee.
+Methods
+HPLC and LC-MS-MS analysis
+The concentration of DTX in vitro was measured by the high-performance liquid chromatography (HPLC) method conducted using a Shimadzu HPLC system equipped with LC-15C pumps, a SIL-10AF auto sampler, a SPD-10AVP UV detector (Shimadzu, Kyoto, Japan), a reversed-phase column (Gemini 5 mm C18, 200 mm x 4.6 mm, Phenomenex, Torrance, CA, USA), and an LC Solutions 15C interface operated at 230 nm. The mobile phase consisted of acetonitrile and water (60:40, v/v) with a flow rate of 1.0 mL/min. A sample solution was injected at a volume of 20 mL. DTX concentrations were determined by comparing the peak areas with the standard curve.
+For more accurate measurement, the concentration of DTX in blood samples was determined by liquid chromatography coupled with tandem mass spectrometry (LC-MS-MS), the setup of which consisted of an Agilent 1100 system (Agilent, Waldbronn, Germany) and an API 4000 triple-quadruple instrument equipped with an electrospray ionization source (Life Technologies). Chromatographic separation was achieved on a Gemini C18 column (100 mm x 2 mm, 3 mm, Phenomenex), with a mobile phase consisting of methanol-2 mM ammonium acetate with 0.1% formic acid (80:20, v/v) pumped at a flow rate of 0.35 mL/min at 40degC. A TurboIonSpray ionization (ESI) interface was used in a positive ionization mode. The Analyst 1.4.1 software package (Life Technologies) was utilized to perform data processing. With a lower limit of quantitation of 1 ng/mL and good linearity in the range 1-1000 ng/mL, the method was sensitive for docetaxel in vivo. All validation data were within the required limits.
+Preparation of DTX-loaded Pluronic P105/F127 mixed micelles
+DTX-loaded mixed micelles were prepared by a thin-film hydration method.17,18 Briefly, 300 mg of a Pluronic mixture composed of P105 and F127 in different proportions was co-dissolved in 5 mL acetonitrile in a round-bottom flask, and DTX was added at different feed ratios to the mixed block copolymers. The solvent was subsequently evaporated by rotary evaporation to obtain a thin film. The film was then kept in a vacuum overnight at room temperature to remove the residual acetonitrile. After the addition of different amounts of water and stirring at 600 rpm for 30 min, a clear micelle solution was formed. The solution was then filtrated through 0.22-mm filter membrane to remove the unincorporated crystalline drug, followed by lyophilization. The content of the DTX was determined by HPLC assay after diluting the micelles with acetonitrile.
+Central composite design
+Before using the CCD, a number of preliminary experiments were conducted to assess the control factors and their corresponding levels. P105 mass fraction (A), a feeding of DTX (B), and the amount of water (C) were used as three variables at five levels for optimization in the design, taking three responses, including the encapsulation ratio (ER%), the drug-loading coefficient (DL%), and the percentage of DTX precipitated from the drug-loaded mixed micelles after 24 h incubation (DTX Pre%) at 37degC. The ER%, DL%, and DTX Pre% values were calculated using the following equations:
+ER
+%
+=
+Amount of DTX in Micelles
+Amount of the Feeding DTX
+x
+100
+%
+,
+DL
+%
+=
+Amount of DTX in Micelles
+Amount of
+the Feeding Polymer and DTX
+x
+100
+%
+,
+and
+DTX Pre
+%
+=
+Original Feeding of DTX
+(
+mg
+)
+-
+DTX Remained in the Supernatant
+(
+mg
+)
+Original Feeding of DTX
+(
+mg
+)
+x
+100
+%
+.
+The effects of these three variables were studied using a CCD; the factor levels' settings are presented in Table 1. Twenty experiment runs were formed according to Version 8.0 Design Expert software (Stat-Ease, Inc, Minneapolis, MN, USA). Significance was evaluated by ANOVA. All statistical and mathematical analysis of the results from the CCD was carried out using Design Expert 8.0.
+The Numerical Optimization module in Design Expert was used to further analyze the result. Desirability, described in Response Surface Methodology, makes use of an objective function that ranges from 0 outside of the limits to 1 at the goal. The numerical optimization finds a point that maximizes the desirability function. The desirability function for maximizing the response could be defined by the formula
+d
+1
+or
+d
+2
+=
+Yi
+-
+LOWi
+HIGHi
+-
+LOWi
+,
+where d1 represents the individual desirability of ER%, d2 represents the individual desirability of DL%, and LOWi and HIGHi refer to the lowest and the highest values, respectively. Yi is the experimental result. For a response to be minimized, the desirability function is described as
+d
+3
+=
+HIGHi
+-
+Yi
+HIGHi
+-
+LOWi
+,
+where d3 represents the individual desirability of the DTX-precipitated percentage. The overall desirability value (D), a simultaneous objective function, is a geometric mean of all transformed responses:
+D
+=
+(
+d
+1
+x
+d
+2
+x
+d
+3
+)
+1
+3
+.
+Characterization of DTX-loaded Pluronic P105/F127 mixed micelles
+The morphology of the DTX-loaded mixed micelles was observed using transmission electron microscopy (Jeol JEM-1230, Jeol Ltd, Tokyo, Japan) after negative staining with a phosphotungstic acid solution (2%, w/v). The mean particle size and size distribution were measured by the light-scattering method using a Zeta Potential and Particle Sizer (Malvern, nano ZS, Malvern Instruments Ltd, Worcestershire, UK). Each sample was placed into a disposable sizing cuvette and diluted to the appropriate concentration using deionized water to avoid the multi-scattering phenomena.
+Differential scanning calorimetry
+Approximately 5 mg of DTX or DTX-loaded Pluronic F127/P105 micelles sealed in standard aluminum pans with lids was investigated by DSC (DSC 204, Netzsch, Germany) under a nitrogen atmosphere at a flow rate of 20 mL/min. The temperature ramp speed was set at 10degC/min from 20degC and 260degC. Indium was used as the standard reference material to calibrate the temperature and energy scales of the DSC instrument.19
+Critical micelle concentration determination
+An iodine UV spectroscopy method was used to determine the CMC of Pluronic block copolymers in double distilled water as previously reported.20 To prepare a standard KI/I2 solution, 1 g of iodine and 2 g of potassium iodide were dissolved in 100 mL of deionized water. For CMC determination, a set of polymer solutions (concentrations ranging from 0.0001% to 0.1%), containing the same amount of KI/I2 (25 mL of the standard solution) were prepared. The final solutions were equilibrated for 12 hours in the dark at room temperature before measurement. The UV absorbance value of various polymer concentrations at 366 nm was measured using a UV-vis spectrometer (Shimadzu UV-2401, Shimadzu, Tokyo, Japan). The absorption intensity was plotted against the logarithm of the polymer mass concentration.
+In vitro DTX release
+The in vitro release behavior of DTX from P105/F127 mixed micelles was monitored in a phosphate buttered saline (PBS) (PH7.4) medium containing 0.5% Tween 80 to obtain pseudosink conditions.21 In brief, aliquots of DTX-loaded micelles were introduced into a dialysis bag (MWCO = 3500 Da, Greenbird Inc, Shanghai, China), the sealed end of which was immersed fully into 50 mL of a release medium at 37degC; this medium was stirred at 100 rpm for 24 hours. At fixed time intervals, 0.5-mL aliquots were withdrawn and replaced with an equal volume of fresh medium. DTX releases from the stock solution and Taxotere injections were conducted under the same conditions as the controls. The concentration of DTX in the samples was determined by HPLC as described above, with correction for the volume replacement.
+Storage stability studies
+The optimal formulation of DTX-loaded P105/F127 mixed micelles was lyophilized and stored at 4degC for 6 months to investigate its storage stability. The drug content and particle sizes were monitored at the appointed times during the storage period.
+In vitro cytotoxicity assay
+The human lung adenocarcinoma cell line A549 was obtained from Cell Resource Center of the China Science Academy, Shanghai, China, and its Taxol-resistant subclone A549/Taxol was derived from parental cells by selection with stepwise increases in paclitaxel concentration. Both cells were cultured at 37degC with 5% CO2 under fully humidified conditions. A549 was cultured in an RPMI 1640 medium, supplemented with 10% fetal bovine serum, 100 IU/mL penicillin, and 100 mg/mL streptomycin sulfate, and the resistant A549/Taxol culture was equally supplemented with Taxol in the medium, the final PTX concentration of which was 200 ng/mL.
+Cells in the logarithmic growth phase were seeded at a density of 5.0 x 103 cells per well in 96-well plates. After 24 hours incubation, the growth medium was replaced with a 200-mL medium containing DTX dissolved in DMSO, a Taxotere injection, and DTX-loaded P105/F127 mixed micelles with various concentrations. After 72 hours incubation, cell survival was then measured using CCK-8 (Dojindo Laboratories, Kumamoto, Japan). Ninety mL of fresh growth medium and 10 mL of a CCK-8 solution were added to each well. The plate was then put back into the incubator for another 2 hours. The absorbance at 450 nm of each well was measured by a microplate reader (BioTek Synergy TM2, Winooski, VT). To evaluate the toxicity of the excipients, the cytotoxicity of the blank micelles and Tween 80 with a concentration ranging from 0.1 to 1000 mg/mL was tested using the method described above.
+In vivo pharmacokinetic study
+Ten male Sprague-Dawley rats weighting 200 +- 20 g were randomly assigned to two groups for pharmacokinetic investigation. Each group was given a single 5 mg/kg dose of the Taxotere injection or DTX-loaded P105/F127 mixed micelles through the tail vein. Blood samples (0.3 mL) were collected into a heparinized tube from the orbital vein at 0 (pre-dose) minute, 5 minutes, 15 minutes, 30 minutes, 1 hour, 2 hours, 4 hours, 6 hours, 8 hours, and 12 hours post-injection and immediately centrifuged at 1000 x g for 10 min to obtain plasma. The plasma was stored at -70degC before analysis by LC-MS-MS.
+Protein sediment was performed prior to analysis. Briefly, 50 mL samples of plasma were mixed with 150 mL of methanol containing 60 ng/mL paclitaxel as an internal standard. The mixed samples were then vortexed for 1 minute and centrifuged at 6000 x g for 10 minutes. A 10-mL aliquot of the supernatants was injected into the LC-MS-MS system. The pharmacokinetic parameters were calculated using Version 2.0 of the Drug and Statistics for Windows software package.
+In vivo antitumor activity evaluation
+The in vivo antitumor efficacy of DTX-loaded P105/F127 mixed micelles was evaluated in A549/Taxol cell-bearing BALB/c nude mice. A549/Taxol cells were injected subcutaneously into 5 x 106 cells from the right flanks of nude mice to establish human lung cancer xenografts. The in vivo antitumor studies were started when the tumor volumes reached about 100 mm3 (designated as Day 0). Mice were randomly assigned to three groups (n = 6): group 1 for saline solution, group 2 for Taxotere injection (10 mg/kg), and group 3 for DTX-loaded P105/F127 mixed micelles (10 mg/kg), respectively. Mice were administered according to their group protocol, through the tail vein three times a day every 3 days. Tumor volume and mouse weight were monitored at the predetermined time points. Tumor volume was calculated by the equation V = (L x W2)/2, where L represents the longest diameter and W represents the shortest diameter perpendicular to length. At the end of the experiment, the animals were sacrificed and the tumor masses harvested, weighed, and photographed. The tumor inhibition rate was calculated using the equation
+Inhibition Rate
+(
+%
+)
+=
+W
+c
+-
+W
+t
+W
+c
+,
+where Wc is the weight of the tumor in the control group and Wt is the weight of the tumor in a test formulation group.
+
+Results and discussion
+Central composite design
+Our CCD provides an empirically significant model to evaluate the variation of three responses. The design and results of the CCD are shown in Table 1. All dependent variables can be well-fitted by quadratic polynomial equations with a high correlation coefficiency (R > 0.94, P < 0.05) as follows:
+ER
+%
+=
+90.77
++
+7.72
+A
+-
+2.13
+B
+-
+0.26
+C
++
+1.33
+AB
++
+0.91
+AC
++
+2.9
+BC
+-
+2.44
+A
+2
+-
+2.90
+B
+2
+-
+2.75
+C
+2
+DL
+%
+=
+1.78
++
+0.15
+A
++
+0.57
+B
++
+0.00723
+C
++
+0.077
+AB
++
+0.020
+AC
++
+0.049
+BC
+-
+0.051
+A
+2
+-
+0.068
+B
+2
+-
+0.057
+C
+2
+DTX Pre
+%
+=
+2.30
++
+2.07
+A
++
+4.06
+B
++
+0.14
+C
++
+0.83
+AB
++
+0.084
+AC
++
+0.62
+BC
++
+1.06
+A
+2
++
+1.46
+B
+2
++
+0.49
+C
+2
+where A represents the P105 mass fraction, B represents the feeding of DTX, and C represents the amount of water.
+The numerical optimization module in Design-Expert searches for a combination of factor levels that simultaneously satisfy the requirements placed on each of the responses and factors. By using a desirability function, the module predicts the ranges of variables where the optimum formulation may occur. The purpose of optimization was not only to improve drug solubilization efficiency, but also to achieve better micelle stability. For capsuling more drug content as well as reducing DTX leakage, the numerical optimization module was utilized to obtain the solution. After setting up the requirements for maximizing ER% and DL% and minimizing DTX Pre% (with the same importance), the optimization module based on the CCD model suggested a possible solution with the highest D value (0.736), as shown in Figure 1.
+The final calculated optimal factors and predicted responses were verified by experiments. The observed and predicted response values are presented in Table 2. The low bias indicates that the CCD could well predict preparation technology for DTX-loaded mixed micelles with good practicality. In the optimum result, there were satisfactory encapsulation ratios and drug loading coefficients, as well as a minor DTX Pre%.
+Morphology and particle size
+Since particle size will not only affect endocytosis by tumor cells but also influences longevity during systemic circulation, the micelles must be small enough to evade detection and destruction by the RES. In this study, the mean diameters of blank mixed micelles and DTX-loaded mixed micelles were 20.2 nm and 23.0 nm, respectively, with an acceptable distribution (PDI between 0.08 and 0.15) as illustrated in Figure 2. The loading of DTX did not have a visible effect on particle size or size distribution. The morphology of mixed micelles was observed by transmission electron microscopy; the result showed that mixed micelles exhibited a spherical shape of homogeneous particle size, which was compatible with that measured by the laser scattering technique. Small particle sizes (<200 nm) could reduce the RES uptake and prolong the circulation time in the blood, and could facilitate extravasation from leaky capillaries.22 Hence, the size of the Pluronic mixed micelles was suitable for tumor-specific accumulation via the EPR effect.
+DSC
+The DTX entrapment into the inner core of the P105/F127 mixed micelles was confirmed by DSC. As shown in Figure 3, pristine DTX exhibited a melting peak at around 225.6degC. After encapsulation inside the PPO core, the melting peak of the DTX disappeared, indicating an amorphous or disorder crystalline phase of a molecular dispersion or a solid solution state in the polymer matrix.
+Critical micelle concentration determination
+CMC is an important parameter for the stability of drugloaded micelles, both in vitro and in vivo. In this study, iodine was used as a hydrophobic probe to monitor the formation of Pluronic micelles. As a small hydrophobic molecule, iodine prefers to enter the hydrophobic microenvironment of Pluronic copolymers, causing the conversion of I3- to I2 from the excess KI in the solution, which maintains the saturated aqueous concentration of I2. The CMC value of the P105/F127 binary mixture was obtained by plotting the absorbance profile versus the concentration of copolymers, as shown in Figure 4, and it was determined to be 7.61 x 10-6 M (0.0056% w/v). Due to the low CMC, the mixed micelles could maintain integrity at very low polymer concentrations, which makes them relatively insensitive to dilution and gives them a longer circulation time compared to surfactant micelles in vivo.23
+In vitro release profile
+As shown in Figure 5, more than 99% of the DTX in a stock solution was released within the first 2 hours, suggesting that DTX could freely diffuse through the dialysis membrane. The release profiles of mixed micelles were fitted with four different models, including first-order kinetics and the Higuchi, Weibull, and Ritger-Peppas equations. The highest correlation coefficient (R2 value) suggested the most appropriate model. The results showed that the release profile of DTX fit best with the Weibull equation (R2 = 0.9941). The release behavior of DTX from mixed micelles exhibited a biphasic pattern characterized by a fast initial release during the first 2 hours, followed by a slower and continuous release. This may be the result of rapid disruption of the micellar system due to cohesion, higher concentration gradients, or sink conditions in the system.24 Nearly 100% of the DTX in Taxotere injections and approximately 60% of the DTX in mixed micelles was released after being immersed for 12 hours, indicating that DTX released much slower from micelles than from Taxotere. Normally, it is assumed that a drug is released by several processes,25 including diffusion through the polymer matrix, release by polymer degradation and solubilization, or diffusion through microchannels that exist in the polymer matrix. DTX is physically entrapped in the hydrophobic core of the Pluronics, which restricted its release. DTX in the inner core could release to the medium, mainly through diffusion. Accordingly, the in vitro release profile of DTX from the polymeric micellar system is largely affected by its inner core with hydrophobic properties. The strong hydrophobic interaction between PPO segments of Pluronics and DTX may result in a longer diffusion time, leading to a sustained release property. This result showed that mixed micelle carriers could not only increase the solubility of DTX, but also sustain its release.
+Stability studies
+To study the stability of the optimal formulation, lyophilized DTX-loaded mixed micelles were stored at 4degC. As presented in Figure 6, 95.7% of the drug content in DTX-loaded P105/F127 mixed micelles remained after 6 months' storage, showing the high storage stability of this formulation in lyophilized form. During the storage period, the particle size of mixed micelles reconstituted after freeze drying was slightly increased, from 23.4 nm to 28.2 nm, which might be due to the slight aggregation of hydrophobic micelle cores during the storage period.
+In vitro cytotoxicity assay
+In this study, the in vitro biocompatibility of Pluronic F127 and P105 and Tween 80 was carried out using A549 and A549/Taxol cells. In the concentration ranges (0.1-100 mg/mL), the cytotoxicity of P105, F127, blank micelles, and Tween 80 was negligible, as shown in Figure 7B and D. However, when the concentration reached 1000 mg/mL, Tween 80 displayed more significant cytotoxicity than the other three entities.
+To determine the cytotoxic activities of DTX in Pluronic micelles, the drug-loaded formulations were subsequently tested against the two cell lines mentioned above. After 72 hours incubation, DTX-loaded P105/F127 mixed micelles exhibited similar activity to those observed with a Tween 80-based commercial formulation in inhibiting the growth of A549 cells. The IC50 values were 10.31 ng/mL for free DTX, 7.53 ng/mL for Taxotere, and 7.49 ng/mL for mixed micelles (Figure 7A).
+For the A549/Taxol cell line, the IC50 values were 0.857 mg/mL for free DTX, 0.593 mg/mL for Taxotere, and 0.059 mg/mL for P105/F127 mixed micelles. Thus, unlike the sensitive A549 cells, the drug-resistant A549/Taxol cells demonstrated a considerably superior response to the cytotoxic effect of DTX-loaded P105/F127 mixed micelles compared to those of the free drug and Taxotere. These results were in accordance with the previous report that, following the addition of a Pluronic copolymer, the cytotoxic effects of drugs in the resistant tumor cells significantly surpassed those observed in the sensitive tumor cells.26 The overexpression of ATP-binding cassette efflux pumps such as P-glycoprotein (P-gp) in MDR cancerous cells could result in increased chemotherapy efflux. As a member of the taxanes family, DTX was shown to be a P-gp substrate.27 By ATP depletion, along with inhibition of the P-gp ATPase activity, Pluronic P105 has been demonstrated to inhibit the P-gp mediated efflux of the drug,28,29 which might explain the hypersensitizing effect of Pluronic copolymers in the drug-resistant A549/Taxol cells. However, further studies are required to determine whether Pluronic copolymers increase the cell's uptake of DTX and to examine how Pluronic copolymers mediate the efflux of DTX in drug-resistant A549/Taxol cells.
+In vivo pharmacokinetics
+The mean plasma concentration-time profiles of DTX were shown in Figure 8 after IV administration of the DTX-loaded P105/F127 mixed micelles and a single 5 mg/kg-dose Taxotere injection. The mixed micelles showed higher blood circulation levels than Taxotere during all experimental hours. It could also be seen that the mixed micelle formulation achieved much larger area under the curve compared to Taxotere.
+The two-compartment model fitted well with the DTX plasma concentration time curves for these two formulations. The related pharmacokinetic parameters for DTX in plasma estimated by compartmental analysis are listed in Table 3. It was shown that mixed micelles could extend the elimination half-life (t1/2b) from 1.44 to 2.39 hours (P < 0.01). The AUC0-[?]of DTX-loaded P105/F127 mixed micelles was 2922.92 mg/L/h, which was 3.82 times higher than that of any commercial formulation. In addition, the mean residual time (MRT) for the formulation of mixed micelles was 1.85- fold higher than that of Taxotere (P < 0.01). In contrast, the clearance for mixed micelles was significantly lower than that of Taxotere, meaning it had a longer retention of the drug in blood circulation. All of these results showed that the DTX-loaded P105/F127 mixed micelles significantly increased systemic circulation time and reduced the plasma elimination rate of DTX.
+RES uptake is responsible for the accumulation of nanoparticles in the liver, spleen, and other parts of the system.30 Stealth nanoparticles, whose surfaces are decorated with hydrophilic chains such as polyethylene glycols, are known to be invisible to macrophages and can create a cloud of chains at the particle surface that will repel plasma proteins, which will prolong the half-lives in the blood compartment.31 Due to the hydrophilic shell of PEO, the mixed micelles could reduce plasma protein binding and RES uptake, which might illustrate the long blood circulation effect.
+In vivo anti-tumor activity evaluation
+The antitumor effects of the different formulations against resistant A549/Taxol cells xenografted in nude mice are shown in Figure 9. It was found that the relative tumor volumes of DTX-mixed micelle groups were smaller than those of saline and Taxotere injections in the whole measuring period, indicating continuous reduction of the tumor sizes in the DTX-loaded P105/F127 mixed micelles group. After the mice were sacrificed, xenografted tumors were excised and photographed as presented in Figure 9B. The typical photographs of excised sarcomas showed the superior tumor-suppression effect of the mixed micelles group. There was no significant difference in tumor weights between the control group treated with saline and the group treated with Taxotere, while the tumor weights of the mixed micelles group were significantly reduced compared to those of the control group (P < 0.01, Figure 9D). The tumor inhibition rate of DTX-mixed micelles was 69.05%, which was significantly higher than that of Taxotere (34.42%, P < 0.05). It can be concluded that the antitumor efficacy of DTX-loaded P105/F127 mixed micelles was highly superior to that of Taxotere injections in the A549/Taxol MDR tumor model, which was consistent with the in vitro cell experiment. A combined effect of the passive targeting and the enhanced sensitization of MDR cancer to DTX could be the main reason for the significant suppression of tumor growth in the Pluronic mixed micelle group. Due to the suitable size and unique core-shell architecture of polymeric micelles, the micellar system could achieve a long blood circulation effect, which led to an increased local concentration of DTX in the tumor tissue via the EPR effect.32 Drastic sensitization of MDR tumors conferred by Pluronic copolymers also enhanced the uptake of DTX in tumor cells, which might otherwise be partially pumped out of the target cells without the sensitization effect of Pluronic copolymers.
+In addition, the change in body weight was also monitored during the experiment, and was set as an index of systemic toxicity (Figure 9C). Neither toxicity-induced death nor serious body weight loss was observed in mice injected with Taxotere and mixed micelles during the treatment, while the extent of weight loss of mixed micelles was smaller than that induced by Taxotere. After the cessation of the drug treatment on Day 9, the body weights of mice treated with mixed micelles recovered. However, the body weights of the Taxotere group remained unchanged, which was probably due to the non-targeting characteristics of Taxotere. All these results indicate that DTX-loaded P105/F127 mixed micelles not only led to less systemic toxicity, but also inhibited MDR tumor growth.
+
+Conclusion
+In this study, we designed mixed micelles composed of Pluronic P105 and F127 copolymers entrapping the poorly soluble anticancer drug DTX. A central composite design was utilized to optimize the preparation process, helping to improve drug solubilization efficiency and micelle stability. The optimized formulation with ideal drug-loading content and encapsulation efficiency had a particle size around 23 nm and a low CMC value. In vitro, DTX release was sustained as a result of encapsulation into the inner PPO cores of the micelles. For multidrug-resistant A549/Taxol cells, DTX-loaded P105/F127 mixed micelles displayed noticeable anti-tumor efficacy - higher than in vitro Taxotere injections. Our pharmacokinetic studies demonstrated that DTX-loaded P105/F127 mixed micelles could significantly increase the blood circulation time of DTX. In addition, mixed micelles exhibited remarkable antitumor activity and reduced toxicity on A549/Taxol tumors in vivo. With high stability and enhanced antitumor efficacy, the DTX-loaded P105/F127 mixed micelles developed in this study may be a potential delivery system to overcome MDR in lung cancer.

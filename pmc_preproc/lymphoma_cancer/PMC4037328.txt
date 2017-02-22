@@ -1,0 +1,127 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed]
+
+Investigation and analysis of oncologists' knowledge of morphine usage in cancer pain treatment. Purpose To examine oncologists' knowledge of cancer pain and morphine's clinical application in the People's Republic of China. In addition, this study analyzes and discusses the negative factors that currently affect the clinical application of morphine.   Patients and methods A questionnaire survey was given to a random sample of 150 oncologists from Tianjin Medical University Cancer Institute and Hospital. The statistical results were analyzed and processed using SPSS version 21.0 and Matlab version 2012a statistical software. Single-factor analysis of variance, Kruskal-Wallis nonparametric test, and independent samples t-test were adopted to analyze the difference in knowledge scores of morphine usage. The study also identified major impediment factors on clinical use of morphine.   Results Among the 127 respondents, morphine controlled-release tablets were the most popular drug chosen to treat severe cancer pain (76 respondents, 35.8%). Participants who reported having received training in cancer pain management and drug use demonstrated a significantly higher mean score of basic knowledge compared with their untrained peers (11.51+-2.60 versus 9.28+-3.68, t=2.48, P=0.022). The top four barriers to widespread clinical use of morphine for cancer pain were 1) insufficient analgesia administration training for medical personnel, 2) poor patient compliance, 3) drug side effects, and 4) concerns surrounding drug addiction.   Conclusion The oncologists in the People's Republic of China simultaneously lack comprehensive knowledge and harbor misconceptions with regard to cancer pain treatment and morphine's clinical application. Creating professional training initiatives for oncologists is necessary to enhance their awareness and expertise in morphine use for cancer pain treatment.
+
+Introduction
+Pain is a common symptom among cancer patients, occurring at a rate of 70% or higher.1 Analgesic therapy can significantly improve both the quality of life for cancer patients and the public's confidence in anticancer therapy.2 Morphine is a trailblazing drug in analgesic therapy and currently serves as the "gold standard" of severe cancer pain treatment.3,4 In 1984, the World Health Organization (WHO) Pain Relief Program declared morphine consumption as an important index of a country's cancer pain control.5 In 1990, the WHO Guidelines for cancer pain relief were implemented in the People's Republic of China. Consequently, the annual morphine consumption in the People's Republic of China increased from 4 kg in 1984 to 281 kg in 2003, when the annual per capita morphine consumption rose to 0.216 mg. Despite increases in morphine consumption, the People's Republic of China continues to lag behind developed countries, where annual per capita morphine consumption was 22.28 mg in 2000.6 Our research team has carried out relevant studies on the use of morphine for cancer pain treatment in general hospitals in the People's Republic of China.7 Since over 90% of patients in specialized cancer hospitals are, in fact, cancer patients who are impacted by pain management, it is important to carry out research on cancer pain management in these hospitals.8 Our research investigated Chinese oncologists' knowledge and attitudes towards cancer pain treatment and morphine, and explored the negative factors affecting the clinical use of morphine.
+
+Material and methods
+Participants
+Tianjin Medical University Cancer Institute and Hospital is the People's Republic of China's first cancer hospital, and one of the country's largest, currently housing 2,400 beds. The study participants are the hospital's clinicians, which include professors, associate professors, attending physicians, and resident physicians. A total of 150 surveys were distributed, and 127 copies were retrieved, with a return rate of 84.7%.
+Method
+In addition to collecting basic information such as participant department affiliation and professional title, the questionnaire had three sections (see Supplementary material). The first section was about participants' knowledge of the WHO Guidelines for cancer pain relief, personal preferences for drug selection, and perception of opioid addiction (reflected by questions 1, 3, and 4, respectively; Supplementary material). The second section was about participants' knowledge of cancer pain management and clinical use of morphine (reflected by questions 5-12; Supplementary material); this section consisted of eight questions, six of which had a single answer, and the remaining two had multiple answers. For the single-answer questions, one point was awarded for each correct answer. For the questions with multiple answers, one point was awarded for each correct answer, and one point was deducted for each incorrect answer. The highest score that could be obtained was 18 points. The survey included specific questions about the clinical application of the WHO Guidelines for cancer pain relief, covering "Categories of drugs administrated" and "Administrating time". Questions also tested basic knowledge of morphine's clinical application, such as its indications, precautions, target analgesic effect, and side effects. Finally, the third section was about factors that influence the use of morphine and the degree of these influences, which included medical policy and physician's knowledge (reflected by question 13; Supplementary material). The impact of these 12 factors was categorized into five levels: "strong", "average", "weak", "none", and "not sure". Each level corresponded to the following percentiles: 4, 3, 2, 1, and 0, respectively.
+Statistical analysis
+Data entry and statistical analyses were carried out using SPSS (IBM Corporation, Armonk, NY, USA) version 21.0 and Matlab (MathWorks, Natick, MA, USA) version 2012a statistical software. Results with P<0.05 were considered to be statistically significant. Count data used the number of cases within a particular category (percentage), and measurement data was expressed as mean +- standard deviation. Single-factor analysis of variance (one-way ANOVA) was used to compare the difference in scores between basic knowledge of cancer pain treatment and clinical application of morphine among study participants. The Kruskal-Wallis nonparametric test was used to analyze the difference in scores between internists, surgeons, and radiation therapists. An independent samples t-test was used to compare the difference in scores between physicians who did receive training in cancer pain management and drug use and those who did not.
+
+Results
+Demographics
+A total of 127 clinical physicians participated in the survey, including 14 professors (11.0%), 25 adjunct professors (19.7%), 44 attending physicians (34.6%), and 44 resident physicians (34.6%). Respondents represented various departments and included 46 internists (36.2%), 71 surgeons (55.9%), and ten radiation therapists (7.9%).
+Participants' knowledge of the WHO Guidelines for cancer pain relief, personal preferences in drug selection, and perceptions of opioid addiction
+In the first section of the survey, 75.6% of participants (96 respondents) reported having a comprehensive understanding of the WHO Guidelines for cancer pain relief, 20.5% reported basic knowledge, 3.1% reported some familiarity, and 0.8% had no familiarity.
+Findings on participants' personal preferences regarding drug selection revealed that morphine controlled-release tablets was the most popular drug chosen to treat severe cancer pain (76 respondents, 35.8%), followed by morphine injections (51 respondents, 24.1%). Less popular drugs were pethidine (27 respondents, 12.7%), bucinnazine (20 respondents, 9.4%), fentanyl (30 respondents, 14.2%), morphine hydrochloride (seven respondents, 3.3%), ketamine (one respondent, 0.5%), and other drugs (0, 0.0%).
+In the survey section regarding knowledge of opioid addiction, pethidine and morphine injections were considered the most addictive by 89 (66.9%) and 34 (25.6%) respondents, respectively. Morphine controlled-release tablets were considered the most addictive by three (2.6%) respondents, while bucinnazine, fentanyl, and ketamine were each considered the most addictive by one (0.8%) respondent. In addition, three respondents were unfamiliar with drug addiction, and one believed that all clinical analgesics lead to similar levels of opioid addiction.
+Participants' knowledge of cancer pain management and clinical use of morphine
+Overall, professors scored the highest on survey questions about cancer pain management and morphine use, with a mean score of 11.57. There were no significant differences between the mean scores of professors, associate professors, attending physicians, and resident physicians (Table 1). On the other hand, the average score of trained personnel (11.51+-2.60) was significantly higher than that of untrained personnel (9.28+-3.68, t=2.48, P=0.022) (Table 2). On average, internists, surgeons, and radiologists scored 11.91, 10.51, and 12.80, respectively, showing significant difference (P<0.05) (Table 3). Furthermore, the survey showed that on average, participants scored the lowest on sections concerning the purpose of morphine application (30.7%). Mean scores of each question are presented in Table 4.
+Factors that influence morphine usage, including medical policy and physician knowledge
+The amount of medical training received by health care providers was found to be a considerable factor in frequency of morphine usage. Our survey showed that 49.2% of respondents considered the major influence on clinical use of morphine to be "medical personnel receiving no professional training for analgesia". Patient proactivity was seen as another significant factor in morphine usage, while a mere 4.0% (five respondents) thought that clinical use of morphine would remain unaffected if "patients didn't report the pain proactively for some reasons".
+Conversely, of the 12 impeding factors listed in the survey, the four with the highest average scores were "medical personnel receiving no professional training for analgesia", "poor patient compliance", "drug side effect", and "concerns surrounding drug addiction" (3.197, 3.024, 3.000, and 2.976, respectively, with a total possible score of 4.000) (Table 5).
+
+Discussion
+Basic knowledge of cancer pain management and clinical use of morphine
+Findings in this study reflect important information regarding Chinese oncologists' knowledge of morphine and its clinical application. In our study, physicians answered on average 59.7% of knowledge statements correctly, while in various other studies, physicians scored between 31% and 68% of correct answers, indicating an unsatisfactory mastery of knowledge on morphine.9-11 Besides, the scores of oncologists in our study (professors 11.57+-2.74, adjunct professors 10.64+-3.49, attending physicians 11.07+-2.86, and resident physicians 11.52+-2.56) were on average higher than those of our past investigation carried out in general hospitals (senior title 9.30+-3.10, intermediate title 9.29+-2.61, and primary title 8.31+-2.82), showing that oncologists have a better understanding of cancer pain management and morphine usage than non-oncologists in the People's Republic of China.7 The considerable difference between our present and previous studies may be that we selected oncologists for the present study, and non-oncologists in our previous investigation. Usually, oncologists have more opportunities to use cancer pain analgesics than non-oncologists, while also focusing more on pain assessment.12 However, these oncologists' knowledge is still insufficient, revealing the importance of developing and implementing an education plan for cancer pain treatment and clinical morphine usage.
+The oncologists who took our survey correctly answered questions regarding the target effects of morphine at a rate of only 30.7%, which indicates the great degree of misconceptions that most oncologists harbor regarding the target goals of analgesic treatment. Similarly, in our previous study carried out in the People's Republic of China's general hospitals, 71.1% of surveyed physicians could not identify morphine's target analgesic effects.7 The misconception that pain management relieves only specific aspects of pain is not conducive for the full clinical use of morphine and other analgesic drugs, thus hindering patients from receiving satisfactory pain-management treatment.
+Meanwhile, 43.3% of respondents in this study and 66.2% in our previous study believed that there was a maximum dose limit for cancer patients, indicating that many Chinese doctors do not fully understand the clinical administration of morphine dosages.7 Meanwhile, 75% of the surveyed doctors only use the maximum tolerated opioid dosages on patients with life expectancies of under 6 months.7,13 Continuing to administer inadequate morphine dosages not only reduces the analgesic's effects, it also influences people's evaluation on the analgesic effect of morphine.14 Therefore, the current widespread lack of awareness regarding morphine results in insufficient pain treatment and poor efficacy, and using adequate doses will play a very important role in pain treatment.
+Furthermore, this study showed that 37.8% of respondents did not understand the indications of morphine usage, meaning there are still some oncologists who have not mastered the three-step guidelines on cancer pain management recommended by the WHO. In fact, morphine was recommended by the WHO as the drug of first choice for severe cancer pain therapy.15 When severe pain occurs, medical staff should not hesitate to use morphine to reduce the patient's suffering. Therefore, strict adherence to the principles of the WHO Guidelines for cancer pain relief is essential in the clinical setting.
+Insufficient professional training in analgesic therapy
+Administrating morphine can reduce patients' pain to a great extent; however, morphine consumption in the People's Republic of China is far below the world average.16 This study identifies the first negative factor that hinders the use of morphine, namely the insufficient professional training in analgesic administration for medical personnel. Our previous study has shown similar findings.7 Similarly, Jeon et al,17 who investigated Korean-Chinese medical workers found that 64.5% of respondents believed that insufficient training hindered the use of analgesics in cancer pain treatment. Wells et al18 also reported that only 48% of medical workers from the surgical unit in a large Scottish teaching hospital have received professional education for analgesic therapy. These findings reflect the importance of training for medical staff to use analgesics to treat cancer pain. Meanwhile, among the survey respondents, the mean score of trained oncologists was significantly higher than the untrained. This was in keeping with previous literature, which showed that knowledge about cancer pain management and clinical usage of morphine was obviously improved after receiving professional training.7,18,19 Thus, professional training plays an essential role in spreading knowledge of cancer pain and clinical morphine usage.
+Poor patient compliance
+In the People's Republic of China, patient compliance is generally low regarding morphine usage. In this study, 90.14% of the participants felt that patient noncompliance affected the use of morphine in pain treatment, making it the second most influential negative factor on morphine usage. However, non-oncologists ranked patient noncompliance to be the ninth most important factor in limiting morphine usage.7 The difference between the opinions presented by oncologists and general physicians may be because oncologists, who often work with cancer patients toward the end of their treatment, tend to be more concerned with patient compliance. Similarly, a national survey conducted in the People's Republic of China shows that about 70% of doctors believe that the main obstacle to pain treatment comes from the patients.20
+Poor patient compliance regarding morphine usage can be linked to anxieties and misunderstandings that they harbor. A survey taken in South Korea showed that 16.9% of participating patients refused to use opioids.17 Many patients worry that long-term use of morphine leads to inevitable addiction and side effects, such as vomiting and sedation, causing patients to discontinue their drug use. In addition, some patients mistakenly believe that using morphine for analgesia is the equivalent of giving euthanasia. The fundamental reason for poor patient compliance is that they do not fully understand the purpose and effects of morphine-related opioids. This illustrates the importance of educating not only health care workers but also patients on morphine usage and pain treatment.
+Concerns regarding drug side effects
+Another major obstacle to morphine usage is the concern regarding drugs' side effects. In this study, participants gave "concerns regarding side effects" a score of 3.000, making it the third most prominent barrier to morphine usage; this factor only ranked seventh in our previous study.7 In previous studies, oncologists cited fear of side effects as their main reason to hesitate to prescribe morphine.10,21 These fears are supported by findings by Jeon et al,17 who reported that 90.6% of doctors worried about the difficulties of controlling the side effects of strong opioids. Similarly, in Manalo's22 study, 15.7% of medical students believed that opioid side effects and complications were purely consequences of opioid usage, and 90.2% of respondents thought a reasonable dose of morphine could cause respiratory depression. Presently, a considerable number of patients are misdiagnosed as unsuitable for morphine treatment, and for those already receiving morphine, their treatment is cancelled once initial side effects show. However, most opioids' adverse reactions are temporary or tolerable and only occur after an overdose. Therefore, as long as we use morphine rationally, the risk of respiratory depression will be greatly reduced.23
+Concerns surrounding drug addiction
+Previous studies have shown that many doctors have misgivings about morphine usage, as they fear that their patients may become addicted. In this present study, 88.2% of respondents believed that the potential liability of morphine abuse affects the clinical use of morphine. "Opiophobia" has become the primary impeding factor for effective cancer pain management and was regarded by oncologists as the second main barrier to the use of morphine in clinical practice. At the same time, Manalo22 reported that 86% of medical students think that patients have over 25% chance of becoming addicted when receiving morphine for medical purposes. In the People's Republic of China, the potential benefits of analgesic drugs have been overshadowed by the legacy of the 1894 Opium War, which has elevated the fear of narcotics addiction amongst many Chinese people. In reality, medical opioid addiction is very rare. In Porter and Jick's24 study on patients treated with narcotics, only four of the 11,882 cases showed psychological dependency. Concern about morphine addiction mainly results from the widespread poor understanding of addiction. As a result, doctors' choices regarding analgesic drugs are greatly affected, and the therapeutic effect of cancer pain is also influenced, proving that the misunderstanding of analgesic addiction turns out to be one of the most important factors hindering medical staff in pain treatment.
+
+Conclusion
+This survey provides new information concerning the knowledge and comfort level of Chinese oncologists with morphine prescription. Education may be an effective tool in providing for increasing oncologists' knowledge and decreasing concerns regarding morphine usage. Importantly, this study provides the basis for designing and implementing educational programs to address the barriers to the utilization of morphine. Future research in this area may help expedite the management of pain and improve compliance with treatment modalities.
+
+Supplementary material
+The questionnaire about the clinical use of opioid analgesics
+This is a survey to evaluate the knowledge and attitudes of clinicians to issues related to the clinical use of morphine and cancer pain management.
+Please tick the best response to each question.
+This survey is anonymous, and the data will be used for research purposes only. We appreciate your cooperation in completing this questionnaire.
+Department: ___________________________
+Status: professor, adjunct professor, attending physician, hospital physician
+Do you know of the three-step guidelines on cancer pain management recommended by the World Health Organization? (choose one option)
+Never heard of it.
+Basically know about it.
+Some familiarity.
+Know about it clearly.
+Have you ever received professional training on pain management or analgesic usage? (choose one option)
+Yes.
+No, never.
+Which drug do you often choose in severe cancer pain management? (choose one or several options)
+Pethidine.
+Bucinnazine.
+Morphine injections.
+Fentanyl.
+Morphine sulfate controlled-release tablets.
+Morphine hydrochloride.
+Ketamine.
+Others: _____________________________________________
+Which one of the following do you think is the most addictive? (choose one option)
+Pethidine.
+Bucinnazine.
+Morphine injections.
+Fentanyl.
+Morphine sulfate controlled-release tablets.
+Morphine hydrochloride.
+Ketamine.
+All were similar.
+Not sure.
+Which of the following do you consider to be a side effect of morphine? (choose one or several options)
+Constipation.
+Nausea and vomiting.
+Lethargy and excessive conscious-sedation.
+Urine retention.
+Pruritus.
+Vertigo.
+Mental disorder and central nerve toxic reaction.
+Which is the best administration method of morphine in a chronic cancer pain patient, whose general situation is good? (choose one option)
+Oral administration.
+Intravenous injection.
+Intramuscular injection.
+In which of the following situations do you think it is suitable for you to prescribe morphine as the analgesic? (choose one option)
+When a patient is suffering from tolerable cancer pain, and the patient can still lead a normal life without dyssomnia.
+When a patient is suffering from constant cancer pain which influences sleep and appetite to some extent.
+When a patient is suffering from severe cancer pain that affects sleep and appetite badly.
+Considering the relationship between addiction of morphine and its dose, which of the following is correct in your opinion? (choose one option)
+Once having taken morphine, patients will be addicted to it.
+Patients will not be addicted to morphine if they take a lower dose than the suggested dosage in the Pharmacopoeia.
+Patients will certainly be addicted to morphine if they take a higher dose than the suggested dosage in the Pharmacopoeia.
+Whether a patient will be addicted to morphine when taking a certain dose varies from person to person.
+Which do you think is the best treatment prescription in cancer pain management? (choose one option)
+Choose analgesic combined with adjunctive medicine.
+Choose two or more kinds of analgesics combined together.
+Choose one analgesic only.
+Not sure.
+Which of the following is wrong about the suitable administration time in pain management? (choose one option)
+The analgesic should be administered regularly.
+A chronic cancer pain patient could be given the analgesic without a pain attack.
+The analgesic can only be given at the same time that the patient feels the pain.
+Regular administration can provide a constant relief of pain.
+In cancer pain management, which of the following is the first aim of using morphine? (choose one option)
+To relieve the pain a little bit.
+To help the patient to have a painless sleep.
+To help the patient to have a painless rest.
+To help the patient to act without pain.
+Which of the following do you consider as wrong in cancer pain management? (choose one or several options)
+The use of morphine analgesia in cancer patients promises no limits.
+The use of controlled-release morphine should start from a small dose.
+Pethidine can be widely used for pain treatment of chronic cancer pain.
+NSAIDs should be replaced for analgesia with mild opioids or strong opioids when dissatisfied with the analgesic effect.
+Non-opioid drug administration is considered to be safer than opioid drug administration.
+Patients should immediately stop using an opioid drug when suffering from vomiting, sedation, and other adverse reactions.
+Once patients have started taking an opioid drug, they will have to take the drug for the rest of their life.
+To relieve a patient suffering from constant pain, doctors can prescribe long-acting opioids only.
+To what degree would you agree that the following are barriers to clinical morphine usage in your work setting?

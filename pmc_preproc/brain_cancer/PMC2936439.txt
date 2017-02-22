@@ -1,0 +1,183 @@
+[Abstract, Introduction, Results, Discussion, Discussion, Methods]
+
+Epilepsy is related to theta band brain connectivity and network topology in brain tumor patients. Background Both epilepsy patients and brain tumor patients show altered functional connectivity and less optimal brain network topology when compared to healthy controls, particularly in the theta band. Furthermore, the duration and characteristics of epilepsy may also influence functional interactions in brain networks. However, the specific features of connectivity and networks in tumor-related epilepsy have not been investigated yet. We hypothesize that epilepsy characteristics are related to (theta band) connectivity and network architecture in operated glioma patients suffering from epileptic seizures. Included patients participated in a clinical study investigating the effect of levetiracetam monotherapy on seizure frequency in glioma patients, and were assessed at two time points: directly after neurosurgery (t1), and six months later (t2). At these time points, magnetoencephalography (MEG) was recorded and information regarding clinical status and epilepsy history was collected. Functional connectivity was calculated in six frequency bands, as were a number of network measures such as normalized clustering coefficient and path length.   Results At the two time points, MEG registrations were performed in respectively 17 and 12 patients. No changes in connectivity or network topology occurred over time. Increased theta band connectivity at t1 and t2 was related to a higher total number of seizures. Furthermore, higher number of seizures was related to a less optimal, more random brain network topology. Other factors were not significantly related to functional connectivity or network topology.   Conclusions These results indicate that (pathologically) increased theta band connectivity is related to a higher number of epileptic seizures in brain tumor patients, suggesting that theta band connectivity changes are a hallmark of tumor-related epilepsy. Furthermore, a more random brain network topology is related to greater vulnerability to seizures. Thus, functional connectivity and brain network architecture may prove to be important parameters of tumor-related epilepsy.
+
+Background
+Gliomas are primary brain tumors arising from the supporting tissue of the brain. The presenting symptoms in glioma patients include epileptic seizures in 20-45% of patients [1]. Another 15-30% of patients develop seizures during their disease [2]. Multiple factors may contribute to epileptogenesis (for a review, see [3]), but all possible factors that have been studied up till now do not suffice when trying to clarify the course of tumor-related epilepsy. Possibly, a better understanding of tumor-related epilepsy could be achieved using a relatively new concept in neuroscience: 'functional connectivity' refers to the statistical interdependencies between neurophysiological time series such as EEG, MEG, or fMRI-BOLD signals [4,5]. Functional connectivity is thought to reflect communication between different brain areas, thus having a major impact on brain functioning [6,7]. Furthermore, the brain can be seen as a complex integrated network, in which focal changes influence the integrity and status of the brain as a whole. An 'optimal' brain network probably includes concepts that are pivotal in many types of complex networks, such as localized segregation combined with overall integration [6,8,9]. Watts and Strogatz proposed a theoretical framework for such a network, the so-called 'small-world' network [10]. The small-world network is an intermediate type of network in between the 'random' network, in which all connections between nodes are randomly drawn, and the 'regular' network, in which connections between nodes are present in an ordered fashion and all nodes have the same number of connections. Several studies have shown that both structural and functional brain networks in healthy humans and animals can be characterized by the small-world principle [10-13].
+Previous studies using magnetoencephalography (MEG) recordings show that functional connectivity and network topology are significantly altered in brain tumor patients when compared to healthy participants: low frequency connectivity (in particularly the theta band) is pathologically increased, and the normal small-world configuration is disturbed [14-17]. These differences are not only limited to the area around the tumor, but involve brain-wide networks and are related to cognitive deficits. Altered connectivity and network topology have also been reported in epilepsy patients, even in the inter-ictal period. Increased theta, but also delta, frequency EEG connectivity in between seizures was found in two studies investigating epilepsy patients [18,19]. Furthermore, therapy-resistant epilepsy patients have been reported to have a more regular network topology than healthy controls as measured with EEG [19].
+Changes over time in connectivity and network patterns in neuro-oncological or epilepsy patients have only been sparsely reported. In a previous study, we investigated a patient group with varying types of primary brain tumors with MEG before and after tumor resection [20]. After tumor resection, functional connectivity in the theta band significantly decreased in these patients, suggesting 'normalization' of the previously reported pathologically increased connectivity. Moreover, this decrease was related to better postsurgical outcome in terms of seizure-freedom. Studies using both fMRI and acute corticography (ACoG) recordings in mTLE patients suggest that prolonged therapy-resistant epilepsy is related to decreases in broadband functional connectivity [21,22]. Furthermore, the small-world architecture is more disrupted in the temporal cortical networks of TLE patients with longer epilepsy history, as measured with ACoG [21].
+Previous studies suggest that both epilepsy and brain tumors are related to changes in connectivity, which may be most prominent in the theta band. Furthermore, brain networks of both epilepsy patients and brain tumor patients display a loss of small-world features when compared to healthy controls. In the current study, we first aimed to investigate the relation between functional connectivity, network topology, and tumor-related epilepsy in a group of glioma patients. We hypothesized increased connectivity and less optimal network topology in the theta band to be related to epilepsy characteristics. Secondly, we studied the longitudinal changes in connectivity and network architecture during the first six months after neurosurgery in relation to changes in epilepsy features. The patients participated in a clinical study investigating levetiracetam monotherapy (an anti-epileptic drug (AED)), which implies that patients were homogeneous with respect to AED use.
+
+Results
+Patients
+A total of 24 patients were included, but 7 patients had to be excluded due to MEG artifacts at t1. Further analyses were performed using the remaining 17 patients. All patients had undergone surgical intervention and histopathological diagnoses were obtained (see table 1). Patients' mean age was 44 years (SD = 12 years) and four patients were females. The majority of patients was diagnosed with glioblastoma multiforme (GBM, nine patients). The tumor was localized in the right hemisphere in 12 patients. These tumors were all localized in the frontal or temporal lobe. Five patients had left-sided tumors, which were localized in the frontal lobe in most patients. Most patients (11 of 17) had at most one seizure per month in the last month before t1 (i.e. seizure frequency in table 1), while three patients had more than one seizure per day. Seizures were likely to be due to the tumor in all patients. At t2, 12 patients underwent a second MEG recording: two patients were excluded because they switched to another AED, while one patient had died due to disease progression. In two patients, no artifact-free MEG epochs were available. Of these 12 patients, 10 patients did not have seizures anymore, while 2 patients still had occasional seizures. At t3, only 6 patients were tested. Due to the small number of patients available at t3, no further analysis was performed on these measurements. Patient characteristics at t2 are displayed in table 2.
+Power analysis
+Relative power in each frequency band was calculated. No significant changes in relative power occurred between t1 and t2. There were also no correlations between relative power in each frequency band and clinical characteristics, such as seizure frequency and total number of seizures.
+Functional connectivity
+Significant correlations were found between functional connectivity and the total number of seizures, which refers to the total number of seizures that patients had experienced from the first to the last seizure before MEG measurement at the first time point. At t1, higher total number of seizures was significantly associated with higher theta band PLI (Kendall's Tau = .501, p = .008; see figure 1A). This correlation remained significant when excluding an outlier patient, who had experienced a total of 120 seizures (this patient was excluded from figure 1). At t2, the same association was found, although significance was lost after correcting for the number of comparisons (Kendall's Tau = 0.538, p = .020; see figure 1D). Seizure frequency significantly dropped between t1 and t2 from on average 11 seizures at t1 to less than one seizure between t1 and t2 (Wilcoxon signed rank test, Z = -2.81, p = .003). There were no significant changes in functional connectivity between the three time points (see figure 2).
+Figure 1
+Scatterplots of correlations between functional connectivity, network characteristics, and total number of seizures at both t1 and t2. Note. Left column: scatterplots excluding outlying patients (patient 2 in table 1), right column: scatterplots including this patient. (A) correlation between theta band phase lag index (PLI) at t1 without outlying patient, (B) correlation between theta band PLI at t1 with outlying patient, (C) correlation between theta band path length and total number of seizures at t1 without outlying patient, (D) correlation between theta band path length and total number of seizures at t1 with outlying patient, (E) correlation between theta band edge weight correlation and total number of seizures at t1 without outlying patient, (F) correlation between theta band edge weight correlation and total number of seizures at t1 with outlying patient, and (G) correlation between theta band PLI and total number of seizures at t2.
+Figure 2
+Mean PLI at both time points. Note. PLI = phase lag index.
+In order to explore which type of theta band connectivity was related to the total number of seizures at t1, we summarized connectivity into three values: (1) short-distance PLI, (2) long-distance intrahemispheric PLI, and (3) long-distance interhemispheric PLI (see [20]). There were highly significant correlations between the total number of seizures at t1 with both short-distance theta band PLI (Kendall's Tau = .531, p = .005) as well as with long-distance intrahemispheric theta band PLI (Kendall's Tau = .563, p = .003). Theta band functional connectivity in the temporal lobe seemed to have the strongest relation to the number of seizures: left temporo-occipital PLI (Kendall's Tau = .563, p = .003), right fronto-temporal PLI (Kendall's Tau = .610, p = .001), right temporo-occipital PLI (Kendall's Tau = .531, p = .005), and left temporal PLI (Kendall's Tau = .515, p = .006).
+Several possible confounders regarding the reported results were explored in post-hoc analyses. There were no significant associations between functional connectivity and patients' age, the total daily dose of levetiracetam, anti-tumor treatment (chemotherapy, radiotherapy, or dexamethasone), performance status, and the duration of epilepsy at t1. Furthermore, there were no differences in functional connectivity between men and women (gender differences have been reported previously with respect to anatomical and functional connectivity [23,24]), patients with disease recurrence versus newly diagnosed patients, patients suffering from partial or generalized seizures, patients with low-grade versus high-grade tumors, left-sided and right-sided tumors, and type of resection (biopsy or (sub)total resection), although only two patients underwent biopsy.
+Graph analysis
+Increasing theta band edge weight correlation (i.e. lower value of Wr) was significantly related to higher total number of seizures at t1 (Kendall's Tau = -.507, p = .008; see figure 1C). Higher total number of seizures at t1 was related to higher theta band path length, although this correlation was not significant after correcting for multiple comparisons (Kendall's Tau = .404, p = .031; see figure 1B). There were no significant changes in network features between the two time points (see figure 3).
+Figure 3
+Mean network characteristics at both time points. Note. Cw/Cws = weighted normalized clustering coefficient, Lw/Lws = weighted normalized clustering
+coefficient, S = small-world index, Wr = edge weight correlation.
+Again, confounders were explored. There was no correlation between network features and duration of epilepsy, tumor treatment (radiotherapy, chemotherapy, dexamethasone), performance status, and daily dose of levetiracetam. There were no differences in network features between male and female patients, patients with recurrent disease or newly diagnosed brain tumors, patients who had undergone resection versus biopsy, patients with tumors in the left and right hemisphere, and patients with partial seizures and patients with generalized seizures. However, higher age was related to lower edge weight correlation (Kendall's Tau = .502, p = .006).
+
+Discussion
+Significant associations exist between epilepsy characteristics and both functional connectivity and network topology in brain tumor patients directly after neurosurgical intervention: increased theta band phase lag index (PLI) is related to a greater total number of seizures. This association mostly concerns theta band connectivity within the temporal lobe, and between the temporal and other lobes. There is also a correlation between higher total number of seizures and higher theta band edge weight correlation (Wr). No significant changes in functional connectivity or network variables were observed over time. Furthermore, the total number of seizures from the first seizure to both time points seemed to be the only factor related to differences in connectivity and network variables (except age), while other variables such as treatment characteristics, type of tumor, and lateralization of the tumor were not significantly related to connectivity and network topology.
+Our findings concerning the association between theta band functional connectivity and number of epileptic seizures corroborate several lines of previous research and confirm our initial hypothesis. Earlier studies in brain tumor patients have shown that these patients have increased connectivity in lower frequency bands, and particularly in the theta band [14,15]. Furthermore, theta band functional connectivity significantly decreased after tumor resection in a group of brain tumor patients, suggesting 'normalization' of the previously reported pathologically increased connectivity [20]. In epilepsy, increased theta band connectivity has also been reported in the inter-ictal EEG [18]. Increased theta band functional connectivity seems to be a hallmark of epilepsy, tumor-related epilepsy, and/or brain tumors, and the current results stimulate further investigations into this hypothesis.
+Brain tumor patients have been found to have disrupted small-world brain networks when compared to healthy controls [16,17]. In the current study, there was a significant relation between higher number of seizures and higher edge weight correlation in the theta band. Although high edge weight correlation has been thought to be beneficial to functional status of the network, because of increased transport of information [25], correlations that are too high may increase vulnerability to seizures due to an abnormally high synchronisability of the brain network. Using a model of rat hippocampus, it has been shown that adding highly connected hubs increases network vulnerability to seizures [26]. Furthermore, single-cell recordings in rats also show that hubs are highly influential throughout the network, and may or may not promote synchronisability [27]. At seizure onset, epilepsy patients also show increases of average interconnectedness of the network [28-30]. Thus, it seems as though there is a critical threshold of connectivity and synchronisability. There was also a trend towards a correlation between higher total number of seizures and longer theta band path length. This increased path length in epilepsy patients has been found with EEG [19].
+The associations between connectivity and seizures in this study were mainly due to connectivity with and within the temporal lobe. This result could be due to the relatively high number of patients with temporal tumors (6 of 17), but may also be related to the origins of theta band oscillations and its relation with epilepsy. The theta band contains an oscillatory pattern that has for long been thought to emanate from the hippocampal structures, after which it spreads to the outer layers of the brain. However, later studies have shown that other regions of the brain may also generate theta oscillations in certain cognitive states [31]. Power, amplitude, and synchronization of the theta band has mainly been linked to cognitive functioning, particularly processes involved in learning and memory [32-34]. Microscopically, theta band oscillations may be regulated by GABAergic interneurons [35,36]. Moreover, blockade of GABA receptors in induced epilepsy alters patterns of theta activity [37], and hubs consisting of GABAergic interneurons may determine network synchronization [27]. Also, neuronal changes associated with temporal lobe epilepsy can disrupt hippocampal theta function [38]. These studies point towards a possible link between epilepsy and the theta band. In human neurophysiological data, the association between the theta band and epilepsy has increasingly been studied over the past two decades. Pathological thalamo-cortical theta oscillations have been described in absence seizures [39], and increased theta band absolute spectral power is related to absence epilepsy [40] and generalized epilepsies [41]. Another study reports increased theta band power to be related to the severity of epilepsy [42]. Moreover, interhemispheric theta band coherence proved to be a selective feature of patients with generalized epilepsy [39].
+Functional connectivity and network topology did not change significantly over the two time points in this study, although seizure frequency did change over time. The limited sample size in this study may have impacted significance, but the lack of change may also be due to the possibility of a stable plateau phase in connectivity and network topology. Possibly, resection of the tumor induces a great change in functional connectivity [20], after which this stable phase is reached at t1, approximately 6 weeks after neurosurgical intervention. Future studies should aim at elucidating this possibility. A number of explored variables also did not have a significant impact on connectivity and network features, although this intuitively may have been expected. This could be due to the small sample size and heterogeneous group, but the impact of radiotherapy, chemotherapy, and dexamethasone on the background EEG is largely unknown. A study investigating epilepsy patients receiving add-on levetiracetam treatment reports no changes in background EEG, although they did not look at connectivity [43]. Furthermore, there was no significant influence of the type (i.e. WHO grade) and lateralization (left or right hemisphere) of the tumor on functional connectivity or network characteristics, corroborating previous research that has also pointed out that the location of the tumor does not determine the pattern of connectivity changes in the brain, although patients with right-sided tumors were generally better off in terms of alterations in connectivity [15]. Another possible explanation for the lack of change may also be the high heritability of both functional connectivity and network topology [44,45]: the effect of factors such as tumor treatment may not be strong enough to overcome the constancy of the genetically determined network architecture.
+This study has some limitations, one of which is the small sample size, limiting statistical power. Although patients were homogeneous with respect to brain tumor type (glioma) and AED, variation was present regarding a number of variables. These variables were not significantly related to functional connectivity or network features, but future studies should aim to investigate more homogeneous subgroups of brain tumor patients to elucidate more specific effects. Furthermore, all MEG experiments have the limitation of the inverse problem, common sources and volume conduction. However, the PLI is very strict in this respect and disregards all zero-lagged correlations, which means that our results are not the result of spurious correlations because of common sources or volume conduction.
+
+Conclusions
+Our results suggest that theta band connectivity and network topology may be important for tumor-related epileptic seizures. These findings bring up thoughts about possible mechanisms of epileptogenesis in brain tumor patients. Functional connectivity and network characteristics in the theta band seem most important in tumor-related epilepsy. Future research should focus on elucidating this correlation between epilepsy and the theta band.
+
+Methods
+Patients
+This study was performed on patients who were included in a study primarily investigating the effect of levetiracetam monotherapy in brain tumor patients. Between April 1st 2007 and June 1st 2009, patients were recruited from two tertiary referral centers for brain tumor patients in The Netherlands (VU University Medical Center and Academic Medical Center, Amsterdam). Inclusion criteria were: (1) a diagnosis of novel or recurrent glioma confirmed by pathological diagnosis, (2) age >= 18 years, and (3) generalized or partial seizures with or without secondary generalization. All patients had undergone surgery and were treated with levetiracetam monotherapy at the time of inclusion. Exclusion criteria were: (1) lack of a basic proficiency of the Dutch language, or (2) the inability to communicate adequately. The first MEG recordings took place within six weeks after neurosurgery (t1). Follow-up took place after six months (t2) and one year (t3). Data regarding medical status, physical examination, and laboratory investigations were collected at these time points, as well as Karnofsky performance status [46] and Barthel index [47]. Patients were excluded during follow-up if their treating neurologist decided to discontinue levetiracetam monotherapy or if another antiepileptic drug (AED) was added to their regime. All patients gave written informed consent before participating, and study approval was obtained from both centers' ethics committees.
+Magnetoencephalography (MEG)
+Magnetic fields were recorded while subjects were seated inside a magnetically shielded room (Vacuumschmelze GmbH, Hanau, Germany) using a 151-channel whole-head MEG system (CTF Systems Inc., Port Coquitlam, BC, Canada). A third-order software gradient [48] was used with a recording pass band of 0.25-125 Hz. Fields were measured during a no-task eyes-closed condition, with a sample frequency of 625 Hz. At the beginning and end of each recording, the head position relative to the coordinate system of the helmet was recorded by leading small alternating currents through three head position coils attached to the left and right pre-auricular points and the nasion on the patient's head. Head position changes up to approximately 1.5 cm during a recording condition were accepted. During the recording, patients were instructed to close their eyes to reduce artifact signals due to eye movements. MEG channels that were defective or contained artifacts in at least one patient were excluded in the entire group, leaving 140 of the 151 MEG channels to be included.
+Power analysis
+Relative power was calculated by means of Fast Fourier Transformations in six frequency bands (respectively delta (0.5-4 Hz), theta (4-8 Hz), lower alpha (8-10 Hz), upper alpha (10-13 Hz), beta (13-30 Hz), and gamma (30-45 Hz) [49].
+Functional connectivity
+Functional connectivity was assessed with the phase lag index (PLI; [50]). The PLI calculates synchronization between time series by reflecting the consistency with which one signal is phase leading or lagging with respect to another signal. The PLI exploits the asymmetry of the distribution of instantaneous phase differences between two signals. It assumes that the presence of a consistent, nonzero phase lag between two time series cannot be explained by volume conduction alone. Thus, finding true interactions instead of volume conduction effects is more likely when using this method. The PLI ranges between 0 and 1, and a PLI of more than 0 indicates phase locking to a certain extent, whereas a PLI of 0 indicates no coupling or coupling with a phase difference centered around 0 +- p radians. An index of the asymmetry of the phase difference distribution can be obtained from a time series of phase differences DPh (tk), k = 1... N in the following way:
+(1)
+P
+L
+I
+=
+|
+<
+s
+i
+g
+n
+[
+D
+ph
+(
+t
+k
+)
+]
+>
+|
+See [50] for a complete description of PLI calculation.
+Five artifact free epochs of 4096 samples (6.552 seconds) during resting-state with eyes closed were carefully selected by visual analysis from each patient at each time point [EvD]. PLIs between each pair of MEG sensors were computed after filtering the MEG signals in six frequency bands Computation of the PLI was done offline with DIGEEGXP software, developed at our department [CJS]. PLI for all sensor pairs was averaged over each set of the selected five epochs, after which graph analysis took place.
+Graph analysis
+A graph is a topographical representation of a network, constructed by nodes ('vertices') and links ('edges') between them. Graphs can be unweighted (binary) or weighted; in the former case, a threshold is applied for every edge. When the connectivity value is higher than the threshold, the edge is present and gets a value of 1; if not, the edge is not and thus is given a value 0. In this study, we used undirected weighted graphs, in which the weight of every edge was the PLI value of the link between the two nodes it connects.
+A wide range of network measures can be calculated after representing MEG data as a graph (see [7,51] for recent reviews). In this study, the most commonly used measures are employed. The first measure is the weighted clustering coefficient C, which refers to the likelihood that neighbors of a vertex will also be connected. The clustering coefficient characterizes the tendency of nodes to form local clusters and is thus a measure of local segregation of the graph. The second measure is the average weighted path length L, signifying the average highest connectivity of edges connecting any two vertices, and is a measure for global integration of the network. The combination of high local clustering and a short average path length seems to be the optimal configuration for efficient communication in a network [10]. A 'small-world' network, which is thought to be a feasible model for human brain networks, has such a configuration (see figure 1). For a more detailed description of calculation of the weighted clustering coefficient Cw and weighted average shortest path length Lw in this study see [52].
+The (weighted) clustering index of vertex i with edge w with other vertices is defined as:
+(2)
+C
+i
+=
+[?]
+k
+[?]
+i
+[?]
+l
+[?]
+i
+l
+[?]
+k
+w
+i
+k
+w
+i
+l
+w
+k
+l
+[?]
+k
+[?]
+i
+[?]
+l
+[?]
+i
+l
+[?]
+k
+w
+i
+k
+w
+i
+l
+Subsequently, all clustering coefficients of the network are averaged to obtain one C for the entire brain. The weighted path length is calculated as follows:
+(3)
+L
+w
+=
+1
+(
+1
+/
+N
+(
+N
+-
+1
+)
+)
+[?]
+i
+=
+1
+N
+[?]
+j
+[?]
+i
+N
+(
+1
+/
+L
+i
+j
+)
+We normalized all network characteristics to those of 1000 surrogate random networks of the same size, resulting in the measures Cw/Cws, Lw/Lws. The surrogate networks were obtained from the original networks by randomly reshuffling the edge weights, hereby preserving the symmetry of the matrix.
+A second-order graph property has been proposed [53]: the ratio between Cw/Cws and Lw/Lws, which is an index of 'small-worldness'. Graphs with a small-world index > 1 are considered small-world, since Cw/Cws > 1 and Lw/Lws ~ 1 apply in small-world networks.
+Finally, we calculated the 'edge weight correlation'. This is a measure for the correlation between weights of neighboring edges, i.e. edges that connect to the same vertex [25]. The edge weight correlation is calculated as the range between the highest and lowest weight of all edges per vertex:
+(4)
+r
+i
+=
+W
+max
+(
+i
+)
+-
+W
+min
+(
+i
+)
+W
+max
+(
+i
+)
++
+W
+min
+(
+i
+)
+Wmax accounts for the maximum weight and Wmin for the minimum weight of the edges of node i. This range is then compared to that of the random equivalent of the network, in which the edges are randomly redistributed over the vertices while their weights are kept unchanged (as described above for other network characteristics). When the resulting value Wr lies between 0 and 1, a positive weight-weight correlation exists (because the range of neighboring weight values is smaller than in a random network), whereas the weights are anti-correlated when Wr > 1. It has been shown that a positive weight correlation (thus: Wr < 1) dramatically increases transport over the network, and edge weight correlation and thus transport increase further as Wr approaches 0 [25].
+Statistical analysis
+All statistical analyses were performed using SPSS 15.0 for Windows. Functional connectivity and network variables usually do not follow a normal distribution, warranting non-parametric testing. Correlations between connectivity, network features, and seizure-related variables were tested using Kendall's Tau. Differences in connectivity and network topology according to seizure-related variables were tested using Mann-Whitney U-tests. Changes in seizure characteristics, functional connectivity, and network features between the three time points were tested with Wilcoxon signed rank tests. When applicable, we corrected for the number of comparisons with the false discovery rate (FDR [54]).

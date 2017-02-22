@@ -1,0 +1,324 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+SOCS2 is dispensable for BCR/ABL1-induced chronic myeloid leukemia-like
+disease and for normal hematopoietic stem cell function. Suppressor of cytokine signaling 2 (SOCS2) is known as a feedback inhibitor of cytokine signaling and is highly expressed in primary bone marrow (BM) cells from patients with chronic myeloid leukemia (CML). However, it has not been established whether SOCS2 is involved in CML, caused by the BCR/ABL1 fusion gene, or important for normal hematopoietic stem cell (HSC) function. In this study, we demonstrate that although Socs2 was found to be preferentially expressed in long-term HSCs, Socs2-deficient HSCs were indistinguishable from wild-type HSCs when challenged in competitive BM transplantation experiments. Furthermore, by using a retroviral BCR/ABL1-induced mouse model of CML, we demonstrate that SOCS2 is dispensable for the induction and propagation of the disease, suggesting that the SOCS2-mediated feedback regulation of the JAK/STAT pathway is deficient in BCR/ABL1-induced CML.
+
+Introduction
+Chronic myeloid leukemia (CML) arises from hematopoietic stem cells (HSCs) that have
+acquired a reciprocal t(9;22) translocation, creating the BCR/ABL1 fusion
+gene. The P210 BCR/ABL1 fusion protein has been described to initiate signaling
+through several downstream pathways such as STAT5, PI3K, AKT, RAS and WNT.1 However, only a few downstream mediators have so far been
+thoroughly studied in vivo in the context of BCR/ABL1-mediated induction of
+CML, using mice deficient for the specific genes. Such studies have demonstrated that
+interleukin 3 (Il3), granulocyte macrophage colony stimulating factor
+(Csf2) and Cbl are dispensable for a BCR/ABL1-induced
+CML-like disorder.2, 3 In contrast, Alox5 was reported to be a critical regulator
+of leukemic stem cells in BCR/ABL1-induced CML.4, 5 Moreover, cells deficient for both
+Stat5a and Stat5b lack the capacity to develop disease and
+JAK/STAT signaling has emerged as a pivotal pathway by which BCR/ABL1 elicits its
+transforming effects.6, 7, 8, 9
+The STAT5-induced suppressor of cytokine signaling 2 (SOCS2), a known feedback inhibitor
+of the JAK/STAT pathway, has previously been found upregulated in the advanced stages
+of CML and to become downregulated following imatinib treatment in both CML cell lines and
+primary cells.10, 11,
+12, 13, 14, 15 In addition,
+SOCS2 was recently identified as one of the core genes in gene expression
+signatures shared between normal HSC and acute myeloid leukemia leukemic stem cells, with
+both signatures being associated with worse clinical outcome in acute myeloid
+leukemia.16 Collectively, these findings
+suggest that SOCS2 may be important for both normal HSC function and
+BCR/ABL1-induced leukemia. SOCS2 is one of eight members
+(CIS and SOCS1-7) of the SOCS gene family which all
+have both SH2 and SOCS box domains in common.17
+This family of proteins is normally expressed upon stimulation with various cytokines and
+has mainly been characterized as feedback inhibitors of cytokine-induced
+signaling.18, 19,
+20 However, their function is more complex, as
+activating properties also have been suggested for SOCS2.21, 22, 23,
+24 SOCS2 is present in several tissues and
+involved in the regulation of several cytokines such as GH, IGF1, IL2, IL3 and EPO, with
+both inhibitory and enhancing properties through other SOCS proteins and receptor-JAK
+complexes.23, 24,
+25 The most striking feature of
+Socs2-deficient mice is gigantism caused by an STAT5B-dependent increase of
+sensitivity to GH signaling.26, 27 However, the steady-state hematopoiesis of
+Socs2-deficient mice appears normal.26
+In this study, we found that although Socs2 was preferentially expressed in the
+long-term HSC (LT-HSC) population, it was dispensable for normal HSC function as
+determined by competitive stem cell transplantation. To clarify the role of SOCS2
+upregulation in CML, we evaluated BCR/ABL1-induced CML-like disease from
+Socs2-/- versus
+Socs2+/+ primitive bone marrow (BM) cells. Both groups
+developed indistinguishable CML-like disorders with similar survival curves, spleen
+weights, white blood cell counts and levels of STAT5 phosphorylation. Collectively, our
+data demonstrate that SOCS2 is dispensable for normal HSC function and for
+BCR/ABL1-mediated induction of CML.
+
+Materials and methods
+Mice and genotyping
+All animal experiments were approved by the local ethics committee in Lund, Sweden.
+Generation of the Socs2-/- mice in C57BL/6
+background has been described previously.26
+The primers used for genotyping were
+5'-CGAGCTCAGTCAAACAGGTAGG-3' and
+5'-GCTTTCAGATGTAGGGTGCTTTCC-3' to detect
+Socs2, and 5'-GCAGACGATGGTGCAGGATATCC-3' and
+5'-GGATCGACAGATTTGATCCAGC-3' to detect the
+b-galactosidase gene replacing Socs2.28 B6SJL mice and F1 crossings of C57BL/6xB6SJL were used as
+recipients and for competitor/support cells in the transplantations.
+Analysis of Socs2 expression from global gene expression data
+To study the gene expression pattern of Socs2 in various sub-populations of
+normal mouse hematopoietic cells, the raw CEL files for the data set GSE14833 were
+downloaded from gene expression omnibus (http://www.ncbi.nlm.nih.gov/geo/). Gene expression values were normalized
+using GCRMA.29 The mean expression value for
+the probe sets 1449109_at and 1418507_s_at was used to determine Socs2
+expression.
+Flow cytometry analysis and sorting
+Fluorescence-activated cell sorting (FACS) analysis was performed with either FACS
+Canto II or FACS Aria (Becton Dickinson, Franklin Lakes, NJ, USA). All cells sorted for
+HSC analysis were freshly extracted from Socs2+/+ or
+Socs2-/- mice and stained with several antibodies,
+to identify various sub-populations. The stem cell population used for expression
+analysis of Socs2 was defined as lineage negative for B220, CD3, Mac1, Gr-1,
+Ter.119 and, in addition,
+IL7Ra-c-kit+Sca1+CD34-flt3-.
+The common myeloid progenitors were defined as
+c-kit+Sca-1-CD34+CD16/32mid.
+The HSCs used for transplantation were sorted as above but with the additional SLAM
+markers CD150+CD48-. Antibodies used were purchased
+either from Biolegend (San Diego, CA, USA) or eBioscience (San Diego, CA, USA).
+For multicolor analysis of lineage distribution, we used antibodies against CD19 and
+CD4 (eBioscience); TER.119, CD8a, CD11b, CD45.1 and CD45.2 (Biolegend); CD45R/B220,
+Ly-6G/Ly-6C and Gr-1 (Becton Dickinson).
+HSC transplantation
+B6SJL recipient mice were lethally irradiated (900 cGy) 18 h before
+transplantation and Ciprofloxacin was supplemented with the drinking water following
+transplantation. BM cells were harvested and pooled from five age and sex matched
+Socs2-/- and
+Socs2+/+ donors, respectively. For each recipient,
+200
+lineage-Sca-1+c-kit+CD34-flt3-CD150+CD48-
+cells (LT-HSC) were sorted and injected intravenously together with 300 000
+C57BL/6xB6SJL competitor cells. Repopulation was calculated as (proportion
+CD45.2+ cells)/(proportion CD45.2+
+cells+proportion CD45.1.2+ cells). Lineage distribution was
+analyzed within the donor population, determined by CD45.2 expression. Approximately 3
+x 106 BM cells from each primary recipient were transplanted into two
+lethally irradiated secondary recipients.
+P210 transduction and transplantation model
+The retroviral construct MSCV-BCR/ABL1-IRES-GFP was kindly
+provided by Prof. Connie Eaves together with a control vector expressing only GFP
+(MIG).30 Ecotropic viral particles were
+produced by transient transfection into 293T cells. The transductions and
+transplantation experiments were performed essentially as described by Li et
+al.31 In brief, matched
+Socs2+/+ and
+Socs2-/- donors were killed and
+c-kit+ cells were isolated using midi MACS and anti-CD117 micro beads
+(Miltenyi Biotech, Bergisch Gladbach, Germany). A total of 400 000 cells per
+recipient were prestimulated in StemSpan serum-free expansion medium (Stemcell
+Technologies, Grenoble, France) supplemented with 50 ng/ml murine SCF,
+10 ng/ml murine IL-3, 50 ng/ml human IL-6 (Peprotech, Rocky Hill,
+NJ, USA), for 48 h. Transductions were performed by preloading viral particles
+using Retronectin (Takara bio Inc., Otsu, Japan). Cells for transplantation were
+harvested ~18 h after transduction, washed, and injected in bulk via the tail
+vein along with 100 000 freshly isolated supporting cells from whole BM. The
+transduction efficiency obtained was between 10 and 15% of the transplanted
+cells, as determined by FACS analysis of GFP on in-vitro cultured cells, 2 days
+after the transduction. Recipient mice were irradiated as described above and
+transplanted mice received Ciprofloxacin with the drinking water throughout
+experiment.
+Blood analysis and histopathology
+Untreated mice were bled from tail veins to determine steady-state blood cell counts in
+Socs2-/- mice, and mice transplanted with
+transduced cells were bled around 15 days after transplantation. Blood cell counts were
+analyzed on ABX Micros 60 (Horiba ABX, Montpellier, France). Femur and spleen from
+diseased mice were conserved in 4% formaldehyde, paraffin embedded and sectioned
+before staining with hematoxylin and eosin as previously described.32
+Taqman PCR and western blot
+Whole BM cells were extracted from transplanted mice after euthanasia and the BM cells
+were viably frozen. Freshly isolated HSCs and common myeloid progenitors were sorted as
+described above and cryopreserved, viable and GFP-expressing cells were sorted from
+diseased mice (from MIG control mice all myeloid cells were sorted due to lack of GFP
+expression). RNA was extracted from the sorted cells using the RNeasy micro kit (Qiagen,
+Hilden, Germany). Gene expression was analyzed by real-time quantitative
+reverse-transcriptase PCR (RT-QPCR) using predesigned TaqMan probes for all known
+members of the Socs gene family and murine Actb or Gapdh as
+endogenous controls (Applied Biosystems, Foster City, CA, USA). RT-QPCR was performed on
+an ABI Prism 7500 analyzer (Applied Biosystems) and ddCT values were calculated as
+described.33 Western blot analysis to
+detect STAT5A/B proteins and STAT5 tyrosine phosphorylation was performed as
+described, using 150 000 sorted
+PI-GFP+Mac1+ cells.32 The membrane was stripped after P-STAT5 detection and
+relabeled to detect the STAT5 protein.
+Intracellular flow cytometric analysis
+Cells were harvested 48 h after a P210 transduction was made, as described
+above. Fc receptors were blocked with unlabeled CD16/CD32 antibodies (Becton
+Dickinson). Fixation and permeabilization of cells were performed using the
+Cytofix/cytoperm kit (Becton Dickinson) and the cells were stained with antibodies
+detecting phosphorylation of STAT5 or STAT3 (Becton Dickinson).
+
+Results
+Socs2 expression is high in HSCs
+To study the role of SOCS2 in normal hematopoiesis, we first investigated the gene
+expression pattern of Socs2 in various hematopoietic lineages using public gene
+expression data. Interestingly, Socs2 was found highly expressed in normal
+LT-HSC relative to other hematopoietic lineages (Figure 1a).
+Validations using RT-QPCR showed that the Socs2 expression was about 30 times
+higher in HSCs compared with Lin- cells and common myeloid progenitors
+(Figure 1b), implying that SOCS2 may have a role in HSC
+function.
+Socs2-deficient mice display normal HSC function
+In accordance with previous findings demonstrating that mice lacking Socs2
+have normal steady-state hematopoiesis,26 the
+Socs2-deficient mice had normal peripheral blood cell counts. Although
+steady-state hematopoiesis was unaffected in Socs2-deficient mice, it could
+still be envisioned that SOCS2, due to its role in cytokine signaling, could have an
+important role in regulating HSC function under conditions when the hematopoietic system
+is stressed. Thus, to investigate whether loss of SOCS2 affects the function of HSCs, we
+performed competitive BM transplantations, in which Socs2-deficient BM cells
+were challenged with wild-type competitor cells. At steady state, no significant
+difference in stem cell frequency as determined by
+LSKCD150+CD48- or
+LSKCD34-flt3- was found between
+Socs2-/- and
+Socs2+/+ BM cells (Figure
+2a). Furthermore, we observed no difference in repopulation between
+Socs2+/+ and
+Socs2-/- cells in either primary or
+secondary recipients, suggesting that SOCS2, also under conditions of hematopoietic
+stress, is dispensable for both short- and long-term HSC function (Figures 2b and c; Supplementary Figure
+1).
+SOCS2 is dispensable for BCR/ABL1-induced CML-like disease in mice
+As a regulator of JAK/STAT mediated signaling, SOCS2 has been suggested to have a
+role in both BCR/ABL1 and JAK2 V617F-mediated myeloid leukemogenesis.11, 13, 34 The findings that loss of SOCS2 did not have any dramatic
+effects on steady-state hematopoiesis or HSC function, allowed us to examine the role of
+BCR/ABL1-mediated CML-like disease in Socs2-/- cells
+without confounding factors attributed to effects of Socs2 deficiency on normal
+HSC function. By using the BCR/ABL1 retroviral transduction and
+transplantation model previously described,31
+c-kit+ BM cells were transduced and transplanted into lethally
+irradiated mice, to examine disease progression in vivo. About 3 weeks after
+transplantation, most mice receiving BCR/ABL1-expressing cells developed
+CML-like symptoms similar to previous reports,4,
+31 and had to be euthanized shortly thereafter
+(Figure 3a). No difference in disease latency between mice
+receiving either Socs2+/+ or
+Socs2-/- cells was observed. Furthermore, when
+peripheral blood was analyzed 14-16 days after transplantation, both
+Socs2+/+ and
+Socs2-/- mice had elevated white blood cell and
+platelet counts compared with controls (Figure 3b and data
+not shown). When euthanized due to disease symptoms, mice from both groups suffered from
+severe splenomegaly (Figure 3c) and FACS analysis showed
+that most had an expansion of myeloid GFP+ cells in the BM (Figure 3d). To further address whether the
+Socs2+/+ and Socs2-/-
+cells caused different leukemic phenotypes, histopathologic examinations were performed
+on femurs and spleens from diseased mice. In the BM, BCR/ABL1 caused
+similar phenotypes in Socs2+/+ and
+Socs2-/- mice with foci of histocytes, enlarged
+sinusoids, and reduced erythropoiesis compared with the MIG control (Figure 4a and data not shown). All mice with disease had markedly enlarged
+spleens with infiltration of granulocytes in various maturation stages (Figure 4b and data not shown). In a number of enlarged spleens, we
+also found focal regions with blasts in both Socs2+/+
+and Socs-/- transplanted recipients (data not
+shown). In summary, the histopathological features were clearly pathologic but recipient
+mice, transplanted with BCR/ABL1 transduced
+Socs2+/+ or
+Socs2-/- cells, were similar.
+Expression analysis of all Socs family members does not suggest compensatory
+expression of other Socs genes
+In BCRABL1-expressing cells from diseased mice, the Socs2 expression
+was determined to be about 10-fold increased (Figure 5a).
+Since different SOCS proteins can interact in both enhancing and inhibitory ways and in
+part have overlapping functions, it is possible that compensatory upregulation of other
+Socs genes might compensate for the loss of SOCS2 in BCR/ABL1 transformed
+cells.21, 35 To test this hypothesis, we sorted GFP+ cells from
+diseased mice transplanted with Socs2+/+ or
+Socs2-/- cells, as well as fresh common myeloid
+progenitors from Socs2+/+ and
+Socs2-/- mice, and measured the expression of individual
+members of the Socs gene family. In this analysis, no increase in gene
+expression was observed throughout the Socs gene family in
+Socs2-deficient cells (Figure 5b; Supplementary Figure 2), suggesting that other SOCS family
+members do not compensate for the lack of SOCS2. SOCS2 is known to act as a feedback
+inhibitor of STAT5 signaling, suggesting that a BCR/ABL1-expressing cell
+with functional SOCS2 should have lower STAT5 phosphorylation compared with
+Socs2-/- cells. However, similar levels of STAT5
+phosphorylation were detected in both Socs2+/+ and
+Socs2-/- cells from leukemic mice, indicating that
+the effect of BCR/ABL1 bypasses SOCS2-mediated feedback inhibition of STAT5 (Figure 5c). Because also STAT3 has been suggested to be
+phosphorylated by BCR/ABL1,36 we measured
+STAT3 and STAT5 phosphorylation in BCR/ABL1 transduced
+Socs2+/+ and
+Socs2-/- cells by intracellular FACS.
+Both the Socs2+/+ and
+Socs2-/- cells had equally increased
+STAT5 phosphorylation compared with MIG control, while no increase in STAT3
+phosphorylation was observed (Supplementary Figure
+3).
+
+Discussion
+As a modulator of the JAK/STAT signaling pathway, a pathway with a demonstrated role
+in CML, the strong upregulation of SOCS2 in CML has raised the question whether
+SOCS2 is involved in BCR/ABL1-induced transformation or whether it is part of
+an inadequate feedback loop.6, 11, 12, 13,
+14, 15 SOCS2 has
+been suggested to have a role as feedback inhibitor in certain types of cancers, but its
+role may be more complex, as it is variably reported as having both enhancing and
+inhibitory functions in normal cytokine-induced signaling.21, 22, 23,
+24, 37 As we
+observed a strong upregulation of Socs2 in mouse LT-HSC, in accordance with
+recent findings in human candidate HSC,16 we
+first explored the role of SOCS2 in normal HSCs using competitive BM transplantation
+experiments. Although it could be speculated that high expression of Socs2 in
+LT-HSCs would serve as a brake, keeping this cell population quiescent due to
+insensitivity to stimulating growth factors, Socs2-/-
+HSCs showed equal repopulation properties both short-term and long-term, as wild-type
+HSCs. Although we cannot fully exclude that Socs2 deficiency may have a subtle
+effect on HSCs, our findings strongly suggest that Socs2 is not critical for
+normal HSC function.
+To evaluate the potential role of SOCS2 in CML, we used the previously established
+retroviral BCR/ABL1 transduction and transplantation model,31 comparing disease manifestation derived from
+Socs2+/+ versus
+Socs2-/- cells. Mice transplanted with either donor
+types showed similar disease onset, displayed similar symptoms such as elevated white
+blood cell counts, splenomegaly and expansion of myeloid cells, and had similar survival
+curves. These findings demonstrate that SOCS2 is not crucial for disease initiation and
+propagation in this model of CML. However, the rapid disease course and the short survival
+times clearly pose a potential problem as weak phenotypes may be overlooked. In an attempt
+to investigate if a disease model with longer disease latency could be established, we
+also transduced and transplanted fewer cells. However, transplantation of fewer
+MIG-BCR/ABL1 transduced cells resulted in similar disease latency, but with
+a reduced penetrance with only a few recipients developing a CML-like disease (data not
+shown). Thus, using this well-established model of murine CML-like disease, it is
+difficult to entirely exclude subtle effects of SOCS2 in the initiation and progression of
+CML.
+It is also well possible that functional redundancy could exist between different members
+of the Socs gene family, which could explain the lack of phenotype in this model.
+However, examining the expression levels of other Socs family members in
+Socs2-deficient cells, we did not find any compensatory upregulation of the
+other Socs family members. This indicates that functional redundancy involving
+other Socs family members is an unlikely cause of the unaltered disease course in
+mice receiving BCR/ABL1-transduced
+Socs2-/- BM cells. However, both CISH and
+SOCS3 have previously been reported to be upregulated in CML
+patients.13 Thus, future studies combining
+silencing of additional Socs members will be needed to ultimately clarify this
+issue.
+BCR/ABL1 is well known to activate several downstream signaling mediators such as
+STAT5.6, 38
+The transcription of Socs2 is normally induced by STAT5 activation, and the SOCS2
+protein typically acts as a feedback inhibitor upstream of STAT5 by targeting the
+interaction between JAK and cell surface receptors such as the GH receptor.10, 27, 34, 39 In this study, we demonstrate
+that SOCS2 is dispensable for BCR/ABL1-mediated induction of CML, despite
+Socs2 being highly upregulated by BCR/ABL1. Our finding that cells
+expressing BCR/ABL1 have equal STAT5 phosphorylation independently of
+Socs2 deficiency supports a hypothesis that SOCS2 fails to act as a feedback
+inhibitor of the JAK2/STAT5 pathway in the context of BCR/ABL1 signaling. Because
+BCR/ABL1 has been shown to activate both JAK2 and STAT5 directly,8, 9, 36 it seems reasonable that the upstream inhibition of this pathway
+provided by SOCS2 would have minimal effects on BCR/ABL1-induced signaling, which is
+consistent with our results.
+In conclusion, we have demonstrated that SOCS2 is dispensable for both normal HSC
+function and CML-like disease. These findings support the hypothesis that Socs2
+upregulation by BCR/ABL1 is caused by an inadequate or non-functional feedback loop
+induced by BCR/ABL1.

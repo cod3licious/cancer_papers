@@ -1,0 +1,110 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed, Mixed]
+
+Upregulation of CPE promotes cell proliferation and tumorigenicity in colorectal cancer. Background Colorectal cancer (CRC) is one of the most common cancers worldwide and a leading cause of cancer related death. Although the mortality rate of CRC is decreasing, finding novel targets for its therapy remains urgent. Carboxypeptidase E (CPE), a member of the pro-protein convertases, which are involved in the maturation of protein precursors, has recently been reported as elevated in many types of cancer. However, its role and mechanisms in tumor progression are poorly understood.   Methods In the present study, we investigated expression of CPE in CRC cell lines and tumor tissues using Western blot and real-time qRT-PCR. Plasmids for overexpression and depletion of CPE were constructed and analyzed by Western blot, MTT and colony formation assays and bromodeoxyuridine incorporation assays. The relative expression of p21, p27, and cyclin D1 were analyzed by Real-time qRT-PCR in the indicated cells.   Results Our study showed that CPE was significantly upregulated in CRC cell lines and tumor tissues. MTT and colony formation assays indicated that overexpression of CPE enhanced cell growth rates. BrdU incorporation and flow-cytometry assays showed that ectopic expression of CPE increased the S-phase fraction cells. Soft agar assay proved enhanced tumorigenicity activity in CPE over-expressing CRC cells. Further studies of the molecular mechanisms of CPE indicated that is promoted cell proliferation and tumorigenicity through downregulation of p21 and p27, and upregulation of cyclin D1.   Conclusions Taken together, these data suggest that CPE plays an important role in cell cycle regulation and tumorigenicity, and may serve as a potential target for CRC therapeutics.
+
+Background
+Colorectal cancer (CRC) is one of the most common cancers and a leading cause of cancer-related deaths
+[1]. According to WHO statistics, there were an estimated 1.2 million cases of CRC in 2008 worldwide. CRC development is a multi-step and multigene process, involving activation and overexpression of oncogenes, and inactivation and downregulation of tumor suppressor genes
+[2], which have multiple effects in CRC tumorigenesis, including cell proliferation, apoptosis, invasion, and metastasis. Mutation of the tumor suppresser gene, adenomatous polyposis coli (APC), is one of the most well studied in CRC. Familial adenomatous polyposis (FAP), an autosomal, dominantly inherited disease, can cause the development of hundreds to thousands of colorectal tumors during the second and third decades of a patient's life
+[3]. Germline mutations in APC are identified in approximately 80% of FAP affected individuals
+[4,5]. Many other oncoproteins have been reported to be upregulated or activated in CRC, such as FOXQ1
+[6], PIK3CA
+[7], and cyclin D1
+[8]. Although CPE, a prohormone/proneuropeptide processing enzyme, has been reported to be elevated in CRC
+[9], its role in tumor development remains poorly understood.
+CPE is found primarily in endocrine and neuroendocrine cells, and is a metalloexopeptidase
+[10]. It encodes a carboxypeptidase that cleaves C-terminal amino acid residues, and is involved in the biosynthesis of peptide hormones and neuropeptides, which are synthesized as precursors in the rough endoplasmic reticulum. After being packaged into secretory granules, these precursors are processed sequentially, first, by prohormone convertases (PC1/3 and PC2) to remove the carboxyl side of paired basic residues to yield basic residue-extended peptides
+[11,12], then by a subset of soluble CPE to cleave the basic residues to generate biologically active peptide hormones and neuropeptides
+[10,13,14]. CPE also functions as a prohormone sorting receptor for the regulated secretory pathway (RSP)
+[15,16]. Mice with Cpe mutations, or Cpe knockout mice, exhibit pathophysiological conditions, such as obesity, diabetes, infertility, low bone mineral density, and deficits in learning and memory
+[17-20]. In humans, deregulated CPE has been associated with numerous diseases, such as diabetes, Alzheimer's disease
+[21], and cancers. Horing et al. found reduced expression of CPE in Glioblastoma, and proposed that CPE functioned as a putative tumor suppressor gene
+[22]. Conversely, Murthy et al. reported that CPE was significantly elevated in many human cancers, and its upregulation was correlated with tumor growth and metastasis
+[9]. Therefore, the role of CPE in cancer remains unclear.
+In this study, we found that CPE was significantly upregulated in CRC cell lines and tumor tissues. Further investigations revealed that overexpression of CPE led to decreased expression of cyclin-dependent kinase (CDK) inhibitors, p21 and p27, and increased expression of the CDK regulator, cyclin D1. The resulting increase in the S-phase fraction of tumor cells may account for CPE's role in enhancing cell growth rates and tumorigenicity activity in CRC cells. These results suggest that CPE may be a novel target for CRC therapeutics.
+
+Methods
+Ethics statement
+For the use of clinical materials for research purposes, samples were obtained with prior written informed consents from the patients and approval from the Institutional Research Ethics Committees of ZengchengPeople,s Hospital (BoJi-Affiliated Hospital of Sun Yat-Sen University) ethics Committee.
+Cell lines and tissue specimens
+Colorectal cancer (CRC) cell lines, including SW480, SW620, KM12, HCT15, HCT116, Caco-2, and LoVo, were cultured in RPMI 1640 medium (Invitrogen, Carlsbad, CA, US) supplemented with 10% FBS (HyClone, Logan, Utah, US). Tissue specimens were freshly collected from Zengcheng People's Hospital (BoJi-Affiliated Hospital of Sun Yat-Sen University), and were histopathologically and clinically diagnosed.
+Plasmids and antibodies
+For overexpression of CPE: human full-length CPE cDNA from HCT116 cells was amplified by PCR and cloned into a pMSCV-puro retroviral vector. For depletion of CPE: two human shRNA sequences were cloned into the pSuper-retro-puro plasmid to generate pSuper-retro CPE shRNA. The following sequences were selected: RNAi#1, CTCCAGGCTATCTGGCAATAA; and RNAi#2, GATAGGATAGTGTACGTGAAT. Anti-CPE (BD, Franklin Lakes, New Jersey, US), anti-b-actin (Sigma, Saint Louis, MI, US), and anti-BrdU (Upstate, Temecula, CA, US) were used for Western blot analysis and bromodeoxyuridine (BrdU) incorporation assays.
+RNA extraction, reverse transcription (RT) and real-time qRT-PCR
+Total RNA from cultured cells was extracted using Trizol reagent (Invitrogen, Carlsbad, CA, US), following the manufacturer's instructions. The cDNA was amplified and quantified using an ABI Prism 7500 Sequence Detection System (Applied Biosystems, Foster City, CA), with SYBR Green I dye (Molecular Probes, Invitrogen, CA Carlsbad, CA, US). The following primers were selected: CPE: CCATCAGCAGGATTTACACG (forward) and TAAATTCAGGCTCACCAGGC (reverse); p21: CGATGCCAACCTCCTCAACGA (forward) and TCGCAGACCTCCAGCATCCA (reverse); p27: TGCAACCGAC GATTCTTCTACTCAA (forward) and CAAGCAGTGATGTATCTGATAAACA AGGA (reverse); Cyclin D1: AACTACCTGGACCGCTTCCT (forward) and CCAC TTGAGCTTGTTCACCA (reverse); GAPDH: ACCACAGTCCATGCCATCAC (forward) and TCCACCACCCTGTTGCTGTA (reverse). Expression data were normalized to GAPDH, and calculated as 2-(Ct[gene] - Ct[GAPDH]), where Ct represents the threshold cycle for each transcript.
+MTT and colony formation assay
+For the MTT assay: cells were seeded in 96-well plates (2000 cells/plate); at each time point, cells were stained with 100 ml sterile MTT dye (0.5 mg/ml; Sigma, St. Louis, MO, US) for 4 h at 37degC; the culture medium was removed; and 150 ml of dimethyl sulphoxide (DMSO; Sigma) was added. The absorbance was measured at 570 nm; the reference wavelength was 655 nm. For the colony formation assay: cells were seeded in 6-well plates (1000 cells/plate); cultured for 10 days; fixed with ice-cold methanol for 10 min; and stained with 1% crystal violet for 1 min.
+Bromodeoxyuridine incorporation assay
+Cells were seeded on coverslips (Fisher, Pittsburgh, PA, US) in 24-well plates (5 x 104 cells/plate). After 24 h, the cells were incubated with BrdU for 1 h, and stained with anti-BrdU antibody (Upstate, Temecula, CA, US), following the manufacturer's instructions. Gray level images were acquired under a laser scanning microscope (Axioskop 2 plus, Carl Zeiss Co. Ltd., Jena, Germany).
+Anchorage-independent growth ability assay
+Cells (5000 cells/plate) were mixed in 2 x RPMI 1640 with an equal volume of soft agar (Sigma, Saint Louis, MO, US) to give a final solution of 0.3% agar, 1 x RPMI 1640, 10% FBS. The cell-agar mixture was added to the top of the cell-free bottom layer with 1% agar. After 10 days, viable colonies larger than 0.1 mm were counted.
+Statistical analysis
+Statistical tests for data analyses are Student's 2-tailed t test. Statistical analyses were performed using the SPSS 11.0 statistical software package. Data represent mean +- SD. P values of 0.05 or less were considered statistically significant.
+
+Results
+CPE is overexpressed in CRC cell lines and tissues
+To investigate the biological role of CPE in human CRC progression, we analyzed CPE expression in CRC cell lines and paired tissue specimens from CRC patients. Western blot analysis and real-time qRT-PCR results showed that CPE was overexpressed in all CRC cell lines compared to primary normal colorectal epithelial cells (Figure
+1A-B). Data from paired CRC tissue specimens showed that both CPE protein and mRNA were significantly upregulated (5- to 13-fold) in tumor tissue compared to matched adjacent normal tissue (Figure
+1C-D and Additional file
+1: Figure S1). Taken together, these data indicated that CPE was overexpressed in CRC, and its overexpression may contribute to the development of human CRC.
+Figure 1
+CPE is overexpressed in colorectal cancer cells. (A-B) Western blot analysis (A) andreal-time qRT-PCR analysis (B) showing the relative expression of CPE in CRC cell lines and primary normal colorectal epithelial cells. (C-D) Western blot analysis (C) and real-time qRT-PCR analysis (D) showing the relative expression of CPE in CRC patients' tumor tissues (T) vs. matched adjacent normal tissues (ANT); b-actin was used as a loading control. mRNA data were normalized to GAPDH control and are presented as mean +- standard deviation (SD) from three independent experiments. *: P < 0.05.
+CPE expression levels correlate with cell proliferation rates in CRC
+To further investigate the role of CPE in CRC, two CRC cell lines, HCT116 and SW480, were selected to stably express CPE ORF and CPE shRNA. Western blot analysis showed that stable cell lines were successfully established (Figure
+2A). The role of CPE in cell proliferation was investigated by conducting MTT and colony formation assays. Ectopic expression of CPE dramatically enhanced growth rates of both CRC cell lines (Figure
+2B, left panel), forming more and larger colonies (Figure
+2C). Conversely, silencing of CPE impaired growth rates (Figure
+2B, right panel) and colony formation abilities (Figure
+2D) in both CRC cell lines. Herein, we concluded that overexpression of CPE promotes CRC cell proliferation.
+Figure 2
+CPE promotes colorectal cancer cell proliferation. (A) Western blot analysis of CPE expression in HCT116 and SW480 cell lines stably infected with CPE ORF or shRNA. b-actin was used as a loading control. (B) MTT assay analysis of cell growth rates for different stable cell lines at the indicated times after seeding cells. (C) Representative micrographs (left panel) and quantification (right panel) of colony formation in CPE-overexpressing and vector cells. (D) Representative micrographs (left panel) and quantification (right panel) of colony formation in CPE-silencing and vector cells. Data are presented as mean +- SD from three independent experiments. *: P < 0.05.
+CPE promotes cell proliferation by increasing the S-phase fraction of CRC cells
+Having observed that CPE upregulation promoted cell proliferation, we further explored the underling mechanisms. BrdU, an analogue of thymidine, becomes incorporated into replicating DNA by replacing thymidine. Subsequent immunodetection of BrdU allows the percent-age of cells at S-phase to be determined. As shown in Figure
+3A (right panel), overexpression of CPE significantly increased the percentage of BrdU positive cells in both cell lines: 29.2% vs. 43.28% in HCT116; 26.88% vs. 41.36% in SW480. In contrast, knockdown of CPE dramatically decreased the S-phase fraction of BrdU incorporated cells: from 32.33% to 17.28% (CPE-RNAi#1) and 15.69% (CPE-RNAi#2) in HCT116 cells; and from 30.08% to 18.02% (CPE-RNAi#1) and 14.89% (CPE-RNAi#2) in SW480 cells (Figure
+3B). Cell cycle analysis by flow-cytometry assay further proved that upregulation of CPE dramatically increased the percentage of S phase cells and decreased the percentage of cells in the G1/G0 phase (Figure
+3C). Conversely, silencing of CPE increased the percentage of cells in the G1/G0 phase and decreased the percentage of S-phase cells (Figure
+3D). Based on these data, we proposed that CPE promotes cell proliferation by increasing the S-phase fraction of CRC cells.
+Figure 3
+CPE promotes cell proliferation by increasing the S-phase fraction of cells. (A) Representative micrographs (upper panel) and quantification (lower panel) of BrdU incorporation in CPE-overexpressing and vector cells. (B) Representative micrographs (upper panel) and quantification (lower panel) of BrdU incorporation in CPE-silencing and vector cells. (C) Flow cytometric analysis of CPE-overexpressing and vector cells. (D) Flow cytometric analysis of CPE-silencing and vector cells. Data are presented as mean +- SD from three independent experiments. *: P < 0.05.
+Overexpression of CPE promotes tumorigenicity of CRC cells
+To investigate the role of CPE expression on the tumorigenic activity of CRC cells, anchorage-independent growth ability assay was performed. The results showed that ectopic expression of CPE significantly enhanced anchorage-independent growth of both CRC cell lines, increasing the numbers and size of colonies in soft agar compared to vector cells (Figure
+4A). Depletion of CPE dramatically impaired the anchorage-independent growth of both cell lines, as indicated by the reduction in colony numbers and colony size (Figure
+4B).
+Figure 4
+Overexpression/knockdown of CPE promotes/impairs tumorigenicity of colorectal cancer cells. (A) Representative micrographs (left panel) and quantification (right panel) of colonies formed in soft agar in CPE-overexpressing and vector cells. (B) Representative micrographs (left panel) and quantification (right panel) of colonies formed in soft agar in CPE-silencing and vector cells. Data are presented as mean +- SD from three independent experiments. *: P < 0.05.
+CPE promotes cell proliferation and tumorigenicity via modulation of p21 and p27 and cyclin D1 expression
+The CDK inhibitors p21 and p27, and CDK regulator cyclin D1, perform important functions in the control of cell cycle progression. Quantitive real-time PCR showed that overexpression of CPE significantly downregulated p21 and p27, and upregulated cyclin D1 (Figure
+5A). In contrast, silencing of CPE dramatically enhanced p21 and p27 expression, and inhibited cyclin D1 expression in both HCT116 and SW480 cell lines (Figure
+5B). These results indicated that CPE regulates p21, p27, and cyclin D1 to promote cell proliferation and tumorigenicity.
+Figure 5
+CPE regulates p21, p27, and cyclin D1 expression. (A) Overexpression of CPE downregulated p21 and p27, and upregulated cyclin D1. Real-time qRT-PCR analysis of the relative expression of p21, p27, and cyclin D1 in the indicated cells. (B) Knockdown of CPE upregulated p21 and p27, and downregulated cyclin D1. Real-time qRT-PCR analysis of the relative expression of p21, p27, and cyclin D1 in the indicated cells. Data were normalized to GAPDH control and presented as mean +- SD from three independent experiments. *: P < 0.05.
+
+Discussion and conclusion
+In the present study, we found that CPE is elevated in CRC and have suggested a mechanistic role for CPE in the proliferation of CRC cell lines. Furthermore, we proposed that CPE possesses oncogenic functions in CRC development. This is consistent with other studies: Lee et al. reported that an N-terminal truncated CPE isoform was highly upregulated, and could induce tumor growth. They further suggested its use as a biomarker for predicting metastasis in hepatocellular carcinoma
+[23]. By analyzing profile data in the Gene Expression Omnibus   (GEO) database  (http://www.ncbi.nlm.nih.gov/geo/), Murthy et al. found that CPE was elevated in CRC and many other types of human cancer, including hepato-cellular carcinoma, cervical cancer, and kidney cancer
+[9]. However, in glioma, CPE expression level appears to be controversial: Liu et al. analyzed 12 primary brain glioma biopsies using cDNA microarrays, and revealed elevation of CPE expression compared to normal brain tissue
+[24]; this was supported by another cDNA microarray study which found elevation of CPE expression in 50 human gliomas of various histogenesis, compared to normal brain tissue samples
+[9]. In contrast, a study by Horing et al. indicated that CPE acted as a tumor suppressor by reducing expression of CPE in a cell death-resistant glioma cell line, and in GBM samples from The Cancer Genome Atlas cohort, compared to normal control brain specimens
+[22]. Therefore, regulation of CPE may be different in different types of cancer, and it is not yet possible to define CPE as either a tumor suppressor or an oncogene.
+CPE is known to be elevated in many types of human cancer, irrespective of whether they are neuroendocrine tumors, such as lung cancer
+[25], or nonendocrine can-cers, such as CRC, as shown by our data and others (Saravana,
+[9]). However, the mechanism of CPE upregulation is still unknown. CPE locates at 4q32.3 in the human genome; and duplications of 4q31-qter have been documented in several human diseases
+[26-28], which may contribute to CPE amplification in cancer. Similarly, CPE upregulation has been reported in cervical cancer, where 70% of cases are correlated with human papillomavirus (HPV) infection
+[29], suggesting that CPE upregulation may triggered by viral antigens.
+CPE is reported primarily in endocrine and neuroendocrine cells; however, it has now been identified in epithelial-derived cancer cells. CPE functions as a prohormone and neuropeptide processing exopeptidase, and as a regulated secretory pathway (RSP) sorting receptor
+[13-15]. Consequently, it has important roles in the endocrine and neural systems. In mice, mutation or knockout (KO) of CPE causes deficiencies in peptide hormones and neuropeptides, such as insulin
+[17,19], gonadotropin-releasing hormone, and brain-derived neuro-trophic factor (BDNF)
+[30]. CPE KO mice exhibit multiple endocrinopathies leading to obesity, diabetes, and infertility
+[19]; however, how CPE promotes tumor progression is largely unknown. In this study, we found that CPE upregulation increased the S-phase fraction of CRC cells, thereby promoting cell growth and tumorigenicity. Further investigation indicated that CPE achieved this pro-proliferation effect by modulating p21, p27 expression and mediating cyclin D1 expression at the mRNA level. To date, CPE has been considered to be an enzyme, and not a transcriptional factor or cofactor. This means that CPE cannot initiate transcription of these cell cycle regulators by itself, and therefore further investigation is needed.
+In the current study, we found that ectopic expression of CPE dramatically enhanced, whereas silencing of CPE impaired, growth rates of both CRC cell lines. More importantly, soft-agar assay revealed that the anchorage-independent growth of CRC cells lines significantly enhanced upon CPE upregulation and impaired in response to CPE depletion, suggesting that overexpression of CPE promotes, but downregulation of CPE decreased, the tumorigenicity of CRC cells, which are currently under investigation in our laboratory examined with in vivo model using CPE-overexpressing and CPE-silenced cells. Meanwhile, Saravana and colleagues have also reported a higher level of CPE in metastatic CRC specimens than primary ones
+[9], indicating that CPE involves in tumor metastasis. Therefore, it is also worthy to further investigate the correlation and biological role of CPE in CRC metastasis.
+In summary, this study showed that CPE was dramatically elevated in CRC cell lines and tissues samples, compared to normal colorectal epithelial cells and matched adjacent normal tissue (ANT), respectively. Further investigations revealed that upregulation of CPE enhanced cell proliferation and tumorigenicity in CRC cells; whereas downregulation impaired cell proliferation and tumorigenicity, and that this was achieved through regulation of the cell cycle regulators p21, p27, and upregulation of cyclin D1. Understanding the precise role of CPE in CRC progression will increase our knowledge of the biological mechanisms of CRC. Suppression of CPE may offer a novel therapeutic strategy for CRC.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1471-2407/13/412/prepub
+
+Supplementary Material
+Additional file 1: Figure S1
+Expression of CPE splice variants. RT-PCR analyses of the relative expression of CPE splice variants in tumor tissue compared to matched adjacent normal tissue in colorectal cancer. Data were normalized to GAPDH control and presented as mean +- SD from three independent experiments. *: P < 0.05.
+Click here for file

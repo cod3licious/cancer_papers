@@ -1,0 +1,180 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion]
+
+Mannose-binding lectin 2 (MBL2) gene polymorphisms
+do not influence frequency of infections in chronic lymphocytic leukemia
+patients. Background Infectious complications represent the main cause of morbidity and mortality in chronic lymphocytic leukemia. It has been reported that polymorphisms of the mannosebinding lectin 2 (MBL2) genes are correlated with MBL protein serum levels and, consequently, are associated with the development of infectious diseases.    Objective The purpose of this study was to investigate the possible association between MBL2 gene polymorphisms and risk of infection in chronic lymphocytic leukemia patients.    Methods Peripheral blood samples from 116 chronic lymphocytic leukemia patients were collected; after genomic DNA extraction, real time polymerase chain reaction was used to determine the polymorphisms of the promoter region and exon 1 of the MBL2 gene.    Results A high frequency of Binet stage A (p-value = 0.005) and absence of splenomegaly (p-value = 0.002) were observed in patients with no infection; however, variant alleles/ genotypes and haplotypes of this gene had no impact on the risk of infection.    Conclusion To the authors' knowledge, this is the first study describing the association between MBL2 polymorphisms and infectious disease in chronic lymphocytic leukemia. Although it was not possible to demonstrate any influence of MBL2 polymorphisms as a genetic modulator of infection in chronic lymphocytic leukemia, the authors believe that the present data are clinically relevant and provide the basis for future studies.
+
+Introduction
+Chronic lymphocytic leukemia (CLL) is characterized by the progressive accumulation of
+mature B cells in the peripheral blood, bone marrow, and lymphoid tissues; it is the
+most common adult leukemia in the Western world.1 CLL patients present a highly variable clinical course, with
+overall survival ranging from months to decades.2 Risk stratification based on clinical and laboratory features
+(lymphadenopathy, organomegaly, and cytopenia)3,4 has been used to
+establish prognostic risk groups. Additionally, several disease-related markers have
+been described as potential prognostic factors, including cytogenetic
+abnormalities,5 mutational
+status of the variable region of immunoglobulin heavy chain genes (IgVH),6 and ZAP-70.7
+Despite the relatively good prognosis, infectious complications are the main cause of
+morbidity and mortality in CLL.8 It
+has been estimated that up to 50% of patients suffer from recurrent infections,
+especially involving mucous membranes.9 The pathogenesis of infection in CLL is multifactorial;
+hypogammaglobulinemia is the most recognized inherent immune defect in CLL patients, but
+cellmediated immunity10 and complement
+activity have been correlated to the immunodeficiency status.11
+Genetic variation of innate immunity components may influence infection
+susceptibility.12 The
+mannose-binding lectin 2 (MBL2) gene is a member of
+the innate immune system, and the encoded protein (MBL2) plays an
+important role in the identification of pathogens as a pattern recognition molecule,
+since it is able to activate the complement system.13 It has been reported that single nucleotide polymorphisms (SNPs)
+located within the promoter region and exon 1 of the MBL2 gene are
+correlated with MBL protein serum levels and, consequently, associated to a higher risk
+for the development of infectious disease. Three common polymorphisms in the structural
+gene-coding region are found at codons: 52 (D variant), 54 (B variant), and 57 (C
+variant), which are collectively denoted by 'O', while the wild-type variant is termed
+'A'. Additionally, two relevant SNPs in the promoter region at positions -550 (H/L) and
+-220 (X/Y) have been identified as regulators of protein expression.14 The combinatorial effect of SNPs in the
+promoter region and exon 1 of the MBL2 gene results in different
+haplotypes and variations in functional MBL protein concentrations.15 Haplotypes harboring Y and A alleles are
+associated with high or normal serum levels of MBL protein, while X and O (B, C, or D)
+alleles are associated with lower levels.16 The H/L variants have minimal influence on MBL concentrations. The
+expression pattern of the MBL protein in serum, according to the haplotypes, is
+established as: HYA > LYA > LXA >> HYD = LYB = LYC.17,18
+The present study aimed to investigate the frequency of variant alleles/genotypes of the
+promoter region and exon 1 of the MBL2 gene in CLL and to correlate
+these polymorphisms with susceptibility to infection and clinical and laboratory
+features.
+
+Methods
+Patients
+Peripheral blood samples from 116 CLL patients were collected at the Fundacao de
+Hematologia e Hemoterapia de Pernambuco (HEMOPE). The diagnosis of CLL was based on
+morphology and the Matutes immunophenotypic analysis system.19 Clinical and epidemiological data
+(including occurrence of infections) were obtained through the medical records. All
+clinical findings were confirmed with laboratory tests, including complete blood
+counts, chest radiography, and fluid cultures (from blood and urine). This study was
+approved by the local Research Ethics Committee (#036/2011) and, in accordance with
+the Declaration of Helsinki, informed consent was obtained from all patients.
+MBL2 genotyping
+After genomic DNA extraction, real time polymerase chain reaction was used to
+determine the polymorphisms of the promoter region and exon 1 of the
+MBL2 gene using a Rotor Gene 6000(tm) apparatus (Corbett Research
+Mortlake - Sydney, Australia). The promoter region of the MBL2 gene
+was genotyped by the TaqMan(r) system (Applied Biosystems - Foster City, CA, USA)
+using specific probes. The following primers and probes were used to determine H/L
+alleles (-550): 5'-CCAACGTAGTAAGAAATTTCCAGAGA-3' forward,
+5'-CAACCCAGCCCAGAATTAACTG-3' reverse, 5'FAM-AGCCTGTGTAAAAC-MGB-3', and
+5'VIC-CCTGTCTAAAACACC-MGB-3'. For the X/Y alleles (-220), the following primes and
+probes were used: 5'-GCACGGTCCCATTTGTTCTCA-3' forward, 5'-GCGTTGCTGCTGGAAGACTATAAA-3'
+reverse, 5'VIC-CATGCTTTCGGTGGCAG-MGB-3', and 5'FAM-CATGCTTTCCGTGGCAG-MGB-3'. Protocol
+conditions are available on the SNP500-Cancer website.20
+Genotyping of the exon 1 of the MBL2 gene was performed using SYBR
+Green(r) fluorophore (Applied Biosystems - Foster City, CA, USA) with the following
+primers: forward 5'-AGGCATCAACGGCTTCCCA-3' and reverse 5'-CAGAACAGCCCAACACGTACCT-3'.
+Melting curve profiles were obtained using the dissociation software of the Rotor
+Gene 6000(tm). The three allelic variants of exon 1 were grouped as allele 'O',
+whereas the wild-type allele was termed 'A'. The haplotypes of the
+MBL2 gene were grouped into two groups according to MBL
+production levels: high (HYA and LYA) and intermediate/low levels (LXA, HYO, and
+LYO), as previously described.21
+Statistical analysis
+In order to analyze MBL2 polymorphisms and infectious events, the
+patients were divided into two groups according to the presence or absence of
+infection. Clinical and laboratory features were then compared. Fisher's exact test
+was employed to compare differences between categorical variables, and Student's
+unpaired t-test was used to compare continuous variables. The
+follow-up time was established as the time of interval from diagnosis until the
+analysis of the patient's health record. The haplotype frequencies were calculated
+using Arlequim software version 3.1 (Geneva University -Geneva, Switzerland). Allele
+and genotype frequencies and the statistical analyses were performed using SPSS
+version 19.0 (IBM Corporation - Somers, NY, USA), with the level of significance set
+at 5%.
+
+Results
+The main clinical and laboratory features are summarized in Table 1. Infectious events were recorded in 44 (38%) of the 116
+patients analyzed. Respiratory tract infections (n = 19; 43%) and herpes viruses (n = 8;
+18%) were the most frequent cases of infection. Patients with no infectious events
+presented a follow-up time significantly lower than those with infections
+(p-value = 0.034). Regarding the Binet staging system, a higher
+frequency of stage A was observed in patients with no infection
+(p-value = 0.005). The development of splenomegaly (mainly due to
+lymphoid infiltration) was significantly associated with infectious events
+(p-value = 0.002). Lymphadenomegaly was the most common form of
+impairment (n = 52; 45%) in the present cohort, but no difference between patients with
+and without infection was observed (p-value = 0.1).
+The genotype distributions were in agreement with Hardy-Weinberg equilibrium. For the
+group of patients with no infection, the -221 allele frequencies were 0.18 (allele X)
+and 0.82 (allele Y), and the -550 allele frequencies were 0.34 (allele H) and 0.66
+(allele L); the frequencies of the A and O alleles of exon 1 were 0.76 and 0.24,
+respectively. In the group of patients with infections, the frequencies were: 0.21 (X),
+0.79 (Y), 0.40 (H), 0.60 (L), 0.74 (A), and 0.26 (O). The X/Y, H/L, and A/O allele
+frequencies did not differ between the two groups (p-value = 0.39,
+p-value = 0.12, and p-value = 0.5, respectively).
+The genotype distributions of the polymorphisms in the group with infections compared to
+the group with no infection did not show any significant difference
+(p-value = 0.29, p-value = 0.31, and
+p-value = 0.37, respectively; Table
+2).
+The most frequent haplotypes were HYA/LYA (15%) and LYA/LXA (15%). The frequency of
+haplotypes related to high (HYA/HYA, HYA/LYA, LYA/LYA), intermediate (HYA/LXA, HYA/ HYO,
+HYA/LYO, LYA/LXA, LYA/LYO, LXA/LXA, LXA/LYO), and low (HYO/LYO, HYO/HYO, HYO/LXA,
+LYO/LYO, LYO/LXO) levels of functional serum MBL were 0.31, 0.62, and 0.07,
+respectively. The association between the haplotypes with the risk of infection was not
+significant (p-value = 0.208; Table
+3).
+
+Discussion
+Accumulating evidence indicates that loss of function of MBL protein, resulting from
+polymorphisms in the MBL2 gene, is one of the most common genetic
+influences on immune response;22 this
+has been associated with recurrent episodes of infection in several diseases, including
+hematological malignancies.23-25 Nevertheless, the results of the impact
+of MBL2 gene polymorphisms in hematological malignancies are
+controversial. Kilpatrick et al.23
+found no association between MBL serum levels and chemotherapy-related infection (alone
+or after bone marrow transplantation) in patients with hematological malignancies. In
+agreement, Klostergaard et al.24
+demonstrated that the occurrence of sepsis in patients with acute myeloid leukemia
+treated with high-dose chemotherapy was not associated with MBL2 gene
+polymorphisms. By contrast, Vekemans et al.25 observed that MBL protein deficiency is associated with a higher
+frequency of infections in patients with hematological malignancies submitted to
+intensive chemotherapy.
+To the authors' knowledge, the present study was the first to address the information
+regarding MBL2 polymorphisms in the development of infections in
+chronic lymphoproliferative disorders. Although MBL2 gene polymorphisms
+were not evaluated in healthy subjects, the present data showed similar allele and
+genotype frequencies in CLL patients as healthy donors from other studies.26,27 Regarding MBL2 gene polymorphisms in respect to
+occurrence of infections, it was not possible to demonstrate a significant association
+between polymorphisms of the -221 and -550 promoter regions and exon 1 of the
+MBL2 gene with higher risk of infection in CLL patients. However,
+due to the well-known occurrence of infectious events in CLL, some patients were
+subjected to antiinfective prophylaxis, which could have masked the risk for developing
+infections.
+The distribution of MBL2 haplotypes demonstrated a higher frequency of
+HYA and LYA haplotypes, corroborating previous studies,28,29 although the
+MBL serum levels did not show significant differences between groups. The heterogeneity
+of data concerning susceptibility to infection by deficiencies in functional MBL protein
+could be explained by the fact that some microorganisms are facultative intracellular
+pathogens, which suffer the action of the innate immune system only when exposed to the
+extracellular environment.30
+Therefore, this mechanism could influence not only bacterial persistence, but also the
+progression of infections.
+Advanced clinical stages in CLL are associated with a worse prognosis and, consequently,
+a higher occurrence of comorbidities.31 In the present cohort, a low frequency of infection was observed in
+patients with initial clinical stage (Binet A) and a significant association between
+risk of infection and splenomegaly was observed. Additionally, the follow-up time was
+significantly lower in the group with no infection, which may have been influenced by
+the absence of infection in this group, due to the short time of the clinical course of
+the disease. It must be highlighted that infectious events occur as a time dependent
+variable and that the cumulative incidence of infection between patients with and
+without MBL2 polymorphisms would add valuable information to the
+results. However, this strategy was not explored due to the limited numbers of patients
+in the study in relation to the small number of deaths (n = 8).
+
+Conclusion
+In summary, the present study demonstrated that MBL2 polymorphisms were
+not associated with high-risk of infection in CLL. However, the conclusions are limited
+by the sample size, and need to be further investigated in a larger cohort. Furthermore,
+an accurate assay of plasma MBL concentration would be helpful to determine the role of
+MBL2 polymorphisms in the functional protein levels and their
+prognostic impact on CLL.

@@ -1,0 +1,287 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Blood Magnesium, and the Interaction with Calcium, on the Risk of
+                    High-Grade Prostate Cancer. Background Ionized calcium (Ca) and magnesium (Mg) compete as essential messengers to                         regulate cell proliferation and inflammation. We hypothesized that                         inadequate Mg levels, perhaps relative to Ca levels (e.g. a high Ca/Mg                         ratio) are associated with greater prostate cancer risk.   Study Design In this biomarker sub-study of the Nashville Men's Health Study (NMHS),                         we included 494 NMHS participants, consisting of 98 high-grade                         (Gleason>=7) and 100 low-grade cancer cases, 133 prostate intraepithelial                         neoplasia (PIN) cases, and 163 controls without cancer or PIN at biopsy.                         Linear and logistic regression were used to determine associations between                         blood Ca, Mg, and the Ca/Mg ratio across controls and case groups while                         adjusting for potential confounding factors.   Results Serum Mg levels were significantly lower, while the Ca/Mg ratio was                         significantly higher, among high-grade cases vs. controls                         (p = 0.04, p = 0.01,                         respectively). Elevated Mg was significantly associated with a lower risk of                         high-grade prostate cancer (OR = 0.26 (0.09, 0.85)). An                         elevated Ca/Mg ratio was also associated with an increased risk of                         high-grade prostate cancer (OR = 2.81 (1.24, 6.36)                         adjusted for serum Ca and Mg). In contrast, blood Ca levels were not                         significantly associated with prostate cancer or PIN.Mg, Ca, or Ca/Mg levels                         were not associated with low-grade cancer, PIN, PSA levels, prostate volume,                         or BPH treatment.   Conclusion Low blood Mg levels and a high Ca/Mg ratio were significantly associated with                         high-grade prostate cancer. These findings suggest Mg affects prostate                         cancer risk perhaps through interacting with Ca.
+
+Introduction
+Prostate cancer is the most common non-cutaneous malignancy in Western societies and
+                the second leading cause of cancer death in men [1]. A number of prospective studies
+                have investigated the relationship between calcium and overall prostate cancer risk,
+                with decidedly mixed results [2]-[6]. Several studies also investigating the relationship
+                between calcium intake and the risk of aggressive or clinically relevant prostate
+                cancers have generated both null [4], [6] and positive results [7]-[13]. In contrast, two recent
+                studies found higher serum calcium levels associated with aggressive lesions or
+                fatal prostate cancer [14], [15]. Blood calcium levels are tightly regulated, and only
+                moderately affected by dietary intake of calcium and absorption rate [16]. Thus, one
+                possible explanation for the inconsistencies across study populations is that
+                dietary intake measures of calcium may not accurately reflect the blood calcium
+                concentration to which prostate tissue is exposed.
+Magnesium is the second most abundant intracellular cation in the body, involved with
+                over 300 biological activities [17], and calcium and magnesium levels in the body are jointly
+                regulated through a negative feedback system [16], and through competition for
+                intestinal absorption and renal reabsorption [18]. Calcium and magnesium also
+                compete for membrane binding sites within the cell, and previous in
+                    vitro and in vivo studies indicate that magnesium
+                inhibits calcium activity or that magnesium deficiency enhances the physiologic
+                effects of calcium [17], [19], [20].
+The 1999-2000 National Health and Nutrition Examination Survey found 79%
+                of U.S. adults have a magnesium intake below the Recommended Dietary Allowance [21]. Magnesium
+                deficiency in Western societies has been linked to insulin resistance [22], [23], type II
+                diabetes [24],
+                    [25],
+                metabolic syndrome [26], coronary heart disease [27], colorectal cancer [28], and
+                colorectal adenoma [29]. Similar to the relationships between obesity and most
+                chronic diseases, systemic inflammation may be a unifying pathway by which magnesium
+                deficiency contributes to such a broad range of morbidity [19], [30]. Chronic inflammation may also
+                play a key role in the progression from normal tissue to prostatic intraepithelial
+                neoplasia (PIN) and prostate cancer [31], and it is also possible that
+                the elevated inflammatory response associated with magnesium deficiency is dependent
+                on concurrent calcium levels [19].
+The purpose of this study is to investigate the association between serum magnesium
+                with prostatic intraepithelial neoplasia (PIN), low-grade prostate cancer, and
+                high-grade prostate cancer. We further investigated the interaction between
+                magnesium and calcium levels on aggressive or high-grade prostate cancer risk,
+                hypothesizing that inadequate serum magnesium levels reflected by a high serum ratio
+                of calcium to magnesium will be associated with more aggressive prostate cancer.
+
+Materials and Methods
+Study Population
+The Nashville Men's Health Study (NMHS) utilizes a multi-centered,
+                    rapid-recruitment protocol to collect clinical, biological, behavioral, and body
+                    measurement data from men scheduled for diagnostic prostate biopsy. All
+                    participants provided written informed consent in accordance with the Vanderbilt
+                    University IRB. Men scheduled for a diagnostic prostate biopsy between 2002 and
+                    2008 at a Vanderbilt University Medical Center (Nashville, TN), the Tennessee
+                    Valley Veteran's Administration Hospital (Nashville, TN), or a large
+                    private urology practice in Nashville, were approached for recruitment. Eligible
+                    participants were 40 years of age or older and had no prior prostate cancer
+                    diagnosis. Approximately 95% of eligible men approached for recruitment
+                    agree to participate, and the study population included 2,100 eligible
+                    consenting subjects. Pathology data were analyzed from two labs, but over
+                    90% of patients were diagnosed at a large community urologic partnership
+                    with one on-site pathologist. We have compared in a sub-sample of 60 men
+                    pathology scoring at biopsy from pathology after gland removal (the definitive
+                    staging) and found similar biopsy Gleason score categories.
+Biomarker Sub-Study
+In 2009, a sub-study of 503 NMHS participants was developed for translational
+                    investigations of promising biomarkers hypothesized to be associated with
+                    prostate cancer risk. We included all 137 available PIN cases available to us at
+                    that time through recruitment, and PIN cases served as the age index for
+                    frequency matching. We then randomly selected from our available recruitment 101
+                    high-grade prostate cancer cases (Gleason = 7(4+3
+                    only), 8, 9, or 10) and 100 low-grade prostate cancer cases
+                    (Gleason = 6) such that the PIN, low-grade, and high-grade
+                    cases had an age distribution between 50-80 years and had a similar age
+                    distribution using 5-year age categories. We also randomly selected 165
+                    biopsy-negative controls using identical age criteria from approximately 900
+                    candidates, although we oversampled controls less than age 55 through random
+                    selection to support the analysis of younger men with fewer cancer outcomes.
+Data Collection
+Measures of body size and weight were collected by a trained research staff
+                    member at the time of recruitment. Participants wore a hospital gown or other
+                    light clothing, and did not wear shoes. Chart review included age, race, PSA
+                    history, and prostate needle-biopsy result (cancer, PIN, negative, or a
+                    suspicious, atypical, or other lesion). Gleason scores at biopsy were also
+                    ascertained for subjects diagnosed with cancer following pathology review of the
+                    biopsy specimen. Prostate volume (cm3) was measured by transrectal
+                    ultrasound (TRUS) during the prostate biopsy procedure. Family history of
+                    prostate cancer was ascertained from the surgical chart and by a structured
+                    research questionnaire administered to each participant upon recruitment.
+As a part of the pre-biopsy clinic visit, all NMHS participants are instructed to
+                    make a list of all current medications at home or to bring their medications to
+                    this clinic visit. Prior to biopsy, the surgeon reviews all survey responses
+                    with the participant to confirm that the subject has been taking the listed
+                    drugs. Additionally, the surgeon makes specific queries to the subject for drugs
+                    such as aspirin or Warfarin that might affect bleeding or clotting during the
+                    biopsy procedure. All prescription and non-prescription drugs were abstracted
+                    from the medical record following consent from the participant. Drug categories
+                    were developed to represent men receiving treatment for cardiovascular disease,
+                    diabetes, BPH, or taking a non-steroidal anti-inflammatory agent. Drugs
+                    formulated as a combination of two or more active drugs were classified by each
+                    of the component drugs.
+Biomarker Assays
+Serum concentration of magnesium and calcium were determined by standard analytic
+                    method on the Beckman DXC 800 chemistry analyzer provided by the Vanderbilt
+                    Pathology Laboratory Services with an intra-assay coefficient of variation of
+                    2.0. Several biomarkers associated with obesity were also analyzed. All study
+                    biomarker assays include a standard set of blank and positive controls and were
+                    performed in a single batch and blind to case-control status.
+Data Analysis
+Among 503 participants, we dropped these participants (1 high-grade cancer, 1
+                    PIN, 1 control) for missing magnesium levels; (1 control, 1 low-grade cancer, 1
+                    PIN) for missing calcium levels; and (1 PIN, 1 high-grade cancer) for missing
+                    both Mg and Ca. We also dropped 1 PIN case with severe hypocalcemia (2.5 ng/ml).
+                    Thus, the final analytic study population included 494 participants (99
+                    high-grade cancer and 99 low-grade cancer, 133 PIN, and 163 negatives). Analyses
+                    that controlled for WHR were limited to 493 participants with WHR.
+The current molecular sub-study was independently funded to test our a
+                        priori hypothesis, as stated from our grant, that low serum
+                    magnesium levels are associated with increased risk of PIN and prostate cancer,
+                    perhaps more so among men with elevated calcium levels. Thus, our primary
+                    analyses investigated the associations between serum magnesium and
+                    calcium/magnesium ratio and risk of PIN and prostate cancer, whereas all other
+                    analyses were conducted to support the primary analysis or to explore nature of
+                    our primary findings. Because we also proposed the direction of the association
+                    in the a priori hypothesis, one-sided tests were performed for
+                    primary hypotheses.
+Prior to testing our primary hypothesis, preliminary analyses compared mean
+                    magnesium and calcium levels across age categories, demographics, obesity
+                    measures, PSA levels, prostate volume, NSAID use, treatment for BPH, CVD,
+                    hypercholesterolemia, or diabetes. The distributions of magnesium, calcium, and
+                    the ratio of calcium to magnesium ratio (Ca/Mg) were approximately normally
+                    distributed and therefore were not transformed for analysis. Our primary
+                    analyses compared mean magnesium and calcium levels between cancer, PIN, and
+                    control groups. We report mean values adjusted for WHR, diabetes treatment, CVD
+                    treatment, and race in a linear model after finding that these factors were
+                    significantly associated with either calcium or magnesium levels, orCa/Mg
+                    (p<0.05). We also adjusted for age to accommodate potential residual
+                    confounding not addressed through the frequency matching of cases and controls
+                    for the biomarker sub-study. Logistic regression was used to calculate odds
+                    ratios (ORs) and 95% confidence intervals summarizing the association
+                    between magnesium, calcium, or Ca/Mg with each case outcome in separate models
+                    adjusting for age or for age, WHR, race, and treatment for diabetes and CVD.
+                    Magnesium, calcium, and Ca/Mg were scaled as continuous variables or categorized
+                    at tertiles of the control-group distribution. Tests for interaction were
+                    determined by cross-product term between magnesium or calcium and the covariates
+                    of interest in the presence of each main-effect and other covariates.
+
+Results
+Controls, PIN cases, and cancer cases had similar distributions for age, race, and
+                family history of prostate cancer (Table 1). Serum levels of magnesium, calcium, and Ca/Mg
+                averaged 2.14 ng/ml, 9.72 ng/ml, and 4.58, respectively. Magnesium levels were not
+                significantly correlated with calcium levels overall
+                (r = -0.06, p = 0.17), or within
+                controls (r = 0.06, 0.48), or low-grade
+                (r = -0.05, p = 0.62) or high-grade
+                (r = -0.07, 0.52) cancer cases.There was a significant
+                but weak inverse correlation between magnesium and calcium levels among PIN cases (r
+                 = -0.20, p = 0.02).
+Magnesium levels were significantly lower among non-white participants, as well as
+                participants being treated for diabetes or CVD (Table 2). However, only 16 non-white
+                subjects were being treated for diabetes. Calcium and the Ca/Mg were also
+                significantly associated with treatment for diabetes, and the Ca/Mg ratio was
+                significantly lower among whites compared to non-whites. Furthermore, serum calcium
+                and the Ca/Mg ratio were significantly higher with a higher WHR. In contrast,
+                magnesium, calcium, and Ca/Mg were not significantly associated with current use of
+                steroid reductase inhibitors and/or alpha blockers, PSA levels, prostate size, BMI,
+                or other factors considered. Thus, final analytic models did not adjust for current
+                use of steroid reductase inhibitors and/or alpha blockers, PSA and prostate size,
+                BMI, or volume.
+Magnesium levels were approximately 5% lower among high-grade cancer cases
+                compared to controls (p = 0.04) or PIN cases
+                (p = 0.03) after adjusting for age, WHR, race, and treatment
+                for diabetes and CVD (Table
+                        3). Accordingly, the Ca/Mg ratio was significantly higher
+                among high-grade cases compared to controls (p = 0.01) and PIN
+                cases (p = 0.05). The Ca/Mg ratio was also higher among
+                high-grade cancer cases compared to low-grade cases (p = 0.05).
+                In contrast, serum calcium levels were somewhat higher among high-grade prostate
+                cancer cases, but differences in calcium levels between groups were not
+                statistically significant.
+Similarly, increasing magnesium levels were associated with a lower likelihood of
+                being diagnosed with high-grade prostate cancer. For example, magnesium levels in
+                the highest tertile were associated with an approximate 48% reduction in risk
+                (OR = 0.52, (0.26, 1.02; p-trend = 0.04).
+                This association became stronger after additional control for calcium
+                (OR = 0.48 (0.24-0.96;
+                p-trend = 0.03) (Table 4). While high-grade cancer was not associated
+                with calcium levels, the Ca/Mg ratio was associated with an increasing trend for
+                greater risk of high-grade prostate cancer. Furthermore, Ca/Mg as a continuous
+                variable was significantly associated with high-grade disease
+                (OR = 2.81 (1.24, 6.36), adjusted for magnesium, calcium, and
+                other covariates). Table
+                        5 summarizes the relationship between magnesium levels and
+                high-grade disease across calcium levels, and suggests that higher magnesium levels
+                may lower the risk of high-grade prostate cancer among men with high calcium levels
+                (OR = 0.48 (0.23, 1.00)).
+
+Discussion
+We found serum magnesium levels, and the ratio of calcium-to-magnesium (Ca/Mg), was
+                significantly associated with high-grade prostate cancer. Calcium levels alone, in
+                contrast, were not consistently associated with prostate cancer or PIN. Our analyses
+                also suggested that increased blood magnesium levels have an effect that may be at
+                least partially dependent on calcium levels toward the pathogenesis for high-grade
+                prostate cancer.
+Calcium has long held an interest in cancer with essential messenger roles regulating
+                cell cycle proliferation and apoptosis [32]-[34]. Calcium consumption might
+                also reduce the production of 1,25-dihydroxyvitamin D (1,25(OH)2D; calcitriol), the
+                hormonal form of vitamin D [35]. However, studies of dietary calcium intake in relation
+                to aggressive prostate cancer have produced mixed results [2], with little evidence of an
+                association in the Melbourne Collaborative Cohort Study [6], the Calcium Polyp Prevention
+                Study [3], the
+                Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial [4], or a recent prospective analysis
+                of blood calcium levels [5]. In contrast, several prospective studies have suggested
+                that greater intake of calcium [2] or a higher level of serum calcium [14], [15] is associated with aggressive,
+                poorly differentiated, lesions or fatal prostate cancer. Our analysis may be the
+                first to suggest that the relationship between calcium and prostate cancer depends,
+                at least to some degree, on the counter-effects of magnesium, and provides one
+                possible explanation for some inconsistency in the previous studies.
+Magnesium plays an essential role in DNA repair, cell differentiation and
+                proliferation, apoptosis, and angiogenesis [17], [19], [36]. Magnesium deficiency is also
+                linked to the inflammatory response [19] and oxidative stress [37], while magnesium
+                supplementation, in contrast, improves insulin sensitivity and reduces insulin
+                levels [23]
+[22]. Given the
+                broad range of biological functions dependent on magnesium, it is highly plausible
+                that magnesium deficiency may affect multiple pathways toward tumorigenesis across
+                the body. For example, a recent study found mice transplanted with Lewis Lung
+                Carcinoma and receiving a low-Mg diet had a significant 70% reduction in
+                primary tumor growth, but also had a higher metastatic potential [38].
+                Interestingly, we found low serum Mg was only associated with an increased risk of
+                high-grade prostate cancer, but not PIN or low-grade prostate cancer, perhaps
+                consistent with the higher metastatic potential found in the prior animal studies.
+                Magnesium acts as a physiologic antagonist to ionized calcium [17], and a low ionized magnesium
+                level may further potentate the activity of ionized calcium [17]. We found the Ca/Mg ratio was
+                associated with high grade prostate cancer after adjusting for magnesium and calcium
+                levels, and there was a somewhat stronger, although not significantly stronger,
+                association between magnesium and high-grade prostate cancer among men with higher
+                serum calcium.
+Thus, our data suggest that magnesium levels may influence the progression of
+                prostate lesions to a higher grade. Migration studies further reveal a substantial
+                increase in the incidence of advanced prostate cancer as men move from Eastern Asia
+                to the West [29],
+                    [39], while
+                the age-specific prevalence of indolent and early-stage prostate cancer lesions
+                detected at autopsy are relatively uniform across countries [40]. Magnesium intake is similar
+                between the East and West, however the ratio of dietary calcium to magnesium intake
+                is much higher (2.8) in the US population than (1.6) in East Asia [29], perhaps
+                contributing to international differences in prostate cancer risk described above,
+                as well as colorectal cancer risk [29]. We found previously that the calcium/magnesium intake
+                ratio modified the association between calcium intake and magnesium intake on the
+                risk of colorectal adenoma [29]. Similarly, we found in our current prostate cancer study
+                that African Americans had a significantly higher Ca/Mg serum ratio than whites, and
+                our findings provide a possible underlying mechanism for the racial disparity in
+                fatal prostate cancer.
+There are several strengths to this analysis, including the opportunity to evaluate
+                the potential for detection biases related to differences in PSA,prostate volume.
+                Blood was collected prior to diagnosis and treatment, and body size measures were
+                ascertained by trained staff. One concern is that the temporal relationship between
+                magnesium, or the calcium/magnesium ratio, and carcinogenesis cannot be conclusively
+                determined. Although we cannot exclude the possibility that the alterations in
+                levels of magnesium and calcium are an effect rather than a cause of prostate
+                cancer, previous animal studies suggest that our associations are not an effect of
+                prostate cancer. Furthermore, prior studies in humans found lower levels of
+                magnesium (thus, higher serum calcium/magnesium ratio) lead to inflammation and
+                insulin resistance which have been linked to progression of prostate cancer. In our
+                study, we only found significant differences between negative controls with
+                high-grade cancer, but not PIN or low-grade cancer. This argues that lower levels of
+                magnesium (or high calcium/magnesium ratio) are not simply a consequence of cancer,
+                but does not remove the possibility that high-grade cancer in some way affects blood
+                Mg levels. There is a somewhat higher probability that high-grade prostate cancer
+                has metastasized to the bone, and bone provides a repository for circulating calcium
+                and magnesium. However, clinical chart review from 189 prostate cancer cases from
+                this study found that no evidence of metastatic disease or lymph node involvement at
+                diagnosis. Nevertheless, prospective studies are warranted to confirm our novel
+                findings. Although men with prior BPH surgery were not eligible for this analysis
+                and we found no association between current BPH treatment with Mg or Ca, we cannot
+                eliminate the possibility that a presumably small number of past finasteride user
+                affected our results. The difference in Ca/Mg serum ratio between whites and African
+                Americans needs to be interpreted with caution because this was a secondary
+                analysisbased on only 50 African American participants.
+Our finding indicates that higher blood magnesium levels are associated with a lower
+                risk of high-grade prostate cancer. The lower ratio of calcium to magnesium was also
+                associated with high-grade prostate cancer, suggesting the interaction between
+                magnesium and calcium plays a role in the pathogenesis and progression of this
+                disease to a more clinically relevant phase. These findings, if confirmed, may
+                provide a new avenue for the personalized prevention or adjuvant care of prostate
+                cancer.

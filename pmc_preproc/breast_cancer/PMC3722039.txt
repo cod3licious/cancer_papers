@@ -1,0 +1,138 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed]
+
+Multifunctional dendrimer-based nanoparticles for in vivo MR/CT dual-modal molecular imaging of breast cancer. Development of dual-mode or multi-mode imaging contrast agents is important for accurate and self-confirmatory diagnosis of cancer. We report a new multifunctional, dendrimer-based gold nanoparticle (AuNP) as a dual-modality contrast agent for magnetic resonance (MR)/computed tomography (CT) imaging of breast cancer cells in vitro and in vivo. In this study, amine-terminated generation 5 poly(amidoamine) dendrimers modified with gadolinium chelate (DOTA-NHS) and polyethylene glycol monomethyl ether were used as templates to synthesize AuNPs, followed by Gd(III) chelation and acetylation of the remaining dendrimer terminal amine groups; multifunctional dendrimer-entrapped AuNPs (Gd-Au DENPs) were formed. The formed Gd-Au DENPs were used for both in vitro and in vivo MR/CT imaging of human MCF-7 cancer cells. Both MR and CT images demonstrate that MCF-7 cells and the xenograft tumor model can be effectively imaged. The Gd-Au DENPs uptake, mainly in the cell cytoplasm, was confirmed by transmission electron microscopy. The cell cytotoxicity assay, cell morphology observation, and flow cytometry show that the developed Gd-Au DENPs have good biocompatibility in the given concentration range. Our results clearly suggest that the synthetic Gd-Au DENPs are amenable for dual-modality MR/CT imaging of breast cancer cells.
+
+Introduction
+Over the past decade, molecular imaging (MI) has provided the possibility of obtaining in vitro and in vivo physiological and pathological information with high sensitivity and specificity.1 The modalities of MI include optical imaging,2 computed tomography (CT) imaging,3 magnetic resonance (MR) imaging,4 position emission tomography,5 and single photon emission computed tomography.6 As two of the important MI technologies, CT and MR afford better resolution than other imaging modalities. They will have more advantages when appropriate MI probes are used.
+Recent advances in nanotechnology show that multifunctional nanomaterials can be used as MI probes, which are able to not only carry targeting molecules and drugs to perform targeted diagnosis and therapeutics,7 but also afford different imaging modalities dependent on the composition of the materials.8 For accurate and self-confirming cancer diagnosis, it is essential to combine dual-mode and multi-mode imaging functionalities within one nanoparticle (NP) system, which can avoid putting additional stress on the body's blood clearance capability via administration of multiple doses of agents.8
+Due to the limitations of the clinically used CT contrast agents, such as short imaging time, renal toxicity at relatively high concentrations, and nonspecificity, NP-based inorganic agents have been developed. For example, gold NPs (AuNPs)3,9 with a high X-ray absorption coefficient, have been used as CT contrast agents due to their satisfactory biocompatibility after surface functionalization, long blood circulation time, and easy biofunctionalization on the surface. On the other hand, gadolinium (Gd)-based T1 contrast agents, which are now widely used as MR contrast agents for clinical diagnosis, also have some shortcomings, such as low T1 relaxivity, short blood half-life, and the instability of Gd(III)/diethylenetriaminepentaacetic acid (DTPA) complexes that can cause nephrogenic systemic fibrosis.10,11 Consequently, macromolecular MR contrast agents have been developed. These macromolecular agents have promising features, such as well-defined structure, desirable pharmacokinetics, and high in vivo T1 relaxivity.12,13 However, very few contrast agents have been developed that provide multiple imaging contrast effects (ie, effective for both MR and CT imaging). These multimodal imaging probes, such as iohexol-gadoteridol,14 Gd-G8 dendrimer,15 Gd-chelated AuNPs,16,17 and FePt NPs,18 have offered somewhat limited sensitivity, stability, or blood circulation time. Therefore, the preparation of a dual-modality contrast agent that is stable while permitting sensitive imaging with both MR and CT still remains a great challenge.
+The surface of the poly(amidoamine) (PAMAM) dendrimers can be modified with different peripheral functional groups that allow them to be used in various biomedical applications, such as conjugating chelating agents for MR contrast agents19 or for the delivery of drugs and nucleic acids.20,21 Additionally, the interior features of the dendrimers enable them to be used as templates or stabilizers for preparation of inorganic NPs,22 such as gold and silver. Our previous studies3,23-25 have shown that the generation 5 (G5) PAMAM dendrimer-entrapped gold nanoparticles (Au DENPs) can be used as blood pool CT contrast agents or targeted cancer-specific CT agents. In a very recent study,26 we have shown that Gd-loaded Au DENPs (Gd-Au DENPs) prepared using the facile dendrimer chemistry enable MR/CT dual-mode imaging of the heart, liver, kidney, and bladder of rat or mouse within a time frame of 45 minutes. Our prior successes lead us to hypothesize that the synthesized multifunctional Gd-Au DENPs may also be used for dual-mode MR/CT imaging of tumors.
+In this study, following the protocols reported in our previous work,26 multifunctional Gd-Au DENPs were synthesized and characterized for dual-mode MR/CT imaging of breast cancer cells in vitro and in vivo. The cytotoxicity of the multifunctional Gd-Au DENPs was evaluated via 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) cell viability assay and flow cytometry. The cellular particles taken up were confirmed via transmission electron microscopy (TEM) imaging. Finally, the Gd-Au DENPs were used for dual-mode MR/CT imaging of MCF-7 cells in vitro and xenografted tumor model in vivo.
+
+Materials and methods
+Characterization techniques
+The multifunctional Au-DENPs were synthesized and characterized according to our previous protocol.26 A Lambda 25 UV/Vis spectrometer (PerkinElmer, Waltham, MA, USA) was used to collect ultraviolet and visible (UV-Vis) spectra. A JEOL 2010F analytical electron microscope (JEOL, Tokyo, Japan) was used to characterize the size and morphology of the Gd-Au DENPs.
+Cell culture
+MCF-7 breast cancer cells were continuously cultured in RPMI 1640 medium with 10% Fetal Bovine Serum (FBS) at 37degC and 5% CO2.
+Cytotoxicity of Gd-Au DENPs
+The cytotoxicity of Gd-Au DENPs was conducted according to a previously reported method.23,27 The morphology of the cells after treatment with the Gd-Au DENPs was observed with optical microscopy (Nikon, Tokyo, Japan) after staining with hematoxylin and eosin (HE). The viability of cells treated with the Gd-Au DENPs was evaluated using an MTT assay. Varying concentrations of Gd-Au DENPs ([Au] = 5-50 mM) was added into the MCF-7 cell culturing medium. The toxicity of the Gd-Au DENPs was further examined by the flow cytometric detection of cell cycles and apoptosis. MCF-7 cells were cultured with fresh medium containing different concentrations of the Gd-Au DENPs ([Au] = 25 and 50 mM).
+Cellular uptake of the Gd-Au DENPs
+Cellular uptake of the Gd-Au DENPs was observed by using an H600 transmission electron microscope (TEM), (Hitachi, Tokyo, Japan) operating at a voltage of 60 kV MCF-7 cells were plated in 6-well cell culture plates at a density of 3 x 105 cells per well in RPMI 1640 medium with 10% FBS for 24 hours to grow to approximately 80% confluence. Then the Gd-Au DENPs were added to each well with a final Au concentration of 50 mM and incubated for 24 hours at 37degC.
+In vitro MR/CT imaging of breast cancer cells
+For dual-mode MR/CT imaging, MCF-7 cells were incubated with Gd-Au DENPs at different Au concentrations (050 mM) for 4 hours at 37degC. After washing three times with phosphate buffered saline (PBS), the cells were trypsinized centrifuged and resuspended with 100 mL of PBS in a 0.5 mL Eppendorf tube (Eppendorf, Hamburg, Germany) that contained approximately 1.5 x 106 cells in each tube. The T1 relaxation rate for each sample was measured using a 3.0 T Signa HDxt superconducting MR system (GE Medical Systems, Milwaukee, WI, USA) with a wrist receiver coil and a fast spin-echo sequence (repetition time [TR]/echo time [TE] = 2000/81.9 ms, matrix = 256 x 256, section thickness = 2 mm, and field of view [FOV] = 80 x 80 mm). Regions of interest were selected to encompass cross-sections of respective tubes. The mean T1 weighted signal1 intensity was measured for each cell sample (Smean). Separate regions of interest were drawn outside the tube to estimate relative noise levels based upon the standard deviation of the background signal (NSD). Then the relative signal-to-noise ratio (SNR = Smean/NSD) were calculated. For tumor-bearing mice (see below), these SNR measurements were repeated for each MR scan before or after injection.
+For CT imaging, the cell suspension in each tube was placed in a self-designed scanning holder and then scanned using a volume computed tomography (VCT) imaging system (GE LightSpeed GE Medical Systems, Milwaukee, WI, USA), operating at 80 mA, 100 kV with 0.625-mm thickness.
+In vivo MR/CT imaging
+Animal experiments and animal care were conducted according to protocols approved by the institutional committee. Male 4-week-old BALB/c nude mice (n=9, Slac Laboratory Animal Center, Shanghai, People's Republic of China) were subcutaneously injected with 1 x 106 cells/mouse in the right second mammary fat pad. When the tumor nodules reached a volume of 0.1-1 cm3, approximately 3 weeks after injection, the mice were anesthetized with an intraperitoneal injection of 0.3 mL of 3% pentobarbital sodium (12 mL/kg), and 200 mL of Gd-Au DENPs ([Au] = 50 mM, [Gd] = 5.34 mM) was delivered via the tail vein. MR scans were performed before injection and 30 minutes, 120 minutes, 180 minutes, 12 hours and 24 hours after injection of the particles. A 3.0 T Signa HDxt superconducting clinical MR system (GE Medical Systems) was used with a custom-built rodent receiver coil (Chenguang Med Tech, Shanghai, People's Republic of China). At each time point for each animal, 2D spin-echo MR images were obtained with a 2-mm slice thickness, TR/TE 2000/81.9 ms, a 6 x 6 cm FOV, and a 256 x 160 matrix. The MR images were processed using the strategy described above for in vitro MR studies.
+For CT imaging of the tumor model, the scans were performed before and 15 minutes, 100 minutes, 160 minutes, 12 hours, and 24 hours after injection of the particles using a GE LightSpeed VCT clinical imaging system (GE Medical Systems) with a 100 kV tube voltage, an electrical current of 80 mA, and a slice thickness of 0.625 mm.
+In vivo biodistribution of Gd-Au DENPs
+After MR and CT imaging of the tumor model at the different time points after injection of the Gd-Au DENPs ([Au] = 50 mM), the mice were euthanized. The liver, spleen, heart, blood, kidney, and tumors of the mice were extracted and weighed. The organs were cut into small pieces and incubated in aqua regia solution overnight. The Au content was determined using a Leeman Prodigy inductively coupled plasma atomic emission spectroscopy (ICP-AES, Teledyne Leeman Labs, Hudson, NH, USA).
+Statistical analysis
+The significance of the experimental data were evaluated by one-way ANOVA statistical analysis. The significance level was set as 0.05.
+
+Results and discussion
+Synthesis and characterization of Gd-Au DENPs
+Similar to our previous study,26 amine-terminated G5 PAMAM dendrimers were multifunctionalized through grafting gadolinium chelator DOTA-NHS and carboxylic acid functionalized methoxyl polyethylene glycol onto their surface. Using functional G5 dendrimers as templates, Au DENPs were prepared with sodium borohydride reduction chemistry. After chelating Gd(III) ions with the attached DOTA moieties onto the dendrimer surface, the remaining dendrimer terminal amine groups were acetylated to neutralize the positive charges. The obtained multifunctional Gd-Au DENPs were used for both MR and CT imaging of cancer cells in this study. Detailed characterization of the Gd-Au DENPs can be seen in our previous study26 and in the supporting information. Figure 1 shows the UV-Vis spectrum of the Gd-Au DENPs. The surface plasma resonance peak located at 520 nm clearly indicates the formation of AuNPs. In addition, the size and morphology of the Gd-Au DENPs were characterized with TEM (Figure 2). It can be seen that the Gd-Au DENPs have a spherical shape and a uniform size distribution. The diameter of the Gd-Au DENPs was estimated to be 4.3 nm. Similar to our previous study,26 with the coexistence of two radiodense imaging elements of Gd(III) ions and AuNPs within one NP system, the formed Gd-Au DENPs display both T1 relaxivity (for T1 MR imaging mode) and X-ray attenuation property (for CT imaging mode), which enables MR/CT dual-mode imaging applications.
+Cytotoxicity of Gd-Au DENPs
+Before using the Gd-Au DENPs for MR and CT dual-modality molecular imaging of the model breast cancer cell line, their cytocompatibility was explored. In general, the cytotoxicity of amine-terminated G5 PAMAM dendrimers arises from the strong electrostatic interaction between the positively charged dendrimers and the negatively charged cell membranes.28 Therefore, it is crucial to neutralize the positive charges of the formed Gd-Au DENPs via a final acetylation step. MCF-7 cells were used to test the cytotoxicity of the Gd-Au DENPs by MTT cell viability assay, cell morphology observation, and flow cytometric analysis of the cell cycles and apoptosis.
+MTT assay was performed to evaluate the cell viability by incubation of the MCF-7 cells with Gd-Au DENPs at 0, 5, 10, 25, and 50 mM concentrations for 24 hours (Figure 3). The viability of the cells treated with Gd-Au DENPs did not exhibit any significant differences compared with the cells treated with PBS buffer (P > 0.05). The nontoxicity of the Gd-Au DENPs at 50 mM concentration may be due to the acetylation and PEGylation modification of the dendrimer surface. This is very important for their biomedical imaging applications, particularly under circumstances that require the particle concentration to be sufficiently high for in vivo detection.
+The morphology of the HE-stained MCF-7 cells before and after incubation with the Gd-Au DENPs was observed using optical microscopy (Figure 4). It is clear that morphology of the cells incubated with different concentrations of Gd-Au DENPs did not display any apparent changes compared to the control cells treated with PBS buffer. These results indicate that the Gd-Au DENPs did not impact of the morphology of the MCF-7 cells, in agreement with our previous report related to PEGylated Au DENPs.23
+Flow cytometry was used to further investigate the influence of the Gd-Au DENPs on the cell cycle and apoptosis (Table 1 and Figure S3). The sub-G1 fraction of the MCF-7 cells incubated with the Gd-Au DENPs at Au concentrations of 25 mM and 50 mM were determined to be 2.39 +- 0.25% and 2.46 +- 0.47%, respectively. Compared with the negative control cells treated with PBS buffer (2.24 +- 0.12%), there was no statistical difference. This result demonstrates that the Gd-Au DENPs have no effect on the cell cycle of the MCF-7 cells.
+In brief, the combined MTT assay of cell viability, the observation of cell morphology, and the flow cytometric analysis of the cell cycles and apoptosis clearly indicate that the Gd-Au DENPs are noncytotoxic in the given concentration range, which is essential for their MR/CT dual-modality imaging applications.
+In vitro cellular uptake of Gd-Au DENPs
+For efficient imaging of cancer cells, it is important to explore the ability of the particles to be taken up by the cells. MCF-7 cells treated with the Gd-Au DENPs were examined using TEM to identify the distribution of the particles in the subcellular compartments. In the TEM images (Figure 5), numerous high electron-staining particles can be observed in the cytoplasm of the MCF-7 cells, particularly in the lysosomes of the cell after incubation with the Gd-Au DENPs for 24 hours. This result confirmed that the Gd-Au DENPs were internalized by the cell rather than adhering to the surface of the cells. The internalization of the Gd-Au DENPs potentially occurs through two distinct mechanisms, phagocytosis and diffusion via cell walls, in agreement with the literature.29,30 Furthermore, the TEM data also revealed that the incubation of the Gd-Au DENPs with an Au concentration as high as 50 mM did not markedly affect the cell morphology, corroborating with the MTT assay and optical microscopy observation data.
+MR/CT dual-modality imaging of breast cancer cells in vitro
+To prove our hypothesis that the developed Gd-Au DENPs are able to be used as MR/CT dual-modality contrast agents for cancer cell imaging, the suspensions of MCF-7 cells incubated with Gd-Au DENPs at different Au concentrations (0 mM, 5 mM, 10 mM, 25 mM, and 50 mM, respectively) were imaged using clinical MR and CT imaging systems. Figures 6 and 7 present transverse MR images and the sagittal CT images of MCF-7 cells with or without incubation with the Gd-Au DENPs. MCF-7 cell suspensions incubated with increasing concentrations of Gd-Au DENPs displayed increased contrast enhancement when compared to control cells treated with PBS buffer. Both the T1-weighted MR images (Figure 6A) and the CT images (Figure 7A) of cells incubated with Gd-Au DENPs at high Au concentrations (25 mM and 50 mM) were much brighter than those of the cells incubated with Gd-Au DENPs at low concentrations (5 mM and 10 mM) and those of the negative control cells treated with PBS buffer.
+A quantitative analysis of the MR images (Figure 6B) further revealed that the T1-weighted SNR of MCF-7 cells incubated with the Gd-Au DENPs at the Au concentration of 50 mM was significantly greater than those of the cells incubated with Gd-Au DENPs at lower concentrations (5 mM, 10 mM, and 25 mM, respectively) and that of the negative control cells (P<0.05). Likewise, a quantitative analysis of the CT values of these cell samples (Figure 7B) revealed the same trend of increased CT value with the Au concentration of the particles. The brighter MR and CT images (higher T1 SNR and CT values) of cell samples should be associated with greater cellular uptake of the particles at a higher concentration of Gd-Au DENPs. Overall, the in vitro cell imaging experiments demonstrate that the Gd-Au DENPs are able to be used as a positive contrast agent for both MR and CT imaging of cancer cells.
+MR/CT dual-modality imaging of MCF-7 xenograft tumor model
+The excellent in vitro MR/CT imaging performance of the Gd-Au DENPs along with the good biocompatibility of the NPs motivated us to pursue their applicability for in vivo MR/CT imaging of the xenotransplanted tumor model. For MR imaging, MCF-7 tumor-bearing BALB/c nude mice were administered 200 mL Gd-Au DENPs ([Gd] = 5.34 mM, [Au] = 50 mM) via the tail vein. MR images (Figure 8A) were obtained both before administration and 30 minutes, 120 minutes, 180 minutes, 12 hours, and 24 hours after administration of the Gd-Au DENPs using a clinically relevant field strength of 3 tesla (T) MR system. It is clear that the tumor site exhibits an obvious enhancement with a significantly higher T1-weighted SNR after administration of the Gd-Au DENPs compared with those before injection. Quantitative analysis of the MR T1-weighted SNR values of the tumor area at different time points revealed that the tumor area had a higher SNR value at 120 minutes after injection. At the time point of 24 hours after injection, the T1-weighted SNR value of the tumor area was still much higher than that of the tumor area before injection (Figure 8B).
+For CT imaging, after the same dose of Gd-Au DENPs was intravenously injected via the tail vein, CT scans were performed at 15 minutes, 100 minutes, 160 minutes, 12 hours, and 24 hours after injection using a clinical CT imaging system. Figure 9 shows the tumor CT images before and after injection of the Gd-Au DENPs. The tumor site has obvious enhancement, with significantly brighter images, after administration of the Gd-Au DENPs compared with the images before the injection (Figure 9A). Quantitative analysis of the CT value of the tumor area at different time points showed that the tumor area had the highest CT value at 100 minutes after injection, and at 24 hours after injection, the CT value of the tumor area was still much higher than it was before injection (Figure 9B). The CT imaging results are in accordance with the MR imaging data, although the imaging time points are not exactly the same.
+The efficient MR/CT imaging of the MCF-7 tumor model suggests that the developed Gd-Au DENPs demonstrate prolonged blood circulation time, which may be partly due to the modification of PEG moieties on the surface of dendrimers, similar to our previous study.23 With the prolonged blood circulation time, part of the Gd-Au DENPs could be transported to the tumor site via the enhanced permeability and retention (EPR) effect,31-34 thereby allowing for effective MR/CT imaging of tumors. This is very important for the early stage diagnosis of unknown tumors. Our results confirm that the developed Gd-Au DENPs can be used as a dual-mode contrast agent for MR/CT imaging of tumors in vivo. In addition, the xenografted MCF-7 tumors were confirmed by gross specimen (Figure S4A and B) and HE staining (Figure S4C), which showed the features of the MCF-7 cells.
+In vivo biodistribution of Gd-Au DENPs
+The tumor uptake and the biodistribution of the Gd-Au DENPs were investigated at 1 hour, 4 hours, 12 hours, and 24 hours after intravenous administration. ICP-AES was performed to analyze the Au concentration in the tumor and several major organs, including the heart, lung, spleen, liver, kidney, and blood (Figure 10). The lung showed the most significant Au uptake (0.943 g/kg +- 0.223 g/kg) at the 4-hour time point, whereas the spleen showed the most significant Au uptake (0.742 g/kg +- 0.198 g/kg) at the 24-hour time point, which is similar to results from our previous studies.23,26 These results suggest that the multifunctional NPs are able to pass the lung first from the inferior vena cava and the right heart, and some NPs are most likely held back by the pulmonary capillary network. The lower uptake of Au in both the liver and kidney suggests that the Gd-Au DENPs are able to escape the reticuloenthelial system located in the liver and pass through the renal filter, consequently allowing for an efficient transport of the particles to the tumor region via the passive EPR effect. In this study, the Au uptake in the tumor region was measured to be up to 0.276 g/kg +- 0.006 g/kg at 1 hour after intravenous injection, which enabled effective MR/CT imaging of the tumors. The biodistribution of the Gd-Au DENPs in blood further confirmed their long blood circulation time. At 1 hour after injection, the biodistribution of the NPs in blood was measured to be 0.0124 g/kg +- 0.008 g/kg, and the particle concentration was estimated to be 0.0080 g/kg +- 0.0008 g/kg at 24 hours after administration. The prolonged blood circulation time is likely due to the modification of PEG moieties on the dendrimer surface, effectively avoiding the nonspecific uptake by the reticuloenthelial system.35 Detailed pharmacokinetic studies of the Gd-Au DENPs at extended time periods are still necessary for a thorough understanding of the biodistribution of the NPs.
+
+Conclusion
+Multifunctional Gd(III)-loaded Au DENPs were effectively used as a dual-modality contrast agent for MR/CT molecular imaging of breast cancer cells in vitro and in vivo. MTT assay of cell viability, cell morphology observation, and the flow cytometry analysis of the cell cycles and apoptosis reveal that the Gd-Au DENPs are noncytotoxic in a concentration range of 0-50 mM. The efficient cellular uptake of the Gd-Au DENPs as verified by TEM enables dual-mode MR/CT imaging of breast cancer cells (MCF-7 cells) in vitro after incubation of the particles and the xenograft tumor model in vivo after intravenous injection of the particles. The developed Gd-Au DENPs are expected to be used as a multifunctional nanoplatform for MR/CT molecular imaging of different types of cancer.
+
+Supplementary materials
+Figure S1
+Color T1-weighted images (A) and linear fitting of R1 (B) of G5-Gd (1) and Gd-Au DENPs (2) as a function of Gd concentration.
+Note: The color bar from red to blue indicates the gradual decrease of the T1 value.
+Abbreviations: DENP, dendrimer-entrapped nanoparticle; Gd, gadolinium; Gd-Au DENP, dendrimer-entrapped gold nanoparticle.
+Figure S2
+CT phantom images (A) and X-ray attenuation (HU) (B) of Gd-Au DENPs (1) and Au DENPs (2) as a function of gold concentration.
+Abbreviations: Au, gold; CT, computed tomography; DENP, dendrimer-entrapped nanoparticle; Gd-Au DENP, dendrimer-entrapped gold nanoparticle; HU, housefield unit.
+Figure S3
+Flow cytometry analysis of MCF-7 cells treated without (A) or with Gd-Au DENPs at concentrations (Au) of 25 mM (B) and 50 mM (C) for 4 hours (n=4).
+Abbreviations: Au, gold; Gd-Au DENP, dendrimer-entrapped gold nanoparticle.
+Figure S4
+MCF-7 xenografted nude mice models (A), resected tumor (B), and optical microscope image of an HE-stained tumor section (C).
+Note: The magnification for the tumor section was set at 200x.
+Abbreviations: HE, hematoxylin and eosin.
+Table S1
+MR T1 relaxation rate and X-ray attenuation properties of Gd-Au DENPs
+Table S2
+Histology study
+References
+1
+Wen
+S
+Li
+K
+Cai
+H
+Multifunctional dendrimer-entrapped gold nanoparticles for dual mode CT/MR imaging applications
+Biomaterials
+2013
+34
+5
+1570
+1580
+23199745
+2
+Shi
+X
+Wang
+S
+Sun
+H
+Baker
+JR
+Jr
+Improved biocompatibility of surface functionalized dendrimer entrapped gold nanoparticles
+Soft Matter
+2007
+3
+71
+74
+3
+Alric
+C
+Taleb
+J
+Le Duc
+G
+Gadolinium chelate coated gold nanoparticles as contrast agents for both X-ray computed tomography and magnetic resonance imaging
+J Am Chem Soc
+2008
+130
+5908
+5915
+18407638
+4
+Md
+NS
+Kim
+H-K
+Park
+J-A
+Chang
+Y
+Kim
+T-J
+Gold nanoparticles coated with Gd-chelate as a potential CT/MRI bimodal contrast agent
+Bull Korean Chem Soc
+2010
+31
+5
+1177
+1181

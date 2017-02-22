@@ -1,0 +1,698 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed, Mixed]
+
+A nonparametric Bayesian approach for clustering bisulfate-based DNA methylation profiles. Background DNA methylation occurs in the context of a CpG dinucleotide. It is an important epigenetic modification, which can be inherited through cell division. The two major types of methylation include hypomethylation and hypermethylation. Unique methylation patterns have been shown to exist in diseases including various types of cancer. DNA methylation analysis promises to become a powerful tool in cancer diagnosis, treatment and prognostication. Large-scale methylation arrays are now available for studying methylation genome-wide. The Illumina methylation platform simultaneously measures cytosine methylation at more than 1500 CpG sites associated with over 800 cancer-related genes. Cluster analysis is often used to identify DNA methylation subgroups for prognosis and diagnosis. However, due to the unique non-Gaussian characteristics, traditional clustering methods may not be appropriate for DNA and methylation data, and the determination of optimal cluster number is still problematic.   Method A Dirichlet process beta mixture model (DPBMM) is proposed that models the DNA methylation expressions as an infinite number of beta mixture distribution. The model allows automatic learning of the relevant parameters such as the cluster mixing proportion, the parameters of beta distribution for each cluster, and especially the number of potential clusters. Since the model is high dimensional and analytically intractable, we proposed a Gibbs sampling "no-gaps" solution for computing the posterior distributions, hence the estimates of the parameters.   Result The proposed algorithm was tested on simulated data as well as methylation data from 55 Glioblastoma multiform (GBM) brain tissue samples. To reduce the computational burden due to the high data dimensionality, a dimension reduction method is adopted. The two GBM clusters yielded by DPBMM are based on data of different number of loci (P-value < 0.1), while hierarchical clustering cannot yield statistically significant clusters.
+
+Background
+DNA methylation profiles has become an alternative molecular footprint for classification. It occurs in the context of a CpG dinucleotide. It is an important epigenetic modification, which can be inherited through cell division. In this chemical modification of the cytosine nucleotide, the 5-carbon position is enzymatically modified by the addition of a methyl group such that cytosines can occur in a methylated or unmethylated state. CpG islands are usually not methylated in normal tissues but frequently become hypermethylated in cancer [1]. This hypermethylation is associated with gene silencing [2] and plays an important role in the inactivation of tumor suppressor genes. Most CpGs or CpG regions have been found to have a bimodal distribution of methylation profiles, either hypomethylated or hypermethylated [3]. Unique methylation patterns have been shown to exist in diseases including various types of cancer [4]. DNA methylation analysis promises to become a powerful tool in cancer diagnosis, with possible applications to the choice of treatment and prognostication. The high throughput methylation profiling technology has been developed to survey methylation status of more than 1500 CpG sites for a large collection of cancer genes and been specifically targeting. Studying how the methylation profiles can be used to distinguish different subtypes of the tumor has been a focus in current cancer research. But most existing algorithms working on methylation data are from sequence level. The exact levels of methylation expression are not fully considered yet.
+To this end, clustering analysis is often used to identify methylation subgroups that are distinct from one another in data [5,6]. However, the DNA methylation data presents unique challenges. First, it is not appropriate to cluster DNA methylation expressions using traditional clustering methods. The traditional k-means clustering algorithms are based on Gaussian Mixture Model (GMM) assumptions. In GMM, the individual data points are assumed to follow multivariate Gaussian distribution and thus the distance between two points can be evaluated by Euclidean distance conveniently. However, since "beta" values from DNA methylation array represent the percentage of the methylated alleles and are between 0[1], traditional GMM is no longer appropriate. Instead, a mixture of the beta distribution [7,8] would be a more accurate model. Second, a model selection process is often needed in clustering to determine the number of clusters, making the clustering analysis more complicated. A predefined number of clusters (or model) is required in the mixture distribution based methods (such as k-means). Since different number of clusters will yield different clustering results, a model selection process is desirable to determine the best number of clusters. The model selection is very different problem, whose optimal solution is of exponential complexity. The popular suboptimal solutions have been proposed that include minimum description length (MDL) and Bayesian information criterion (BIC). Although computationally efficient, these methods would fail when clusters are not well separated. The recent proposed nonparametric Bayesian methods including Dirichlet process (DP) provide an avenue that can lead to a better solution.
+In a response to the aforementioned limitations, we proposed here a nonparametric Dirichlet process beta mixture model (DPBMM) method for clustering DNA methylation expression profiles produced by Illumina Infinium Beadchip. DPBMM makes use of Dirichlet process mixture to place a prior [9] on cluster assignment, thus enables automatic determination of the optimal number of clusters. To perform the analytical intractable learning, an algorithm based on Gibbs sampling and "no-gap" sampling is developed to effectively infer all the relevant variables. The proposed DPBMM method builds an infinite beta mixture model to describe DNA methylation data, which is different from the finite beta mixture model in [8]. We present a simulation study comparing its properties to RPMM (Recursively partitioned mixture model) employing BIC (Bayesian information criterior) in [8]. The results demonstrated the better performance of our proposed method. Finally, we applied the DPBMM to the methylation array obtained from 55 Glioblastoma Multiform (GBM) brain tissue samples.
+
+Methods
+Problem formulation
+Model DNA methylation profiles with beta mixture distribution
+For a two-color hybridization based array such as Illumina Infinium array, the measurements are associated with the percentage of the methylated alleles, which is called the "beta" values because it can be described by a mixture of beta distributions [7,10]. Since the distribution of "beta" values shows bimodalities [11], the beta distribution component in the mixture model should be convex, which means the beta distribution component should be equipped with large parameters, shown in Figure 1.
+Figure 1
+Examples of beta distributions. Beta densities with large hyperparameters (a > 1, b > 1) are unimodal.
+Consider the problem of clustering n independent DNA methylation samples, let X = {X1, X2, ..., Xn} be the DNA methylation expressions for n samples. For each sample i, Xi = {xi1, xi2, ..., xiL} be a vector of L continuous outcomes falling between zero and one. Suppose there exists a total K clusters and sample i belongs to cluster class ci [?] {1, ..., K}. Conditional on class membership say k, each outcome xil could be viewed as an independent identically distributed variable from a beta distribution with akl and bkl
+(1)
+f
+(
+x
+i
+l
+|
+a
+k
+l
+,
+b
+k
+l
+,
+c
+i
+=
+k
+)
+=
+x
+i
+l
+a
+k
+l
+-
+1
+(
+1
+-
+x
+i
+l
+)
+b
+k
+l
+-
+1
+B
+(
+a
+k
+l
+,
+b
+k
+l
+)
+where B(a,b)= [?] 01xa-1(1-x)b-1dx stands for the Beta function. Then, DNA methylation sample Xi can be modeled by (2).
+(2)
+p
+(
+X
+i
+|
+th
+)
+=
+ [?]
+k
+=
+1
+K
+p
+k
+ [?]
+l
+=
+1
+L
+x
+i
+l
+a
+k
+l
+-
+1
+(
+1
+-
+x
+i
+l
+)
+b
+k
+l
+-
+1
+B
+(
+a
+k
+l
+,
+b
+k
+l
+)
+where thl={akl,bkl,[?]l}. With the limitation of large parameters for beta distribution component, akl >1 and bkl >1. Note that due to clustering in samples, thl and thi for i [?] l may be equal, pk's represent the cluster proportion and [?]k=1Kpk=1. Now, in reality, the total cluster number K is not known a priori. We discuss next a model based on Dirichlet process to address this difficulty.
+Dirichlet process mixture model
+The Dirichlet process is an nonparametric extension of the original Dirichlet distribution. Let xi be a random sample from a distribution f with parameters thi. In a Bayesian formulation, the model for parameter thi can be defined as
+(3)
+x
+i
+|
+th
+i
+~
+f
+(
+th
+i
+)
+th
+i
+|
+G
+~
+G
+where G is the prior distribution of thi. It is not always realistic to assume that G is of a known form and the nonparametric Bayesian models including the Dirichlet process (DP) is proposed to address this problem. Now, instead of defining a parametric form for G, G is assumed to be a draw from a Dirichlet process with a base distribution G0 and a precision parameter t [12]. The model for the Bayesian estimation is also built in Figure 2 following the principles of graphical models. It can also be written as (4) with a DP prior.
+Figure 2
+Graphical model. The model for the Bayesian estimation is built following the principles of graphical model.
+(4)
+X
+i
+|
+th
+i
+~
+f
+(
+th
+i
+)
+th
+i
+|
+G
+~
+G
+G
+|
+t
+,
+G
+0
+~
+D
+P
+(
+t
+,
+G
+0
+)
+where G0 is such that E[G] = G0 and has a parametric form, t measures the strength of belief in G0. The DP of mixtures (DPM) are proposed to model the clustering effect in data. Compared with other clustering models, DPM is very attractive because it allows the cluster number K to be a priori [?] and learned from the data. To capture the clustering natural of DNA methylation samples, a beta mixture model with infinite classes can be built with DPM. Let thi = {ai, bi} be the set of parameters for each sample and note that some of them may be equal. In DPM models, each thi is marginally sampled from G0, and with positive probability some of the thi are identical due to the discreteness of the random measure G. Therefore the new value of thi can either be one of the thl's(l[?]i), or thi could be a new draw from G0. Let K in (2) be [?], we assume a DPBMM for DNA methylation array.
+Inference
+Let Ph = {Ph1, Ph2, ..., PhK} denote the set of distinct thi's, where K is the number of distinct elements of th1, ..., thm. Let s = {s1, ..., sm} denote cluster assignment vector, that means, si = l if and only if thi = phl. Then th = {thi : i = 1, ..., m} can be reparameterized as {ph1, ..., phk, s1, ..., sm}. Let ni, i = 1, ..., K be the number of elements sl equal to i. Let subscript "-i" stands for all the variables except the i-th one. The goal from a Bayesian perspective is to calculate the posterior distribution of the known parameters {Th, p, t}. However, the analytical expression is intractable and we instead develop a Gibbs sampling solution to obtain random samples from the posterior distribution. The key for Gibbs sampling is to derive the conditional posterior distributions of the unknown parameters. Due to the constrains on a and b, we first re-parameterize a as La by a = exp(|La|) and b as Lb by b = exp(|Lb|). Thus, we only need to sample in the range of (-[?], [?]) for La and Lb. Then the transformed a >1 and b >1. Thus, we can specify G0 as G0(a,b)=N(0,sa2)N(0,sb2), where N(m,s2) represents the Gaussian distribution with mean m and variance s2 [13]. The prior distribution of the cluster proportion p is the Dirichlet distribution
+(5)
+p
+~
+D
+i
+r
+(
+n
+1
++
+t
+/
+K
+,
+.
+.
+.
+,
+n
+K
++
+t
+/
+K
+)
+.
+There are some useful expression of a Dirichlet process, such as Chinese Restaurant Process(CRP) [14,15], Stick-breaking construction [16], Polya Urn formulation [17,18], etc... Blackwell showed that Dirichlet process are discrete as they consist of countably infinite point probability masses [19]. Escobar and West [20] first showed that Markov Chain Monte Carlo (MCMC) techniques, specifically Gibbs sampling, could be used for posterior density estimation if the Blackwell-MacQueen Polya Urn formulation of Dirichlet process is used. Based on the generalized Polya urn scheme, the conditional prior distributions si|s1, ..., si-1, i = 1, ..., n and thi|th-i have the following forms as (6) and (7).
+(6)
+P
+(
+s
+1
+=
+1
+)
+=
+1
+P
+(
+s
+i
+=
+l
+|
+s
+1
+,
+.
+.
+.
+,
+s
+i
+-
+1
+)
+=
+n
+-
+i
+,
+l
+(
+t
++
+i
+-
+1
+)
+,
+l
+=
+1
+,
+.
+.
+.
+,
+k
+i
+P
+(
+s
+i
+=
+k
+i
++
+1
+|
+s
+1
+,
+.
+.
+.
+,
+s
+i
+-
+1
+)
+=
+t
+(
+t
++
+i
+-
+1
+)
+and,
+(7)
+th
+1
+~
+G
+0
+(
+th
+1
+)
+th
+i
+|
+th
+1
+.
+.
+.
+th
+i
+-
+1
+~
+t
+t
++
+i
+-
+1
+G
+0
+(
+th
+i
+)
++
+ [?]
+l
+=
+1
+K
+n
+l
+1
+t
++
+i
+-
+1
+d
+Ph
+l
+(
+th
+i
+)
+,
+for
+i
+>=
+1
+.
+Then the conditional posterior distribution for sampling thi has the form
+(8)
+p
+(
+th
+i
+|
+th
+-
+i
+,
+s
+-
+i
+,
+X
+)
+[?]
+q
+i
+,
+0
+G
+i
+(
+th
+i
+)
++
+ [?]
+l
+=
+1
+,
+l
+[?]
+i
+n
+-
+1
+q
+i
+,
+l
+d
+th
+l
+(
+th
+i
+)
+=
+q
+i
+,
+0
+G
+i
+(
+th
+i
+)
++
+ [?]
+l
+=
+1
+K
+n
+-
+i
+,
+l
+q
+i
+,
+l
+d
+Ph
+l
+(
+th
+i
+)
+.
+Thus the conditional posterior distribution for sampling Phi has the form
+(9)
+p
+(
+Ph
+i
+|
+Ph
+-
+i
+,
+s
+,
+X
+,
+p
+)
+[?]
+p
+(
+X
+m
+:
+s
+m
+=
+s
+i
+|
+Ph
+,
+s
+,
+p
+)
+p
+(
+Ph
+i
+|
+Ph
+-
+i
+,
+s
+,
+p
+)
+=
+G
+0
+ [?]
+m
+:
+s
+m
+=
+s
+i
+[?]
+l
+=
+1
+L
+x
+m
+l
+a
+k
+l
+-
+1
+(
+1
+-
+x
+m
+l
+)
+b
+k
+l
+-
+1
+B
+(
+a
+k
+l
+,
+b
+k
+l
+)
+It is obvious that G0 is not conjugate with f, so the integral qi,0 cannot be evaluated analytically and drawing samples from Gi is also extremely challenging [21]. To overcome the difficulty, we adopt the "no-gaps" algorithm proposed in [22] to enable sampling from (8).
+As to t, it is useful to choose a weakly informative prior in many applications. If t is assigned a gamma prior, its posterior becomes a simple function of K, then samples are easily drawn via an auxiliary variable method. For the convenience of sampling, we adopt the t ~ Gamma(a, b) as the prior [9,20].
+The final Gibbs sampling steps can be summarized by the following steps:
+Gibbs sampling for DPBMM
+Iterate the following steps and for the t-th iteration:
+1. For each sample i, re-sample si according to (6) if nsi>1. In this case k-i = K. If nsi=1, then with probability 1 - 1/K leave si unchanged. With probability 1/K rearrange s such that si = K, then re-sample si according to (6). But in this case k-i = K - 1.
+2. For i = 1, ..., K, the posterior distribution for Phi has the form as (9).
+For i = K + 1, ..., n, both prior and posterior distribution for Phi are G0.
+3. Sample p following (5) with nk= [?]i=1nd(si,k).
+4. Based on Step 1, we can get the value of K, then sample t|K, n where t ~ Gamma(a, b).
+Due to the large number of parameters, the initial values for parameters sa2 and sb2 should be chosen carefully.
+
+Results
+Test on simulated data
+We conducted simulations to test our proposed method. For the first case, the simulated data set is generated based on the model described in (2) with K = 4. The simulated dataset consists of 100 samples, each having 200 continuous response lying in the unit interval. The occurring probability of each cluster is set to {0.2, 0.3, 0.2, 0.3}. For each cluster, parameters La, Lb related to beta distribution in the model are generated randomly from Gaussian distributions with zero means and different variances. In order to systematically evaluate the clustering performance, the F metric that combines BCubed overall precision and recall [23] was implemented as suggested in [24]. Let {c} represent the real cluster label of samples and {s} represent the cluster assignment by clustering method, the correctness of the relation between sample i and i' is defined as Ct(i, i') based on {c} and {s}.
+(10)
+C
+t
+(
+i
+,
+i
+'
+)
+=
+1
+iff
+c
+i
+=
+c
+i
+'
+-
+s
+i
+=
+s
+i
+'
+;
+0
+otherwise
+.
+The overall precision P and recall R are defined as
+(11)
+R
+=
+A
+v
+g
+i
+[
+A
+v
+g
+i
+'
+.
+c
+i
+=
+c
+i
+'
+[
+C
+t
+(
+i
+,
+i
+'
+)
+]
+]
+P
+=
+A
+v
+g
+i
+[
+A
+v
+g
+i
+'
+.
+s
+i
+=
+s
+i
+'
+[
+C
+t
+(
+i
+,
+i
+'
+)
+]
+]
+F metrics is used to evaluate the clustering result by combining P and R metrics.
+(12)
+F
+(
+R
+,
+P
+)
+=
+1
+0
+.
+5
+/
+P
++
+(
+1
+-
+0
+.
+5
+)
+/
+R
+Figure 3(a) illustrates the sampled number of clusters in each Gibbs sampling iteration for one time of DPBMM clustering. After 300 iterations of "burn-in" stage, the number of clusters stay at four. The uncovered cluster proportion is {0.19, 0.31, 0.19, 0.31}. Figure 3(b-d) show that for 2000 times of DPBMM clustering, F metric can come to one for most times.
+Figure 3
+Clustering evaluation on simulation data set. The result is based on the simulated data with 4 dimensions. Figure 3(a) shows the number of clusters k in 2000 MCMC iterations. Figure 3(b) shows the overall precision vs. overall recall for 2000 times of DPBMM. The overall precision almost always stays at 1. Figure 3(c) shows the F metric vs. recall curve. Figure 3(d) shows the histogram of F metric results for 2000 times of DPBMM clustering.
+For our second case, we used two simulated data set from [8]. The data set of Case I consists of 100 subjects, which mimics the real methylation data. Each subject has 1413 continuous responses lying in the unit interval. Each subject was a member of five classes, each cluster occurring with 0.2 probability. The clusters were defined by beta-distribution parameters for each of 1413 methylation loci that were autosomal and passed quality-assurance, obtained by fitting a beta model on each locus to one of the five data sets from our normal data: adult blood, newborn blood, placenta, lung/pleura, and everything else. The data set of Case II considered 100 subjects from four clusters. We compare the performance with RPMM method proposed in [8], with the same dimension reduction method employed. We order all the loci with respect to variance, and the J most variable loci are considered in the clustering algorithm. Table 1 and Table 2 summarizes the number of classes found with RPMM and with our proposed DPBMM for both Case I and Case II. For the cases considered, DPBMM obtained the correct K with a priori [?] directly while the RPMM fitted finite mixture models for a range of possible values and chose the correct K by BIC statistic. The F metric vs. recall curve of J [?] {25, 50} loci for case I is shown in Figure 4(a). The histogram of F metric results with J = 50 is shown in Figure 4(b). The F metric vs. recall curve of different J [?] {5, 10} loci for Case II is shown in Figure 4(c). The histogram of F metric results with J = 10 is shown in Figure 4(d). For the above two cases, the more the number of loci are considered in the clustering, the better clustering performance we can get.
+Figure 4
+Clustering evaluation based on different J. Figure 4(a) shows the F metric vs. recall curve of J [?] {25, 50} loci for case I. Figure 4(b) shows the histogram of F metric results with J = 50. Figure 4(c) shows the F metric vs. recall curve of different J [?] {5, 10} loci for Case II. Figure 4(d) shows the histogram of F metric results with J = 10.
+Test on real data
+We then applied our proposed DPBMM clustering on the GBM methylation microarray dataset in The Cancer Genome Atlas (TCGA). This dataset consists of 74 patients assayed on Illumina HumanMethylation450 array. Samples for DPBMM clustering analysis were selected to have clinical annotations. At last, 55 patients were left for consideration. Twenty-seven patients were alive at the time of last follow up, whereas twenty-eight patients experienced disease progression since last follow-up. The median follow up time was 198 days (range, 2-953 days). Each sample includes up to 485,577 CpG dinucleotides spanning gene-associated elements as well as intergenic regions. The associated detection P-value reported together with the methylation expression data is used as a quality control measure of probe performance. Following the probe excluding method in [25], the probes with detection P-values >0.01 in >10% of the samples are excluded from further consideration.
+Since the small sample, large dimensional property of methylation array, many loci in the data set have low variance and may not contribute to clustering. it is safer only to consider loci that change significantly [26]. Thus, those loci with low variance across all 55 samples were removed from the data sets which is also used by [8]. This also made the DPBMM clustering process computationally more tractable. In this paper, we only consider J [?] {1, 2, ..., 20} most variable loci for DPBMM clustering method since the number of samples is only 55. The selected top 20 variable loci are listed in Table S1 (see Additional file 1). DPBMM yields two clusters from the data for most J. Kaplan-Meier survival analysis are carried out based on the clustering results, and the P-values of Kaplan-Meier confidence for J [?] {1, 2, ..., 20} are shown in Table S2 (see Additional file 2). Among these, J = 11 gives the best P-value of 0.03. And the heatmap plot of J = 11 is shown in Figure 5, the Kaplan-Meier overall survival curve is shown in Figure 6. When J = 11, the clusters in GBM methylation array uncovered by DPBMM are statistically significant (P-value < 0.1). We also analyzed the survival of the two clusters uncovered by hierarchical clustering, but the clusters yielded are not statistically significant (P-value > 0.1).
+Figure 5
+Estimated clustering structure based on DPBMM and Hierarchical clustering. 55 samples from TCGA are separated into two clusters on the basis of Illumina methylation expression array. The samples (columns) are arranged according to the estimated clusters by DPBMM while the locus (rows) according to hierarchical clustering.
+Figure 6
+Kaplan-Meier estimate of survival analysis based on uncovered structure of DPBMM method (J = 11). The figure shows the survival functions of the two clusters obtained based on the top 11 variable locus (P-value = 0.03) by DPBMM, which is more significant than the corresponding result of hierarchical clustering (P-value = 0.51).
+The computation time is always an issue for Gibbs sampling methods. Our simulation is carried out on a Linux based high-performance computer cluster. Each processing core is equipped with 2GB RAM. Figure 7 displays the computation time resulting from the real data study described before. The more loci considered for clustering, the more time the algorithm takes.
+Figure 7
+The computation time resulting from the real data study for J [?] {1, 2, ..., 20}. The figure shows the computation time resulting from the real data study for J [?] {1, 2, ..., 20}. It is carried out on a Linux based high-performance computer cluster. Each processing core is equipped with 2GB RAM. With the number of loci considered for DPBMM clustering, the computation time increases.
+
+Discussion
+We discuss next a few distinct features of DPBMM. First, in accordance with the fact that "beta" values in DNA methylation array data fall in the range of zero to one, we assume mixtures of beta distribution for the data. It can provide more flexible shapes, thus can describe data of various types. This is different from traditional Gaussian mixture model based clustering methods such as K-means. Second, since most existing methods can not determine the number of clusters automatically, we adopted a Dirichlet process prior for cluster assignment. Thus, we get a non-conjugate Dirichlet process beta mixture model, whose parameters are hard to estimate. A Gibbs sampling and "no-gap" sampling solution is developed to overcome this difficulty. This is different from traditional parametric methods, whose result also relies on a model parameter, which is usually determined in a model selection process.
+The limitation of the proposed methods are mainly as follows. First, the algorithm is based on Gibbs sampling, which is somewhat a resource-heavy MCMC method, therefore, the computation time is still heavy. Second, the model is computationally too slow to apply to methylation data of genome scale. We need to reduce the dimensionality to keep DPBMM computationally affordable.
+In the future, it would be interesting to develop more effective dimension reduction method for DPBMM. It would also be interesting to integrate the information from different data sources such as gene expression and copy numbers variation into one model for cluster analysis.
+
+Conclusions
+An infinite Dirichlet process beta mixture model was proposed to unveil the latent cluster structure from Illumina Infinium methylation profiles. By utilizing a Dirichlet process prior for cluster assignment, the number of clusters is determined. A Gibbs sampling and "no-gaps" sampling solution was developed to infer the relevant parameters automatically. The effectiveness and validity of the model and the proposed Gibbs sampler were evaluated on simulated data and on real data. The results demonstrated that DPBMM could yield the cluster structure automatically with better accuracy.
+
+Availability
+MATLAB code is available at https://sites.google.com/site/bdpmmmethy/home.
+
+Supplementary Material
+Additional file 1
+Top 20 variable loci (ranked by variance through samples) selected from the methylation profiles of the 55 GBM samples.
+Click here for file
+Additional file 2
+The number of uncovered clusters and P-value of overall survival analysis for J [?] {1, 2, ..., 20}. P-value is used to test the Kaplan-Meier confidence.
+Click here for file

@@ -1,0 +1,779 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Functional Classification of Cellular Proteome Profiles
+Support the Identification of Drug Resistance Signatures in Melanoma
+Cells. Drug resistance is a major obstacle in melanoma treatment. Recognition of specific resistance patterns, the understanding of the patho-physiology of drug resistance, and identification of remaining options for individual melanoma treatment would greatly improve therapeutic success. We performed mass spectrometry-based proteome profiling of A375 melanoma cells and HeLa cells characterized as sensitive to cisplatin in comparison to cisplatin resistant M24met and TMFI melanoma cells. Cells were fractionated into cytoplasm, nuclei and secretome and the proteome profiles classified according to Gene Ontology. The cisplatin resistant cells displayed increased expression of lysosomal as well as Ca2+ ion binding and cell adherence proteins. These findings were confirmed using Lysotracker Red staining and cell adhesion assays with a panel of extracellular matrix proteins. To discriminate specific survival proteins, we selected constitutively expressed proteins of resistant M24met cells which were found expressed upon challenging the sensitive A375 cells. Using the CPL/MUW proteome database, the selected lysosomal, cell adherence and survival proteins apparently specifying resistant cells were narrowed down to 47 proteins representing a potential resistance signature. These were tested against our proteomics database comprising more than 200 different cell types/cell states for its predictive power. We provide evidence that this signature enables the automated assignment of resistance features as readout from proteome profiles of any human cell type. Proteome profiling and bioinformatic processing may thus support the understanding of drug resistance mechanism, eventually guiding patient tailored therapy.
+
+Introduction
+Metastatic melanoma has a poor prognosis
+due to chemoresistance
+with response rates lower than 30% in vivo and in vitro.1 Response to anticancer therapy, which means a
+significant shrinkage or complete disappearance of the tumor, is monitored
+throughout the course of the treatment using radiological methods
+and can be quantified by the "Response Evaluation Criteria
+in Solid Tumours" (RECIST) guidelines.2 For many years, the main principle in the treatment of metastatic
+tumors has been the cyclic administration of high-dose chemotherapy,
+which is a rather unselective strategy based on cytotoxic effects.3 Resistance to chemotherapy is the major obstacle
+in the effective management of cancer diseases. In order to overcome
+drug resistance, doses of chemotherapy can either be increased, intervals
+shortened, or chemotherapeutic combination strategies can be chosen.
+However, this may generate a potentiation of undesired side effects.4 Especially, in the case of melanoma, such strategies
+may be aggravated by the manifestation of multidrug resistance to
+several structurally unrelated chemotherapeutic agents such as cisplatin.
+Cisplatin is a commonly used alkylating chemotherapeutic drug in cancer
+therapy and targets DNA by forming of both interstrand and intrastrand
+cross-links thereby initiating cell death. Two well understood mechanisms
+involved in cisplatin resistance are the increased activity of efflux
+pumps to reduce intracellular concentration of the drug by the adenosine
+triphosphate-driven efflux pump functions of MRP-2, consequent reduction
+of DNA platination in addition to the detoxification by phase II conjugating
+enzymes like glutathione S-transferases and UDP-glucuronosyltransferases.
+Further alterations in cellular metabolism may increase the ability
+of tumor cells for DNA damage repair and apoptosis resistance.5,6
+We have therefore designed a study which may identify individual
+resistance features and predictive biomarker candidates for the response
+to chemotherapy, which can be routinely assessed and facilitate individualized
+therapy in order to improve the clinical outcome and avoid the toxicity
+of ineffective therapy.2
+Proteome
+analysis offers two different approaches to address this
+issue. In the first option, functional screenings of drug associated
+binding partners, protein-protein interactions and direct measurement
+of drug-induced covalent protein modifications can be performed.7 This approach was successfully applied to the
+functional screening of drug associated binding partners, and for
+the identification of direct interaction partners of lead compounds.8-11
+In contrast, proteome profiling may allow recording the indirect
+effects of a drug and thus demonstrate the reactions of a living system.
+In general, two different proteome analysis approaches have been applied:
+2D-gel electrophoresis quantifying separated proteins (top down) and
+shot gun analysis based on the mass spectrometric identification of
+proteolytic peptides (bottom up).12 For
+drug resistance studies, most research groups applied two-dimensional
+electrophoresis for protein fractionation followed by matrix assisted
+laser desorption/ionization-time-of-flight mass spectrometry (MALDI-TOF
+MS) or electrospray ionization/quadrupole time-of-flight (ESI/QTOF)
+mass spectrometry for protein identification. These methods resulted
+in the identification of biomarker resistance markers for melanoma
+using drug-resistant sublines of melanoma cells MeWo,1 ovarian cancer cells,13,14 breast cancer,
+neuroblastoma cells15 or cervix squamous
+cell carcinoma.16 Considering the high
+complexity of the resulting data, Castagna et al. used a four-way
+comparison with cervix squamous cell carcinoma cell line A431, here
+already untreated sensitive and resistant cells were compared to the
+corresponding cisplatin treated cells to investigate the drug effects.
+The intersection of the differential analyses was searched for potential
+resistance biomarkers.16 They followed
+the rational that proteins regulated upon cisplatin treatment may
+confer reactive and compensatory functions helping to avoid cell death.
+Stewart et al. performed an isotope coded affinity tag (ICAT) labeling
+approach followed by MS/MS analysis with nuclear, cytosolic and microsomal
+fractions of the IGROV1 ovarian carcinoma cell line and its resistant
+counterpart IGROV1-R10.17 They used GoMiner,
+a bioinformatic tool, to support the identification of biological
+processes involved in cisplatin resistance and described that proteins
+involved in RNA and nucleic acid binding, processing and metabolism,
+hydrolases, and MAPKKK cascade members are up-regulated in cisplatin
+resistant cells.17 Cisplatin-resistant
+and sensitive ovarian cancer cells were analyzed by isobaric tags
+for relative and absolute quantification (iTRAQ), followed by liquid
+chromatography- (LC-)MS/MS, and revealed a differential expression
+of proteins of eight functional categories: calcium-binding proteins,
+chaperones, extracellular matrix, proteins involved in drug detoxification
+or repair of DNA damage, metabolic enzymes, transcription factor,
+proteins related to cellular structure, and proteins related to signal
+transduction.5
+Adhesion molecules
+within the tumor matrix comprised of collagens,
+fibronectins and laminins mediated by engagement of integrin ab1, avb and a6b receptors may regulate
+invasion and chemoresistance in a variety of tumors. Disruption of
+the integrin ab1, avb, and a6b-effectors
+talin or p130Cas by RNA interference in the oral carcinoma HN12 cells
+increased cisplatin resistance, whereas targeting Dek, Src, or zyxin
+reduced HN12 resistance to cisplatin.18
+Obviously, no single protein can serve as a predictive biomarker
+for such a complex process. Therefore, we defined an algorithm of
+calculating resistance features out of a proteome profile of a given
+cell line. This might help to identify proteome signatures that would
+allow the identification of relevant functional cell states and support
+a mechanistic understanding of drug interference. Detecting and understanding
+the variety of mechanisms leading to similar pathologic features may
+enable patient stratification and the subsequent development of rational
+therapeutic concepts.
+
+Materials and Methods
+Cell line and Chemicals
+HeLa, TMFI and A375 were obtained
+from American Type Culture Collection (Manassas, VA). M24met cells
+(kindly provided by Dr. R.A. Reisfeld, Department of Immunology, Scripps
+Research Institute, La Jolla, CA.20 The
+human melanoma cell line M24 was derived from a biopsy of a lymph
+node metastasis and M24met was established from an invaded lymph node
+of a nude mouse.20 HeLa cervix carcinoma
+cells and TMFI melanoma cells were grown in RPMI 1640 supplemented
+with 10% fetal bovine serum, 2 mM glutamine and 50 mg/mL gentamycin
+sulfate. A375 melanoma cells were grown in D-MEM tissue culture medium
+supplemented with 10% fetal bovine serum, 2 mM glutamine and 50 mg/mL
+gentamycin sulfate. Cells were tested for mycoplasma contamination
+(Lucetta Luminometer, Lonza) prior to their use for any of the described
+experiments.
+Cell Proliferation-Assay
+The CellTiter
+96 AQueous non-radioactive cell proliferation assay (Promega)
+was used according
+to the manufacturer's guidelines. In brief, M24met, A375, HeLa
+and TMFI cells as well as multiple myeloma fibroblasts were plated
+in 96 well plates (1500 cells per well). After 24 h, increasing concentrations
+of cisplatin or a solvent control (DMSO alone) were added. After 48
+h, proliferation was measured by incubating cultures with a solution
+of MTS (3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium,
+inner salt) and PMS (phenazine methosulfate) (1:20) for 2 h at 37*C. Absorbance was measured at 490 nm with an ELISA
+plate reader.
+Lysosomal Staining
+Lysotracker Red
+DND-99 (Molecular
+Probes; L7528) staining of A375, HeLa, M24met and TMFI cells. Lysotracker
+Red DND-99 is a fluorophore containing a weakly basic amine that selectively
+accumulates in acidic compartments, which are represented by lysosomes
+and exhibits red fluorescence. The assay was performed according to
+the instructions of the manufacturer. M24met, A375, HeLa and TMFI
+cells were seeded on coverslips, treated with DSMO or 1 mM cisplatin
+for 48 h and incubated with Lysotracker Red for 1 h at 37 degC,
+the images were captured by a Zeiss confocal microscope.
+CytoSelect
+48-Well Cell Adhesion Assay (ECM Array, Colorimetric
+Format)
+The Cell Biolabs CytoSelect Cell Adhesion Assay Kit
+(Cell Biolabs; CBA-070) is a quantitative method for evaluating cell
+adhesion to extracellular matrix proteins and was performed as described
+by Hynes et al.21 A375, M24met, TMFI and
+HeLa cancer cells were allowed to attach to ECM-coated well plate
+for 1 h at 100.000 cells/well. Unbound cells were washed away and
+the adherent cells were stained and quantified calorimetrically.
+Subcellular Fractionation, 1D-PAGE, Tryptic Digest
+Subcellular
+fractionation was performed into the cytoplasm, nucleous
+and supernatant as described recently.22 Fractions were loaded on 12% polyacrylamid gels, SDS-PAGE gels were
+fixed with 50% methanol, washed and sensitized with 0.02% Na2S2O3. The gels were stained with 0.1% AgNO3 ice cold for 20 min, rinsed with bidistilled water and subsequently
+developed with 3% Na2CO3/0.05% formaldehyde
+as previously described.23 For tryptic
+digestion samples were cut into lanes to group proteins with a similar
+molecular weight. The proteins were destained, reduced and alkylated
+before digestion with trypsin (sequencing grad, Roche) at 37 degC
+overnight as described before.24 After
+elution the peptide solutions were analyzed by LC-MS/MS measurement.
+Mass Spectrometry Analysis
+Extracted peptides were
+separated by nanoflow LC (1100 Series LC system, Agilent, Palo Alto,
+CA) using the HPLC-Chip technology (Agilent) equipped with a 40nl
+Zorbax 300SB-C18 trapping column and a 75 x 150 mm Zorbax 300SB-C18
+separation column at a flow rate of 400nL/min, using a gradient from
+0.2% formic acid and 3% ACN to 0.2% formic acid and 40% ACN over 60
+min. Peptide identification was accomplished by MS/MS fragmentation
+analysis with an iontrap mass spectrometer (XCT-Ultra, Agilent) equipped
+with an orthogonal nanospray ion source. The MS/MS data analysis,
+including peak list-generation and spectrum identification, was done
+using the Spectrum Mill MS Proteomics Workbench software (Version
+A.03.03, Agilent) allowing for two missed cleavages and searched against
+the SwissProt/UniProtKB protein database for human proteins (Version
+12/2010 containing 20 328 entries) allowing for precursor mass
+deviation of 1.5 Da, a product mass tolerance of 0.7 Da and a minimum
+matched peak intensity (%SPI) of 70%. Due to previous chemical modification,
+carbamidomethylation of cysteines was set as fixed modification. Oxidation
+of methionine was the only post-translational modifications considered.
+The apparent positive matches found within the search results for
+peptides having a SpectrumMill peptide score higher than 13 when using
+the corresponding reversed database compared to the true database
+were consistenly less than 1% (documented in the freely accessible
+PRIDE XML files accessions 12 934-12 989). Peptides
+scoring between 9 and 13 were included only if precursor m/z value, retention time and MS2 pattern were found
+similarly in at least one of our previous experiments and the peptide
+was thereby scoring above 13. With respect to protein inference, we
+chose the smallest number of proteins required to explain all observed
+peptides as described for ProteinProphet.25 As our protein identification algorithm includes manual selection,
+we cannot calculate an exact false discovery rate.
+To obtain
+a rough estimate of relative protein abundances, we calculated the
+average emPAI (exponentially modified Protein Abundance Index) as
+described by Ishihama et al.26 for all
+proteins over all biological replicates. The Cell Similarity tool
+makes use of the 226 proteome profiles of human cell types/states
+currently included in the CPL/MUW database and calculates the protein
+matches of each cell type/state with respect to the query list. As
+a result, the cells containing a higher number of matches are listed
+above cells containing less matches. The Protein Cooccurrence tool
+creates a two-dimensional matrix listing the percentage of cells expressing
+protein B when restricting the analysis to cells expressing protein
+A. These algorithms are implemented in the latest version of the GPDE
+(freely available at sourceforge.net). For automated classification
+of proteins according to GO annotation of biological processes we
+included the terms antiapoptosis,1,16,27-29 DNA damage and response,5,27-30 double strand break repair and the different repair systems such
+as nucleotide excision repair, response to unfolded proteins,14 cell junction, extracellular matrix proteins,5 focal adhesion, Ca-ion binding,16,30 chaperones,1,5,16 DNA
+or nucleotide binding,15,30 glycolysis, MAP kinase activity,28,29 protein transport for instance ion channels,16 xenobiotic metabolic processes,5,30 p53
+signaling,28,29 cell adhesion,17,18 cell cycle checkpoint and process,28,29 cell death,
+and proliferation. This classification and all experimental results
+refer to the status of the GO annotation retrieved from the uniprot
+database as well as GPDE database status from February 2011.
+
+Results
+In order to learn more about potential resistance mechanisms and
+to define a new algorithm to extract resistance signatures, we followed
+a rather biological reasoning. First, we analyzed constitutively expressed
+proteins in sensitive cells and compared the expression patterns to
+cisplatin resistant cells. To gain more insight into cellular processes
+we performed subcellular fractionation into cytoplasmic, nuclear and
+secreted protein fractions and subsequentlya label-free proteome profiling
+approach based on LC-MS/MS supporting semiquantitative assessment
+of protein expression and multiple comparisons.
+The final aim
+of our approach was to find an algorithm calculating
+resistance features out of a proteome profile of a given cell line.
+The two melanoma cell lines M24met and A375 were a very powerful pair
+to start with, because of the marked difference in cisplatin sensitivity.
+In addition we raised the question, whether these differences in protein
+expression would correlate as well in other cells with resistance
+features, irrespective of the tissue of origin. Thus, we used another
+cisplatin resistant melanoma cell (TMFI) in comparison to the well-established
+cisplatin sensitive cervix carcinoma HeLa cells for testing this hypothesis.
+Cells were fractionated into cytoplasm, nuclei and secretome and
+the resulting protein identification data submitted to the PRIDE repository
+(www.ebi.ac.uk/pride31,32). In addition, the
+sensitive cells A375 and HeLa were challenged with cisplatin in vitro
+and forwarded to proteome profiling after 48 h of treatment.
+Out of a total of 3200 identified proteins, no single candidate
+was found to highly correlate with the resistance properties of the
+cells. Therefore, we investigated whether selected protein groups
+might correlate better than single proteins. Data analysis was supported
+by our CPL/MUW (Clinical Proteomics Laboratories at the Medical University
+of Vienna) database which we extended with GO (gene ontology) classification
+tools with regard to cell compartments and biological functions.33,34
+In a first step, we compared the different cell lines, their
+specific
+organelle distribution and functional state by GO using the classification
+tool, second we shed light on the drug effects in sensitive cells
+and compared the associated protein expression profiles to those of
+the basis state of the resistant cells (an overview of the entire
+experimental strategy is provided in Figure 1). Establishment of resistance implies that cells may learn to cope
+with new drugs by establishing specific survival strategies. We have
+observed that cells eventually dying by apoptosis indeed up-regulate
+survival proteins, but simply coming too late.19 A resistant tumor cell has pre-established coping mechanisms
+to overcome the drug effects. A sensitive cancer cell also tries to
+raise survival strategies while the cell is exposed to the anticancer
+drug but is not quick enough to counter the drugs effect. Therefore,
+we challenged both a sensitive and a resistant melanoma cell line
+with cisplatin and monitored the stress coping strategies by shot
+gun analysis. The challenge-induced proteins were subsequently compared
+to those proteins specifically expressed in resistant cells supporting
+the identification of a functional survival signature.
+Figure 1
+New strategy for detection
+of resistance signatures. Preparation
+of the cytoplasmic, nuclear and secereted proteins is performed with
+well-characterized tumor cells and antitumor drugs (drug sensitive
+and resistant cells). Supernatant collection, sterile filtration and
+precipitation was performed after a 24 h incubation of the cells in
+special formulated serum-free media. For shot gun proteomics, the
+protein samples were separated by SDS-gel electrophoresis followed
+by tryptic in-gel digestion and peptide separation by nanoflow LC.
+Peptide identification is accomplished by MS/MS fragmentation analysis
+and the MS/MS data are interpreted by the Spectrum Mill MS Proteomics
+Workbench software. All peptides related to a single protein become
+sorted accordingly in order to account for protein inference issues.
+Data of various experiments are combined to obtain reference maps
+of single cell types at specific states. The specificity of any single
+protein expression with respect to cell types may be retrieved using
+the GPDE. Overlap and specificity of proteome maps can be visualized
+by accurate Venn diagrams. After pooling data of several experiments,
+the proteins are classified according to defined GO terms and further
+evaluated with respect to the involvement in cell survival. Selected
+candidates will be clinically evaluated using targeted proteomics
+techniques applied to human serum.
+To narrow down the signature candidates we applied the following
+criteria for each experiment, across experiment series and across
+the CPL/MUW database. Referring to protein identifications, the specificity
+of peptide sequences with respect to any possible protein inference
+issue as well as physical peptide ionization properties (identification
+of high flyers) was considered. With respect to the semiquantitative
+assessment of protein abundance we have calculated the emPAI value
+for each protein. The described protein alterations are based on data
+derived from independent biological replicas. Furthermore, the applied
+experimental strategy allowed us to perform multiple comparisons across
+a large number of different cell model systems which have been analyzed
+using the same methodology. This was enabled by bioinformatics evaluation
+tools which have been designed by us for these specific purposes.
+These self-programmed tools are presented here for the first time
+and comprise the "Protein Cooccurrence" tool to determine
+redundancy and the "Cell Similarity" tool to assess
+a large number of different cell systems (presently 226) with respect
+to the expression of selected signatures. As a consequence, we were
+able to clearly discern specifically expressed proteins from commonly
+expressed proteins, thus providing the expression specificity required
+to define a functional signature. This signature was then tested by
+the cell similarity tool to demonstrate the predictive power.
+1
+Classification of Proteins by GO Cell Compartments
+We identified
+2305 proteins in A375 cells (1703 with two or more
+peptides). We identified 2253 proteins in M24met cells (1683 with
+two or more peptides) (Figure 2A, D). We found
+1746 proteins (1443 with >=2 peptides) in both cells.
+Figure 2
+Comparative
+proteome profiling results of two pairs of cisplatin
+sensitive and resistant cells, respectively. (A) Quantitative Venn
+diagram of the number of identified proteins in A375 (pool A) and
+M24met (pool B) melanoma cells specifying the number of common and
+exclusively expressed proteins as well as the sum of identified peptides,
+respectively. The number of peptides provides an estimate for protein
+abundance, that is, the more peptides identified per protein class,
+the higher the relative abundance the corresponding proteins. (B,
+C) Classification summary of identified proteins and peptides in A375
+and M24met melanoma cells according to GO cellular component terms.
+(D) Quantitative Venn diagram of the number of identified proteins
+in HeLa cervix carcinoma (pool A) and TMFI (pool B) melanoma cells,
+specifying the number of common and exclusively expressed proteins.
+(F, G) Classification summary of identified proteins and peptides
+in HeLa cervix carcinoma and TMFI melanoma cells according to GO cellular
+component terms.
+We identified 1763 proteins
+in HeLa cells (1287 with two2 or more
+peptides). We identified 1788 proteins in TMFI cells (1245 with two
+or more peptides) (Figure 2A, D). We found
+1288 proteins (1176 with >=2 peptides) in both cells.
+In order to determine whether the two corresponding cell pairs
+have apparent differences in cell architecture, we used the standardized
+GO term classification for proteins according to cell compartments
+and considered group representation as well as relative protein abundance.
+In M24met compared to A375 an increased representation of proteins
+belonging to the cytoskeleton, endoplasmic reticulum, golgi apparatus,
+lysosome, and plasma membrane (Figure 2 B,
+C) was observed. Similarly, proteins belonging to cytoskeleton, the
+extracellular matrix, to lysosomes, the mitochondrium and nucleolus
+were found higher represented in TMFI compared to HeLa cells (Figure 2 E, F). In both cisplatin resistant melanoma cell
+lines, proteins related to the lysosomal fraction and the cytoskeleton
+revealed to be elevated in comparison to the sensitive counterparts.
+This is in line with previous reports demonstrating the association
+of cisplatin resistance with cytoskeletal15,30 and lysosomal proteins (Supporting Information  Table S1A).35 Most strikingly, different
+types of cathepsins, such as cathepsin B and D were increased in both
+cisplatin resistant cells (Supporting Information Table S1A, Figure 3C, D). Furthermore, the
+following lysosomal proteins were regulated by cisplatin: Beta-hexosaminidase
+subunit beta, LAMP-1, ras-related protein rab-14 and vacuolar protein
+sorting-associated protein 4B (Suppressor of K (+) transport growth
+defect 1) which additionally were found highly expressed in both cisplatin
+resistant melanoma cell lines (Supporting Information Table S1A, Figure 3 C, D).
+Figure 3
+Lysosomal compartment
+differs in sensitive and resistant cells.
+Lysosomal staining of A375, M24met, HeLa and TMFI carcinoma cells,
+untreated (A) and treated with 1 mM cisplatin (B). Subcellular
+distribution of four lysosomal proteins are depicted in (C) in the
+following fashion: each cell symbol represents the protein expression
+of a single protein for a single cell type. Average emPAI values were
+calculated, increased color intensities correspond to increased emPAI
+values. All positive identifications were reproduced in at least three
+different experiments, white fields indicate negative finding. The
+inner circle represents identification in the nuclear extracts, the
+outer circle in the cytoplasm and the outer frame in the secreted
+protein fraction. Four proteins were selected and listed in (D).
+To verify these observations we
+performed lysosomal staining with
+Lysotracker Red DND-99 of untreated and treated A375, M24met, HeLa
+and TMFI carcinoma cell lines (Figure 3A, B).
+In the cisplatin sensitive cells the lysosomes appeared rather small
+granular and were located at the cellular membrane, whereas in the
+resistant ones (M24 met, TMFI) the lysosomes appeared as larger spherules
+mainly localized in the cytoplasm. Cisplatin treatment led to complete
+abolishment of lysosomal staining in the sensitive cells, while in
+the M24met and TMFI melanoma cells the lysosomes seemed rather unaffected
+(Figure 3B). The average emPAI, a semiquantitative
+abundance factor for MS based protein identifications, of four lysosomal
+proteins, upregulated in the cisplatin resistant melanoma cells, is
+represented by symbols as follows: a small inner circle for the nuclear
+fraction, an outer circle for the cytoplasm and an outer frame for
+the secretome (Figure 3C, D). The corresponding
+emPAI values are listed in Supporting Information Table S5.
+2
+Classification of Proteins
+by GO Molecular Functions
+In order to perform functional
+correlation we made a choice of
+functional classes which have already been associated with cisplatin
+resistance. These GO-defined functional classes are listed in the Materials and Methods section.
+In comparison
+to A375, the M24met melanoma cells expressed higher amounts of proteins
+belonging to the following classes (Supporting
+Information Table S1 A-G): cell junction, ECM, focal
+adhesion, Ca2+ ion binding, MAP kinase activity, and cell
+adhesion (Figure 4A, B). In case of TMFI melanoma
+cells compared to HeLa cells (Supporting Information Table S1 A-G) this applies to: cell junction, ECM, focal
+adhesion, Ca2+ ion binding, MAP kinase activity, protein
+transport, xenobiotic metabolic processes, cell adhesion, and cell
+cycle process (Figure 4C, D). The overlap for
+both comparisons was found to be cell junction, cell adhesion, focal
+adhesion, ECM proteins, Ca2+ ion binding, and MAP kinase
+activity.
+Figure 4
+Comparative proteome profiling identified different distributions
+of members of GO functional process families in cisplatin sensitive
+and resistant cancer cell lines. As in Figure 2, both the number of proteins and peptides are indicated. (A, B)
+Classification summary of A375 and M24met melanoma cells. (C, D) Classification
+summary of HeLa and TMFI cells. All classifications are used by the
+standardized GO annotation.
+Remarkably, cell junction, cell adhesion, focal adhesion,
+and ECM
+proteins are closely related and may be considered as adherence proteins.
+Furthermore, Ca2+ ion binding is a basic requirement for
+adherence processes.
+To list examples, in the group of cell
+junction alpha-synuclein,
+cytochrome c1, catenin delta-1, filamin-A, ras-related protein Rap-1b,
+septin-11, VAMP-2, cell division cycle and apoptosis regulator protein
+1, gelsolin, spectrin alpha chain, and thrombospondin-2 were apparently
+elevated or exclusively expressed in both cisplatin resistant cell
+lines (Supporting Information Table S1B).
+Cisplatin treatment induced the increased expression of the following
+proteins: glycylpeptide N-tetradecanoyltransferase 1, VAMP-3, annexin
+A4, calnexin, calpain-1 catalytic subunit, protein S100-A16, reticulocalbin-1,
+spectrin alpha chain (Supporting Information Table S1B). Cytochrome c1,15 calnexin5 and reticulocalbin-130 were already described to be associated with cisplatin resistance.
+Cell adhesion proteins such as integrins a1b1, avb, a6b,
+effectors p130Cas, Src, and talin were already described in the context
+of cisplatin resistance.18 Here, we as
+well identified a panel of integrins in the resistant melanoma cells
+such as integrin a2, a3, av, and b1 (Supporting
+Information Table S1C). In addition different types of collagens,
+cadherin-1 and 13, catenin alpha-1 and delta-1 were found to be highly
+expressed in cisplatin resistant melanoma cell lines (Supporting Information Table S1C).
+In the
+group of focal adhesion caldesmon was found exclusively
+expressed in the cisplatin resistant melanoma cell lines. Luc7-like
+protein 3 (Cisplatin resistance-associated-overexpressed protein)
+was identified with three peptides in the cisplatin resistant melanoma
+cell line TMFI (Supporting Information Table
+S1D). In line with published data linking talin with cisplatin resistance,18 talin-2 was found expressed only in the M24met
+melanoma cells (Supporting Information Table
+S1D).
+Alpha-synuclein, glia-derived nexin and the structural
+maintenance
+of chromosomes protein 3 are ECM proteins characteristic for both
+cisplatin resistance melanoma cell lines. This also applies to MMP-1,
+secreted frizzled-related protein 1, SPARC, and spondin-2, all known
+to be involved in neoplastic processes (Supporting
+Information Table S1E).
+The largest group was represented
+by the Ca 2+ binding
+proteins. Here, especially groups of alpha-actinins, annexins A3-7,
+and calcium-binding mitochondrial carrier proteins Aralar 1, 2, and
+SCaMC-1, not yet associated with cisplatin resistance, and 6 types
+of S100-A proteins17 were found differentially
+expressed (Supporting Information Table
+S1F). While S100-A4 was described to be associated with resistance,30 our data rather list the S100 proteins S100-A1,
+8, 10, 13, 1, and B to be elevated in the cisplatin resistant melanoma
+cell lines (Supporting Information Table
+S1F). However, in line with recent literature linking calreticulin
+to cisplatin resistance, we also identified calreticulin to be elevated
+in the M24met melanoma cell line.15
+Members of the MAP kinase pathway including ubiquitin carboxyl-terminal
+hydrolase isozyme L114 were also found
+to be elevated in both cisplatin resistant melanoma cell lines (Supporting Information Table S1G). In Table S2,
+the proteins of all seven categories which are either found to be
+elevated in both resistant cell lines or induced upon cisplatin treatment
+are listed.
+Since five of the six categories belong to cell
+adherence function
+we reevaluated the ability of the cells to interact with extracellular
+matrix proteins by a cell adhesion assay. Here, a 48 well plate coated
+with extracellular matrix proteins such as Fibronectin, Collagen I,
+IV, Laminin I, and Fibrinogen (Figure 5A) was
+evaluated for the capability of the cells to adhere to these ECM proteins.
+Indeed, the cisplatin resistant cells adhered in a much stronger manner
+to fibronectin and both collagen subtypes, while there was no significant
+difference in case of laminin and fibrinogen in comparison to the
+sensitive cells (Figure 5A, B). In comparison
+to all evaluated cancer cells, M24met exhibited the highest capability
+to adhere to ECM proteins (Figure 5A, B). Remarkably,
+fibronectin was exclusively detected in the cisplatin resistant cells,
+while there was no difference in the expression of laminin-1 as demonstrated
+in the subcellular distribution (Figure 5 C,
+D). Three additional ECM proteins, apparently up-regulated in the
+cisplatin resistant cancer cells, are visualized by the subcellular
+distribution pattern (Figure 5C, D). The corresponding
+emPAI values are listed in Supporting Information Table S5.
+Figure 5
+Differential capability of cell adherens in sensitive and resistant
+cells. A375, M24met, TMFI and HeLa cells seeded at 100.000 cells/well
+were allowed to attach to ECM-coated well plate for 1 h. Unbound cells
+were washed away and the adherent cells were stained (A) and ECM-
+mediated cell adhesion was quantified at OD 560 nm after extraction
+(B). The corresponding ECM proteins fibronectin (1), laminin (3),
+collagen IV (4) and three additional ECM proteins are depicted identifying
+the subcellular distribution as explained in Figure 4 (C, D).
+3
+Evaluation
+of Survival Mechanisms
+To
+evaluate survival mechanisms we adhered to the following rationale:
+If a cell enters a different functional state it may require proteins
+not expressed under normal conditions. If a cell is exposed to a specific
+drug the cell responds in a specific way dependent on the basal protein
+expression with the aim to cope with the drug. As a consequence, the
+identification of such specifically induced proteins may identify
+survival or resistance mechanisms and thus indirectly reflect the
+acting profile of the investigated compound. Therefore, to characterize
+resistance signatures, we compared constitutively expressed proteins
+in the cisplatin resistant melanoma cell line M24met with cisplatin-induced
+proteins in the sensitive melanoma cell line A375. This strategy identified
+42 proteins which were again assigned to specific processes including
+lysosomal and Ca2+ ion binding proteins, and proteins involved
+in transport, binding, DNA damage, mRNA processing, metabolic/enzymatic
+processes, and mitochondrial metabolism (Supporting
+Information Table S3, Figure.6C). The
+expression of all 42 candidates is visualized in the M24met and A375
+melanoma cell line control versus cisplatin treated in their expression
+level and cellular distribution (Figure 5 A
+and B). Here it is easy to distinguish that all candidates are not
+constitutively expressed in A375 in contrast to M24met melanoma cells.
+Three candidates were strongly regulated in a reverse fashion: The
+lysosomal protein Tripeptidyl-peptidase 1, U6 snRNA-associated Sm-like
+protein LSm6 and uncharacterized protein C11orf73 are highly expressed
+in the cisplatin resistant melanoma cell line M24met and downregulated
+upon cisplatin treatment (Figure 6 A, B). The
+corresponding emPAI values are listed in Supporting
+Information Table S5.
+Figure 6
+Constitutively expressed proteins in M24met
+and cisplatin induced
+in A375 melanoma cell line as possible survival and resistance candidates.
+(A, B) Subcellular distribution of all constitutively expressed proteins
+in M24met and cisplatin induced in A375 melanoma identified at least
+in two independent experiments is indicated. (A) Cellular distribution
+of these proteins in M24met melanoma cell line treated with solvent
+control or cisplatin (1 mL/ml) for 48 h. (B) Cellular distribution
+of these proteins in A375 melanoma cell line treated with solvent
+control or cisplatin (1 mL/ml) for 48 h. The proteins are listed
+from left to right in following order given by the accession number
+of the proteins: O00754, O14773, O14974, O15260, O15498, O75071, P02792,
+P05362, P07686, P09110, P11279, P16401, P22570, P35659, P36957, P49406,
+P61619, P62312, P82664, Q02978, Q04446, Q14004, Q14197, Q14694, Q15293,
+Q16643, Q16698, Q2VIR3, Q53FT3, Q70UQ0, Q8IYD1, Q8N5M4, Q8WWI1, Q92466,
+Q9BTW9, Q9HAN9, Q9NYV4, Q9NZB2, Q9UID3, Q9UIJ7, Q9Y4P3, Q9Y5J7 (C-F).
+Classification of these proteins by cellular processes (C), enzymatic
+activity (D), binding activity (E), and pathology, disease (F) as
+main categories identified. The diagram displays the percentage distribution,
+proteins can be assigned to more than one category. (G,H) Classification
+by GO annotation of biological processes (G) and molecular function
+(H).
+In line with the data shown in
+Table S1A, we again identified the
+lysosomal proteins LAMP-1 and Beta-hexosaminidase subunit beta as
+well as reticulocalbin, the Ca2+ binding protein as possibly
+involved in cell survival. A whole list of proteins known to be involved
+in DNA damage is listed including ATM- related (ATR) kinases,36 DNA damage-binding protein 2 and ubiquitin carboxyl-terminal
+hydrolases, which mediate the p53 dependent DNA damage response. 29%
+of the assigned candidates exert enzymatic activity (Figure 6C), which can be subdivided into transferases, oxidoreductases,
+hydrolases, and proteases (Figure 6D). These
+results are in line with a recent proteomic study demonstrating that
+ligase, hydrolase, kinase, protease, oxidoreductase, transferase,
+lyase, phosphatase, or enhanced isomerase activity can be linked to
+an enhanced cisplatin resistance.15
+Thirty out of the 42 proteins have binding activity which mainly
+can be assigned to GTP/ATP/nucleotide, protein, metal iron binding,
+RNA, p53, or DNA binding (Figure 6E).
+Twelve proteins can be associated to a specific disease belonging
+to the categories storage disease, cancer, neurodegeneration, or disease
+mutation (Figure 6F). In addition, these 42
+proteins can also be classified by GO into biological processes and
+molecular function, revealing the groups listed before such as transport,
+DNA repai,r or Ca2+ binding (Figure 6G, H).
+Several of these candidates have already been associated
+to survival
+and resistance as outlined in the following: The mRNA expression of
+Synatobrevin YKT 6 (Supporting Information Table S3) was found related to resistance to docetaxel. ICAM-1,
+listed in Table S3, is known to be associated with an activation of
+the PI3K/AKT pathway, and mediates survival of metastatic melanoma
+cells37 as well as multiple myeloma cells.38 The chromatin remodeling factor DEK (Supporting Information Table S3) plays a key
+role for the maintenance of malignant phenotypes of melanoma cells39 and was identified by proteome analysis to be
+involved in cisplatin resistance.18 Constitutive
+coactivator of PPAR-gamma-like protein 1 is known to be a critical
+component of the oxidative stress-induced survival signaling and was
+identified as possible cisplatin resistance candidate (Supporting Information Table S3). 1,4-alpha-glucan-branching
+enzyme plays an important role in increasing the sb olubility of the
+molecule and, consequently, in reducing the osmotic pressure within
+cells and might be involved in regulating cisplatin entrance into
+the cell (Supporting Information Table
+S3).
+4
+Candidate Selection and Verification of the
+Resistance Signature
+The three main categories presently
+described to be associated with resistance were lysosomal proteins,
+cell adherence, and survival proteins. The CPL/MUW database allows
+us to calculate whether the expression of a protein is highly correlating
+or not with the expression of any other protein of choice (protein
+co-occurrence). As a result, proteins with distinct expression patterns
+may be discerned from groups of proteins with highly correlating expression
+patterns (Figure 6). This allowed the selection
+of a few representatives out of each group of highly correlating proteins
+in addition to the nonredundant candidates resulting in a final choice
+of a resistance signature proteins listed in Supporting
+Information Table S4.
+The large number of cells represented
+in the CPL/MUW database allowed us to test the relevance of the protein
+signature using a cell similarity algorithm. Different cell types
+were ordered according to the extent of expression of the signature
+(Figure 7). Out of 226 different cell types
+and cell states represented in the database, the tumor associated
+bone marrow fibroblasts of multiple myeloma ranked in between M24met
+and TMFI melanoma cells. Remarkably, when testing these cells for
+cell viability and proliferation in response to cisplatin treatment,
+the proliferation curves of the five investigated cells very well
+reflected the ranking obtained from proteome profiling using the resistance
+signature (Figure 7).
+Figure 7
+Correlation of the signature
+to cell response. Proteins of the
+three main categories lysosomal, cell adherens and survival proteins
+upregulated in both resistant cell lines were tested for redundancy
+by the bioinformatic tool called protein cooccurence. A minimum redundant
+list of proteins of each group was selected. Furthermore, selected
+proteins were included if the corresponding protein class was found
+to be affected. The resulting cisplatin resistance signature was then
+inserted into the bioinformatic tool called cell similarity which
+sorts cell types contained in the database according to the completeness
+of expression of the protein list used for the query. Unexpectedly,
+multiple myeloma fibroblasts were found to express a large number
+of proteins contained in the signature. Here, the extent of expression
+of the resistance signature is correlated with cell survival when
+challenged with cisplatin. Indeed, the newly investigated fibroblasts
+were listed exactly as predived by the signature.
+
+Discussion
+A high incidence for drug resistance is
+characteristic for melanoma,
+which is therefore a highly suitable model to study resistance mechanisms.
+Understanding the pathophysiology of the underlying mechanisms of
+intrinsic and acquired resistance will be necessary to define patient
+subgroups and to define novel therapeutic treatment options.40
+Cisplatin is a commonly used alternative
+to the standard dacarbacine
+therapy. Melanoma displays marked resistance to the DNA-damaging effects
+of these drugs.40 Cisplatin resistance
+has been associated with an elevated expression of glutathione S transferase
+(GST) or related enzymes, but in case of melanoma an increased activity
+of GST was not found to correlate with resistance.27 Therefore, melanoma resistance can hardly be comprehended
+with known resistance patterns and seems to be extremely complex.
+Several studies started to employ global approaches such as 2D
+gel electrophoresis and rather few dealt with mass spectrometry. Here
+we applied comparative proteome profiling using selected cell culture
+model systems to define drug resistance signatures which may help
+to predict therapeutic success. Therefore, we have designed a more
+complex analysis strategy referring to proteome profiles including
+cytoplasm, nuclear and supernatant fractions of two independent pairs
+of sensitive and resistant carcinoma cell lines which were analyzed
+untreated and after stimulation with cisplatin which is outlined in
+Figure 1. Thus this is the first multistep
+experimental approach referring to several cell systems, to different
+subcellular fractions, comparing untreated and challenged cells and
+using a standardized shot gun proteomics methodology to gain the most
+unbiased answer.
+This was enabled by bioinformatics evaluation
+tools which have
+been designed by us for these specific purposes. These tools are presented
+here for the first time and comprise the "Protein Cooccurrence"
+tool to determine redundancy and the "Cell Similarity"
+tool to assess a large number of different cell systems (presently
+226) with respect to the expression of selected signatures. As one
+of the main observations, lysosomal proteins were higher expressed
+in the cisplatin resistant tumor cells. Lysosomal staining confirmed
+the shot gun data in a way that lysosomes were found augmented in
+the resistant cells which may indicate an improved elimination of
+the chemotherapeutic drug. Remarkably, we observed characteristic
+morphological features and subcellular locations of the lysosomes
+in the resistant cells. In addition proteins with cell adherence functions
+were found to correlate with resistance. These proteome profiling
+data were independently verified by the cell adhesion assay as the
+resistant cells expressed more integrins mediating ECM contacts as
+well as the ECM proteins which they actually bind to. Two different
+hypotheses may conceivably point out the importance of cell adherence
+functions in resistance mechanisms. Resistant cells eventually gain
+the ability to metastasize, which is the most threatening step in
+melanoma progression. For this step, the cells need to become independent
+from binding to the host-derived ECM. To that aim, they produce the
+ECM proteins necessitated for their own survival and to support "microenvironmental
+mimicry", furthermore they degrade ECM proteins from the host
+tissue. The present proteome profiling results suggests that resistant
+tumor cells may change their ECM expression phenotype in order to
+evade immune responses and evade drug effects. This observation further
+supports the interpretation that a gain of metastatic capabilities
+is accompanied by increased drug resistance.41
+The detection of survival proteins was based on the consideration
+that cells may produce specific proteins to exert specific functions.
+When cells encounter unusual situations, they try to adjust by expressing
+proteins which may help to deal with the new situation. Such proteins,
+specifically synthesized on demand, may indicate characteristic disease
+states and may thus serve as diagnostic markers. This was already
+suggested for YKT 6, which was described to be up-regulated in p53-mutated
+breast tumors and to be potentially useful in identifying the subset
+of breast cancer patients who may or may not benefit from docetaxel
+treatment.42
+Furthermore, ICAM-1
+positive tumors of clinic stage I patients
+have been noticed to have a significantly shorter disease free interval
+and survival time than patients with ICAM-1 negative tumors.43
+We also identified the chromatin remodeling
+factor DEK which is
+known to be increased in metastatic melanomas. Although the functional
+relevance remains unclear, a key role of DEK seems to be the maintenance
+of malignant phenotypes of melanoma cells39 and was already suggested by a proteome analysis study to be involved
+in cisplatin resistance.18 Secchiero et
+al. demonstrated that strategies aimed to down regulate DEK might
+improve the therapeutic potential of these drugs.44
+Inhibitor of nuclear factor kappa-B kinase-interacting
+protein
+is a target of TP53/p53 and exerts a pro-apoptotic function (Uniprot).
+It shares a common promoter with apoptotic protease activating factor-1
+(APAF1), which is associated with cisplatin resistance (Supporting InformationTable S3). Cytochrome-C
+interacts with Apaf-1 to form the apoptosome. Remarkably, the increased
+expression of these pro-apoptotic proteins which finally promote DNA
+fragmentation was recently shown to correlate with melanoma resistance.27,45,46 We interpret these observations
+as follows: Downregulation or abrogation of a survival pathway may
+activate a feedback loop resulting in an induction of agonists for
+compensation. Hence, the accumulation of a mechanistic agonist in
+cancer cells may well indicate that the corresponding mechanism is
+impaired.
+Based on these and many more findings presented here,
+the list
+of lysosomal, cell adherence, and survival proteins was filtered by
+bioinformatic tools to a functional resistance signature whose predictive
+power has been demonstrated with a comparative cytotoxic assay. Obviously,
+the combination of different features rather than single mechanism
+or single features may enable the prediction of specific chemoresistance
+features.
+The next challenge will be to evaluate the candidate
+marker proteins
+in additional melanoma sensitive and resistant cell lines, tissue,
+and serum samples of melanoma patients.
+To evaluate such markers
+in blood samples for the predictive power,
+selected reaction monitoring (SRM) may be the method of choice. SRM
+is a label-free mass spectrometry-based quantification method with
+optimal sensitivity and accuracy and serves as a robust method for
+selective measurement of low abundant proteins as demonstrated for
+instance by Kim et al. measuring superoxide dismutase 1 in cisplatin-sensitive
+and cisplatin-resistant human ovarian cancer cells.47 We are currently establishing SRM methods with a triple-quad
+mass spectrometer for the selected marker proteins. The experimental
+verification using patient-derived samples shall finally prove whether
+the concomitant quantification of a larger number of marker proteins
+may result in the required sensitivity and specificity (Figure 1).
+In current clinical melanoma research,
+the relevance for understanding
+the mechanisms of drug resistance and to define novel concepts for
+patient stratification and therapy combinations is evident. This relevance
+may be highlighted considering a promising new cancer drug, the RAF
+inhibitor PLX4032 which is realizing dramatic clinical responses up
+to complete remission. However, relapse may occur within few months
+after therapy. Therefore we intend to apply the presently described
+algorithms to identify resistance signatures to this highly relevant
+clinical topic. If successful, these strategies may not only provide
+predictive and pharmakodynamic biomarkers identifying individual dispositions
+for chemoresistance and allowing to monitor therapy effects, but also
+devise individualized targeted interventions by understanding the
+pathomechanism.

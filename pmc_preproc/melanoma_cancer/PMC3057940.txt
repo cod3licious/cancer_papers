@@ -1,0 +1,28 @@
+[Abstract, Methods, Mixed]
+
+The histone variant macroH2A suppresses melanoma progression through regulation of CDK8. Cancer is a disease consisting of both genetic and epigenetic changes. While increasing evidence demonstrates that tumour progression entails chromatin-mediated changes such as DNA methylation, the role of histone variants in cancer initiation and progression currently remains unclear. Here, we report that the histone variant macroH2A (mH2A) suppresses tumour progression of malignant melanoma. Loss of mH2A isoforms, histone variants generally associated with condensed chromatin and fine-tuning of developmental gene expression programs1-4, is positively correlated with increasing malignant phenotype of melanoma cells in culture and human tissue samples. Knockdown of mH2A isoforms in melanoma cells of low malignancy results in significantly increased proliferation and migration in vitro and growth and metastasis in vivo. Restored expression of mH2A isoforms rescues these malignant phenotypes in vitro and in vivo. We demonstrate that the tumour promoting function of mH2A loss is mediated, at least in part, through direct transcriptional up-regulation of CDK8. Suppression of CDK8, a colorectal cancer oncogene5, 6, inhibits proliferation of melanoma cells, and knockdown of CDK8 in cells depleted of mH2A suppresses the proliferative advantage induced by mH2A loss. Moreover, a significant inverse correlation between mH2A and CDK8 expression levels exists in melanoma patient samples. Taken together, our results demonstrate that mH2A is a critical component of chromatin that suppresses the development of malignant melanoma, a highly intractable cutaneous neoplasm.
+
+Methods Summary
+Cell culture, plasmids, infections and RNAi
+Detailed information is described in Methods.
+Chromatin fractionation, acid extraction of histones and immunoblotting
+Chromatin fractionation and acid extraction of histones performed as described14. Antibodies used for immunoblotting can be found in Methods.
+Quantitative mass spectrometry
+Q-MS performed as previously described22.
+Immunohistochemistry, pathology and statistical analysis
+Specimens were obtained from MSSM's Division of Dermatopathology (Project# HSD08-00565), NYU (IRB# 10362), and melanoma tissue microarray (Imgenex #IMH-369). Details on staining, pathology and statistical analyses described in Methods.
+Clinical Specimens
+Human specimens were collected at the time of surgery. Approval to collect melanoma specimens was granted by Mount Sinai Biorepository Cooperative and the NYU IMCG (Project #'s above). Approval to collect benign nevi was granted by MSSM's Division of Dermatopathology (Project # 08-0964).
+Bisulfite sequencing
+Performed according to manufacturer's instructions (Zymo Research). Details described in Methods.
+Cell proliferation, migration and mouse injections
+MTS performed according to manufacturer's instructions (Promega). Colony formation and soft agar assays performed as described28. Trans-well migration assay described in Methods. In vivo metastasis assays performed as described28. For subcutaneous injections, 2.5x105 B16-F1 cells were injected into 6-week old C57BL/6J mice and 2x106 A375 cells injected into NOG mice (Jackson Laboratories); tumour volume measured over a 14 and 20-day period, respectively.
+Microarray hybridization, data analysis and hierarchical clustering
+Microarray was performed using two biological replicates according to Affymetrix GeneChip protocol. Initial data extraction performed at the Microarray Shared Research Facility at MSSM. Heatmaps generated using Cluster and Tree View programs.
+Quantitative PCR and Chromatin Immunoprecipitation
+qPCR performed in triplicate on Stratagene Opticon 2 using FastStart SYBR Green Mix (Roche). Expression levels normalized to TATA Binding Protein (TBP) or GAPDH. ChIP assays performed using Magna ChIP(tm) Kit (Millipore) as per manufacturer's instructions.
+
+Supplementary Material
+1
+2
+3

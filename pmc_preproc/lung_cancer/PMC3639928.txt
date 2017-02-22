@@ -1,0 +1,386 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed, Mixed]
+
+Indirectly estimated absolute lung cancer mortality rates by smoking status and histological type based on a systematic review. Background National smoking-specific lung cancer mortality rates are unavailable, and studies presenting estimates are limited, particularly by histology. This hinders interpretation. We attempted to rectify this by deriving estimates indirectly, combining data from national rates and epidemiological studies.   Methods We estimated study-specific absolute mortality rates and variances by histology and smoking habit (never/ever/current/former) based on relative risk estimates derived from studies published in the 20th century, coupled with WHO mortality data for age 70-74 for the relevant country and period. Studies with populations grossly unrepresentative nationally were excluded. 70-74 was chosen based on analyses of large cohort studies presenting rates by smoking and age. Variations by sex, period and region were assessed by meta-analysis and meta-regression.   Results 148 studies provided estimates (Europe 59, America 54, China 22, other Asia 13), 54 providing estimates by histology (squamous cell carcinoma, adenocarcinoma). For all smoking habits and lung cancer types, mortality rates were higher in males, the excess less evident for never smokers. Never smoker rates were clearly highest in China, and showed some increasing time trend, particularly for adenocarcinoma. Ever smoker rates were higher in parts of Europe and America than in China, with the time trend very clear, especially for adenocarcinoma. Variations by time trend and continent were clear for current smokers (rates being higher in Europe and America than Asia), but less clear for former smokers. Models involving continent and trend explained much variability, but non-linearity was sometimes seen (with rates lower in 1991-99 than 1981-90), and there was regional variation within continent (with rates in Europe often high in UK and low in Scandinavia, and higher in North than South America).   Conclusions The indirect method may be questioned, because of variations in definition of smoking and lung cancer type in the epidemiological database, changes over time in diagnosis of lung cancer types, lack of national representativeness of some studies, and regional variation in smoking misclassification. However, the results seem consistent with the literature, and provide additional information on variability by time and region, including evidence of a rise in never smoker adenocarcinoma rates relative to squamous cell carcinoma rates.
+
+Background
+Extensive data are available by age, sex, year and country on lung cancer mortality rates [1] and on the prevalence of smoking [2]. There are also a large number of epidemiological case-control and prospective studies which provide estimates of the relative risk of lung cancer by various aspects of smoking, a recent meta-analysis [3] having considered data from 287 studies published in the 1900s. However, mainly because smoking habits are not usually recorded on death certificates (and would perhaps be of dubious validity if they were), it is actually quite difficult to obtain national data on lung cancer mortality rates by smoking habit. There are some publications based on prospective studies which present evidence on variation in lung cancer rates in never smokers by time (e.g. [4-8]) or by age and sex (e.g. [8-15]), but these data are predominantly from the USA, often 20 years or more old, and sometimes based on very few deaths or cases. Data on rates in former and current smokers and by histological type are even more limited.
+The lack of data on absolute risk of lung cancer by smoking habit is a serious deficiency as it limits interpretation of the evidence. For example, it is clear that the relative risk of lung cancer associated with smoking reported in studies in China is substantially less than that reported in North American and European studies [3]. However, this may be because, in China, lung cancer rates in never smokers are higher and in ever smokers similar to those in the West, or because rates in ever smokers are lower, rates in never smokers being similar. While these two possibilities (among others) imply different roles of smoking and non-smoking factors, one cannot readily distinguish them from the currently available evidence. Another example is the case of adenocarcinoma. It is apparent that rates of adenocarcinoma have been rising relative to squamous cell carcinoma, a change which has been linked to the type of cigarette smoked (e.g. [16]), but there seems to be no good evidence on whether rates of adenocarcinoma in never smokers have been rising over time, or stayed constant. Having evidence on this would seem crucial to the interpretation.
+In this paper we use an indirect method for estimating absolute lung cancer mortality rates by smoking habit based on combining evidence from epidemiological studies of smoking and lung cancer and national data on lung cancer rates. This allows estimation of how mortality rates vary by sex, country and time period separately for never, former, current and ever smokers and separately for total lung cancer, squamous cell carcinoma and adenocarcinoma. While, as will be discussed, the indirect method has some limitations, the estimates derived should add useful insight into the evidence on smoking and lung cancer.
+
+Methods
+The indirect method
+Overall lung cancer mortality rates
+Suppose the population is divided into S + 1 smoking groups according to smoking habit, with i = 0 referencing never smokers and i = 1...S referencing subdivisions of ever smokers. For a case-control study, the data can be expressed in a 2 x (S+1) table, with N1i referring to the number of cases and N2i to the number of controls in smoking group i, and N1 and N2 to the total numbers of cases and controls respectively.
+For smoking group i, define p1i as the proportion of cases (= N1i / N1), p2i as the corresponding proportion of controls (= N2i / N2), and Ri as the relative risk of lung cancer compared to never smokers.
+Suppose that LW is an estimate of the overall lung cancer rate in the population from which the study was drawn, based on a total of NW cases. Li, the lung cancer rates by smoking group, can be estimated based on the following equations:
+(1)
+R
+i
+=
+p
+1
+i
+p
+20
+/
+p
+10
+p
+2
+i
+(2)
+L
+i
+=
+R
+i
+L
+0
+(3)
+L
+w
+=
+[?]
+j
+=
+0
+S
+p
+2
+j
+L
+j
+These solve directly to give:
+(4a)
+L
+i
+=
+L
+w
+p
+1
+i
+/
+p
+2
+i
+or alternatively
+(4b)
+L
+i
+=
+L
+w
+R
+i
+/
+[?]
+j
+=
+0
+S
+p
+2
+j
+R
+j
+The variance of the logarithm of the rate estimate, Li, can then be estimated approximately as:
+(5)
+var
+log
+L
+i
+=
+1
+/
+N
+w
++
+1
+-
+p
+1
+i
+/
+N
+1
+p
+1
+i
++
+1
+-
+p
+2
+i
+/
+N
+2
+p
+2
+i
+The inverse of var log Li can be used as a weighting factor in meta-analysis.
+In the present work, the formulae are applied either to estimate lung cancer rates in never and ever smokers or to estimate lung cancer rates in never, former and current smokers.
+In some studies observed counts may be zero. Here p1i, p2i and Ri are estimated by adding 0.5 to each cell of the relevant 2 x (S + 1) table. While this approach is questionable, estimates derived in this way have very small weight, so contribute little to meta-analyses.
+The method described above is based on data from case-control studies unadjusted for covariates. It is also applied to unadjusted data from prospective studies, with N2 and N2i representing the numbers in the at risk population.
+The method can also be applied where there is covariate adjustment, and the data available consist of the relative risks, the numbers of cases by smoking group, and the total number in the at risk population. Here p2i is estimated by:
+(6)
+p
+2
+i
+=
+p
+1
+i
+/
+p
+10
+R
+i
+/
+[?]
+j
+=
+0
+S
+p
+1
+j
+/
+p
+10
+R
+j
+and formulae (4) and (5) then applied.
+Lung cancer rates by histological type
+Let zh be the proportion of lung cancer with histological type h. The overall lung cancer rate for type h is then given by:
+(7)
+L
+h
+=
+z
+h
+L
+w
+and Lih, the rates by smoking group for histological type h, are estimated using formulae corresponding to formulae (4a) and (4b) as:
+(8a)
+L
+i
+h
+=
+L
+h
+p
+1
+i
+h
+/
+p
+2
+i
+h
+or alternatively as:
+(8b)
+L
+i
+h
+=
+L
+h
+R
+i
+h
+/
+[?]
+j
+=
+0
+S
+p
+2
+i
+h
+R
+j
+h
+Here the superscript h implies that the proportions and relative risks are estimated from the set of cases and controls (or at risk) relating to the histological type. In some case-control studies, the controls are specific to the histological type, but in others they are common to all lung cancer cases.
+Here the variance of the logarithm of the rates is estimated as:
+(9)
+var
+log
+L
+i
+h
+=
+1
+/
+N
+w
++
+1
+-
+z
+h
+/
+N
+1
+z
+h
++
+1
+-
+p
+1
+i
+h
+/
+N
+1
+h
+p
+1
+i
+h
++
+1
+-
+p
+2
+i
+h
+/
+N
+2
+h
+p
+2
+i
+h
+Note that, in some studies, histological typing may only be carried out on a proportion of cases, the rest being classified as of unknown type. Here N1 in formula 9 should be replaced by the number of cases for which typing was carried out.
+Application of the method
+To apply the indirect method, sex-specific data were extracted from the International Epidemiological Studies on Smoking and Lung Cancer (IESLC) database, which considers all epidemiological prospective and case-control studies involving over 100 lung cancer cases published in the last century, and has been described in detail elsewhere [3]. The data used relate to the relative risk of former, current and ever smoking, each relative to never smoking. For each study considered, the data extracted consisted of the components of the 2 x (S + 1) table and the relative risks, with the distribution of controls or at-risk estimated, if not available, using formula (6).
+Where there was a choice, relative risks for smoking of any product were selected if available, or of cigarettes (or cigarettes only) if not, then selecting the widest available age and race group, and, for prospective studies, the longest follow-up. Current and ex smoking relative risks were constrained to match each other on these selection criteria, but not necessarily to match the ever smoking relative risk. Where relevant (e.g. when using relative risks for ever smoking any product and for current and ex cigarette smoking) separate versions of the 2 x 2 (never/ever) and 2 x 3 (never/ex/current) tables were used, and the indirect estimate of the never smoker rate that is reported is that based on the never/ever comparison.
+For all lung cancer, we only considered unadjusted relative risks from case-control studies, and unadjusted or age-adjusted relative risks from prospective studies, as these were more directly relevant for comparison with national mortality rates. (Note that according to the data-entry protocol for prospective studies in IESLC, an unadjusted relative risk would not have been entered on the database if an equivalent age-adjusted relative risk was available.) However, due to the sparsity of available data, relative risks adjusted for other potential confounders were also accepted for squamous cell carcinoma and adenocarcinoma (preferring the least-adjusted estimates where there was a choice).
+"All lung cancer" was defined (as previously, [3]) as including at least squamous cell carcinoma and adenocarcinoma, "squamous" as including at least squamous cell carcinoma but not adenocarcinoma, and "adeno" as including at least adenocarcinoma but not squamous cell carcinoma. Studies presenting results for squamous but not adeno, or vice versa, were excluded, as were studies where the proportion of cases for which typing was carried out could not be estimated, typically where results were available only for specific cell types.
+Sex-specific estimates of LW, the overall lung cancer rate, were derived from the WHO mortality database [1]. This provides data by sex, single years and five year age groups for an extensive list of countries. For each epidemiological study, a year was estimated corresponding to the midpoint of the period of the case-control study or, for prospective studies, the survival-adjusted midpoint of the period of follow-up (as further explained in footnote a of Table 1). If there were no WHO mortality data corresponding to that year, data for a substitute year (within 20 years) were used as also shown in Table 1. Data were not available for India, South Africa, Taiwan, Turkey or Zimbabwe, so epidemiological data from these countries were not considered in our analyses. Table 1 also shows the few cases where data for substitute countries were used. Data from multi-country studies were also not considered.
+Given that the estimates of LW are of national rates, the indirect method may be inappropriate for an epidemiological study that is based on a special population or is conducted in an area of high risk. While it is clearly best if the population considered in the epidemiological study is nationally representative, it may still give some useful information if the study is conducted in a major town in the country. It was decided therefore to consider all epidemiological study data except where the population studied was grossly unrepresentative. Studies excluded were those of occupational groups with a known or possible lung cancer risk, specific races forming a minority of the population, or special groups with an increased mortality risk, such as persons with high coronary risk.
+Testing the validity of the method with respect to age
+While the WHO mortality data are by 5 year age group, the epidemiological data are typically for the whole age range considered, though for some studies estimates are available for less broad age ranges. The question therefore arises as to the validity of applying estimates of the ratio Li/LW based on data for a wide age range to overall estimates of LW for a range of 5 year age groups. Given that the proportion of smokers among both cases and controls will vary by age, estimates of Li/LW are also likely to vary by age. However, it seems reasonable to hope that, if one chooses an age group fairly typical of the average age of lung cancer cases, then Li/LW based on the total data will be quite accurate for that age group.
+To test this idea, an investigation was carried out using data from the million person American Cancer Society Cancer Prevention Study I (CPSI) prospective study starting in 1959 [9]. This gives lung cancer deaths and person years by age, sex and smoking status (never/former/current) for whites. The actual rate of lung cancer (per 100,000 per year) among never smokers by age was estimated and compared with that predicted based on the overall lung cancer rates by age and an estimate of L0/LW derived from the total data ignoring age. Table 2 shows the results for ages 45-49 up to 85-89 for both sexes. As is evident, the predicted rate tends to be an overestimate for younger age groups and an underestimate for older age groups. However, it is reasonably accurate for age groups 65-69, 70-74 and 75-79. We reached similar conclusions based on data from the 1.25 million person US Cancer Prevention Study II prospective study starting in 1982 [15] (results not shown).
+Overall, the correspondence between observed and predicted rates was best for age 70-74, and it was decided to use the epidemiological data to estimate Li/LW, and then apply it to the WHO national data for age 70-74. However we excluded from consideration epidemiological studies of young populations, where the upper age limit of the population studied was less than or equal to 60 years or where the age range of the population was unknown.
+Meta-analysis
+Inverse-variance weighted fixed-effect and random-effects meta-analyses were conducted by standard methods [17], with heterogeneity quantified by H, the ratio of the heterogeneity chi-squared to its degrees of freedom, which is directly related to the statistic I2[18] by the formula I2 = 100(H - 1)/H. Meta-analyses were conducted separately for overall lung cancer rates and also for squamous and for adeno. Estimates were derived for total rates and for rates by the factors sex, region and grouped year of study. Tests of variation in rates by individual factor levels were carried out taking into account the extra-binomial variability of the data. Thus if H0 and D0 are the heterogeneity chi-squared values and degrees of freedom for the total data (based on a total of M estimates) and Hj and Dj are the corresponding values for each of m levels of the factor, the expression
+h
+0
+-
+[?]
+h
+j
+/
+D
+0
+-
+[?]
+D
+j
+[?]
+h
+j
+/
+[?]
+D
+j
+(where summation is over the m levels of the factor) can be considered an approximate F statistic on m-1, M-m degrees of freedom.
+Meta-regression
+Inverse-variance weighted regression analyses were conducted, separately for males and females, to further assess the effects of region and time period. A continuous "linear period" variable was defined as 1 = 1930-60, 2 = 1961-70, 3 = 1971-80, 4 = 1981-90, 5 = 1991-99, and a categorical "continent" variable was defined to take the levels America, Europe, China and Asia (not China). Estimates were derived of the means and standard errors (SEs) for the model with both factors fitted, and the significances of linear period unadjusted for continent, continent unadjusted for linear period, linear period adjusted for continent and continent adjusted for linear period were tested. Additional analyses tested for the effects of introducing a fuller 10 level region variable (Canada, USA, South or Central America, UK, Scandinavia, West Europe, East Europe, Japan, China, Other Asia), the fuller 5 level period variable, or interactions between continent and linear period.
+Software
+Analysis was carried out using ROELEE version 3.1 (available from P.N. Lee Statistics and Computing Ltd, 17 Cedar Road, Sutton, Surrey SM2 5DA, UK) and Excel 2003.
+
+Results
+Studies
+Table 3 summarizes features of the 148 studies from 29 countries used for indirect estimation. Reasons for rejecting 139 studies are given in Additional file 1. The most common reasons for rejection were no relative risks available for ever vs never smokers (32 studies), only combined-sexes results available (45 studies), and study in an occupational group with a known or possible lung cancer risk (22 studies). Of the included studies, 7 were conducted in Canada, 40 in the USA, 7 elsewhere in the Americas, 17 in the UK, 13 in Scandinavia, 22 elsewhere in Western Europe, 7 in Eastern Europe, 9 in Japan, 22 in China (including Hong Kong), and 4 elsewhere in Asia. There were 120 case-control studies, 25 prospective studies, two of nested case-control and one of case-cohort design. 78 of the studies provided results for both sexes, 54 for males only, and 16 for females only. 144 provided results for total lung cancer, and 54 for squamous and adeno.
+Estimates
+The indirect estimates of the lung cancer rates (per 100,000 per year) and their weights, by smoking habit, location and study, are given for total lung cancer in Table 4 (males) and Table 5 (females), for squamous in Table 6 (males) and Table 7 (females), and for adeno in Table 8 (males) and Table 9 (females). With some exceptions, the rates are lowest in never smokers, intermediate in former smokers and highest in current smokers, consistent with the general pattern of relative risks.
+Meta-analyses
+Results of the meta-analyses, overall and by sex, region and year of study, are shown in Table 10 (never smokers), Table 11 (ever smokers), Table 12 (current smokers) and Table 13 (former smokers). In the text below, all rates mentioned are per 100,000 per year. Estimates given are random-effects and usually presented to 3 significant figures together with the 95% confidence interval (CI) and the number of individual estimates they were based on, (e.g. 258, 237-278, n = 220).
+Never smokers
+There are 220 estimates of all lung cancer risk in never smokers, yielding an overall random-effects estimate of 45.8 (41.7-50.4). There is marked heterogeneity (p < 0.001), with estimates varying from a minimum of 1.7 (SINARA, Thailand, females) to a maximum of 655 (GREGOR, UK, males). Rates are higher (p < 0.001) in males (56.3, 49.8-63.7, n = 129) than in females (36.0, 31.6-41.0, n = 91). There is also significant (p < 0.001) variation by region, with rates clearly higher in China (99.1, 90.2-109, n = 38) than in the other nine regions studied, where estimates vary from 23.5 to 61.5. The difference between the sexes is evident in each region, except for other Asia, where there are few estimates (data not shown). Even for China, where rates in females are particularly high (89.8, 82.5-97.8, n = 20), rates are still higher in males (119, 104-136, n = 18). While there is a significant (p < 0.001) evidence of variation by period of study, the trend it not simple, with rates starting low in 1930-1960, increasing to 1981-1990 and then falling.
+There are 81 estimates for squamous in never smokers, with the overall rate estimate 10.5 (8.6-12.8), 23% of the total lung cancer risk. There is a clearly (p < 0.001) higher risk for males (15.5, 12.2-19.8, n = 43) than for females (7.6, 6.0-9.7, n = 38). The variation by region is less clear (p < 0.05), though rates were again highest for China not only overall (23.7, 16.8-33.4, n = 14), but also separately in males (35.7, 18.3-69.6, n = 5) and females (20.1, 15.0-26.8, n = 9). There is no significant variation by period (p >= 0.1) with rates quite similar between 1961-70 and 1991-98.
+The 81 estimates for adeno in never smokers gave an estimate of 21.2 (17.9-25.1), higher than that for squamous, forming 46% of the total lung cancer risk. Here there is no evidence of a difference between the sexes (p >= 0.1) with rates 20.2 (15.8-25.8, n = 43) for males and 22.1 (17.5-28.0, n = 38) for females. Rates clearly vary by region, being higher in China (64.8, 54.6-76.9, n = 14), Japan (47.2, 35.3-63.0, n = 5) and other Asian countries (31.0, 13.1-73.4) than in other regions, where rate estimates vary from 6.7 to 19.4. Rates in China and in Japan are quite similar in males and females (data not shown). There is also evidence of variation by period (p < 0.01), with rates rising steadily from 6.9 (4.6-10.4, n = 11) for 1930-60, to 33.9 (17.6-65.3, n = 4) for 1991-98.
+Ever smokers
+The estimated rates shown in Table 11 for ever smokers are substantially higher than those for never smokers in Table 10. Thus the all lung cancer rate for ever smokers of 258 (240-278, n = 220) is 5.6 times the rate for never smokers, while those of 117 (103-133, n = 81) for squamous and 58.5 (50.1-68.2, n = 81) for adeno are, respectively 11.1 times and 2.8 times the corresponding rates for never smokers. Whereas, in never smokers, rates are about twice as high for adeno than for squamous, the reverse is true for ever smokers, with rates for squamous double those for adeno.
+The difference between the sexes is clearer for ever smokers than for never smokers. For ever smokers, rates in males are 147% higher than in females for all lung cancer (p < 0.001), 185% higher for squamous (p < 0.001) and 37% higher for adenocarcinoma (p < 0.01). For never smokers the corresponding excesses in males compared to females are 56% for all lung cancer and 104% for squamous, with no excess seen for adenocarcinoma.
+There is clear variation (p < 0.001) in ever smoker all lung cancer rates by region. However, while rates are, as for never smokers, high in China (316, 292-342, n = 38), they are similar in the UK (352, 295-422, n = 26) and almost as high in South and Central America (320, 254-404, n = 9) and in the USA (287, 246-334, n = 341). Variation by region in ever smoker rates is not significant (p >= 0.1) for squamous, but is significant (p < 0.05) for adeno. Rates in China remain relatively high for both lung cancer types, though as for all lung cancer, some regions have similar rates.
+There is a tendency for rates to rise over time, particularly for all lung cancer (p < 0.001) and adeno (p < 0.001) and evident to some extent for squamous (p < 0.01). The rise is particularly striking for adeno, where rates are 8.2, 33.8, 55.7, 97.9 and 127 for the five successive periods studied.
+Trends in rates for never and ever smokers by region
+Figure 1 (males) and Figure 2 (females) plot the individual rate estimates for all lung cancer by study midpoint year separately for the four major regions: America, Europe, China and other Asian countries. Estimates for ever and never smokers are distinguished by colour. A number of features of the results are clear, some already referred to in the preceding sections. These include the higher rates in ever smokers than never smokers; the higher rates in never smokers in China than elsewhere; the clear tendency for ever smoker rates to rise with time in America and Europe, any corresponding time trend in China not being evident perhaps due to the time range studied there being much narrower; and the lack of any very clear time trend in never smokers, except that rates before 1960 are lower.
+Figure 1
+Scatter plot of lung cancer rates in males for never and ever smokers. Table 4 presents indirect estimates of mortality rates (per 100,000 per year) by smoking habit for all lung cancer in males. The individual study estimates for never smokers (blue diamonds) and ever smokers (red squares) are plotted against the midpoint year of the study, with separate plots shown for America (Canada, US and South/Central America), Europe (UK, Scandinavia, West Europe and East Europe), China (including Hong Kong), and Other Asia (Japan, South Korea, Singapore and Thailand).
+Figure 2
+Scatter plot of lung cancer rates in females for never and ever smokers. Figure 2 is laid out as Figure 1 except that the scale of the y-axis extends up to 600 rather than up to 900. The individual study estimates are as given in Table 5.
+Figure 3 (males) and Figure 4 (females) plot the individual rate estimates for never smokers by study midpoint year for the same four regions, with estimates for squamous and adeno distinguished by colour. Figure 5 (males) and Figure 6 (females) similarly plot results for ever smokers. In never smokers, rates are generally higher for adeno than squamous, with the reverse being true for ever smokers. While never smokers adeno rates are particularly high in China, (most clearly seen for females), never smoker squamous rates are also higher in China than elsewhere. For both never and ever smokers, evidence of an increasing time trend is stronger for adeno than squamous.
+Figure 3
+Scatter plot of lung cancer rates by histological type in males for never smokers. Table 6 (squamous) and Table 8 (adeno) present indirect estimates of mortality rates (per 100,000 per year) in male never smokers by histological type. The individual study estimates for squamous (green diamonds) and adeno (orange squares) are plotted against the midpoint year of the study, with separate plots shown for America (Canada, US and South/Central America), Europe (UK, Scandinavia, West Europe and East Europe), China (including Hong Kong), and Other Asia (Japan and South Korea, Singapore and Thailand).
+Figure 4
+Scatter plot of lung cancer rates by histological type in females for never smokers. Figure 4 is laid out as Figure 3 except that the scale of the y-axis extends up to 120 rather than up to 140. The individual study estimates are as given in Tables 7 and 9.
+Figure 5
+Scatter plot of lung cancer rates by histological type in males for ever smokers. Table 6 (squamous) and Table 8 (adeno) presents indirect estimates of mortality rates (per 100,000 per year) in male ever smokers by histological type. The individual study estimates for squamous (green diamonds) and adeno (orange squares) are plotted against the midpoint year of the study, with separate plots shown for America (Canada, US and South/Central America), Europe (UK, Scandinavia, West Europe and East Europe), China (including Hong Kong), and Other Asia (Japan, South Korea, Singapore and Thailand).
+Figure 6
+Scatter plot of lung cancer rates by histological type in females for ever smokers. Figure 4 is laid out as Figure 3 except that the scale of the y-axis extends up to 120 rather than up to 140. The individual study estimates are as given in Tables 7 and 9.
+Current smokers
+The estimated rates shown in Table 12 for current smokers are higher than the corresponding rates for ever smokers in Table 11. Thus the rates are 370 (328-417, n = 116) for all lung cancer, 149 (115-193, n = 28) for squamous and 102 (81.3-128, n = 28) for adeno, which are, respectively, 43%, 27% and 75% higher than the corresponding rates for ever smokers. Rates in current smokers are clearly higher in males than in females for all lung cancer (p < 0.01), squamous (p < 0.001) and adeno (p < 0.05): For squamous the rate in males of 275 (224-338, n = 15) is almost 4 times that for females of 71.9 (54.9-94.2, n = 13).
+For all lung cancer, there is significant (p < 0.05) variation by region. Rates are highest in the USA (477, 391-582, n = 40) and exceed 300 in all European and American regions, but are lower in Asia. Since there are only 28 estimates for current smokers by lung cancer type, with 13 from the USA, there are insufficient data to see a clear pattern by region. No significant relationship was noted (p >= 0.1) for either squamous or adeno.
+For all lung cancer, there was significant (p < 0.001) variation by period, with the rates of 141 (113-176, n = 10) for 1930-60, rising to a high of 457 (394-532, n = 49) for 1981-90. Clear patterns by period are not evident by lung cancer type, partly because 19 of the 28 estimates are for the period 1981-90. A significant relationship was not seen for squamous (p >= 0.1), but was seen for adeno (p < 0.01), this being due to lower rates (<50) for 1930-60 and 1971-80, and higher rates (>100) for other periods.
+Former smokers
+The estimated rates shown in Table 13 for former smokers are lower than the corresponding rates for current smokers in Table 12. Thus the rates are 198 (177-221, n = 116) for all lung cancer, 78.6 (61.0-101, n = 28) for squamous and 68.0 (55.7-83.0, n = 28) for adeno, which are, respectively, 53%, 53% and 67% of the corresponding estimates for current smokers. As for current smokers, rates in former smokers were clearly higher for males than females for all lung cancer (p < 0.001), squamous (p < 0.001) and adeno (p < 0.05), with the excess particularly marked for squamous, where the rate was 144 (121-172, n = 15) in males and 31.2 (18.6-52.4, n = 13) in females.
+There was no significant variation (p >= 0.1) by region in all lung cancer rates for former smokers. Limited data for regions other than the USA made variations by lung cancer type difficult to assess.
+There was evidence of variation by period, due mainly to a tendency for rates to increase with time, for all lung cancer (p < 0.001) and adeno (p < 0.05), but not squamous (p >= 0.1).
+Meta-regressions
+The preceding sections report rates, for a given smoking status and endpoint, overall and by sex, region and period. Although limited results are given jointly by sex and region (China/not China) for never smokers, the tables and text describing them predominantly concern variation by sex, region and period considered independently. There are, however, considerable correlations between the factors. For example, based on the 220 estimates for ever or never smoking for all lung cancer, the 59 estimates for Asia include a higher proportion of estimates for females (49%) and for 1981-1998 (68%) than is the case for the 161 estimates for other regions, where the proportions are 38% for females and 45% for 1981-1998.
+Table 14 presents the results of inverse-variance weighted regression analyses for never smokers. There is clear evidence of variation by continent, highly significant (p < 0.001) for five of the six analyses, and less significant (p < 0.05) for squamous in males. Rates are similar in Europe and America, and clearly lower than in China. Rates in Asia (not China) are also consistently lower than in China.
+For all lung cancer and for adeno, much of the variability associated with the trend in rate over period can be explained by adjustment for continent, the timing of the studies varying by continent. Nevertheless evidence remains of an increase in the rates over time in each sex for both endpoints. For squamous, no trend is evident in males, and in females adjustment for continent made the estimate negative (-0.21, SE 0.07).
+The percentage of the deviance explained by the two factor model in continent and trend varied between analyses, from over 80% for all lung cancer and for adeno in females, to under 25% for squamous in males. There is no evidence of interaction between the trend and continent effects for any analysis, and in most of the analyses there is no evidence that introducing a 10 level region variable or a 5 level period variable adds significantly to the model. The main exception is for all lung cancer in males. Examination of the estimates (not shown) showed that this was caused by variation within Europe (high rates in the UK, low in Scandinavia and intermediate elsewhere), and the tendency for rates to be low in 1930-60 and higher in the other periods with no clear trend between 1961 and 1999.
+Table 15 presents results of inverse-variance weighted regression analyses for ever smokers. All six analyses show strong evidence (p < 0.001) of an increasing trend after adjustment for continent. Although, for all the analyses for males and for all lung cancer for females, there is still evidence (p < 0.01 or p < 0.001) of variation by period given the trend, the additional deviance explained per degree of freedom by the linear variable is always substantially greater than that explained by the departure from trend. For all lung cancer in males, where the departure is most evident, it is caused by the estimated rate rising steeply from 1930-60 to 1961-70, then more slowly to 1981-90 and then falling somewhat.
+There is clear evidence (p < 0.01 or p < 0.001) of variation by continent after adjustment for linear trend for all the analyses for males and for all lung cancer for females. In most of these analyses there is also additional evidence of variation by region within continent. For all lung cancer, summarizing the findings simply is made more difficult by the evidence (p < 0.001) of an interaction between trend and continent, with, in each sex, the slope of the increase greater in America than in Europe. However, the analyses confirm the observation made earlier that, whereas for never smokers rates were consistently higher in China, this is not so for ever smokers.
+Table 16 presents results of inverse-weighted regression analyses for current and former smokers for all lung cancer. There are too few sex-specific estimates for squamous and adeno to justify further analyses. Although there is no marked evidence of a trend for former smokers in females, the other analyses show a clear effect (p < 0.001). In males, there is also evidence of departure from trend for both current and former smokers with the rates rising up to 1981-90 and then falling as noted for ever smokers.
+Evidence of a variation by continent (given trend) is strongest for current smokers in males, where rates were clearly higher in Europe and America than in Asia. However, there is also variation by region within continent (p < 0.001), with rates higher in North than in South America, and in the UK and Eastern Europe than in Scandinavia or Western Europe. For current smoking females, rates are highest in America and there is no evidence of a variation by region within continent. While there is less evidence of regional variation in former smokers, it is interesting to note that, in males, region, but not continent, explained significant (p < 0.01) variation, with estimates highest for UK and Eastern Europe and lowest for Scandinavia and Other Asia.
+Although for current smokers, the model including trend and continent explains 66% of the deviance (in both males and females), there is still evidence of interaction for females (p < 0.001), due to more sharply rising trends in America than elsewhere. For former smokers, the proportion of deviance explained is much less (26% males, 30% females) and there is no evidence of interaction.
+
+Discussion
+Never smoker rates
+Our results clearly show that lung cancer rates in never smokers are markedly higher in China than in other regions studied. The excess is evident for all lung cancer and for squamous and adeno. One reason for this may be the common household use of poorly-vented stoves in various regions of China. It is interesting to note that estimates of global mortality attributable to smoking in 2000 published by Ezzati and Lopez in 2003 [19] take account of variation in the never smoker lung cancer rate based on household poorly-vented stove use. They cite evidence of substantial variations in never smoker lung cancer rates in China as being "largely a result of patterns of household energy use in China over the past decades" with "coal, a common household fuel in China and traditionally burned in stoves and buildings with poor ventilation."
+Our results also suggest some tendency for never smoker overall lung cancer rates to increase over time. The literature on this issue is not very consistent. Thus, while no evidence of a trend was seen comparing rates in the American Cancer Society CPS I and CPS II studies conducted about 20 years apart [4,20], or comparing rates by time of follow-up in the US Veterans study [5] or British Doctors study [6], there have been a number of reports of an increase in Japan [7,21], Sweden [8], Italy [22], the UK [23] or the USA [24,25], though some of the reports suggesting large increases tend to have clear technical weaknesses and be difficult to interpret [26]. Any time trend that does exist seems, from our analyses, to be more evident for adeno than for squamous. As mentioned later, when we consider the limitations of our indirect method for estimating lung cancer risks by smoking habit, there is evidence that this may be associated with changes over time in categorization of lung cancer type at diagnosis.
+Our results also show some excess of never smoking lung cancer rates in males for all lung cancer and for squamous. Although we have excluded estimates from studies specifically in occupationally exposed groups, this excess may still be associated with increased exposure to occupational exposure to carcinogens in males.
+Ever smoking rates
+The excess in rates for males is more evident for ever smokers than for never smokers. This is unsurprising in view of the higher prevalence of smokers in males, their greater daily cigarette consumption, and their earlier take up of the habit.
+The pattern of variation by region is also very different for ever smokers and for never smokers. While this clearly depends on between-regional differences in aspects of smoking such as prevalence, intensity, duration, extent of quitting and type of product smoked, it also reflects the substantially lower relative risk for ever smokers in Asia highlighted in our first report on the IESLC database [3]. Whereas estimated rates for never smokers in China are much higher than in other regions, each of the analyses conducted for ever smoking (by sex and endpoint) give estimates that are higher than China for a number of regions of Europe and North America. Rates for ever smokers for all lung cancer and for squamous seem rather lower in Scandinavia, Japan, and in parts of Asia other than China or Japan.
+The tendency for rates to increase with time is also more evident for ever smokers than for never smokers, and is particularly evident for adeno. The observation that rates for adenocarcinoma have risen relative to those for squamous cell carcinoma has been made a number of times in the literature, the suggestion often being made [16,27,28] that this is due to changes in the design of cigarettes. Though this may not be the explanation, inasmuch as there is no evidence of an increased risk of adenocarcinoma associated with tar reduction or the switch from filter to plain cigarettes [3,29], our results do indeed suggest that adeno forms an increasingly large part of overall lung cancer rates over time.
+Current and former smokers
+Many of the conclusions follow, not unexpectedly, the results for ever smokers. Thus, for both current and former smokers, rates are higher in males, and there is evidence of an increase in rates over time. The pattern of variation by continent for current smokers is also not dissimilar from that for ever smokers, with rates highest in Europe and America for males, and in America for females. As for ever smoking males, current smoking males also show evidence of departure from trend and of interaction between trend and continent, making it difficult to describe the patterns succinctly. For former smokers, continent and period explain less of the deviance than for current smokers. This is likely to be partly due to the smaller relative risks for former than current smokers, and the fact that the analyses do not take account of mean time of quit which will vary by continent (as the timing of the anti-smoking message was later in Asia than in Europe or America), and by year (as long-term quitters would have been less common earlier on).
+Limitations
+When considering the results presented, there are a number of limitations that should be borne in mind. Considering first the lung cancer mortality data extracted from the WHO database, one should note that it is only available for all lung cancer and not by histological type, and that diagnosis may be inaccurate, with misdiagnosis rates varying by country and time [30]. Although the definition of lung cancer under the various revisions of the ICD relevant to this report are essentially unchanged, coding practices may have varied. Excessive use of codes for ill-defined and unknown causes and incomplete death registration coverage may have detracted from the quality of the data, with only 33% of relevant countries recently assessed as providing "high quality" data [31]. For some countries, data relate only to selected regions (Table 1), with data for China derived from a sample registration scheme including less than 10% of all deaths occurring in the country [1].
+Furthermore, though survival rates remain very poor, trends in mortality may not necessarily reflect trends in disease incidence. Cancer incidence rates are available, but for a far narrower range of countries and time periods.
+There are also a number of limitations with the data on relative risk by smoking habit obtained from the IESLC database. These include variations in definition of smoking, definition of disease and extent of adjustment for confounders, and bias due to misclassification of smoking status. These and some other issues are also discussed in the first paper on IESLC [3], but some of the principal points are considered below.
+As regards definition of smoking, relative risks were selected for smoking of any product, if available, and of cigarettes (or cigarettes only) otherwise. In countries where pipe and cigar smoking is rare, this distinction may be of little consequence, but it may be more important in some countries. The type of cigarette smoked is also relevant, and though no clear difference in risk has been noted between the flue-cured cigarettes smoked in the UK and various other (mainly Commonwealth) countries [2,32] or between mentholated and unmentholated cigarettes [33], there is clear evidence that risk is greater in handrolled than manufactured cigarettes [29], in black than blond tobacco cigarettes [34], and in higher tar plain cigarettes than in lower tar filter cigarettes [35].
+As can be seen in Table 3, variation exists in the definition of all lung cancer, squamous and adeno. While for the great majority of studies the definitions include, respectively, all cases, only cases of squamous cell carcinoma, and only cases of adenocarcinoma, in a small number of studies alternative definitions were allowed. Thus, for all lung cancer our definitions also includes (i) all cases other than alveolar cell cancer, (ii) all cases except lung cancers of mixed cell types, (iii) only cases of squamous cell carcinoma and adenocarcinoma, (iv) as definition (iii) but also small cell carcinoma, and (v) as definition (iv) but also large cell carcinoma. Definitions of "squamous" also included (i) Kreyberg I lung cancers, (ii) all lung cancers except adenocarcinoma, and (iii) squamous cell and differentiated carcinomas and (iv) squamous cell and small cell carcinomas. Definitions of "adeno" also include Kreyberg II lung cancers, (ii) adenocarcinomas and large cell carcinomas, (iii) all lung cancers except squamous cell and undifferentiated carcinomas, and (iv) all lung cancers except squamous cell and small cell carcinomas. While it would have been possible to make the data "purer" by omitting such alternative definitions (and also only allowing data for smoking of any product), this would have reduced the number of studies available, and lost power.
+A related issue is change over time in the diagnosis of lung cancer types. Though it is generally recognized that the relative frequency of adenocarcinoma to squamous cell carcinoma has changed over time (e.g. [16,36]), there are reports [37,38] of studies which re-evaluated diagnoses conducted in previous years, finding that many lung cancers initially considered to be squamous cell carcinomas should, according to more modern criteria, be considered adenocarcinomas.
+Although we preferred to use unadjusted relative risks as being directly relevant to the national mortality rate, we did include adjusted relative risks for squamous and adeno due to the scarcity of unadjusted data. This is unlikely to have had any major effect as we previously demonstrated that adjustment had little effect on the relative risks [3].
+The issue of misclassification of smoking status is perhaps more serious. Some years ago, we carried out extensive work on the misclassification of smoking status and the effect it has in biasing the estimates of the association between environmental tobacco smoke exposure and lung cancer [39-42]. For many of our calculations we assumed that, in Western populations, the bias may be equivalent to that caused by 2.5% of average lung cancer risk ever smokers reporting that they have never smoked. For Asian populations, the percentage is clearly higher (see e.g. [43]), perhaps 10% or 20%. If these rates apply, and there are considerable uncertainties [39,44], misclassification will have a marked effect on the estimated lung cancer death rates in never smokers.
+To illustrate this, consider a population in which 50% have ever smoked, and in which the true relative risk for ever vs never smoking is 8. Suppose also that the overall lung cancer death rate is 45. Based on these "true" data, the indirect estimates of rates by our method would be 10 in never smokers and 80 in ever smokers. If in fact 2.5% of ever smokers are misclassified as never smokers, one can then readily show that one will observe 48.75% to have smoked, and a relative risk of 6.83. Based on the "observed" data, the estimated rates will then still be 80 in ever smokers but will be 11.7, not 10, in never smokers. For misclassification rates of 10% and 20%, the estimated rates in never smokers will be higher still, respectively, 16.4 and 21.7, corresponding to "observed" relative risks of 4.89 and 3.69. The extent of the bias increases, not only with the misclassification rate, but also with the true proportion of ever smokers.
+Other limitations concern combining the relative risk data from IESLC with the national rates from WHO. One relates to the fact that most of the relative risk estimates derive from studies that are not nationally representative but are drawn from populations of a variety of types. We have sought to minimize this problem by excluding studies conducted in populations that were grossly unrepresentative, as described in the Methods section. Relative risks based on a variety of populations are frequently subject to meta-analysis in an attempt to get an overall average risk which can be taken to apply generally, and our use of relative risks derived from somewhat unrepresentative populations involves essentially the same underlying assumption.
+Lack of national representativeness of the IESLC study populations will also mean that the estimated distribution of smoking habits may not be the same as that seen in the country where the study was conducted. If the at risk population in a cohort study (or the control population in a case-control study) contains too low a proportion of ever smokers, national rates in both ever and never smokers will be overestimated, and if it contains too high a proportion they will be underestimated. For example, assuming that the relative risk is 9, the national lung cancer rate is 100 and the national population actually contains 50% ever smokers, the true rates of 20 in never smokers and 180 in ever smokers will be estimated as 23.8 and 214.3 if the control/at-risk population contains 40% ever smokers, and as 17.2 and 155.2 if the population contains 60% ever smokers. Such biases seem unlikely to affect our conclusions, as they seem much smaller than the marked differences seen by region and period. In any case it is unclear why such biases should cause spurious regional differences or trends.
+Another issue relates to which WHO 5 year period data to use for a given study. For case-control studies we use the midpoint year of the interviews, while for prospective studies, we use a survival-adjusted mid-point of the follow-up period. Although both are open to question, this is unlikely to cause any major error. Nor is the use of substitute years (see Table 1). The need for this was relatively rare, and sometimes involved only quite small differences in time.
+A major feature of our methodology is that it applies all age relative risks from studies based on populations of varying ages to estimate lung cancer rates by smoking habit for age 70-74, based on overall WHO rates for that age group. This issue is discussed in the Methods section "Testing the validity of the method with respect to age". This gives justification for our decision to select age 70-74 rather than any other age range, and points out that studies of young populations were excluded from consideration. It should also be noted that age-specific data on lung cancer relative risks are very limited, and even then are not for five year age groups. Any weaknesses resulting from the decision to use age 70-74 rates seem likely to apply similarly in the various studies considered, and should therefore not affect conclusions regarding variations by sex, region and time period.
+We should also point out that our meta-regressions are relatively limited. Better understanding of patterns in rates over time and region may be gained by additional analyses which take into account aspects of the studies used to generate the rates. The relevant data for others to attempt this are available from the Tables in this report and from our original paper based on the IELSC database [3].
+
+Conclusions
+Data on lung cancer mortality rates by smoking habit are not available nationally, and studies presenting estimates are quite limited in scope, particularly for current and former smokers, and by histological type. This deficiency can hinder interpretation of the evidence on factors associated with lung cancer risk, a deficiency we have tried to rectify using an indirect estimation method. Estimates of absolute rates by country, sex, smoking habit and histological type were derived from 148 epidemiological studies by linking their findings to WHO national lung cancer mortality data. There are a number of potential limitations of the method, due to such factors as variations in definition of smoking and lung cancer type in the epidemiological database, changes over time in diagnosis of lung cancer types, lack of national representativeness of some studies, and regional variation in smoking misclassification rates. However many features of the results are consistent with the epidemiological literature. These include the high never smoker lung cancer rates in China, the increasing trend in rates over time in smokers, and the tendency for adeno rates to rise relative to squamous rates. This gives some confidence in the results, and suggests that other conclusions to be drawn from the indirect rates have validity. For example, the observation that, over the period 1930-2000, estimated rates for adeno among never smokers have risen markedly compared to the corresponding rates for squamous, strongly suggests that changes in the type of cigarette smoked are unlikely to explain the marked increase in the relative frequency of adenocarcinoma to squamous cell carcinoma.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1471-2407/13/189/prepub
+
+Supplementary Material
+Additional file 1
+Rejected studies. This file lists the studies from the original IESLC database which were rejected from the current work, with reasons for rejection.
+Click here for file

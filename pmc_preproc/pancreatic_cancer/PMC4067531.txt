@@ -1,0 +1,432 @@
+[Abstract, Results, Discussion, Methods]
+
+Differential activity of GSK-3 isoforms regulates NF-kB and TRAIL- or
+TNFa induced apoptosis in pancreatic cancer cells. While TRAIL is a promising anticancer agent due to its ability to selectively induce apoptosis in neoplastic cells, many tumors, including pancreatic ductal adenocarcinoma (PDA), display intrinsic resistance, highlighting the need for TRAIL-sensitizing agents. Here we report that TRAIL-induced apoptosis in PDA cell lines is enhanced by pharmacological inhibition of glycogen synthase kinase-3 (GSK-3) or by shRNA-mediated depletion of either GSK-3a or GSK-3b. In contrast, depletion of GSK-3b, but not GSK-3a, sensitized PDA cell lines to TNFa-induced cell death. Further experiments demonstrated that TNFa-stimulated IkBa phosphorylation and degradation as well as p65 nuclear translocation were normal in GSK-3b-deficient MEFs. Nonetheless, inhibition of GSK-3b function in MEFs or PDA cell lines impaired the expression of the NF-kB target genes Bcl-xL and cIAP2, but not IkBa. Significantly, the expression of Bcl-xL and cIAP2 could be reestablished by expression of GSK-3b targeted to the nucleus but not GSK-3b targeted to the cytoplasm, suggesting that GSK-3b regulates NF-kB function within the nucleus. Consistent with this notion, chromatin immunoprecipitation demonstrated that GSK-3 inhibition resulted in either decreased p65 binding to the promoter of BIR3, which encodes cIAP2, or increased p50 binding as well as recruitment of SIRT1 and HDAC3 to the promoter of BCL2L1, which encodes Bcl-xL. Importantly, depletion of Bcl-xL but not cIAP2, mimicked the sensitizing effect of GSK-3 inhibition on TRAIL-induced apoptosis, whereas Bcl-xL overexpression ameliorated the sensitization by GSK-3 inhibition. These results not only suggest that GSK-3b overexpression and nuclear localization contribute to TNFa and TRAIL resistance via anti-apoptotic NF-kB genes such as Bcl-xL, but also provide a rationale for further exploration of GSK-3 inhibitors combined with TRAIL for the treatment of PDA.
+
+Results
+Isoform-specific GSK-3 depletion sensitizes PDA cells differentially to
+TNFa- and TRAIL-induced apoptosis
+To provide a baseline for subsequent combination studies, we examined the effect of a
+potent and specific GSK-3i (LY2064827) on pancreatic cancer cell growth. We observed
+growth inhibition in all tested cell lines (Supplementary Figures
+S1a-e) with IC50s ranging from 50 nM to
+5 mM after a 72-hour treatment (Supplementary
+Figure S1f). We next tested the effect of GSK-3i on TNFa and
+TRAIL-induced apoptosis (Figure 1). At concentrations that
+had little impact by themselves, GSK-3i enhanced TNFa-induced cell death
+as assessed by MTS assay, DNA fragmentation, annexin V binding and PARP cleavage
+(Figures 1a, c, e and g). Likewise, GSK-3i enhanced
+TRAIL-induced apoptosis in all PDA cell lines tested as demonstrated by DNA
+fragmentation, annexin V binding and PARP as well as CASP3 cleavage (Figures 1b, d, f, h and I and Supplementary Figure
+S2). This sensitization occurred with minimal effect on DR4 or DR5 mRNA
+expression and little if any change in cell surface levels of these receptors (Supplementary Figure S3).
+Because GSK-3 inhibitors, including LY2064827, do not discriminate between the two
+GSK-3 isoforms, we knocked down each GSK-3 isoform selectively using multiple lentiviral
+shRNA constructs (Figure 2a and Supplementary Figure S4a). Interestingly, GSK-3b, but not
+GSK-3a supression, led to increased TNFa-induced
+apoptosis, as manifested by increased PARP and CASP3 cleavage as well as annexin V
+binding (Figures 2a, b and f and Supplementary Figure S4b). Consistent with this observation, more
+apoptosis was observed in GSK-3b-null mouse embryonic fibroblasts (MEFs)
+than in wild-type (WT) MEFS after TNFa treatment (Figures 2c and f). In contrast, suppression of either GSK-3a
+or GSK-3a sensitized similarly to TRAIL-induced apoptosis in Panc04.03
+and HupT3 cells (Figures 2d, e and g). Similar enhancement
+of TRAIL-induced apoptosis was observed using two additional GSK-3a or
+GSK-3b lentiviral shRNA construct (Supplementary
+Figures S4b and c). These results point to a unique role for
+GSK-3b in suppressing TNFa-induced apoptosis, whereas
+both GSK-3a and GSK-3b contribute to TRAIL resistance in
+pancreatic cancer cells.
+GSK-3b is not essential for TNFa-induced p65 nuclear
+translocation
+To determine how GSK-3 modulation affects death ligand signaling, we started by
+evaluating the effect of GSK-3b deletion on key steps of
+NF-kB activation. TNFa-treatment of either WT or
+GSK-3b-null MEFs resulted in robust IkBa
+phosphorylation by 5 min and loss of total IkBa protein by
+15 min (Figure 3a), with robust accumulation of p65
+in the nucleus by 20 min in both cell lines (Figure
+3b). The pattern and extent of nuclear p65 oscillations were also similar at
+extended periods following TNFatreatment (Figures 3c
+and d). Taken together, these results suggest that GSK-3b is
+not essential for either the initial wave of IkBa degradation
+leading to p65 nuclear entry or the subsequent IkBa gene expression
+that drives the kinetics of the p65 nuclear oscillations.
+Because the predominant form of NF-kB in the cytosol in resting cells
+and in the nucleus upon NF-kB activation is a p50/p65 heterodimer, we
+further investigated the effect of GSK-3b on p50/p65 interactions
+using a proximity ligation assay (PLA), a highly sensitive technique to detect
+protein-protein interactions in situ. As predicted, the p50/p65
+interactions were observed almost exclusively in the cytosolic compartment in resting
+cells, mainly in the nucleus 20 min after TNFa exposure, and
+largely in the cytosol again at 60 min (Figures 3e and
+f). There was no significant difference in the number or the sites of
+p50/p65 interactions following TNFa exposure in WT versus
+GSK-3b null MEFs (Figures 3e and f).
+Accordingly, GSK-3b deficiency does not appear to impact
+TNFa-induced canonical NF-kB activation up to the point
+of p50/p65 nuclear entry.
+Isoform-specific regulation of BCL2L1 and BIRC3 by GSK-3 in
+pancreatic cancer cells
+In further experiments, we examined the effects of GSK-3i and isoform-specific shRNA on
+NF-kB target genes that affect the DR pathway. Dose-response
+experiments demonstrated that concentrations of 200-1000 nM GSK-3i
+decreased phosphorylation of GSK-3a/b Y276/Y216 and glycogen
+synthase S641 (Figure 4a), increased nuclear accumulation of
+b-catenin (Figure 4b), and increased
+activity of pLenti-TopFlash Luciferase reporter (Figure 4c),
+which reflects b-catenin nuclear accumulation. The same 500 nM
+GSK-3i concentration that produced near-maximal pLenti-TopFlash Luciferase activation
+(Figure 4c) decreased expression of Bcl-xL, cIAP2 and
+cFlip (both long and short isoforms), while IkBa and
+Bcl-2, and XIAP were not affected (Figure 4d).
+Interestingly, in cells expressing GSK-3 isoform-specific shRNA, Bcl-xL and cIAP2 were
+decreased with GSK-3b, but not withGSK-3a suppression
+(Figure 4e and data not shown). cFlip, however, was not
+reduced by either GSK-3a or GSK-3b shRNA, suggesting that
+both kinases might need to be inhibited to affect this protein.
+GSK-3b modulates NF-kB binding and cofactor
+recruitment at the BCL2L1 and BIRC3 promoters
+The preceding results suggest that GSK-3b, but not GSK-3a
+modulates a subset of NF-kB target genes. This possibility was further
+evaluated by qRT-PCR and chromatin immunoprecipitation (Figure
+5). qRT-PCR revealed that IkBa mRNA increased
+more than 20-fold following a 45-min TNFa treatment in both WT and
+GSK-3b null MEF cells (Figure 5a). In
+contrast, Bcl-xL and cIAP2 mRNA levels increased in WT MEFs but not
+GSK-3b-null MEFs (Figure 5a). These
+alterations in transcript levels largely correlated to protein expression changes as
+determined by immunoblotting (Supplementary Figure S5).
+Depletion of GSK-3b in Panc04.03 cells similarly impaired
+TNFa-induced expression of Bcl-xL and cIAP2 but spared
+IkBa (Figure 5b). These
+results indicate that GSK-3b loss does not globally impact
+NF-kB transcriptional activity, but instead impairs the expression of a
+specific set of NF-kB target genes.
+As we found no gross defect in GSK-3b-null cells up to p65 nuclear entry,
+we next examined whether GSK-3 may affect binding of p65 and p50 to the promoters. For
+the IkBa promoter, we found no significant change in
+either p65 or p50 loading or histone 4 lysine 16 acetylation (a marker of gene
+activation) following GSK3i treatment (Figure 5c). In
+contrast, at the promoter of the BIRC3 gene, which encodes cIAP2, p65 binding
+and H4K16ac modification were significantly reduced, with only a marginal decrease in
+p50 binding (Figure 5c). Unexpectedly, we detected increased
+p50 binding at the promoter of the BCL2L1 gene, which encodes Bcl-xL
+(Figure 5d), while p65 binding was only marginally
+decreased (Figure 5e). Further analysis of the
+BCL2L1 promoter indicated that GSK-3i treatment was also associated with
+increased SIRT1 and HDAC3 loading along with reduced binding of lysine 310-acetylated
+p65 and RNA pol II, indicating that the GSK-3i induced the formation of repressive
+chromatin. These results suggest that GSK-3i may differentially impact p65 and/or
+p50 binding and unloading from chromatin depending on the target gene promoter.
+Nuclear GSK-3b contributes to Bcl-xL and cIAP2 expression
+The preceding results not only show that GSK-3b modulates the effects of
+NF-kB on a specific subset of its target genes, but also suggest that
+these effects occur after NF-kB enters the nucleus. Consistent with these
+results, we detected abundant nuclear GSK-3b in all pancreatic cancer cell
+lines examined (Figure 6a). Moreover, nuclear
+GSK-3b exhibited minimal S9 phosphorylation, an auto-inhibitory
+modification, suggesting that the nuclear pool of GSK-3b is highly active
+in these cells (Figure 6a). These results prompted us to
+determine the role of nuclear GSK-3b in the regulation of these
+NF-kB target genes. For this purpose, we generated a set of mammalian
+suppression/re-expression plasmids that knocked down endogenous GSK-3b
+and expressed modified GSK-3b that contained either a nuclear export
+signal (NES) for cytoplasmic targeting or a nuclear localization signal (NLS) for
+nuclear targeting. Immunofluorescence and cellular fractionation followed by
+immunoblotting confirmed that GSK-3b(S9A).NES.F and
+GSK-3b(S9A).NLS.F localized mainly to the cytoplasm and nucleus,
+respectively (Figures 6b and c). Using this reconstituted
+system, we investigated the effect of GSK-3b subcellular localization on
+the expression of IkBa, Bcl-xL and cIAP2. Consistent with
+our previous data, neither depletion of GSK-3b nor re-expression of a
+cytosolic or nuclear form of GSK-3b affected
+IkBa gene expression (Figure
+6d). Interestingly, expression of cytosolic GSK-3b resulted in
+reduced expression of both Bcl-xL and cIAP2 similar to that of GSK-3b
+depletion (Figure 6d). In contrast, expression of either the
+S9A mutant or the nuclear-localized GSK-3b resulted in increased
+expression of both Bcl-xL and cIAP2 (Figure 6d). Taken
+together, these data indicate that active nuclear GSK-3b has the potential
+to regulate NF-kB target genes involved in cell survival.
+Bcl-xL and XIAP, but not cIAP2, contribute to GSK-3i-mediated sensitization to
+TRAIL- and TNFa-induced apoptosis
+Bcl-xL, cIAP2 and XIAP are all important apoptotic regulators. To assess their roles in
+TRAIL- and TNFa-induced apoptosis in PDA cells, we used lentiviral shRNA
+to generate HupT3 cells with stable knockdown of each gene and determined their response
+to TRAIL and TNFa (Figures 7a-c).
+Suppression of XIAP as well as cIAP2 increased basal levels of apoptosis
+(shXIAP=14.9%+-1.27 and shcIAP2=10.9%+-0.29
+versus shcontrol=7.6%+-0.59). At the concentrations
+studied, TRAIL induced more apoptosis than TNFa in scramble control.
+Importantly, suppression of either Bcl-xL or XIAP markedly enhanced TRAIL-induced
+apoptosis (25.7%+-1.0 and 28.5%+-2.9, respectively,
+versus 16.2%+-1.9 in scrambled control). However, only shBcl-xL
+cells displayed significantly increased sensitivity to TNFa
+(16.5%+-0.6 versus 8.2%+-0.4 in diluent control),
+whereas shXIAP cells exhibited higher spontaneous apoptosis, but no significant
+enhancement of TNFa activity (15.2%+-1.3 versus
+14.9%+-1.3 in diluent control). On the other hand, cIAP2 knockdown did not
+affect either TRAIL (16.6%+-0.7 versus 16.2%+-1.9 in
+shcontrol) or TNFa-induced apoptosis (11.4%+-1.2
+versus 10.7%+-1.0 in shcontrol). These results highlight
+potentially distinct roles for these anti-apoptotic proteins when apoptosis is initiated
+by different stimuli and also indicate that only Bcl-xL is both regulated by
+GSK-3b suppression or GSK-3i and contributes to TRAIL resistance. To
+further examine if Bcl-xL actively participates in GSK-3i-mediated TRAIL sensitization,
+we expressed Bcl-xL off an NF-kB- and GSK-3i-independent promoter in
+BxPC-3 cells (Figure 7d) and measured apoptosis following
+treatment with either GSK-3i or TRAIL (Figure 7e). Similar
+to HupT3 cells, Bcl-xL knockdown BxPC-3 cells transduced with empty vector showed
+markedly increased apoptotic induction following GSK-3i or TRAIL exposure (7.1 and
+9.0% increase relative to diluent control (Figure 7e
+upper panel). Importantly, Bcl-xL knockdown cells reconstituted with pLenti-Flag.Bcl-xL,
+although yielding more spontaneous apoptosis (5.7% versus flag vectsor
+1.1%), partially reversed GSK-3i and TRAIL-induced apoptosis (net increase of
+apoptosis down from 10 to 4.7% and 16.1 to 3.3%, respectively) under the
+same treatment conditions (Figure 7e, lower panel). These
+results confirm that Bcl-xL downregulation contributes to GSK-3i-induced sensitization
+to TRAIL.
+
+Discussion
+In this work, we examined the hypothesis that GSK-3 inhibition can overcome key
+anti-apoptotic mechanism(s) associated with TRAIL resistance. The rationale behind this
+combination was based on the premise that GSK-3i treatment downregulates the expression of
+key anti-apoptotic proteins that mediate TRAIL resistance. A connection between
+GSK-3b and TRAIL-induced apoptosis was first described in prostate cancer
+cells, in which GSK-3 inhibition or GSK-3b suppression eliminated TRAIL
+resistance.29 A more recent study reported a
+similar caspase-dependent TRAIL sensitization involving the mitochondrial apoptotic
+pathway in both prostate and pancreatic cancer cells.30 The present work not only confirmed that GSK-3 inhibition enhanced
+TRAIL-induced apoptosis in various pancreatic cell lines, but also uncovered differential
+effects of GSK-3 isoforms on TRAIL- and TNFa-induced cell death. Furthermore, our
+results demonstrated a unique mechanism by which nuclear GSK-3 regulates the
+NF-kB target genes BCL2L1 and BIRC3.
+Most published work on GSK-3 has focused on GSK-3b, while much less is
+known regarding the relative contribution of GSK-3a despite its widespread
+tissue distribution.31, 32 Research using genetically engineered mouse models revealed that
+GSK-3a and GSK-3b largely compensate for each other during
+embryogenesis, as demonstrated for b-catenin via the Wnt
+pathway.33 Nevertheless, isoform-specific
+phenotypes have been reported, including the observation that GSK-3b loss
+causes a defect in NF-kB activation and craniofacial
+anomalies,21, 34 while GSK-3a loss results in premature death and
+acceleration of age-related pathologies due to activation of mTORC1 and associated
+suppression of autophagy markers.35 A recent
+study has identified a distinct role for GSK-3a in noncanonical NF-kB
+signaling via stabilization of TAK1-TAB downstream of oncogenic K-Ras.27, 32 These reports point
+to GSK-3 isoform-specific effects on the regulation of NF-kB activity.
+Because GSK-3a and GSK-3b share a highly homologous kinase
+domain, the available GSK-3 kinase inhibitors, including LY2064827, do not distinguish
+between the two isoforms.36 We used
+isoform-specific lentiviral shRNA vectors to evaluate the role of each GSK-3 isoform in
+TRAIL-induced apoptosis. Contrary to the reported minor effect of
+GSK-3a,30 we showed that both
+isoforms similarly contributed to TRAIL resistance in PDA cells. This discrepancy likely
+arises from the efficiency of GSK-3a suppression. Our analysis utilized
+multiple shRNAs, each of which achieved nearly complete suppression of
+GSK-3a at both mRNA and protein levels and caused similar TRAIL
+sensitization. Our data are also consistent with a previous report by Sun et
+al.37, which identified GSK-3 (both
+GSK-3a and 3b) as a component of an anti-apoptotic protein
+complex with DDX3 and cIAP1 associated with DR5 in breast cancer cells.37 Although the precise mechanism and substrate(s) of
+GSK-3 action within this membrane complex remain to be defined, GSK-3 inhibition was found
+to overcome TRAIL resistance by promoting the initial step of DISC formation leading to
+caspase-8 and caspase-3 activation.37 Our
+results, which focused on another aspect of TRAIL killing, also point to an effect of both
+GSK-3b isoforms in modulating TRAIL sensitivity.
+In contrast to TRAIL, only GSK-3b suppression led to sensitization of
+TNFa-induced cell death in PDA, an effect recapitulated in GSK-3b-null
+MEFs. As the first report on genetic ablation of the murine GSK-3b gene
+leading to a defect in NF-kB activation,21 the involvement of GSK-3b in NF-kB
+signaling has been documented in many cell types. However, conflicting results have been
+reported regarding the role of GSK-3b loss on NF-kB
+activation, ranging from major defects in TNFa-induced
+IkBa phosphorylation/degradation, to minimal or no effect on the
+cytosolic signaling and p65 nuclear translocation.28,
+38, 39, 40 Our group previously proposed that GSK-3b
+exerts its effect on NF-kB at a point distal to activation of the IKK
+complex in PDA cells, whereas a role of GSK-3b in maintaining constitutive
+NF-kB signaling via IKK was also reported.25, 28 Here we provide evidence that
+GSK-3b is basically dispensable during TNFa-induced
+canonical NF-kB activation up to p65/p50 nuclear entry, and is only
+involved in the regulation of a subset of genes such as BCL2L1 and
+BIRC3, but not IkBa and several other NF-kB
+target genes (Figures 4 and 5 and
+data not shown).
+Our observation that GSK-3b affects only a subset of NF-kB
+target genes, raised the possibility that GSK-3b contributes to
+NF-kB target gene expression in a promoter- or chromatin
+context-dependent manner. In fact, GSK-3 inhibition in Panc04.03 cells affected
+NF-kB binding to the BCL2L1 and BIRC3 promoters, but
+not the IkBa promoter. Where present, the effects of GSK-3 inhibition
+were characterized by either decreased p65 or increased p50 binding along with increased
+HDAC3 and SIRT1 recruitment. The underlying mechanism is not presently clear, but may
+involve posttranslational modification of NF-kB proteins, as
+GSK-3b has been shown to phosphorylate both p65 and p50.24, 41, 42 GSK-3b has also been reported to phosphorylate and
+regulate the processing/degradation of NF-kB1 (p105), the precursor of
+p50 and, therefore, could alter levels of p50 in cells.43 Although detailed mechanism(s) underlying GSK-3b
+regulation of NF-kB hetero- and homodimer formation and chromatin binding
+remain to be further characterized, the difference in DNA binding specificity/affinity
+as well as in transcriptional activity of NF-kB dimer forms may constitute
+a mechanism for selective activation/repression of a subset of NF-kB
+target genes.44, 45,
+46 In light of our direct experimental evidence
+that nuclear-localized GSK-3b can efficiently drive the expression of the
+NF-kB target genes BCL2L1 and BIRC3 in pancreatic
+cancer cells, it is of interest that many GSK-3b substrates are nuclear
+transcription factors.20 As GSK-3b
+is overexpressed and localized to nuclei in the majority of moderately and poorly
+differentiated PDAs, it is tempting to speculate that, in addition to driving the
+expression of select NF-kB target genes such as BCL2L1 and
+BIRC3, nuclear GSK-3b might affect the action of other
+transcription factors as well.
+Among the key NF-kB-target anti-apoptotic proteins linked to TRAIL
+resistance, cFLIP functions at the apex of death receptor initiated signaling by
+preventing the recruitment and activation of caspase-8.47 A recent report has identified cFLIP (both long and short
+isoforms) as a crucial negative regulator of death receptor-induced apoptosis in
+pancreatic carcinoma cells.48 We initially found
+that the long isoform of cFLlP is reduced in GSK-3i treated cells, but this was not
+observed in either GSK-3a or GSK-3b knockdown cells,
+suggesting a potential redundant role of GSK-3a or GSK-3b in
+its regulation. Interestingly, suppression of Bcl-xL or XIAP, but not cIAP2, sensitized
+PDA cells to TRAIL-induced apoptosis. Moreover, expression of Bcl-xL off a
+GSK-3i-independent promoter could partially reverse the GSK-3i-induced TRAIL
+sensitization. Our data, which are consistent with previous work showing that both Bcl-xL
+and XIAP are important in mediating TRAIL resistance,7,
+11, 49, 50, 51, 52 demonstrate that downregulation of Bcl-xL by GSK-3i or
+GSK-3b suppression accounts for part of the GSK-3i-induced death ligand
+sensitization in PDA cells.
+The signaling cascades activating NF-kB pathways are attractive targets
+for cancer therapy.7, 10, 22 However, the complex mechanisms
+underlying constitutive NF-kB activation, including both canonical and
+noncanonical pathways in PDA, require a combination of inhibitors in order to widely block
+NF-kB activities to achieve therapeutic benefit. Results presented here
+demonstrate that combining GSK-3i with TRAIL dramatically enhances TRAIL cytotoxicity in
+pancreatic cancer cells. Our further studies show that GSK-3b in the nucleus
+of pancreatic cancer cells contributes to TRAIL resistance by impacting binding of
+NF-kB dimers to a subset of NF-kB-responsive promoters,
+ultimately modulating the expression of specific anti-apoptotic NF-kB
+target genes such as BCL2L1. The present findings, together with published work,
+identify GSK-3-mediated mechanisms of TRAIL resistance at the plasma membrane and in the
+nucleus. Taken together, these observations provide a strong rationale as well as a
+molecular basis for further study of TRAIL in combination with GSK-3i in order to
+potentially improve PDA therapy.
+
+Materials and Methods
+Regents and antibodies
+GSK-3i (LY2064827) was obtained from Eli Lilly (Indianapolis, IN, USA). Recombinant
+human TRAIL, human and mouse TNFa were purchased from R&D Systems
+(Minneapolis, MN, USA). Fluorescein isothiocyanate (FITC)-conjugated annexin V was from
+Invitrogen (Carlsbad, CA, USA). Blasticidin and puromycin were obtained from InvivoGen
+(San Diego, CA, USA). Antibodies from Cell Signaling Technologies (Beverly, MA, USA)
+include rabbit monoclonal anti-GSK-3a/b (D75D3), Bcl-xL (54H6),
+phospho-IKBaSer32/36) (5A5), p65 (D14E12), cFLIP and Cleaved
+Caspase-3 (Asp175). Antibodies from Epitomics (Burlingame, CA, USA) include rabbit
+monoclonal anti-GS, phospho-GS (pS641) and rabbit polyclonal anti-cIAP2. Antibodies from
+BD PharMingen (San Diego, CA, USA) include mouse monoclonal anti-Bcl-2, XIAP,
+GSK-3b, b-catenin, ORC2 and PARP. Antibodies from Santa
+Cruz Biotechnology (Santa Cruz, CA, USA) include rabbit polyclonal anti-p65, p50,
+IkBa and mouse monoclonal anti-p50. Mouse monoclonal
+b-actin, g-tubulin, anti-FLAG M2 and M2 agarose were from
+Sigma-Aldrich (St. Louis, MO, USA).
+Plasmid construction
+For knockdown of endogenous gene expression, including GSK-3a,
+GSK-3b, Bcl-xL, cIAP2 and XIAP, we used lentivirus-mediated short
+hairpin RNA (shRNA) expression system (Sigma, St. Louis, MO, USA).53 The plasmids were either constructed in pLKO.1 vector
+or obtained from the Mayo Clinic RNA Interference Shared Resource (RISR). At least two
+distinct shRNA target sequences for each gene with confirmed suppression (over
+70% decrease at mRNA level relative to scrambled control) were used (Supplementary Table S1). For stable reconstituted expression of
+Bcl-xL, we cloned its full-length coding region with an N-terminal Flag-tag in pLenti6.3
+vector (Invitrogen). To generate GSK-3b mammalian
+suppression/re-expression constructs, cDNA sequence
+(5'-CACTGGTCACGTTTGGAAAGA-3') derived from human
+GSK-3b 3' UTR region was first cloned as a hairpin into
+pCMS4-eGFP-H1P vector.53 Human
+GSK-3b protein coding region (both WT and constitutively active S9A
+mutant) were subcloned into this pCMS4-eGFP-H1P-shGSK-3b vector at
+MluI/NotI sites. For suppression/re-expression of cytosolic and
+nuclear-localized GSK-3b, the stop codon was mutated and replaced with a
+coding sequence for either NES from the human protein kinase inhibitor a
+or 3 tandem copies of the NLS sequence from SV40 large T-antigen, which is followed by a
+C-terminal Flag-tag. All cDNA and shRNA expression plasmids were verified by direct
+sequencing at the Mayo Molecular Biology Core Facility.
+Lentiviral packaging, transduction and selection of stable cells
+Lentivirus packaging, cell infection and selection of pLKO-shRNA stable pancreatic
+cancer cells with puromycin were performed as previously described following
+institutional biosafety regulations.53 For
+stable overexpression of BCL-XL in BxPC-3 cells, pLenti6.3-Flag.BCL-XL or
+pLenti6.3-Flag.vector viral infected cells were selected in culture media supplemented
+with blasticidin (5 mg/ml) for two passages (about 6 days) and
+pooled blasticidin-resistant cells were used as stable overexpression cells. To generate
+pLenti-TopFlash luciferase vector, we used pLenti6.3-Topo vector (Invitrogen) as a
+backbone and replaced the ClaI and MluI fragment (containing the CMV promoter, Topo
+cloning site the V5 tag coding sequence) with seven tandem copies of TCF/LEF binding
+site followed by the firefly luciferase ORF amplified from pGL3E vector (Promega,
+Madison, WI, USA). The resulting pLenti-7xTopFlash luciferase vector was packaged into
+lentiviral particles and used for infection of 293T and BxPC-3 cells, respectively.
+Blasticidin-selected stable cell clones were used in dual luciferase reporter
+assays.
+Cell culture/transfection, protein extraction and immunoblotting
+GSK-3b-null mouse embryonic fibroblasts (MEFs) and matching WT MEFs were
+a kind gift from Dr. Jim Woodgett (Ontario Cancer Institute, Toronto, ON,
+Canada).21 HEK293T, HeLa and all
+pancreatic cancer cell lines were obtained from ATCC, maintained
+under recommended culture conditions and transfected as previously
+described.53, 54,
+55 Whole cell or nuclear/cytosolic
+fractionated protein extracts were prepared, quantified and subject to SDS-PAGE and
+immunoblotting.
+Cell proliferation and apoptosis analysis
+Proliferation of MEFs and pancreatic cancer cells was measured by MTS assay (Promega)
+as described.53 To assess DNA fragmentation,
+pancreatic cancer cells were incubated in buffer containing 0.1% (w/v) Triton
+X-100, 50 mg/ml PI and 0.1% (w/v) sodium citrate overnight at
+4 degC and analyzed by flow cytometry for subdiploid events. For annexin V5 and
+PI staining, MEFs or pancreatic cancer cells were detached by trypsinization and stained
+with annexin V labeled with FITC (eBioscience, San Diego, CA, USA) and propidium iodide
+(PI, 1 mg/ml, Sigma) for 20 min. Cells (20 000 per condition)
+were then analyzed on a Becton Dickinson FACS Caliber flow cytometer (Franklin Lakes,
+NJ, USA) as described.56 The fraction of cells
+positive for annexin V and/or PI was calculated using FlowJo software (Tree Star,
+Ashland, OR, USA).54
+Immunofluorescent staining, proximity ligation assay (PLA) and confocal
+microscopy
+For localization of endogenous p65 in MEFs, WT and GSK-3b-null MEFs were
+grown on coverslips for 24 h and stimulated with 2 mg/ml
+of TNFa for the indicated periods of time. Cells were fixed,
+permeabilized, stained with rabbit monoclonal anti-p65 (1 : 300 dilution)
+and analyzed via confocal microscopy as previously described.53 To detect subcellular distribution of GSK-3b,
+Panc04.03 cells were transfected with in pCMS4-H1P-eGFP- GSK-3b vectors by
+electroporation and grown on coverslips for 48 h before staining with mouse
+monoclonal anti-flag M2 antibody (1 : 800). For PLA detection of
+p50/p65 interaction in situ, we used the Duolink in situ PLA kit
+from Olink Bioscience according to the supplier's instructions. Mouse mAb against
+p50 (SC8414, Santa Cruz Biotechnology) and rabbit mAb against p65 (#8242, Cell
+Signaling Technology) were used as primary antibodies at dilutions of
+1 : 50 and 1 : 300, respectively. The anti-rabbit plus and
+anti-mouse minus secondary antibodies were used as PLA probes and Texas red as detection
+regent (Supplementary information).
+Luciferase reporter assay
+Luciferase reporter assays were performed as previously described.57 Firefly luciferase activity was normalized to Renilla
+luciferase. The results were expressed as mean 'fold induction'. Mean values
+of at least three independent experiments are displayed+-S.D.
+RNA extraction and qRT-PCR
+RNA extraction using the RNeasy Mini Kit (Qiagen, Valencia, CA, USA), generation of
+cDNA with Superscript III reverse transcription Kit (Invitrogen) and PCR using the
+comparative CT method with the SYBR Green PCR Master Mix (Applied Biosystems, Grand
+Island, NY, USA) and the ABI Prism 7900TM Sequence Detection System have previously been
+described.53 Experiments were performed in
+triplicate using three independent cDNAs. Primer sequences are in Supplementary Table S2.
+Chromatin immunoprecipitation assays
+Panc04.03 cells were treated with the GSK-3i LY2064827 (0.5 mM) or
+diluent (DMSO) for 16 h. Treated cells were cross-linked and subjected to
+chromatin immunoprecipitation as described.55
+The following antibodies were used for ChIP: rabbit polyclonal antibodies to p65 and p50
+(Santa Cruz Biotechnologies), monoclonal H3K14ac, RNA polymerase II and rabbit
+polyclonal HDAC3 and SIRT1 (Millipore, Billerica, MA, USA), rabbit polyclonal anti-p65
+(acetylated K310), and anti-acetylated lysine (Abcam, Cambridge, MA, USA). Three sets of
+qPCR primers were designed for IkBa, Bcl-xL and cIAP2
+within promoter/enhancer or intergenic regions based on the location of
+NF-kB binding sites. The result was first normalized to input or
+control IgG, then to diluent control. Experiments were performed in triplicate. Primer
+sequences are presented in Supplementary Table S3.

@@ -1,0 +1,289 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed]
+
+Analysis of gene expression on ngn3 gene signaling pathway in endocrine pancreatic cancer. In order to define the undifferentiated transcriptional factors present in neurogenesis of pancreatic b-islet cells, we studied the effect of Pdx1 in embryonic stem cell derived endocrine lineage. There are undifferentiated transcriptional progenitors Pdx1+/Ptf1a+/Cpa1+ tracking the growth of acini, ducts, a and b-islet cells. The upregulated transcriptional factors Pdx1 and ngn3 specify consequences of cell cycle regulation in early gut endocrine cells. The undifferentiated transcriptional factors basic helix loop helix (bHLH) protein regulate Ptf1a+/Cpa1+ in acini, ducts and it also regulate ngn3 to decrease expression of insulin and other pancreas secretions. The Pdx1+ and other unknown gene mutations show abnormal growth of neurogenesis in endocrine lineages. Using microarray based gene expression analysis to determine undifferential gene ontology in tissue specific gene regulation and disease progression that common in both metabolic and biological signaling pathways. The data expression profiles of ngn3 of wild- type pancreatic islet and islet derived tumor stem cells provide information on endocrine specific ngn3 genes. Therefore, 3755 genes were significantly regulated by Ngn3 induced pancreatic islet cell development. Moreover 317 upregulated and 175 downregulated, 757 genes deemed as undifferential expressions in endocrine cell. Furthermore to predict signaling pathways that associates with diabetes is highlighted.
+
+Background
+Pancreatic and duodenal homeobox 1 (Pdx1 also known insulin
+promoter factor1) gene is a major role in pancreas development
+[1].
+Eventually Pdx1+ is expressed in epithelial and
+mesenchymal cells and helps for development of pancreas buds
+[2,
+3]. The transcriptional factors Pdx1, SRY, SOX9
+[4] and
+WNT7 [5]
+regulate morphological assessment of embryogenesis
+in human pancreas. The initiation of embryogenesis shows gene
+conversion is taking place in chromosomes, but it did not affect
+to flanking genes (Pyr1 and Col4) located at either side of Pdx-
+1+. During mitosis the heterozygous conversion of two Pdx-1
+and six Pdx-1+ alleles show mutations show undifferentiated
+genes expressions leads to apoptosis [6]. The heterozygous
+mutation of pdx1 show many pancreatic associated diseases
+including adenocarcinoma and diabetes mellitus
+[7].
+The development of pancreatic cell neurogenesis is a major part
+of organogenesis to differentiate both exocrine and endocrine
+tissue to develop acini, ducts, a and b-islet cells [8]. Both tissues
+are present in early endoderm epithelium through cell-cell
+signaling with mesenchyme that directs a cascade of
+transcriptional regulatory events [9]. During early stage
+development of epithelial cells is undergo control of pancreasspecific
+transcriptional complex ptf1 which binds to nuclear
+transcriptional factors bHLH [10] it inhibits Pdx-1+ to form
+undifferential growth factors and morphogenesis [11]. Out of
+these factors, the bHLH factor neurogenin3 (ngn3) plays a
+central role in initiating the differentiation of the pancreatic cells
+[12]. Until recently, may intracellular signals that regulate
+pancreatic development and function [13], these include
+transforming growth factor-b (TGF- b), Notch, Hedgehog,
+fibroblast growth factor (FGF), and epidermal growth factor
+(EGF) pathways, and investigation of pancreas developmental
+biology demands familiarity with these signaling pathways
+[14-18].
+In early sets of gene expression and differentiation shows
+Jack-STAT and notch signaling pathways play a crucial role in
+neuronal cell development. The loss of function on premature
+endocrine cell differentiation conversely, forced expression of
+the Notch intracellular domain (NICD) blocks on endocrine cell
+development [19]. The differential expression of notch1 in
+pdx1+ epithelial cells suggests that Notch signaling could
+inhibit a ngn-neuroD cascade in neurogenesis and thus
+differentiate endocrine cells [20].
+In this study, we examined the influence of ngn3 on early b-cell
+development. The results demonstrate that differential gene
+expression on Pdx1 and ngn3 on b-cell proliferation in
+embryonic cell development and regulate signaling pathway in
+early post transcriptional modifications. Our findings provide
+evidence of ngn3 is necessary for activation of pancreatic acini,
+ductal and beta cells to develop normal pancreas. Furthermore,
+we classified the undifferential genes based on the gene
+regulatory network and expression patterns in different tissues
+and these genes shows potential drug targets in pancreatic
+cancer.
+
+Methodology
+In order to study signal transduction and analysis of various
+disease mechanisms, we need (i) gene expression
+measurements (ii) definitions of signaling pathways and (iii)
+drug target identification. The pancreatic cancer gene
+expression data analysis helps to provide signaling
+transductions which contains information about relation of
+neuronal development in pancreatic cancer and target gene
+product.
+Microarray Raw data searching:
+We evaluated all published case control studies and diseased
+datasets were selected using GEO (GDS2276) contains 16
+datasets of embryonic stem cells were processed for microarray
+analysis using Affymetrix Mouse Genome 430 2.0 GeneChip.
+The samples include parental stem cells (1) undifferentiated
+with 0 days (2) differentiated for 3 days as embryonic stem cells
+without ngn3. (3) 10 days as embryoid bodies. The remaining
+samples included tetracycline inducible Ngn3 ESC line selected
+from the parental stem cell line (4) after differentiation and
+addition of deoxycycline for 3 days without embryoid body
+formation (Ngn3 ES3 ON), (5 and 6) after differentiation as
+embryoid bodies for 3 days with (Ngn3 EB3 ON) or without
+(Ngn3 EB3 OFF) deoxycycline, and (7 and 8) after
+differentiation as embryoid bodies for 10 days with (Ngn3 EB10
+ON) or without (Ngn3 EB10 OFF) deoxycycline. The ngn3
+probe sets were selected from GenBank, dbEST, and RefSeq.
+The sequences of clusters were developed from the UniGene
+database and then refined by analysis and comparison with a
+number of other publicly available databases.
+Identification of ngn3 gene expression data:
+BioConductor packages used to calculate the processed data.
+GCRMA (Gene-Chip Robust Multiarray Average) was used for
+signal normalization. Ainv15 ES0 data were defined as the
+baseline to generate differential expression values for all
+hybridizations. A patient sample pair was excluded from
+further analysis since one of the samples did not meet the
+quality controls. The microarray data was subsequently
+normalized using the Robust Microarray Analysis (RMA)
+algorithm. A multiclass analysis of variance was performed to
+generate p values for every probe set. To evaluate
+transcriptional factors among treatment groups, differentially
+expressed genes with expression of at least 2 and not greater
+than -2 and p values of not greater than 0.001 were selected
+from each group and combined for hierarchical clustering using
+a correlation similarity metric, an average clustering method,
+and by clustering both rows and columns.
+Since the expression data is approximately log normally
+distributed, we used the log-transformed data as produced by
+the RMA algorithm for all subsequent statistical tests. For
+visualization purposes, we centered the log-transformed
+expression data by subtracting the average probeset logexpression
+values. Probe sets with relatively low expression
+(average expression values below 100 Affymetrix units) or with
+nearly constant expression values (standard deviation below 50)
+were excluded from further consideration. Of the 45101 probe
+sets on the mouse430, 18000 were thus retained. An unpaired ttest
+was used to determine the probesets (genes) that are
+differentially expressed between the normal and the tumor
+tissue samples. The first 400 probesets with the lowest t-test pvalues
+(corresponding to a p-value cutoff of 9x10-12) were
+selected for further analysis. We also used a more stringent
+fold-change constraint that excluded the probesets with log-fold
+change < 1 (roughly corresponding to a fold change < 2), where
+the log-fold change of gene g between classes N ('normal') and
+T ('tumor') is defined as:
+Log-fc (g, N-T) =log2 g (T) - log2 g (N),
+Log2 g(C) = SsiSclog2g (Si)/|C|
+The average log-expression value of gene g in the samples Si of
+class C.
+Also, probe set lists of Ngn3-induced differentially expressed
+genes were produced for each differentiation context. The
+intersecting probe sets representing "context-independent"
+differentially expressed genes were systematically evaluated for
+significant enrichment of canonical signaling pathways.
+Functional enrichment analyses:
+The Database for Annotation, Visualization and Integrated
+Discovery (DAVID) (http://david.abcc.ncifcrf.gov) and
+Concept Gen (http://conceptgen.ncibi.org) were used to
+identify over-represented biological functions and pathways
+among the differentially expressed genes.
+Network analysis:
+A gene co-citation network of the differentially expressed genes
+was generated by using a sentence level co-citation filter. This
+network allows visualization of the differentially expressed
+genes and their potential associations with each other identified
+in the literature. The topology of the network was further
+analyzed using the Fast Greedy community structure
+identification algorithm, implemented in the Cytoscape plug-in
+GLay (http://brainarray.mbni.med.umich.edu/ sugang/glay)
+to identify coherent sub networks. Identified sub networks were
+subjected to functional enrichment analyses by DAVID to reveal
+over-represented biological functions within each subnetwork.
+
+Results & Discussion
+The genes over expressed in pancreatic cancer whole tumor
+tissue contain a NGN3-beta signature:
+We performed an expression analysis of 16 pancreatic parental
+stem cells of 1) differentiated (2).undifferentiated (3).
+Genetically modied Ngn3 induced stem cells of series of time
+intervals (0, 3, and 10 days). Using microarray data analysis of
+RNA profiling on genesets was annotated using Affymetrix
+Mouse430 2.0 whole-genome chip. We generated datasets on
+epithelial cell lines that is capable of Dox-inducible; uniform
+expression of Ngn3 at different time points (0, 3days, 10days)
+after culture with the site-specific integration of Ngn3 mRNA
+into the HPRT1 locus of the Ainv15 ESC line was confirmed
+using a genome specific embryoid stem cells. Single-copy
+integration of murine Ngn3 datasets was calculated using R and
+BioConductor.
+The histological analysis confirmed that, the Ngn3 ESC cell
+lines was capable of forming tissues specific mRNA from Ngn3
+cells. The mRNA samples were pooled, amplified and labeled
+before duplicate hybridizations were performed on spotted
+(pre-synthesized oligonucleotide) microarrays. The sample sets
+contains 45101 probe sets and it was genes in 16 datasets, all the
+probe sets were represented on GeneChip Mouse 430(r).
+The ngn3 mRNA hybridized data contains two outliers and one
+mislabeled sample is identified during the quality assessment
+process. The data sets along with the appropriate controls were
+clustered based on genome-wide gene expression in each
+treatment group. The mRNA probes were hybridized with
+simultaneous measurement of the relative expression levels of
+thousands of individual genes. For the RNA probes with
+parental embryoid stem cells and ngn3 induced embryoid stem
+cell processed shows more degradation is present, the 95%. For
+the degraded samples, the 95% confidence intervals exclude 1
+for all but normal parental cell with high amount of
+degradation of Affymetrix Mouse430 2.0 when log2 GC% was
+used for adjusting probe affinity, suggesting more RNA quality,
+again as expected. Also note that the point estimates of the 3'/5 '
+ratios for all nine higher-quality GeneChip are much higher
+than the point estimates of their corresponding GeneChip with
+good quality, as expected.
+Ngn3 regulation of gene expression in pancreatic cell line:
+Analysis of ngn3 gene expression results is identifying the most
+relevant pancreas developmental context led to microarray
+analysis of gene expression after induction of Ngn3 from EB7 to
+EB10 (Ngn3 EB10 ON). To evaluate Ngn3 expression in
+homogenous and pluripotent cellular context, using gene
+expression of induction of Ngn3 in undifferentiated ESCs either
+in conjunction with EB formation for 3 days (Ngn3 EB3 ON).
+The changes of gene expression were described based on
+representation changes between parental undifferentiated
+embryonic stem cells (n=2), differentiated embryoid bodies
+(n=2) embryoid bodies of parental stem cell (n=4), embryoid
+bodies of 3 days and 10 days differentiation (n=8) groups
+Table 1 (see the supplementary material).
+In probesets contains 45101 genes, using normalization
+techniques after hybridization shows ~32691 genes will express
+in all datasets, using clustering technique shows in murine stem
+cells shows less expression in during embryogenesis and
+induced ngn3 in stem cells shows more expression. Among
+them, 3755 genes were identified as significantly regulated by
+GCRMA of differentially expressed probes sets in induced ngn3
+to genetically modified embryonic stem cells and 1282 genes
+were identified in GCRMA Normalized signal ratio of probe
+sets of regulated ESC on Tissue /cell lines data. Out of these
+317 genes were significantly upregulated 175 genes
+differentially down regulated in ngn3 induced ESCs
+Table 2 (see supplementary material).
+In probe sets contains 45101 genes, using normalization
+techniques after hybridization shows ~32691 genes will express
+in all datasets, using clustering technique shows in murine stem
+cells shows less expression in during embryogenesis and
+induced ngn3 in stem cells shows more expression. Among
+them, 3755 genes were identified as significantly regulated by
+GCRMA of differentially expressed probes sets in induced ngn3
+to genetically modified embryonic stem cells and 1282 genes
+were identified in GCRMA Normalized signal ratio of probe
+sets of regulated ESC on Tissue /cell lines data. Out of these
+317 genes were significantly upregulated 175 genes
+differentially down regulated in ngn3 induced ESCs.
+(Figure 1)
+Based on functional analysis of upregulated and down
+regulated genes includes Pdx1cre, LSL-KrasG12D PRRX1A and
+PRRX1B, SOX9 and CK19 are transient requirement during
+endocrine cell differentiation. The most relevant pancreas
+oriented ngn3 expression with endoderm genes Soc17 and
+FoxA2 and pancreatic endoderm and endocrine development
+Pdx1 and ngn3. Based on gene cluster, the clusters of 0days is
+unique in down regulation and 3 and 10 days datasets of
+functional characters were presented in (Figure 2 &
+Figure 3).
+The pancreas-specific gene Ptf1a, Sox17, FoxA2, Pdx1, and
+Ngn3 mRNA increased in early EB formation suggests that
+ngn3 induced ESC line helps for endoderm development
+(Figure 4).
+Functional enrichment:
+Functional enrichment analyses of the 1216 differentially
+expressed genes were performed to identify over-represented
+biological functions using Gene Ontology terms and pathways
+Table 3 (see supplementary material).
+Analysis of ngn3 induced signaling pathways:
+Based on literature and microarray techniques, we analyzed the
+genes present in gene networks of the differentially expressed
+genes was created by Cytoscape based on sentence level cocitations
+of differentially expressed genes to examine their
+potential relationships. This network is composed of
+subnetworks centered on the nine most connected genes
+Table 4
+(see supplementary material). The transcriptional factors
+Casq1,NeuroG3,Trp53bp1,PrkCi,4933426M11Rik, 33426M11Rik,
+Taf1, Znhit1, and A230108P19Rik. The complete network was
+further analyzed by Fast Greedy algorithm, implemented in the
+Cytoscape plug-in GLay, to cluster the genes into subgroups
+based on their network structure. 41 clusters with a minimum
+of 317 genes were identified (Figure 5 &
+Figure 6)
+
+Conclusion
+We analyzed differential gene expression patterns present in
+ngn3 induced ESCs on neurogenesis and post translational
+modifications in different signaling cascades. Total of 3755
+genes is functional gene expression, with these 317 genes shows
+positive up regulation and 175 genes negative down regulation
+in embryogenesis. 176 genes involved in notch signaling
+pathway helps to differentiate tissues in both exocrine and
+endocrine, our gene classification results shows that, the
+functionally enriched gene functions may express acini, ductal
+and b-cells. In functional network analysis shows 19 functional
+genes is used as regulator in notch signaling pathway and it is
+potentially used for drug targets.
+
+Supplementary material
+Data 1

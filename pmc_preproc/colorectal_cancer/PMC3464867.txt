@@ -1,0 +1,265 @@
+[Abstract, Methods, Results, Discussion]
+
+The TERT variant rs2736100 is associated with colorectal cancer risk. Background: Polymorphic variation at the 5p15.33 (TERT-CLPTM1L) locus is associated with the risk of many cancers but a relationship with colorectal cancer (CRC) risk has yet to be defined.   Methods: We used data from six genome-wide association studies (GWAS) of CRC, linkage disequilibrium mapping and imputation, to examine the relationship between 73 single-nucleotide polymorphisms at 5p15.33 and CRC risk in detail.   Results: rs2736100, which localises to intron 2 of TERT, provided the strongest evidence of an association with CRC (P=2.28 x 10-4). The association was also shown in an independent series of 10 047 CRC cases and 6918 controls (P=0.02). A meta-analysis of all seven studies (totalling 16 039 cases, 16 430 controls) provided increased evidence of association (P=2.49 x 10-5; per allele odds ratio=1.07). The association of rs2736100 on CRC risk was shown to be independent of 15 low-penetrance variants previously identified.   Conclusion: The rs2736100 association demonstrates an influence of variation at 5p15.33 on CRC risk and further evidence that the 5p15.33 (TERT-CLPTM1L) locus has pleiotropic effects (reflecting generic or lineage-specific effects) on cancer risk.
+
+Materials and methods
+Ethics
+Collection of blood samples and clinico-pathological information from subjects was
+undertaken with informed consent and ethical review board approval at all sites in
+accordance with the tenets of the Declaration of Helsinki.
+GWAS datasets
+London 1 (LP1) comprised 940 cases with colorectal neoplasia (47% male)
+ascertained through the Colorectal Tumour Gene Identification (CoRGI) consortium. All
+had at least one first-degree relative affected by CRC and one or more of the following
+phenotypes: CRC at age 75 years or less; any colorectal adenoma (CRAd) at age 45 or
+less; 3 colorectal adenomas at age 75 or less; or a large (>1 cm
+diameter) or aggressive (villous and/or severely dysplastic) adenoma at age 75 years
+or less. The 965 controls (45% males) were spouses or partners unaffected by
+cancer and without a personal family history (to second-degree relative level) of
+colorectal neoplasia. Known dominant polyposis syndromes, HNPCC/Lynch syndrome or
+bi-allelic MUTYH mutation carriers were excluded. All cases and controls had
+self-reported European ancestry. Both cases and controls were genotyped using Illumina
+HumanHap550 BeadChip Arrays (Teo et al,
+2007).
+Scotland1 (SP1) included 1012 CRC cases (51% male; mean age at diagnosis 49.6
+years, s.d.+-6.1) and 1012 cancer-free population controls (51% male; mean
+age 51.0 years; s.d.+-5.9). Cases were selected for early age at onset (age
+55 years). Known dominant polyposis syndromes, HNPCC/Lynch syndrome or
+bi-allelic MUTYH mutation carriers were excluded. Control subjects were sampled
+from the Scottish population NHS registers, matched by age (+-5 years), gender and
+area of residence within Scotland. Both cases and controls were genotyped using Illumina
+HumanHap300 and HumanHap240S arrays (Gunderson et al,
+2006; Abraham et al, 2008).
+VQ58 (VQ) comprised 1800 CRC cases (1099 males, mean age of diagnosis 62.5 years;
+s.d.+-10.9) from the VICTOR and QUASAR2 (http://www.octo-oxford.org.uk/alltrials/infollowup/q2.html) trials.
+Genotyping of cases was conducted using Illumina Hap300 and Hap370 arrays (Gunderson et al, 2006; Howarth
+et al, 2009). The 2690 controls, typed on the Illumina Human
+1.2M-Duo Custom_v1 Array BeadChips, were from the UK population-based 1958 birth cohort,
+for which genotype data are publicly available from the Wellcome Trust
+Case-Control Consortium 2 (Power and Elliott, 2006;
+The Wellcome Trust Case-Control Consortium, 2007).
+The Colon Cancer Family Registry (CFR1) data set comprised 1290 familial CRC cases and
+1055 controls CFR (Colon-CFR) (http://epi.grants.cancer.gov/CFR/about_colon.html). The cases were recently
+diagnosed CRC cases reported to population complete cancer registries in the United
+States (Puget Sound, WA, USA) recruited by the Seattle Familial Colorectal Cancer
+Registry; in Canada (ON) recruited by the Ontario Familial Cancer Registry; and in
+Australia (Melbourne, VIC) recruited by the Australasian Colorectal Cancer Family Study.
+Controls were population-based and for this analysis were restricted to those without a
+family history of CRC (Newcomb et al, 2007).
+Cases and controls were genotyped using Illumina HumanHap550 and 1M and 1Mduo BeadChip
+Arrays.
+CFR2 comprised an additional 796 cases ascertained through the CFR (http://epi.grants.cancer.gov/CFR/about_colon.html). Cases were genotyped
+using 1M Omni-Express BeadChip Arrays. Illumina HumanHap550 BeadChip data on 2304
+individuals from the Cancer Genetic Markers of Susceptibility (CGEMS) studies served as
+control genotypes (Hunter et al, 2007; Yeager et al, 2007).
+The Australian (AUS) study (Tie et al, 2010)
+comprised 591 patients treated for CRC at the Royal Melbourne, Western and St Francis
+Xavier Cabrini Hospitals in Melbourne from 1999 to 2009. The 2353 controls were derived
+from Queensland or Melbourne: for the former, the controls came from the Brisbane Twin
+Nevus Study (Duffy et al, 2010); for the latter,
+individuals were participants in the Genes in Myopia study (Baird
+et al, 2010). There was no overlap between the CFR and Australian
+datasets. Both cases and controls were genotyped using Illumina HumanHap550 BeadChip
+Arrays.
+Each of these six GWAS datasets was subjected to extensive quality control procedures.
+Specifically, the exclusion of samples and SNPs with call rates <95%,
+non-European (CEU) ancestry, relatedness (duplicates or related within or between each
+case-control series) and sex discrepancy. Furthermore, there was no evidence of
+systematic inflation of the test statistic in any study, as assessed using the genomic
+overdispersion factor, lGC, which ranged from 1.00 to
+1.04.
+Replication series
+In total, 10 488 CRC cases, aged <80 years at diagnosis, were ascertained
+between March 2003 and October 2011 through the National Study of Colorectal Cancer
+Genetics (NSCCG) (Penegar et al, 2007)
+(n=9268); the Study of the Genetic Epidemiology of Colorectal Cancer
+(n=581) and the Royal Marsden Hospital National Health Services Trust
+(RMHNHST) family history DNA database (n=639). Controls
+(n=7137) were the spouses of cancer cases and were ascertained through
+the NSCCG (n=3047); the Genetic Lung Cancer Predisposition Study
+(n=1637); the Colorectal Adenoma Gene-Environment Interactions Study
+(n=711); the Study of the Genetic Epidemiology of Colorectal Cancer
+(n=344); and the RMHNHST family history DNA database
+(n=1398). None of the controls had a personal history of malignancy at
+ascertainment. All subjects were British residents with self-reported European ethnicity
+and there were no obvious demographic differences between cases and controls.
+Statistical and bioinformatic analysis
+A P-value (two-sided)0.05 was considered significant. We applied a
+Bonferoni correction to adjust for multiple testing. Statistical analyses were
+undertaken using SNPtest/META (The Wellcome Trust Case-Control
+Consortium, 2007), and STATA v.10 (StataCorp LP, College Station, TX, USA)
+software. The association between each SNP and risk of CRC was assessed by the
+Cochran-Armitage trend test. Odds ratios and associated 95% confidence
+intervals (CIs) were calculated by unconditional logistic regression. Patterns of risk
+for associated SNPs were investigated by logistic regression, coding the SNP genotypes
+according to additive, dominant and recessive models. We then compared models by
+calculating the Akaike information criterion and Akaike weights for each mode of
+inheritance.
+Interaction between SNP and genotypes was evaluated by likelihood ratio tests comparing
+an additive model to a model with an interaction term. Prediction of the non-genotyped
+SNPs within the 119.3-kb region of 5p15.33 (TERT-CLPTM1L)
+(1 243 475-1 362 793 bps, NCBI build b37) was
+carried out using IMPUTEv2 based on the June 2011 release of 1000 Genomes Project data
+(Howie et al, 2009, 2011; The 1000 Genomes Project Consortium,
+2010). Association testing of genotyped and imputed imputed data were
+analysed using SNPTEST v2 to account for uncertainties in SNP prediction. Imputed
+genotypes were only called if they had a probability >0.90. Association meta-analyses
+only included markers with proper_info scores >0.9, imputed call rates/SNP>0.9
+and Hardy-Weinberg>0.01. To condition by SNP, the SNP was added as a covariate.
+Meta-analysis was performed using a fixed-effects model, estimating Cochran's
+Q statistic to test for heterogeneity and the I2
+statistic to quantify the proportion of the total variation between studies.
+Analysis of LD was performed using the Broad Institute SNP Annotation and Proxy (SNAP)
+Search utilising 1000 Genomes Project data. Transcription factor-binding prediction was
+performed with TFSearch. Cross-species evolutionary conservation was assessed with the
+deCode ECR browser. The UCSC genome browser was used to examine H3K4Me1,
+H3K4Me3 and DNase-I hypersensitivity in publicly available cell line
+data.
+Association between rs2736100 and tumour site (colon-ICD International Classification
+of Diseases 9th revision (ICD9)-153; rectal cancer: ICD9-154), Dukes stage (A+B;
+C+D), grade (poorly; moderate/well differentiated), sex, age at diagnosis
+(55, >55), family history of CRC in a first-degree relative and MSI status was
+evaluated by case-only analysis.
+Molecular analysis
+DNA was extracted from EDTA venous blood samples using conventional methodologies and
+PicoGreen quantified (Invitrogen Corporation, Carlsbad, CA, USA). We selected 15 SNPs
+that have been reported to be associated with CRC from 14 chromosomal regions: rs6691170
+(1q41), rs10936599 (3q26.2), rs16892766 (8q23.3), rs6983267 (8q24.21), rs10795668
+(10p14), rs3802842 (11q23.1), rs11169552 (12q13.13), rs4444235 (14q22.2), rs4779584
+(15q13.33), rs11632715 (15q13.3) rs9929218 (16q22.1), rs4939827 (18q21.1), rs10411210
+(19q13.1), rs961253 (20p12.3) and rs4925386 (20q13.33) (Tomlinson
+et al, 2007; Houlston et al,
+2008; Jaeger et al, 2008; Tenesa et al, 2008; Tomlinson
+et al, 2008; Houlston et al,
+2010; Tomlinson et al, 2011).
+Genotyping of these SNPs and rs2736100 was conducted using KASPar competitive
+allele-specific PCR chemistry (KBiosciences Ltd, Hoddesdon, UK; primer sequences and
+conditions available on request). To monitor quality control, duplicate samples were
+included in assays and a subset of samples sequenced. Concordance between duplicate
+samples was (>99%).
+Tumour MSI status in CRCs was determined as described previously (Penegar et al, 2007) using the mononucleotide microsatellite loci
+BAT25 and BAT26, which are highly sensitive MSI markers. Briefly, 10-mm sections were
+cut from formalin-fixed paraffin-embedded CRC tumours, lightly stained with toluidine
+blue and regions containing at least 60% tumour microdissected. Tumour DNA was
+extracted using the QIAamp DNA Mini kit (Qiagen, Crawley, UK) according to the
+manufacturer's instructions and genotyped for the BAT25 and BAT26 loci. Samples
+showing novel alleles, when compared with normal DNA, at either or both markers were
+assigned as MSI-H (corresponding to MSI-high) (Boland et
+al, 1998).
+
+Results
+Descriptive data
+Table 1 provides summary information on the
+clinico-pathological characteristics and demographic information on each of the six GWAS
+datasets and the replication case-control series.
+LD structure of the 5p15.33 region
+The six GWA studies of CRC provided genotype data for 12-45 SNPs (depending on
+study) mapping to the 119.3-kb region of 5p15.33 in a total of 6007 cases and 9520
+controls (Figure 1). To further investigate the relationship
+between genetic variation at this region and CRC risk, using 1000 genomes data, we
+imputed the genotypes of 22 SNPs not directly genotyped in one or more studies and 45
+SNPs not genotyped in any study. Including 6 SNPs directly genotyped in all studies, a
+total of 73 SNPs were imputed (Figure 1). In a combined
+analysis of these data, the strongest association was shown by the directly typed SNP,
+rs2736100 (P=2.28 x 10-4; Figure 1). The per allele OR of CRC associated with rs2736100-T genotype was
+1.10 (95% CI:1.05-1.15). The association between rs2853668, a SNP
+previously reported to be associated with CRC(Peters et
+al, 2012), and CRC risk was non-significant (P=0.06).
+To explore the possibility of secondary associations with CRC, we conducted pairwise
+conditional analyses of the eight SNPs showing the best evidence for an association with
+risk. rs2736100 genotype was shown to be sufficient to capture the 5p15.33 association
+with CRC risk (Table 2).
+Replication of the rs2736100 association
+To provide further independent replication of the rs2736100 association with CRC risk,
+we genotyped an additional 10 488 cases and 7137 controls. Genotypes were
+obtained for 96% of cases (n=10 047) and 97% of
+controls (n=6918) (Table 1). There was no
+evidence of population stratification in controls as the genotype distribution satisfied
+Hardy-Weinberg equilibrium (P=0.76). As with the GWAS data there
+was a significant over-representation of the rs2736100-T genotype in CRC cases
+(P=0.019; Supplementary Table 1).
+Respective ORs of CRC associated with heterozygosity and homozygosity for rs2736100-T
+were 1.09 and 1.11, respectively, (Supplementary Table
+1). The impact of rs2736100 genotype on CRC was thus comparable to that shown
+in the combined analysis of the six GWAS datasets. Although the pattern of risk for CRC
+was most parsimonious with a dominant model, a multiplicative model was equally favoured
+(P=0.27). To enhance our ability to demonstrate a relationship between
+5p15.33 variation and CRC risk, we conducted a combined analysis of all datasets
+(Figure 2). In this meta-analysis, the per allele OR was
+1.07 (95% CI: 1.04-1.11; P=2.49 x
+10-5; Bonferroni-adjusted P-value was 1.82 x
+10-3) and there was no evidence for between-study heterogeneity
+(Phet=0.7, I2=0%).
+Relationship between rs2736100 genotype and phenotype
+To explore the relationship between rs2736100 genotype and CRC phenotype, we performed
+a case-only analysis using the replication series. This analysis provided no
+statistically significant evidence that the CRC association was modified by age, sex, or
+family history of CRC (Supplementary Table 1). For 3200
+of the cases with known MSI status, rs2736100 genotypes were successfully generated on
+2981 (93%), allowing us to calculate CRC risks stratified by MSI status. This
+analysis did not provide evidence for a relationship between SNP genotype and MSI status
+(Supplementary Table 1).
+Interaction between rs2736100 and other common CRC risk variants
+Using logistic regression analysis, we tested for an interaction between rs2736100 and
+each of 15 SNPs shown previously to be associated with CRC, namely, rs6691170,
+rs10936599, rs16892766, rs6983267, rs10795668, rs3802842, rs11169552, rs4444235,
+rs4779584, rs9929218, rs4939827, rs10411210, rs961253, rs4925386 and rs11632715. No
+evidence of statistical interaction between any of the 15 SNPs and rs2736100 was shown
+(Supplementary Table 2).
+
+Discussion
+Here we have demonstrated a statistically significant association between rs2736100
+genotype and risk of CRC. We have also been able to show that variation at 5p15.33
+influences CRC risk independently of other previously identified common risk variants.
+This is consistent with a model in which rs2736100 is acting additively with other common
+risk variants in mediating CRC susceptibility. As the risk allele of rs2736100 is common,
+the variant is likely to underscore ~7% of all CRC in European populations.
+Intriguingly rs2736100-T is associated with elevated risk of testicular cancer (Turnbull et al, 2010), but reduced risk of glioma
+(Shete et al, 2009), lung adenocarcinoma
+(McKay et al, 2008; Wang
+et al, 2008) and bladder cancer (Gago-Dominguez et al, 2011). These differential effects of genotype
+are likely to be reflective of tumour- and lineage-specific effect.
+Although rs2736100 localises to intron 2 of TERT, this does not exclude the
+possibility of long-range effects as the functional basis for the 5p15.33 cancer
+association. However, although the 5p15.33 locus includes the TERT and
+CLPTM1L genes, these essentially map to two distinct regions of LD, making it
+likely rs2736100 impacts either directly or indirectly on TERT.
+A recent study reported an association between the TERT SNP rs2853668 and CRC
+risk (Peters et al, 2012). In our study, rs2736100
+provided superior evidence for an association with CRC than rs2853668. As rs2736100 and
+rs2853668 are correlated, albeit weakly (r2=0.15,
+D'=0.69), it is likely that the association reported by Peters et al, (2012) reflects the impact of rs2736100
+genotype, or a hitherto unidentified correlated variant on CRC risk.
+Functional variants in TERT have been shown to affect telomerase expression
+through modulating promoter activity (Beesley et al,
+2011), and such a mechanism offers a possible explanation for how a putative
+functional variant at TERT affects CRC risk (Aisner,
+2002). Although sequence conservation in non-coding regions has been shown to
+be a good predictor of cis-regulatory sequences (Gomez-Skarmeta et al, 2006), there is little evidence for high
+conservation directly at rs2736100 (Figure 3). ENCODE project
+data does not show evidence for DNAse hypersensitivity sites (indicating open chromatin),
+or histone H3KMe1/H3KMe3 methylation (often near regulatory elements) at rs2736100.
+Although these data do not support rs2736100 being directly functional, in an analysis of
+putative binding sites at rs2736100 using TFSearch, SRY and Hfh-2 sites
+are only predicted for rs2736100-T and not rs2736100-G. SRY (sex determining
+region Y) is a male-expressed gene involved in sex determination (Wallis et al, 2008). Although speculative, rs2736100-T-mediated
+SRY recruitment to TERT might lead to increased expression of
+telomerase in germ cells, thereby providing an explanation for the increased risk of
+testicular cancer associated with rs2736100-T (Turnbull et
+al, 2010). It is unknown whether Hfh-2 (also known as
+FOXD3) regulates telomerase expression, however, this forkhead transcription
+factor has a role in early cell development, thus suggesting another biological basis for
+the 5p15.33 association (Guo et al, 2002). Such
+speculations are predicated on the assumption that rs2736100 underscores the 5p15.33
+association. Although our imputation provided no evidence for a stronger signal at 5p15.33
+than that afforded by rs2736100, it is possible the association is mediated through one or
+more rare disease-causing variants, which are not adequately catalogued by the 1000
+Genomes project data. High-depth coverage sequencing of a large series of CRC cases for
+5p15.33 variation would allow this possibility to be explored.
+In conclusion, our data demonstrate that polymorphic variation at 5p15.33 is a
+determinant of CRC risk. It has recently been shown that polymorphisms in TERC
+(telomerase RNA component) are associated with CRC risk and increased telomere length
+(Codd et al, 2010; Houlston
+et al, 2010; Jones et al,
+2012); collectively these data extend the role of genetic variation in
+telomere elongation mechanisms in defining cancer risk per se.

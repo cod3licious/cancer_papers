@@ -1,0 +1,193 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion]
+
+Cutaneous melanoma in the State of S?o Paulo: a spatial
+approach*. BACKGROUND Cutaneous melanoma is a skin cancer with low incidence but high mortality rates. Several factors are associated with increased risk of melanoma, such as excessive sun exposure, fair skin, and family history, among others. Little is known about the spatial distribution of this cancer in Brazil.   OBJECTIVE To identify, through the use of geostatistical tools, spatial clusters of municipalities in the state of Sao Paulo based on their incidence of cutaneous melanoma.   METHODS This was an ecological and exploratory study of data on new cases obtained from Fundacao Oncocentro for the period 1 January 2006-31 December 2011. Cases were separated by gender and rates per 100,000 inhabitants were calculated and used to compile thematic maps, Moran maps and kernel maps, using TerraView software.   RESULTS There were 3,172 new cases of cutaneous melanoma in the study period. High rates were identified in the North, Northwest, Southwest, and Southeast regions of Sao Paulo state. Global Moran's I values were statistically significant (p<0.05) at 0.12, 0.08, and 0.16, respectively, for males, females, and all cases. Areas such as the Southeast, North, and Northwest of Sao Paulo were identified as being of high priority for intervention.   CONCLUSION  Spatial clusters of municipalities with high incidence rates of cutaneous melanoma in the state of Sao Paulo were identified. These data can serve as an important input for public health agencies.
+
+INTRODUCTION
+Cancer, according to the Brazilian National Cancer Institute (INCA), is the name
+given to a set of diseases that share the characteristic of unfettered cell growth.
+These cells divide rapidly and tend to be aggressive and invade tissues and
+organs.1 In the year 2011
+alone, 161 deaths attributable to cancer occurred in the state of Sao
+Paulo.2
+Skin cancer can be broadly divided into three types: basal cell carcinoma (BCC),
+squamous cell carcinoma (SCC) - together, these two types constitute the nonmelanoma
+skin cancers (NMSC) - and cutaneous melanoma (CM), or melanoma of the skin.
+In the United States, the incidence of melanoma has increased by 4-6% every
+year.3 Cutaneous melanoma
+has a low incidence, with an estimated 3,170 new cases in men and 3,060 new cases in
+women expected to have occurred in Brazil in 2012, but is highly lethal, which makes
+its diagnosis extremely important. In the state of Sao Paulo, the crude incidence
+rate of melanoma, as estimated by INCA, is 5.58 per 100,000 men and 5.59 per 100,000
+women (2012 data).4
+Regarding the epidemiological profile of affected patients, melanoma is slightly
+predominant in women, between the ages of 50 and 60, and in fair-skinned
+individuals.5-8 In a Brazilian study, the most
+common site of involvement was the trunk in men and the lower extremities in women,
+with a statistically significant gender difference,6 which coincides with other studies conducted in the
+country.7,9,10 Regarding
+histological subtype, in a study carried out in Southern Brazil, the most common
+type was superficial spreading melanoma (62.8%), followed by lentigo maligna (14.9%)
+and nodular melanoma (14.6%).10
+The risk factors for cutaneous melanoma are many and varied, and include excessive
+sun exposure, fair skin, congenital nevus, xeroderma pigmentosum, dysplastic nevus,
+past medical history of skin cancer, and family history of melanoma, thus subsuming
+genetic factors.11,12
+Given these risk factors, it is reasonable to expect that certain regions, such as
+those with a population composed predominantly of fair-skinned, red-haired,
+pale-eyed individuals who burn easily and tan with difficulty and those with large
+populations of rural workers with a history of intense sun exposure, would have
+higher incidence rates of melanoma skin cancer. Particularly in Brazil, a country
+with a large immigrant population of European origin or descent and with large rural
+areas characterized by agricultural work, clusters of melanoma occurrence are
+believed to occur in several regions and states.
+In view of the foregoing, the objective of this study was to identify, by means of
+geostatistical analysis, spatial clusters of municipalities in the state of Sao
+Paulo on the basis of their incidence rates of cutaneous melanoma.
+
+MATERIALS AND METHODS
+This is an ecological, exploratory, population-based study concerning the period 1
+January 2006-31 December 2011. The area of interest is the state of Sao Paulo.
+The state of Sao Paulo is located in the south of the Southeast region of Brazil. It
+is slightly larger than the United Kingdom in area and is the most populous state in
+Brazil, with over 40 million inhabitants, predominantly of Italian and Portuguese
+descent, as well as approximately 3 million immigrants of 70 different
+nationalities. In addition to hosting the largest industrial park in Brazil and
+leading the country in economic output, the state of Sao Paulo is also important in
+the fields of agriculture and animal husbandry.13
+Data on new cases of cutaneous melanoma diagnosed in individuals of all ages from all
+municipalities in the state of Sao Paulo were obtained from Fundacao Oncocentro
+(FOSP)14 and stratified by
+gender (female or male). The populations of each of the 645 municipalities of the
+state of Sao Paulo as of 2008 were obtained from the DATASUS web portal. These data
+were multiplied by six to provide an estimate for the 6-year study period. Thus, we
+calculated the incidence rates per 100,000 inhabitants inhabitants for later
+geostatistical analysis.
+Global Moran's I indices were obtained to ascertain whether
+cutaneous melanoma incidence rates in each municipality were spatially correlated
+with the rates observed in neighboring municipalities. The global Moran's I
+establishes the extent to which the value observed in a given region is
+independent from the values of this variable observed in neighboring locales; if
+positive, it is indicative of positive spatial autocorrelation. Positive values
+(between 0 and +1) denote direct spatial autocorrelation, whereas negative values
+(between 0 and -1) denote inverse autocorrelation.
+Thematic maps were constructed from the new case rates in men, in women, and in the
+overall population, with their respective means displayed as cutoff points in the
+map legends, and Moran's maps were constructed for the male, female, and overall
+populations. Moran's maps were chosen to display which municipalities are at high or
+low priority of intervention to reduce the incidence of the event of interest.
+Kernel maps are a statistical method that allows estimation of case density by
+smoothing incidence rates, and can be used to identify hotspots (areas of high case
+density). A kernel map was constructed for the overall population of all
+municipalities in the state of Sao Paulo, enabling estimation of which
+municipalities have a high or low density of new cases of cutaneous melanoma.
+As this was an ecological study and no subjects are identified, it did not require
+submission to the local Research Ethics Committee for approval.
+Spatial analysis was carried out in the TerraView 3.3.1 software suite, made
+available by the National Space Research Institute of Brazil (INPE).
+
+RESULTS
+For the period 1 January 2006-31 December 2011, FOSP tallied 3,172 new cases of
+cutaneous melanoma in the state of Sao Paulo, with a mean (SD) frequency of 4.91
+(38.3) cases per municipality, ranging from 0 to 959 cases (the latter found in the
+city of Sao Paulo). This represents an overall incidence of 1.32 cases per 100,000
+inhabitants inhabitants - 1.33 per 100,000 in men and 1.25 per 100,000 in women. Men
+accounted for 50.3% of all cases, and women, for the remaining 49.7%. Analysis of
+yearly rates over time did not show an upward or downward trend in the incidence of
+cutaneous melanoma (data not shown).
+The maps generated from the male, female, and overall incidence rates are presented
+in figure 1. Interestingly, high incidence
+rates (with means shown as cutoff points in the map legends) spared the coastal,
+capital, and Northeast regions of the state almost exclusively, predominating
+instead in the North, Northwest, Southwest, and Southeast regions. Table 1 lists the 10 municipalities with the
+highest incidence rates of cutaneous melanoma for the overall population. More than
+200 municipalities had a rate of zero, i.e., no cases of cutaneous melanoma were
+diagnosed during the study period.
+FIGURE 1
+Incidence rates of cutaneous melanoma (number of new cases per 100,000
+inhabitants). A) Male population; B) female
+population; C) overall population. State of Sao Paulo, Brazil,
+2006-2011
+Moran's maps for the male, female, and overall populations are shown in figure 2, and demonstrate that municipalities
+located mostly in the Southeast, North, and part of the Northwest regions of the
+state as high-priority targets for intervention. Global Moran's I
+indices were statistically significant (p<0.05), at 0.12, 0.08, and 0.16
+respectively for male, female, and total cases in the 645 municipalities assessed,
+showing high positive spatial correlation in these cases. This denotes greater
+independence of the values assigned to one municipality in contradistinction to the
+indices of neighboring municipalities.
+FIGURE 2
+Moran's maps showing municipalities of high and low priority for public
+health interventions. A) Male population; B)
+female population; C) overall population. State of Sao Paulo,
+Brazil, 2006-2011
+The kernel map for the overall population showed a high density of cases in the
+Southeast, Northwest, and North regions of the state (Figure 3).
+FIGURE 3
+Kernel map showing densities of cutaneous melanoma incidence rates in the
+overall population, state of Sao Paulo, Brazil, 2006-2011
+
+DISCUSSION
+Few Brazilian geostatistical studies have addressed topics such as skin cancer; this
+was the first to assess cutaneous melanoma. This cancer is an extremely important
+public health issue in view of its high mortality rate, and it is imperative that
+areas with higher incidence rates of diagnosis and areas requiring stronger public
+health interventions be identified.15
+The incidence rates found in the present study were slightly higher in the male
+population, which runs contrary to the findings of Bonfa et al.10
+We observed high incidence rates of cutaneous melanoma in female, male, and overall
+populations in the North, Northwest, Southwest, and Southeast regions of the state,
+corresponding mostly to the municipalities of Sao Jose do Rio Preto, Ribeirao Preto,
+Araraquara, Bauru, Marilia, and part of Sorocaba. These areas, in turn, are strongly
+involved in the food and drink industry, with sugarcane and orange plantations being
+most prominent, as well as maize, soy, coffee, cotton, peanut, and bean agriculture.
+This spatial cluster may be explained by greater sun exposure without appropriate
+protection among workers in these regions, as solar ultraviolet radiation is known
+to be a complete carcinogen in humans.16
+Ultraviolet radiation is divided into UVA, UVB, and UVC, with UVA being most closely
+associated with photoaging and development of skin cancer, as it may indirectly
+generate free radicals.17 UVB is
+usually associated with acute and chronic skin damage, such as spots, burns,
+peeling, and skin cancer. UVC radiation is largely absorbed by the ozone layer, and
+only a small amount reaches the population.18
+Another factor that must be taken into account is the cultural, demographic, and
+ethnic heterogeneity of Brazil in general and of Sao Paulo state in particu-lar. The
+coffee boom of the 1840s drove massive numbers of immigrants to the state,
+particularly from Italy, Portugal, and Spain, and, to a lesser extent, Japan,
+Austria, and Germany. This might influence our finding of higher cutaneous melanoma
+incidence rates in certain regions of the state, especially due to the
+characteristic skin phototypes of these immigrant populations. It is known that
+individuals with fair skin, hair, and eyes are at greater risk of developing
+melanoma.5 Therefore, the
+historical influx of European immigrants may have contributed to the higher case
+density in certain regions of the state.
+The Moran maps obtained enable objective visualization of which municipalities in the
+state have a high or low need for intervention. The latter correspond essentially to
+municipalities in the regions of Presidente Prudente, the Greater Sao Paulo area,
+Santos, the Ribeira River Valley, and Sao Jose dos Campos. Interestingly, these are
+more industrialized regions, with a strong presence of industrial activity related
+to oil, ethanol, metallurgy, and chemical manufacturing. The resident and working
+population is possibly less exposed to solar radiation due to indoor work most of
+the time. Municipalities such as Votuporanga, Sao Joaquim da Barra, Sao Jose do Rio
+Preto, Monte Aprazivel, among others, showed a pressing need for intervention.
+The kernel map enabled identification of a higher incidence of cases in the
+Southeast, Northeast, and North regions of the state, which correspond to the
+vicinity of Ribeirao Preto and to the boundary between the municipalities of Sao
+Jose do Rio Preto and Aracatuba. These regions are characterized by modern beef
+cattle production, orange and sugarcane agriculture, and maize, soy, coffee, cotton,
+peanut, and bean plantations.
+Some limitations of this study must be noted, such as the fact that we did not take
+into account individual risk factors (e.g. sun exposure and sunscreen use). Another
+limitation is the possibility of diagnostic error, as rural regions of the State may
+have limited access to diagnostic methods and specialists in the field; this, in
+turn, may cause underestimation of actual incidence rates. On the other hand,
+analysis of pooled data for a 6-year period enabled identification of spatial
+clusters with higher incidence rates, minimizing potential fluctuations in these
+rates.
+
+CONCLUSION
+We were able to identify spatial clusters of municipalities with high incidence rates
+of cutaneous melanoma in the state of Sao Paulo. These findings serve as an
+important input for public agencies, and can be used to support educational and
+awareness-building campaigns in some municipalities, as several strategies are
+available for prevention of cutaneous melanoma, a highly lethal form of cancer.

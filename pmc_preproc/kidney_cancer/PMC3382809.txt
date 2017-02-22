@@ -1,0 +1,138 @@
+[Abstract, Introduction, Results, Methods, Discussion]
+
+Quantitative Structure-Activity Relationship Studies on Indenoisoquinoline Topoisomerase I Inhibitors as Anticancer Agents in Human Renal Cell Carcinoma Cell Line SN12C. Topoisomerase I is important for DNA replication and cell division, making it an attractive drug target for anticancer therapy. A series of indenoisoquinolines displaying potent Top1 inhibitory activity in human renal cell carcinoma cell line SN12C were selected to establish 3D-QSAR models using CoMFA and CoMSIA methods. Internal and external cross-validation techniques were investigated, as well as some measures taken, including region focusing, bootstrapping and the "leave-group-out" cross-validation method. The satisfactory CoMFA model predicted a q2 value of 0.659 and an r2 value of 0.949, indicating that electrostatic and steric properties play a significant role in potency. The best CoMSIA model, based on a combination of steric, electrostatic and H-bond acceptor descriptors, predicted a q2 value of 0.523 and an r2 value of 0.902. The models were graphically interpreted by contour plots which provided insight into the structural requirements for increasing the activity of a compound, providing a solid basis for future rational design of more active anticancer agents.
+
+1. Introduction
+Kidney cancer is among the 10 most frequently occurring cancers in western communities. Globally, about 270,000 cases of kidney cancer are diagnosed yearly and 116,000 people die from the disease. Renal cell carcinoma (RCC) accounts for approximately 90% of all kidney cancers and its incidence is on the rise [1,2]. Localized RCC is curable with surgery but a third of patients are diagnosed with metastatic RCC, which is difficult to treat and is generally resistant to conventional radiotherapy, chemotherapy and endocrine therapy. The median survival for patients with metastatic RCC is 10-12 months [3]. Despite a minority of patients with metastatic disease benefiting from cytokine immunotherapy, a need still exists for developing more effective novel anti-renal cell carcinoma agents.
+Human topoisomerase type I (Top1) is a member of the topoisomerase family of enzymes that resolve the topological problems associated with DNA supercoiling during various essential cellular processes [4-6]. It forms a covalent link with the 3'-end of the cut DNA strand in the Top1-DNA cleavage complex at its catalytic tyrosine 723 residue, relieving torsional strain in DNA via reversible single-strand nicks [7,8]. Top1 is important for the successful replication, transcription and recombination of DNA, as well as chromatin remodeling, making it an attractive drug target for anticancer therapy. Camptothecin, isolated and identified in 1966, was the first Top1 inhibitor [9]. Camptothecin derivatives irinotecan and topotecan approved by the Food and Drug Administration (FDA) validate Top1 as a therapeutic target for anticancer drug development [10]. In practice, these Top1 inhibitors exert a promising anticancer effect in the treatment of renal cell carcinoma. For instance, clinically relevant concentrations of topotecan-induced apoptosis in RCC cell lines work more effectively than 5-FU [11]. In addition, combination therapy using topotecan and survivin-specific siRNA could show a synergistic effect and offer an attractive approach for the treatment of advanced renal cancer [12,13]. In clinical practice, the use of a novel combination of irinotecan, cisplatin and mitomycin (IPM chemotherapy) produce symptomatic relief for a majority of patients with renal cancer following failure of cytokine immunotherapy [14]. However, these camptothecin derivatives are not ideal drug molecules, suffering from pharmacokinetic problems, inherent instability due to lactone ring opening and rapid reversibility of the cleavage complexes after drug removal [15,16]. There is a present need for the development of noncamptothecin Top1 inhibitors as anticancer agents. Recently, a number of analogs of the indenoisoquinolines have been reported as novel anticancer agents [17-19]. The indenoisoquinoline Top1 inhibitors were examined for antiproliferative activity against different cancer cell lines. The results indicate that these novel noncamptothecin Top1 inhibitors could be potential agents for the treatment of a variety of cancers, including renal cancer. Among these derivatives, two indenoisoquinolines have been selected currently for clinical development by the NCI: NSC 725776 and NSC 724998 [20]. Both exert antiproliferative activity in submicromolar concentrations in cultured human cancer cell lines.
+The three-dimensional quantitative structure-activity relationship (3D-QSAR) techniques, including comparative molecular field analysis (CoMFA) [21] and comparative similarity indices analysis (CoMSIA) [22] are useful methods of ligand-based drug design used to correlate physicochemical descriptors from a set of related compounds to their known molecular activity or molecular property values [23]. These computational techniques incorporate 3D information for the ligands and have been proved particularly helpful in the design of novel and more potent inhibitors. The application of QSAR methodology to the indenoisoquinoline derivatives hasn't been reported. The satisfactory QSAR models on 48 indenoisoquinoline topoisomerase I inhibitors for their anti-renal cell carcinoma activities [18,19] provide a solid basis for future rational design of more active agents.
+
+2. Results and Discussion
+2.1. CoMFA Analysis
+The compound 20, one of the most active molecules, was selected as the template and the isoquinoline ring as the common structure for alignment (Figure 1). The CoMFA model provided a cross-validation q2 value of 0.602 with 5 components, an r2 value of 0.925 and an F-test value of 66.709 (Table 1). Region focusing resulted in the better CoMFA model which showed a significant increase from 0.602 to 0.659 for the internal validity, 0.632 to 0.680 for group cross-validation, 0.790 to 0.826 for test set activity predictions, and from 0.925 to 0.949 for the non-validated r2 (Table 1). Figure 2 shows CoMFA fields for molecule 20 before and after region focusing. The activity values predicted for the test set are in good agreement with the experimental values (Figure 3) and the rpred2 value of 0.826 further confirms the reliability and accuracy of the model. The electrostatic and steric field contributions to the final model were 58.7% and 41.3%, respectively.
+2.2. CoMSIA Analysis
+Twelve CoMSIA models were generated using combinations of 2, 3, 4, and all 5 descriptors as shown in Table 2. Model 5, based on steric, electrostatic and H-bond acceptor fields, was found to be the most accurate, yielding a q2 value of 0.523 and an r2 value of 0.902. The Group cross q2 value of 0.524, bootstrapped value of 0.906 +- 0.023 and test set r2 value of 0.704 further approve the best CoMSIA model 5. The predicted values are closely consistent with the experimental data (Figure 4). The steric field explains 13.4% of the variance, the electrostatic field for 47.9% and the H-bond acceptor field for 38.7% of the variance.
+2.3. CoMFA Contour Maps
+The results of 3D-QSAR models are presented in the contour coefficient maps as shown in Figure 5. Its steric interaction is denoted by green and yellow contours. Both a large green contour and a large yellow contour were located near the end of the side chain linking to the nitrogen atom of the isoquinoline ring of target compounds, indicating that steric fields did not play an important role in this region. This may be the reason why compounds 20 and 28 with almost the same chains showed the most and lowest activities, respectively. Similarly, compounds 1, 24, 28, 31 and 32 showed lower activity while compounds 3, 6, 17, 19 and 29 are more potent. Two large green and two small red contours around the 3-position of the isoquinoline ring suggest that bulky and electron-withdrawing substituents are required in this region to increase activity. This is possibly the reason why compound 39 with the substitution of nitro group showed 24.5 times more potency than its corresponding mother compound 40, likewise 41 is 67.6 times greater than 42. A small red contour located near carbonyl group at position-11 of compound 20 indicates that electron-withdrawing groups are preferred in this region. This is why the compounds 43-47, whose carbonyl group at position-11 was replaced by other electron-donating groups, are less potent. A small red contour near the methoxyl substituted at position-9 of compound 20 can be interpreted that groups with an electron-withdrawing factor are desired to increase the activity, and that is why compound 20 with the methoxyl group at position-9 is almost 7000 times more potent than its mother compound 24, also compounds 36 and 9 are far more potent than corresponding 35 and 33, respectively. A large yellow contour around position-1 signifies that the hydrogen atom must not be substituted.
+2.4. CoMSIA Contour Maps
+The best CoMSIA model contour maps of the most active analog are shown in Figure 6. Its steric and electrostatic contour plots (Figure 6a,b) correlate well with the CoMFA contour maps described above. Hydrogen-bond acceptor contour maps are shown in Figure 6c. Hydrogen bond acceptor-favored regions are represented by magenta contours and unfavorable regions by cyan contours. One large magenta polyhedron is visible around the 3-position of the isoquinoline ring of compound 20, indicating that hydrogen-bond acceptor groups such as nitro, methoxyl group are very important for compound activity. Large cyan polyhedra around 2,4-positions of the isoquinoline ring and around the end of the side chain adjacent to the nitrogen atom of the isoquinoline ring can be interpreted as disfavoring hydrogen-bond acceptor groups in these regions.
+2.5. Design of New Inhibitors
+Based on the structure-activity relationship obtained by present 3D-QSAR models, a series of new inhibitors was designed and predicted (Table 3). With the most active molecule 20 in the training set used as the parent compound, some hydrogen-bond donors such as amino, hydroxyl and thiol were introduced at 3' or 4'-position of the heterocycle appended to the lactam side chain, and some bulky and electron-withdrawing groups, such as nitro and cyan, introduced at the 3-position. Most (pGI50 > 8.5) greatly enhanced inhibitory activity in comparison to 20 (pGI50 = 8.145). In particular, compound 20-7 showed the strongest activity with its predicted pGI50 (9.029). Other compounds also exhibited good predicted activity as well as compound 20.
+
+3. Experimental Section
+3.1. Data Set
+Forty-eight compounds investigated in the present study were taken from the published works of Morrell A. and co-workers [18,19]. The structures of the molecules and their biological data obtained by Morrell A. et al. are given in Tables 4,5. For convenience, we have converted the cytotoxicity GI50 values of topoisomerase inhibitors in renal carcinoma cell line SN12C to their negative logarithm (pGI50) values, which have a span of 4.0 log units from 4.00 to 8.00, providing a broad and homogeneous data set for 3D-QSAR study (see Table 5) [24,25]. Seven compounds were randomly selected as the test set, based on the structural and active diversities with the remaining 41 compounds as the training set.
+3.2. Molecular Alignment
+Compared to probe atom type, lattice shifting step size and overall orientation of the aligned compounds, a good alignment is the most important element for CoMFA and CoMSIA analysis [26], and the alignment rules will directly determine the quality and the predictive ability of the model. The alignment was often performed in accordance with some rules, such as substructure overlap, pharmacophore overlap and docking [27] as soon as the active conformation was obtained by energy minimization using Powell method and Tripos standard force field [28]. Here, the isoquinoline ring with structural rigidity was selected as the common substructure to overlap and to align all of the molecules and the most active compound 20 was used as the alignment template. Alignment of all compounds was shown in Figure 1. It can be seen that all the compounds studied have similar active conformations.
+3.3. Partial Least Squares (PLS) Analysis
+To linearly correlate the 3D-QSAR fields to biological activity values, PLS analysis [29] was performed. It was firstly carried out by the leave-one-out (LOO) and leave-group-out (10 groups) cross-validation methods to determine cross-validated r2 (q2) values and the optimal number of components on the basis of the lowest standard error of prediction (SEP) and avoiding over-fitting the models. A higher component was accepted and used only when the q2 differences between two components were larger than 5%. Non-cross-validation was then performed to establish the final 3D-QSAR model with the values of conventional correlation coefficient (r2), standard errors of estimate (SEE), and F ratio between the variances of calculated and observed activities given.
+The q2 has been a good indicator of the accuracy of actual predictions. In general, q2 values can be separated into three categories: q2 > 0.6 means a fairly good model, q2 = 0.4-0.6 means a questionable model, and q2 < 0.4 a poor model [30]. q2 is calculated as follows:
+q
+2
+=
+1
+-
+[?]
+(
+Y
+o
+b
+s
+-
+Y
+p
+r
+e
+)
+2
+[?]
+(
+Y
+o
+b
+s
+-
+Y
+m
+e
+a
+n
+)
+2
+where, Yobs = experimental activity, Ypre = predicted activity, Ymean = mean activity.
+To further assess the robustness of the derived models, bootstrapping analysis (10 runs) was also utilized to calculate confidence intervals for the r2 and SEE [29,31]. The equation for SEE is given below.
+S
+E
+E
+=
+P
+R
+E
+S
+S
+n
+-
+c
+-
+1
+Where n means number of compounds, c means number of components, and PRESS (predicted sum of squares) means [?] (Yobs-Ypre)2.
+3.4. Predictive Correlation Coefficient
+q2 is a useful but not sufficient criterion for model validation, so an external test set (rpred2) [32] was claimed for the estimation of predictive ability. Equation of predictive values rpred2 is as follows:
+r
+p
+r
+e
+d
+2
+=
+1
+-
+(
+P
+R
+E
+S
+S
+/
+S
+D
+)
+Therein, SD means the sum of squared differences between the measured activities of the test set and the average measured activity of the training set.
+3.5. CoMFA Studies
+Three-dimensional grid spacing was set at 2 A in the x, y, and z directions and automatically generated to be a 3D cubic lattice that extended at least 4 A beyond the van der Waals volume of all aligned molecules in all directions. Lennard-Jones potential and Coulomb potential were employed to calculate steric and electrostatic energies of each molecule using the Tripos force field [28], and the sp3-hybrized carbon atom with a +1 charge taken as the probe atom to determine the magnitude of the field values. The regression analysis was carried out using the partial least squares (PLS) method [29]. All energies that exceeded the cutoff value of 30 kcal/mol were replaced with 30 kcal/mol for the reduction of domination by large steric and electrostatic energies [33]. The column filtering was set to 2.0 kcal/mol and those lattice points whose energy variation was below this threshold were automatically omitted, consequently the signal-to-noise ratio was improved. The final model was developed with the optimum number of components to yield a non-cross-validated r2 value. Despite being unable to describe all of the binding forces, CoMFA is still a useful tool for QSAR analysis at the 3D level.
+One method of 3D-QSAR optimization is known as region focusing [34], which may enhance or attenuate the contribution of the lattice points in a further analysis of a given CoMFA or CoMSIA region. Generally, region focusing can maximize the q2 value by rotating the extracted principal components, and give a new model with increased predictive power (q2), enhanced resolution, tighter grid spacing, and greater stability at a higher number of components.
+3.6. CoMSIA Studies
+CoMSIA is an extension of CoMFA on the same assumption that changes in binding affinities of ligands are related to changes in molecular properties represented by fields. Besides steric and electrostatic fields, three other different fields (hydrophobic, hydrogen bond donor, and hydrogen bond acceptor) are calculated in CoMSIA [35]. Moreover, a Gaussian function was introduced to determine the distance between the probe atom and the molecule atoms, and similarity indices inside and outside different molecular surfaces can be calculated at all grid points in CoMSIA. The equation used to calculate the similarity indices is as follows:
+A
+F
+,
+K
+(
+j
+)
+q
+=
+[?]
+i
+W
+p
+r
+o
+b
+e
+,
+k
+W
+i
+k
+e
+-
+a
+r
+i
+q
+2
+Where, A is the similarity index at grid point q, summed over all atoms i of the molecule j under investigation. Wprobe, k is the probe atom with radius 1 A, charge +1, hydrophobicity +1, hydrogen bond donating +1 and hydrogen bond accepting +1. Wik is the actual value of the physicochemical property k of atom i. riq is the mutual distance between the probe atom at grid point q and atom i of the test molecule. a is the attenuation factor whose optimal value is normally between 0.2 and 0.4, with a default value of 0.3 [36,37].
+
+4. Conclusions
+In conclusion, our present studies have established predictive CoMFA and CoMSIA models that are quite reliable to efficiently guide further modification in the molecules for obtaining better drugs. Both of them provided good statistical results in terms of q2 and r2 values, suggesting the significant correlations of molecular structures with its biological activities. Compared with CoMSIA, CoMFA provided a slightly better statistical model. The final CoMFA model has high internal validity (q2 above 0.5) and high predictive ability (test set r2 above 0.7). The 3D-QSAR results also revealed some important sites, where steric, electrostatic and hydrogen-bond acceptor modifications should significantly affect the bioactivities of these compounds. Thus, the results of the quantitative structure activity relationships (QSAR) studies give insight into how to design new inhibitors, and it can be expected that these novel derivatives could be more active anticancer agents in the treatment of renal cell carcinoma as well.

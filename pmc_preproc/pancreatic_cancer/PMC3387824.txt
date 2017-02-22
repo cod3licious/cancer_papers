@@ -1,0 +1,274 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed, Mixed, Mixed]
+
+The prognostic and predictive value of serum CA19.9 in pancreatic
+cancer. Background Current staging methods for pancreatic cancer (PC) are inadequate, and biomarkers to aid clinical decision making are lacking. Despite the availability of the serum marker carbohydrate antigen 19.9 (CA19.9) for over two decades, its precise role in the management of PC is yet to be defined, and as a consequence, it is not widely used.   Methods We assessed the relationship between perioperative serum CA19.9 levels, survival and adjuvant chemotherapeutic responsiveness in a cohort of 260 patients who underwent operative resection for PC.   Results By specifically assessing the subgroup of patients with detectable CA19.9, we identified potential utility at key clinical decision points. Low postoperative CA19.9 at 3 months (median survival 25.6 vs 14.8 months, P = 0.0052) and before adjuvant chemotherapy were independent prognostic factors. Patients with postoperative CA 19.9 levels >90 U/ml did not benefit from adjuvant chemotherapy (P = 0.7194) compared with those with a CA19.9 of <=90 U/ml (median 26.0 vs 16.7 months, P = 0.0108). Normalization of CA19.9 within 6 months of resection was also an independent favorable prognostic factor (median 29.9 vs 14.8 months, P = 0.0004) and normal perioperative CA19.9 levels identified a good prognostic group, which was associated with a 5-year survival of 42%.   Conclusions Perioperative serum CA19.9 measurements are informative in patients with detectable CA19.9 (defined by serum levels of >5 U/ml) and have potential clinical utility in predicting outcome and response to adjuvant chemotherapy. Future clinical trials should prioritize incorporation of CA19.9 measurement at key decision points to prospectively validate these findings and facilitate implementation.
+
+introductionPancreatic cancer (PC) is one of the most lethal solid organ malignancies. Pancreatectomy
+offers the only potential for cure but is only possible in a minority of patients. Even in
+those patients who undergo resection, most die because occult extrapancreatic metastatic
+disease was likely present at the time of diagnosis [1]. Systemic therapies are only modestly effective in advanced disease but have a
+significant impact in the adjuvant setting, with 5-fluorouracil and gemcitabine both having
+efficacy in a subgroup of patients and increasing 5-year survival from 10%-15% with
+surgery alone to 20%-25% [2-5]. As a consequence, there is an urgent need to
+develop biomarkers to better stratify patients for current treatment modalities and for the
+testing of novel therapeutic strategies. Carbohydrate antigen 19.9 (CA19.9), first isolated
+in 1979 [6, 7], is the only available serum biomarker for PC and has shown some utility as a
+diagnostic adjunct and a prognostic marker [8]
+but is not widely used in routine clinical practice [9]. Serum biomarkers such as prostate-specific antigen (PSA) in prostate cancer,
+carcinoembryonic antigen (CEA) in colorectal cancer and CA 125 in ovarian cancer, which have
+similar limitations and although sometimes controversial are routinely used and are an
+integral component of clinical trials in those diseases.Defining the subgroup of individuals where CA19.9 measurement is robust in predicting
+prognosis and chemotherapeutic responsiveness for PC would improve current management and
+overall outcomes. Here, we show that serum CA19.9 has distinct potential clinical utility in
+PC patients when assessed at distinct clinical decision points along the patient
+journey.
+
+patients and methodsDetailed clinicopathologic and outcome data were collected for 260 consecutive patients who
+had a histopathologic diagnosis of pancreatic ductal adenocarcinoma and recorded CA19.9
+levels from hospitals associated with the New South Wales Pancreatic Cancer Network,
+Australia (NSWPCN; www.pancreaticcancer.net.au),
+as previously described [10, 11]. This cohort of patients was retrospectively
+and then prospectively recruited when the database was established in 1999. The censor date
+was 30 September 2010. Ethical approval for the acquisition of data and biological material
+was obtained from the Human Research Ethics Committee at each participating institution.
+Clinical data were obtained from patients and family members, hospital notes and physician
+records. Outcome data including the date and cause of death were sourced from the NSW Cancer
+Registry and treating clinicians.Survival was measured from the date of histopathologic diagnosis until date of death or
+last follow-up. Patients with an R2 resection (macroscopically positive resection margins)
+were excluded from the analysis. All patients were staged based on the American Joint
+Committee on Cancer (AJCC) TNM (tumor-node-metastasis) classification, 7th
+edition [12]. Recurrence was defined by
+pathological confirmation by biopsy, cytology or clinical and radiographic findings
+consistent with metastatic disease.CA19.9 measurementCA19.9 measurements were carried out at certified laboratories associated with the
+hospital where the patients were treated. The upper limit of normal used for CA19.9 was 37
+U/ml. Red cell phenotyping for Lewis antigen status was not carried out in the majority of
+patients; therefore, patients whose CA19.9 levels were persistently <5 (termed
+non-expressors) were deemed likely to be Lewis antigen
+(Lea-b-) negative and were analyzed as a
+separate group. Paired bilirubin and liver enzymes levels were also collected. CA19.9
+levels may be artificially elevated in the setting of cholestasis and correcting it in
+relation to the bilirubin may improve its applicability. Significant impairment in biliary
+excretion for which bilirubin is a surrogate marker occurs when the bilirubin level is
+>1.5 times the upper limit of normal (or >2 mg/dl) [13]. Analyses were carried out using CA19.9 values in patients
+with normal bilirubin levels and in those with impaired biliary excretion (bilirubin >2
+mg/dl). In patients with bilirubin >2 mg/dl, the corrected CA19.9 (cCA19.9) was
+calculated by dividing the CA19.9 value by the bilirubin (in mg/dl) [13-15].patient cohortThe cohort consisted of 260 consecutive patients who had a pathological diagnosis of
+pancreatic ductal adenocarcinoma who underwent pancreatic resection with curative intent
+(macroscopically clear margins). The clinicopathologic characteristics are summarized in
+supplementary TableS1 (available at Annals of Oncology online).
+Clinico-pathologic factors associated with significantly better survival on univariate
+analysis (Table 1) included tumors of the
+pancreatic head (median survival 20.7 versus 11.9 months; P = 0.0053)
+compared with those of the body/tail, tumor size <=20 mm (34.4 versus 16.7 months;
+P = 0.0019), absence of margin involvement (22.8 versus 13.2 months;
+P = 0.0002), absence of lymph node metastases (22.2 versus 16.8 months;
+P = 0.0261), and adjuvant chemotherapy (22.4 versus 16.7 months;
+P = 0.0029). Pre-resection CA19.9 values were available in 202 patients and were taken a median of 0.4
+months before surgery. Of these, 10 patients (5%) had CA19.9 levels <5 pre- and
+post-resection and in the absence of red cell phenotyping were deemed non-expressors.
+Post-resection CA19.9 values were available in 231 patients but only 131 and 162 patients
+had levels carried out within 3 and 6 months of surgery, respectively, and of these, 9
+were excluded from the analysis due to being classified as non-expressors. Paired pre- and
+post-resection (within 3 months) CA19.9 values were available in 88 patients with 3
+non-expressors excluded from the analysis.Paired bilirubin assays at the time of CA19.9 measurement were available for all patients
+included in the analysis. Hyperbilirubinemia, defined as serum level greater than 1.5
+times the upper limit of normal (>2 mg/dl or 34.2 mmol/l), was used as a marker of
+impaired biliary excretion. In the pre-resection group, the median bilirubin level was 2.0
+mg/dL with hyperbilirubinemia present in 91 (45%). In the post-resection group, the median
+bilirubin level was 0.5 mg/dl with hyperbilirubinamia in eight (6%). In the paired pre-
+and post-resection group hyperbilirubinamia was present in 40 (45%) and 2 (2%),
+respectively.statistical analysisMedian survival was estimated using the Kaplan-Meier method and the difference
+tested using the log-rank test. P values of <0.05 were considered
+statistically significant. Clinicopathologic variables analyzed with a significant
+P value and those reported to be significant were entered into a Cox
+Proportional Hazard multivariate analysis and models resolved using backward elimination
+of redundant variables. Statistical analysis was carried out using Statview 5.0 Software
+(Abacus Systems, Berkeley, CA). Disease-specific survival (DSS) was used as the primary
+end point.
+
+resultsClinically relevant time points were examined to specifically assess a potential role in
+clinical decision making (ie at 3 months post-resection, within 6 months; before adjuvant
+therapy, and after adjuvant therapy). We initially assessed the value of post-resection
+CA19.9 in patients who produced CA19.9 (>5 U/ml) in relation to DSS and subsequently
+their response to adjuvant chemotherapy. In addition, we examined the potential value of
+preoperative CA19.9 and the change in level with surgery, with and without adjustment for
+hyperbilirubinamia.prognostic value of CA19.9post-resection CA19.9 and survivalOf the 122 patients with CA19.9 values at or within 3 months of surgery, the majority
+(114; 93%) had bilirubin levels <2 mg/dl and did not require CA19.9 adjustment. The
+post-resection CA19.9 cosegregated with DSS on univariate analysis into three prognostic
+groups: (i) those with <37 U/ml had the best outcome, (ii) 37-120 U/ml, an
+intermediate outcome, and (iii) >120 U/ml, the worst outcome (median 25.6 versus 20.7
+versus 14.8 months, P = 0.0052; Figure 1A). In the 37-120 U/ml group, the CA19.9
+decreased in five patients, normalized in three and increased in five patients at 6
+months, suggesting that the intermediate group (37-120 U/ml) consisted of those
+that had elevated CA19.9 due to other causes as well as residual disease. Those within
+the normal range (<37 U/ml) within 6 months of resection had a better outcome (median
+29.9 versus 14.8 months; P = 0.0004; Figure 1B).Figure
+1Kaplan-Meier survival curves for (A) Post-resection
+CA19.9 <3 months, (B) Lowest post-resection CA19.9 <6 months, (C)
+Post-resection CA19.9 <3 months and DFS, (D) Pre-resection CA19.9: normal
+bilirubin, (E) Pre-resection cCA19.9, (F) Perioperative change cCA19.9. CA19.9,
+carbohydrate antigen 19.9; cCA19.9, corrected CA19.9; DFS, disease-free
+survival.post-resection CA19.9 and recurrenceOf the 122 patients with post-resection CA 19.9 values, 76 had pathologically clear
+resection margins (R0), permitting assessment of disease-free survival (DFS). The median
+time to recurrence was 9.0 months (range 0.4-57). DFS paralleled DSS. Patients
+with a CA19.9 in the normal range within 3 months had significantly longer DFS than
+patients with CA19.9 >37 U/ml (median DFS 22.0 versus 11.5 months,
+P = 0.0194; Figure 1C).pre-resection CA19.9 and survivalThe ability to predict prognosis before pancreatectomy would significantly improve
+outcomes by better selecting patients for surgery. Preoperative measures of CA19.9 are
+often confounded by biliary obstruction, and as a consequence, we assessed if serum
+CA19.9 adjusted for hyperbilirubinamia could be used as a reliable measure of outcome.
+Of the 202 patients with available pre-resection CA19.9 values, 111 had paired bilirubin
+levels <2 mg/dl with a median CA19.9 of 138 U/ml (range 1-26 600). Those
+with a pre-resection CA19.9 <120 U/ml were associated with better DSS (median 35.6 vs
+17.4, P = 0.0444; Figure 1D). In the remaining 91 patients with hyperbilirubinaemia, the
+median uncorrected and corrected CA19.9 was 351 and 28, respectively (range
+1-101 075 and 0.1-16 780). Combined uncorrected and corrected
+pre-resection cCA19.9 <120 was also associated with a better DSS (22.2 versus 16.7,
+P = 0.0058; Figure 1E). Table 2
+summarizes the univariate analysis for all categories of CA19.9 measurement. In
+addition, pre-resection CA19.9 was associated with pathological stage in patients with
+normal bilirubin levels but there was a wide range in CA19.9 values for each stage with
+overlap in the values between stages diminishing its clinical applicability (see
+Supplementary data, available at Annals of Oncology
+online). perioperative change in CA19.9 and survivalOf the 85 patients with pre- and post-resection cCA19.9 values, the cCA19.9 level
+remained <37 U/ml (but >5) in 38 patients, decreased in 22 patients and increased
+in 25. These clustered into three corresponding prognostic groups: (i) <37 U/ml pre-
+and post-resection, (ii) a decrease in CA 19.9 and (iii) an increase in CA 19.9.
+Patients whose CA 19.9 was always in the normal range had a better survival compared
+with the CA 19.9 decrease and increase groups (median survival 26.0 versus 19.6 versus
+13.3 months, P = 0.0046; Figure 1F; supplementary data, available at Annals of Oncology
+online).multivariate analysisA multivariate Cox proportional hazards model was developed using clinicopathologic
+variables with P <0.05 and those reported to be prognostic on
+univariate analysis (Tables 1 and 2). The resolved multivariate model after
+removal of redundant variables showed that post-resection CA19.9 >120 U/ml, positive
+resection margins, and adjuvant chemotherapy were independent prognostic factors (Table
+3).predictive value of CA19.9post-resection CA19.9 and benefit from adjuvant chemotherapyAdjuvant chemotherapy was associated with better survival overall
+(P = 0.0029; Table 1); however, only patients with pre-adjuvant chemotherapy
+CA19.9 values <90 U/ml appeared to benefit. Of 71 patients with a post-resection
+CA19.9 <90 U/ml (measured within a month of commencement of adjuvant therapy or at an
+equivalent time point for surgery-only patients), 48 had adjuvant chemotherapy (45
+received gemcitabine-based regimens). In these patients, adjuvant chemotherapy was
+associated with a significant survival benefit (median survival 26.0 versus 16.7 months,
+P = 0.0108; Figure 2A and 2C). There were 35
+patients with post-resection CA19.9 >90 U/ml. Of these, 19 received adjuvant
+chemotherapy, with no statistically significant survival benefit (median survival 16.2
+versus 9.0 months, P = 0.7194; Table 2 and Figure 2B, D and E). Multivariate
+analysis of variables within the CA19.9 <90 U/ml subgroup showed that adjuvant
+chemotherapy and size were independent prognostic factors with involved margins of
+borderline significance (Table 3).
+Although numbers were small, early data suggested that normal CA19.9 levels after
+completion of adjuvant therapy in those patients who produce CA19.9 may be associated
+with an excellent outcome (Figure 2F). At the
+censor date, all patients with post-chemotherapy CA19.9 >37 U/ml had developed
+metastatic disease. Two patients were alive with recurrences at 12 and 13 months,
+respectively, and the remainder had died of metastatic PC. Of those with
+post-chemotherapy CA19.9 <37 U/ml, 1 of the 11 patients had developed a recurrence
+with peritoneal involvement 48.9 months after the initial resection (41.6 months after
+completing chemotherapy).Figure
+2Kaplan-Meier survival curves for (A) Pre-adjuvant
+CA19.9 <90, (B) Pre-adjuvant CA19.9 >90, (C) Adjuvant chemotherapy CA19.9,
+(D) No adjuvant chemotherapy CA19.9, (E) Pre-adjuvant CA19.9--stratified by
+chemotherapy, (F) Post-adjuvant chemotherapy CA19.9. CA19.9, carbohydrate antigen
+19.9.
+
+discussionDespite its acceptance as a measure of PC tumor burden, caveats in the interpretation of CA
+19.9 values limit application across the full spectrum of PC. First, CA19.9 is a sialylated
+Lewis a (Lea) antigen. Lewis antigens are normal components of exocrine
+epithelial secretions present on erythrocyte membranes formed from type I oligosaccharide
+precursors that undergo sequential addition of monosaccharides by a set of
+glycosyltransferases and fucosyltransferases [16]. Two independent genes determine the Lewis phenotype: the Lewis gene or
+a1-4 fucosyltransferase (also known as FUT3) and the secretor gene or a1-2
+fucosyltransferase (FUT2) [17]. Individuals who
+lack a functional FUT3 allele are termed Lewis negative (Lea-b-) and
+are unable to synthesize CA19.9 [18]. They
+comprise 7%-10% of Caucasians, but their incidence is higher in other populations such
+as Africans (22%) [17, 18]. Individuals with at least one functional FUT3 allele are
+characterized by the red cell phenotype Lea+b- or
+Lea-b+ (rarely Lea+b+).
+Lack of a functional FUT2 allele leads to the non-secretor phenotype (se/se), which is
+characterized by the absence of ABH determinants in saliva and on some epithelial cell types
+[16]. Non-secretors in general have higher
+serum and urine CA19.9 levels than secretors [19]. Second, CA 19.9 can also be elevated in benign pancreatic diseases such as
+pancreatitis [20], which often coexist with PC.
+Third, CA19.9 undergoes some degree of biliary excretion and is produced by biliary
+epithelial cells. Therefore, in the setting of cholestasis, CA19.9 levels are frequently
+elevated even in benign conditions [21].Serum CA19.9 possesses many features of a robust or clinically useful biomarker and has
+been well studied to define its limitations outlined above. Despite this, there are no clear
+applications for CA19.9 in the management of PC as there are for other similar serum
+biomarkers such as PSA for prostate cancer, CEA for colorectal cancer and CA 125 in ovarian
+cancer, which are although sometimes controversial, used in routine practice and form
+integral components of clinical trials to further advance clinical management. We focused on
+defining potential roles for serum CA19.9 at key clinical decision-making time points in
+patients who have demonstrable CA19.9 production. If an individual is identified to have the
+capacity to produce CA19.9, either through Lewis antigen testing or through a level over 5
+U/ml at diagnosis as a surrogate, postoperative CA19.9 measurements have potential
+prognostic and predictive value. First, normalization of CA19.9 postoperatively is
+associated with a good prognosis. Second, postoperative CA19.9 levels >90 U/ml may be
+associated with a lack of response to adjuvant gemcitabine-based chemotherapy, and third,
+although numbers are small, a normal CA19.9 after completion of adjuvant therapy is
+potentially associated with an excellent prognosis. These potential applications are
+summarized in Figure 3, which also proposes how
+CA19.9 levels could be incorporated in to trials to inform clinical decision making.Figure 3Schematic representation of suggested
+time points for CA19.9 measurements in clinical trials that would specifically address
+critical decision points and other applications such as surrogate end points to
+identify responders and non-responders early during therapy. CA19.9, carbohydrate
+antigen 19.9.prognostic value of CA19.9Postoperative CA19.9 measurements at 3 months (when hyperbilirubinamia is uncommon)
+co-segregate into three prognostic groups. The intermediate prognostic group of
+37-120 U/ml at that time likely includes a mix of those with progressive disease and
+other causes of increased CA19.9 levels (biliary dysfunction and pancreatitis). This group
+declares itself by the 6-month stage to segregate into two prognostic groups dichotomized
+by the normal reference value (37 U/ml). In addition, a normal level both pre- and
+postoperatively identifies a group with the best prognosis, which has a 5-year survival of
+42%.The key element of the present study is that potential clinical utility was directly
+examined by assessing CA19.9 at specific decision-making time points. Overall, although
+not directly comparable, our findings with regard to the prognostic value of CA19.9 are
+supported by evidence from retrospective cohorts and in clinical trials. In patients
+undergoing pancreatic resection for PC, the preoperative CA19.9 value is associated with
+tumor stage, resectability, risk of recurrence and survival [13, 22-26]. Even with intercurrent biliary obstruction,
+which is present in ~50% of patients, adjustment of CA19.9 levels relative to the
+degree of hyperbilirubinamia may still have potential prognostic value and further
+evaluation is encouraged. The postoperative level and the change in CA19.9 have also been
+correlated with survival and risk of recurrence [27-31]. Evidence is emerging
+that post-resection CA19.9 velocity, akin to PSA doubling time in prostate cancer, may be
+a better predictor of recurrence and survival [32]. In addition, for nonresectable patients, the CA19.9 at the time of
+diagnosis is also a prognostic factor [33].predictive value of CA19.9In patients undergoing systemic chemotherapy for advanced PC, the change in CA19.9
+correlates with objective (radiographic) response and survival [34-37]. The
+poor survival of the majority of patients even with clinically localized PC who undergo
+resection is likely due to occult metastatic disease at the time of diagnosis. Based on
+the rationale of adjuvant therapy targeting low-volume disease and that serum CA19.9 is a
+measure of disease burden, CA19.9 may have predictive value in the adjuvant setting. A key
+finding in our study is that patients with a post-resection CA19.9 >90 U/ml did not
+achieve long-term benefit from adjuvant chemotherapy, whereas those with CA 19.9 <90
+U/ml did. Previous studies have generally not addressed the relationship between CA19.9
+and response to adjuvant therapy; however, assumptions were made and selection criteria
+altered based on CA 19.9 levels. In CONKO-001, which compared adjuvant gemcitabine to
+observation, patients with postoperative CA19.9 values >2.5 times the upper limit of
+normal ([?]90 U/ml) were excluded.[4] In
+contrast, no CA19.9 exclusion criteria were used in ESPAC-1 and ESPACas-3 or RTOG-9704
+[2, 3, 5]. In the analysis of CA19.9
+data from the RTOG-9704 study of gemcitabine versus 5-FU before and after chemoradiation,
+Berger et al. [29] identified that patients
+with a CA19.9 >90 U/ml had a poor survival (23.0 versus 10.4 months). Our results
+suggest that patients with a post-resection CA19.9 >90 U/ml do not obtain long-term
+benefit from current systemic chemotherapy regimens and support integration of CA19.9
+testing pre- and post-adjuvant therapy to define its role as a predictive marker and a
+surrogate end point.In conclusion, assessing serum CA19.9 at specific clinically relevant time points while
+cognizant of its limitations has significant potential utility. These strategies should be
+incorporated into future clinical trials as a priority, which will define its precise role
+in the routine management of pancreatic cancer, and like PSA for prostate cancer,
+potentially become part of routine clinical practice.
+
+fundingNational Health & Medical Research Council of Australia
+(631701), The Cancer Council
+NSW (ICGC09-01), Cancer Institute
+NSW (10/CRF/1-01),
+Gastroenterological Society of Australia,
+Royal Australasian College of Surgeons, St
+Vincent's Clinic
+Foundation, R. T. Hall Trust and
+The Avner Nahmani Pancreatic Cancer Research Fund.
+
+disclosureThe authors declare no conflicts of interest.
+
+Supplementary Material
+Supplementary Data

@@ -1,0 +1,338 @@
+[Abstract, Introduction, Methods, Results, Discussion]
+
+Relationship between the magnitude of symptoms and the
+quality of life: a cluster analysis of lung cancer patients in Brazil*,**. OBJECTIVE:  Lung cancer patients often experience profound physical and psychosocial changes as a result of disease progression or treatment side effects. Fatigue, pain, dyspnea, depression, and sleep disturbances appear to be the most common symptoms in such patients. The objective of the present study was to examine the prevalence of symptoms in lung cancer patients in order to identify subgroups (clusters) of patients, grouped according to the magnitude of the symptoms, as well as to compare the quality of life among the identified subgroups.    METHODS:  A cross-sectional study involving agglomerative hierarchical clustering. A total of 50 lung cancer patients were evaluated in terms of their demographic characteristics and their scores on three quality of life questionnaires, namely the 30-item European Organization for Research and Treatment of Cancer Core Quality of Life Questionnaire (EORTC QLQ-C30), the Functional Assessment of Cancer Therapy-Lung, and the Medical Outcomes Study 36-item Short-form Survey. The cluster analysis took into account the magnitude of the most prevalent symptoms as assessed by the EORTC QLQ-C30 symptom scale scores; those symptoms were fatigue, pain, dyspnea, and insomnia.    RESULTS:  Three clusters (subgroups)_of patients were identified on the basis of the magnitude of the four most prevalent symptoms. The three subgroups of patients were as follows: patients with mild symptoms (n = 30; 60%); patients with moderate symptoms (n = 14; 28%); and patients with severe symptoms (n = 6; 12%). The subgroup of patients with severe symptoms had the worst quality of life, as assessed by the total scores and by the integrated domains of all three instruments.    CONCLUSIONS:  This study highlights the importance of symptom cluster assessment as an important tool to assess the quality of life of patients with chronic diseases, such as lung cancer.
+
+Introduction
+Lung cancer continues to be the leading cause of cancer death. Given that smoking and
+air pollution cannot be controlled in the short term, it is likely that the incidence of
+lung cancer will continue to increase.(
+1
+) In addition, the prognosis for lung
+cancer patients (especially those with advanced disease) is not favorable, despite
+advances in medicine, biology, and technology.(
+2
+)
+Patients with lung cancer often experience profound physical and psychosocial changes as
+a result of disease progression or treatment side effects.(
+3
+,
+5
+) It has been
+suggested that patients with lung cancer experience greater symptom-related distress
+than do patients with other types of cancer, especially near the end of
+life.(
+3
+) Fatigue, pain, dyspnea, depression, and sleep disturbances appear
+to be the most common symptoms in lung cancer patients.(
+4
+)
+The occurrence of multiple symptoms predicts changes in patient function, treatment
+failure, and post-treatment outcomes.(
+4
+) A symptom cluster is defined as a
+stable group of two or more concurrent symptoms that are related to one another and
+independent of other symptom clusters.(
+6
+) Oncology studies have shown that
+combinations or clusters of symptoms are of greater importance than are individual
+symptoms. Such concurrent symptoms likely have a multiplicative nature, a catalytic
+effect on one another,(
+7
+) according to the theory of unpleasant symptoms, as
+well as having a synergistic influence on behavioral, functional, and quality of life
+outcomes.(
+8
+,
+9
+)
+It is noteworthy that quality of life has become a significant topic in lung cancer
+research and practice. Quality of life assessment can help health care providers to
+identify subgroups of lung cancer patients and make specific interventions in each
+subgroup of patients. In addition, quality of life can be a predictor of lung cancer
+morbidity and mortality.(
+2
+,
+10
+)
+Although many studies have described symptoms as being a major aspect of morbidity in
+cancer patients, only a few studies have examined the relationship between symptoms and
+quality of life in patients with lung cancer. Therefore, the objectives of the present
+study are as follows: to examine the prevalence of symptoms in patients with lung
+cancer; to identify subgroups (clusters) of lung cancer patients on the basis of the
+magnitude of the symptoms; and to compare quality of life among subgroups of patients
+with symptoms of different magnitude.
+
+Methods
+We conducted a cross-sectional study involving a convenience sample of 50 consecutive
+patients who were clinically stable after having received lung cancer treatment. The
+patients were selected from among those treated at the Federal University of Sao Paulo
+Hospital Sao Paulo Lung Cancer Outpatient Clinic, located in the
+city of Sao Paulo, Brazil. The study was approved by the Research Ethics Committee of
+the Federal University of Sao Paulo, and all of the participants gave written informed
+consent.
+The inclusion criteria were as follows: being 18 years of age or older; having
+histologically proven lung cancer; having a Mini-Mental State Examination score of at
+least 21(
+11
+); and having been clinically stable for at least 10 days before
+the beginning of the evaluation. Clinical stability was defined as no changes in cough,
+sputum, or dyspnea (as assessed by a structured form filled out during outpatient
+follow-up), as well as being defined as no hospitalizations and no modifications in the
+therapeutic regimen. The exclusion criterion was having declined to answer any of the
+questions.
+Clinical evaluations and physical examinations were performed by the team of attending
+physicians and were based on a structured form. All patients met the stability
+criteria.
+In the first visit (at enrollment in the study), we collected data regarding the
+following independent variables: gender; age; smoking status; smoking history;
+histological subtype (non-small cell lung cancer or small cell lung cancer); staging, in
+accordance with the 1997 tumor-node-metastasis classification(
+12
+); Karnofsky
+performance status(
+13
+); Mini-Mental State Examination score(
+14
+);
+and the scores on the Brazilian Portuguese-language versions of three quality of life
+questionnaires, namely the 30-item European Organization for Research and Treatment of
+Cancer Core Quality of Life Questionnaire (EORTC QLQ-C30),(
+15
+) the Functional
+Assessment of Cancer Therapy-Lung (FACT-L),(
+16
+) and the Medical Outcomes
+Study 36-item Short-form Survey (SF-36).(
+17
+)
+In order to determine the prevalence and magnitude of symptoms, a domain known as
+"symptom experience",(
+6
+,
+18
+) we used the EORTC QLQ-C30, which assesses 8
+cancer-related symptoms and the side effects of the primary treatment. This instrument
+consists of a 4-point scale, with answers whose scores can range from 1 (not at all) to
+4 (very much).(
+19
+) Symptoms of higher prevalence (over 50%) were considered
+for inclusion in the cluster analysis.
+The EORTC QLQ-C30 consists of 30 items that cover health issues that are relevant to a
+wide range of cancer patients. Of those 30 items, 13 are grouped into scales measuring
+cancer-related symptoms (fatigue, pain, nausea/vomiting, dyspnea, insomnia, appetite
+loss, constipation, and diarrhea, all of which are used in order to assess the
+prevalence and magnitude of lung cancer symptoms) and the perceived economic impact of
+the disease and treatment. The remaining 17 items (which are used in order to assess
+quality of life) are grouped into 5 functional scales (physical, role, emotional,
+cognitive, and social functioning) and one global health status/quality of life
+scale.(
+19
+,
+20
+) The functional and global health status scale scores can
+range from 0 (severe debilitation) to 100 (asymptomatic), and the symptom scale scores
+can range from 0 (asymptomatic) to 100 (severe debilitation). The Brazilian
+Portuguese-language version of the EORTC QLQ-C30 has been validated for use in
+Brazil.(
+15
+)
+In order to assess the quality of life, we administered the EORTC QLQ-C30, the FACT-L,
+and the SF-36. We chose to use two specific questionnaires and one generic questionnaire
+in order to increase the discriminative power of the data for cluster analysis.
+The FACT-L (version 4) is a 36-item compilation of disease-specific, domain-additional
+concerns for lung cancer patients, subdivided into four primary quality of life domains
+of the Functional Assessment of Cancer Therapy-General (physical, social/family,
+emotional, and functional domains) plus an additional 9 items specific for lung cancer.
+The total FACT-L score can range from 0 (asymptomatic) to 108 (severe debilitation). The
+FACT-L generates an index known as the FACT-L Trial Outcome Index (FACT-L TOI). The
+FACT-L TOI is derived from the sum of the scores obtained on some of the subscales that
+constitute the FACT-L, being primarily used for functional capacity evaluation and
+ranging from 0 (asymptomatic) to 84 (severe debilitation).(
+20
+,
+21
+)
+The SF-36 is a generic quality of life questionnaire that consists of 8 domains, namely
+physical functioning, role-physical, bodily pain, general health, vitality, social
+functioning, role-emotional, and mental health; the scores for each domain can range
+from 0 (severe debilitation) to 100 (asymptomatic).(
+17
+,
+22
+,
+23
+)
+Patients completed the questionnaire by answering each question after it was read to
+them by an interviewer, all interviews having been performed by the same interviewer.
+This approach was chosen on the basis of our previous experience working with a
+population in which the proportion of individuals showing functional illiteracy was
+high. The interviews were performed in a quiet environment, no interruptions being
+allowed. The interviewer reviewed each questionnaire after the end of the interview in
+order to confirm that all of the questions had been answered.
+Cluster analysis is a descriptive technique that is used in order to identify subgroups
+of patients who are similar to one another.(
+7
+,
+18
+) Our cluster analysis took
+into account a set of symptom magnitude measurements obtained by the EORTC QLQ-C30
+symptom scales, the symptoms including fatigue, pain, dyspnea, and insomnia (i.e., the
+most prevalent symptoms). Evaluation of these symptoms does not constitute a
+standardized method for evaluating functional capacity and global quality of life. We
+adopted a hierarchical approach because we had no way of knowing how many clusters we
+would find.(
+24
+) By means of hierarchical clustering, patients who have
+similar patterns across symptoms can be grouped into clusters and subgroups can be
+formed on the basis of symptom experience. The agglomerative schedule, the farthest
+neighbor method, and the squared Euclidean distance were used as dissimilarity measures.
+Because cluster analysis has no likelihood-based goodness-of-fit indices, the
+appropriate number of cluster solutions was determined by dendrograms and the expert
+judgment of the researchers, the number of individuals in each group being limited to no
+more than 10% of the sample.(
+25
+) The cluster solution used in the present
+study was verified with clinical assessments regarding the profile of symptom means for
+each group, to be sure that the groups differed in evaluation across the set of
+symptoms.(
+26
+)
+One-way ANOVA (corrected by the Bonferroni test) was used in order to compare the
+characteristics of the patients who were grouped by the best cluster solution. The
+following variables were included: age; Karnofsky performance status; smoking history
+(in pack-years); SF-36 score; EORTC QLQ-C30 score; and FACT-L score. Pearson's
+chi-square test was used in order to compare the clusters in terms of gender,
+histological subtype, staging, smoking history, and level of education.
+The data were analyzed with the IBM SPSS Statistics software package, version 19.0 for
+Windows (IBM Corporation, Armonk, NY, USA). The type I error for all tests was set at
+0.05.
+
+Results
+Fifty patients with lung cancer were evaluated in terms of the prevalence and magnitude
+of their symptoms, as assessed by their EORTC QLQ-C30 symptom scale scores. As can be
+seen in Table 1, the most prevalent symptoms and
+their magnitude scores were as follows: fatigue (26.9); pain (31.4); dyspnea (35.0); and
+insomnia (39.2). Of the 50 lung cancer patients studied, 24% reported experiencing all
+four symptoms, 28% reported experiencing three of the four symptoms, 22% reported
+experiencing two of the four symptoms, 10% reported experiencing one of the four
+symptoms, and 16% reported experiencing none of those symptoms.
+A distinct and interpretable three-cluster solution was identified on the basis of the
+magnitude of the four most prevalent symptoms (fatigue, dyspnea, insomnia, and pain).
+Three clusters appeared to be distinct from one another on visual inspection of the
+dendrogram (Figure 1). The three subgroups of
+patients were as follows: patients with mild symptoms (n = 30; 60%); patients with
+moderate symptoms (n = 14; 28%); and patients with severe symptoms (n = 6; 12%).
+Figure 1Dendrogram obtained by using the farthest neighbor method. Clusters were
+formed on the basis of the distances between individual magnitudes of
+symptoms.
+The characteristics of the patients and the description of the clusters are shown in
+Table 2. Most of the study participants were
+male (68%), were in the 27-81 year age bracket, were former smokers (84%), and had a low
+level of education (64%). In addition, most (90%) of the participants were diagnosed
+with non-small cell lung cancer, and most (78%) were diagnosed with stage I-III
+non-small cell lung cancer. In comparison with the subgroups of patients with mild and
+moderate symptoms, the subgroup of patients with severe symptoms comprised a larger
+number of patients in advanced stages (p = 0.007), showing a significant decrease in the
+Karnofsky performance status (p = 0.001). There were no significant differences among
+the three subgroups of patients in terms of the proportion of males, smoking status,
+histological subtypes, or level of education. The symptom scores increased across the
+cluster severity strata.
+For the evaluation of quality of life, the mean scores for each of the scales of the
+EORTC QLQ-C30, the FACT-L, and the SF-36 were stratified by the cluster solution.
+Physical and functional aspects were the aspects that were most affected by the
+magnitude of the symptoms, regardless of the instrument used for measuring quality of
+life (Table 3). As can be seen in Table 3, one-way ANOVA with post hoc Bonferroni
+correction showed significant associations between questionnaire domains and symptom
+severity as defined by hierarchical clustering.
+The patients with severe symptoms were found to have the worst quality of life, as
+assessed by total scores and integrated domains of all three instruments (Figure 2). The difference among the three subgroups
+in terms of the quality of life scores reached the minimal clinically important
+difference established for each questionnaire.(
+19
+-
+22
+).
+Figure 2In A, mean 30-item European Organization for Research and Treatment of
+Cancer Core Quality of Life Questionnaire (EORTC QLQ-C30) domain scores for the
+subgroups of patients with mild, moderate, and severe symptoms (as identified
+by cluster analysis). In B, mean Functional Assessment of Cancer Therapy- Lung
+(FACT-L) scores, mean Functional Assessment of Cancer Therapy-General (FACT-G)
+scores, and mean Functional Assessment of Cancer Therapy-Lung Trial Outcome
+Index (FACT-L TOI) for the subgroups of patients with mild, moderate, and
+severe symptoms (as identified by cluster analysis).
+
+Discussion
+Our cluster analysis was based on the magnitude of fatigue, pain, dyspnea, and insomnia,
+having identified three clusters (subgroups) of patients, namely those with mild
+symptoms, those with moderate symptoms, and those with severe symptoms. Cluster analysis
+is recognized as an important method that can assist in understanding the relationship
+between multiple concurrent cancer symptoms and patient quality of
+life.(
+27
+,
+28
+) In the present study, agglomerative hierarchical clustering
+allowed the identification of subgroups of patients grouped by symptom experience,
+demonstrating the association between symptom clusters and quality of life. Therefore,
+we assessed not only the prevalence of symptoms but also the severity of the symptoms
+within the cluster.(
+28
+)
+Increases in the magnitude of symptoms were found to have a negative association with
+the quality of life of the lung cancer patients in the present study. Our data analysis
+showed significant differences among the subgroups of patients in terms of the scores
+obtained on several of the domains of the quality of life questionnaires used in the
+present study. In general, the subgroup of patients with higher scores for all four
+symptoms (i.e., the subgroup of patients with severe symptoms) showed a strong trend
+toward worse quality of life, whereas the subgroups of patients with lower symptom
+scores were found to have better quality of life (as assessed by all three
+questionnaires used in the present study).
+The patients with severe symptoms had significantly lower scores on physical and
+functional domains of the EORTC QLQ-C30, the FACT-L, and the SF-36. This finding is
+consistent with those of previous studies involving patients with lung
+cancer(
+8
+,
+29
+) and corroborates the importance of the presence and magnitude
+of symptoms as a correlate of impaired quality of life in lung cancer patients.
+In the present study, the patients with severe symptoms had the lowest total FACT-L
+scores (i.e., the lowest Functional Assessment of Cancer Therapy-General and FACT-L
+scores, as well as the lowest FACT-L TOI). These symptoms can also cause anxiety, which
+interferes with the emotional well-being of patients. Although the patients with severe
+symptoms had the lowest scores on the EORTC QLQ-C30 and SF-36 emotional and social
+domains, there were no significant differences among the three subgroups of patients in
+terms of their scores on the FACT-L emotional and social domains. This shows that,
+despite having similarly named domains, the three quality of life questionnaires used in
+the present study differ in terms of the contents that they assess.
+The total SF-36 scores and the SF-36 vitality domain scores were significantly lower in
+the patients with severe symptoms than in those with mild or moderate symptoms. These
+factors are directly influenced by the symptom itself, especially fatigue.
+We found no differences among the three subgroups of patients in terms of demographic
+factors, the exception being staging; the prevalence of advanced-stage disease was
+higher in the patients with severe symptoms than in those with mild or moderate
+symptoms. It is known that patients with progressive disease have a higher prevalence of
+uncontrolled symptoms (especially fatigue, pain, dyspnea, and anorexia), which
+significantly interfere with the functional capacity of patients.(
+30
+)
+The present study has some limitations. The study focused on four symptoms (fatigue,
+pain, dyspnea, and insomnia). These symptoms were chosen on the basis of a previous
+analysis of the collected data. Future studies evaluating lung cancer patients can
+include additional symptoms. Because our study sample consisted mostly of elderly
+patients, our findings should not be generalized to individuals of other ages,
+especially younger patients. Finally, the present study used a cross-sectional design,
+which means that changes in symptom clusters over time were not
+investigated.(
+28
+) Therefore, the study design does not allow us to
+interpret the symptom cluster as a causal predictor of reduced quality of life in lung
+cancer patients, longitudinal studies being therefore required.
+In conclusion, the present study provides an experimental basis for focusing on cluster
+analyses of symptoms and the associated quality of life outcomes in patients with lung
+cancer. The present study demonstrates that symptom cluster assessment is an important
+tool to minimize the inaccuracies introduced by unstructured symptom assessment.
+Ultimately, the recognition of the importance of symptom clusters can change clinical
+practice, allowing the improvement of multidisciplinary interventions to enhance
+positively adjustment to the illness experience.

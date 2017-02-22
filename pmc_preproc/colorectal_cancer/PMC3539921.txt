@@ -1,0 +1,945 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed, Mixed]
+
+A systems biology approach to the global analysis of transcription factors in colorectal cancer. Background Biological entities do not perform in isolation, and often, it is the nature and degree of interactions among numerous biological entities which ultimately determines any final outcome. Hence, experimental data on any single biological entity can be of limited value when considered only in isolation. To address this, we propose that augmenting individual entity data with the literature will not only better define the entity's own significance but also uncover relationships with novel biological entities. To test this notion, we developed a comprehensive text mining and computational methodology that focused on discovering new targets of one class of molecular entities, transcription factors (TF), within one particular disease, colorectal cancer (CRC).   Methods We used 39 molecular entities known to be associated with CRC along with six colorectal cancer terms as the bait list, or list of search terms, for mining the biomedical literature to identify CRC-specific genes and proteins. Using the literature-mined data, we constructed a global TF interaction network for CRC. We then developed a multi-level, multi-parametric methodology to identify TFs to CRC.   Results The small bait list, when augmented with literature-mined data, identified a large number of biological entities associated with CRC. The relative importance of these TF and their associated modules was identified using functional and topological features. Additional validation of these highly-ranked TF using the literature strengthened our findings. Some of the novel TF that we identified were: SLUG, RUNX1, IRF1, HIF1A, ATF-2, ABL1, ELK-1 and GATA-1. Some of these TFs are associated with functional modules in known pathways of CRC, including the Beta-catenin/development, immune response, transcription, and DNA damage pathways.   Conclusions Our methodology of using text mining data and a multi-level, multi-parameter scoring technique was able to identify both known and novel TF that have roles in CRC. Starting with just one TF (SMAD3) in the bait list, the literature mining process identified an additional 116 CRC-associated TFs. Our network-based analysis showed that these TFs all belonged to any of 13 major functional groups that are known to play important roles in CRC. Among these identified TFs, we obtained a novel six-node module consisting of ATF2-P53-JNK1-ELK1-EPHB2-HIF1A, from which the novel JNK1-ELK1 association could potentially be a significant marker for CRC.
+
+Background
+Advances in the field of bioinformatics have improved the ability to glean useful information from high-density datasets generated from advanced, technology-driven biomedical investigations. However, deriving actionable, hypothesis-building information by combining data from experimental, mechanistic, and correlative investigations with gene expression and interaction data still presents a daunting challenge due to the diversity of the available information, both in terms of their type and interpretation. Because of this, there is a clear need for custom-designed approaches that fit the biology or disease of interest.
+Gene expression datasets have been widely used to identify genes and pathways as markers for the specific disease or outcome to which they are linked
+[1-4]. However, gene expression datasets used alone cannot identify relationships between genes within the system of interest; identification of these relationships also requires integration of interaction networks so that changes in gene expression profiles can be fully understood. One process in which this problem has become particularly important is that of gene prioritization, or the identification of potential marker genes for a specific disease from a pool of disease-related genes. Earlier studies on associating genes with disease were done using linkage analysis
+[5]. Many computational approaches using functional annotation, gene expression data, sequence based knowledge, phenotype similarity have since been developed to prioritize genes, and recent studies have demonstrated the application of system biology approaches to study the disease relevant gene prioritization.
+For example, five different protein-protein interaction networks were analysed using sequence features and distance measures to identify important genes associated with specific hereditary disorders
+[6]. In other studies, chromosome locations, protein-protein interactions, gene expression data, and loci distance were used to identify and rank candidate genes within disease networks
+[6-9]. The "guilt by association" concept has also been used to discover disease-related genes by identifying prioritized genes based on their associations
+[7,10]. Network properties
+[11,12] have also been used to correlate disease genes both with and without accompanying expression data
+[11].
+Integration of more heterogeneous data has also been utilized in identification of novel disease-associated genes. Examples of such integration include CIPHER, a bioinformatics tool that uses human protein-protein interactions, disease-phenotypes, and gene-phenotypes to order genes in a given disease
+[13]; use of phenome similarity, protein-protein interactions, and knowledge of associations to identify disease-relevant genes
+[14]; and machine-learning methods and statistical methods utilizing expression data used to rank the genes in a given differential-expression disease network
+[15-18] and in 1500 Mendelian disorders
+[19]. Utilization of literature mining, protein-protein interactions, centrality measures and clustering techniques were used to predict disease-gene association (prostate, cardiovascular)
+[20-23], while integration of text-mining with knowledge from various databases and application of machine-learning-based clustering algorithms was used to understand relevant genes associated with breast cancer and related terms
+[24]. In addition to CIPHER, additional bioinformatics tools include Endeavour, which ranks genes based on disease/biological pathway knowledge, expression data, and genomic knowledge from various datasets
+[25], and BioGRAPH, which explains a concept or disease by integrating heterogeneous data
+[26]. Most of these described methods, while using a variety of approaches, still use the Human Protein Reference Database (HPRD,
+http://www.hprd.org) as the knowledge base for protein-protein interactions. The variation in these approaches to achieving comparable goals demonstrates that using a single feature cannot ease the complexity associated with finding disease-gene, disease-phenotype, and gene-phenotype associations. Moreover, the need for integration of the described features is more pertinent for complex diseases, such as cancer. To the best of our knowledge, this integrated approach has not been studied in terms of transcription factor (TF) interaction networks in colorectal cancer (CRC).
+It is well-established that TFs are the master regulators of embryonic development, as well as adult homeostasis, and that they are regulated by cell signalling pathways via transient protein interactions and modifications
+[27,28]. A major challenge faced by biologists is the identification of the important TFs involved in any given system. Though advances in genomic sequencing provided many opportunities for deciphering the link between the genetic code and its biological outcome, the derivation of meaningful information from such large datasets is, as stated earlier, still challenging. The difficulty is largely due to the manner in which TFs function since TFs interacts with multiple regulatory regions of other TFs, ancillary factors, and chromatin regulators in a reversible and dynamic manner to elicit a specific cellular response
+[29]. While the specific focus on TFs within CRC for this paper is due to their significant regulatory roles, the focus on CRC is four-fold. First, this effort is part of a major, collaborative multi-institute initiative on CRC in the state of Indiana called cancer care engineering (CCE) that involves the gathering of a large body of -omics data from thousands of healthy individuals and patients for the purpose of development of approaches for preventive, diagnostic, and therapeutic clinical applications of this data. Second, in spite of major breakthroughs in understanding the molecular basis of CRC, it continues to present a challenging problem in cancer medicine. CRC has one of the worst outcomes of most known cancers, with significantly lower survival rates than those of uterine, breast, skin, and prostate cancers. Early detection of CRC requires invasive procedures due to the fact that knowledge of useful biomarkers in CRC is relatively lacking and that the drugs currently approved for treatment of CRC are cytotoxic agents that aim to specifically treat advanced disease. Currently, most patients with early stage CRC are not offered adjuvant therapies, as these are associated with significant toxicities and marginal benefits. It is necessary to identify targeted therapeutics for both early CRC, to decrease the toxicity and enable adjuvant therapies to prevent disease progression, and later-stage CRC, to prevent mortality. Third, even though TFs play a major role in CRC, still there is no global TF interaction network analysis reported for this disease. Tying in with the need for a global TF interaction network analysis in CRC, the focus on CRC is lastly due to the need for identification of CRC-specific TFs as potential disease markers, and here we demonstrate the ability of a bioinformatics approach incorporating knowledge from the literature, topological network properties, and biological features to achieve this goal.
+Our goal in this study was thus to obtain a TF interaction network for CRC utilizing a bibliomics approach - i.e., by extracting knowledge from PubMED abstracts and ranking TFs according to their topological and biological importance in the network. As explained earlier, understanding of a disease-gene association necessitates multiple features, which our methodology incorporated by augmenting a set of experimental data with relevant literature data to extract and correlate TFs that have so far not been found to be associated with CRC. We have demonstrated that using literature-generated, domain-specific knowledge combined with network and biological properties will yield a CRC-specific TF interaction network that is biologically significant. The TFs identified by this approach represent a pool of potentially novel drug targets and/or biomarkers, which can be narrowed down to a rank-ordered list for further analysis by domain experts for further experimental validations. While this is the first report identifying a TF interaction network for CRC using such an approach, our methodology is broadly applicable, simple, and efficient, especially for preliminary stages of investigation.
+
+Methods
+Overview of the text-mining strategy
+Our strategy involved six major steps as shown in Figure
+1:
+1 Collection and pre-processing of data
+2 Discovery of associations using BioMAP (Literature Augmented Data)
+3 Validation of BioMAP associations using Gene Ontology Distance and Protein-Protein Interactions
+4 Construction of TF interaction network (termed a global interaction network since all available PubMed literature was considered)
+(a) Annotation of nodes using topological parameters
+5 Ranking of TFs using multi-level, multi-parametric features
+(a) Un-weighted/weighted node prioritization
+(b) Hyper geometric associations
+(c) Construction of functional module
+6 Validation of TFs (found in CRC pathways)via pathway analysis
+Figure 1
+Methodology for identifying global transcription factor-interactome and important transcription factors in CRC. Depicts the overall methodology used to prioritize the TFs: (1) Data collection from peer reviews; (2) Discovery of associations using BioMAP (literature augmented data); (3) Validation of BioMAP associations using Gene Ontology distance and protein-protein interactions; (4) Construction of the global TF interaction network; (5) Ranking of TFs using multi-level, multi-parametric using: (i) weighted/un-weighted prioritization schema, (ii) hypergeometric associations, and (iii) Modules; and (6) Validation of TFs by pathway analysis.
+Each of these steps is described below in detail:
+Data collection and pre-processing
+Previous work in CRC has identified various disease-relevant anomalies in genes, including hMLH1 and MSH2[3,30,31], MLH3 with hMLH1[31], NEDD41 along with PTEN mutation
+[32,33], Axin in association with Wnt signalling pathways
+[34], MUC2/MUC1[35] and co-expression of IGFIR, EGFR and HER2[36,37], and p53 and APC mutations
+[37]. Several specific TFs, in addition to playing roles in DNA repair and cell signalling defects, are known to play major roles in CRC. For example STAT3, NF-kB, and c-Jun are oncogenic in CRC
+[38]. HOXO9, p53, c-Myc, and b-catenin together with Tcf/Lef and MUC1[39] and SOX4, as well as high levels of the CBFB and SMARCC1 TFs have all been associated with CRC
+[40]. Using these experimental studies reported in the literature, we manually collected 45 keywords that are well understood and validated in relation to CRC. This initial list, called the 'bait list', is given in Table
+1. The 39 biological entities in this list were manually evaluated using the criteria that each entity must have a minimum of three references reported in the literature; notably, the bait list contained only one TF, SMAD3. The remaining six terms were related to CRC terminology/types (e.g., colon rectal cancer, colorectal cancer, and CRC). This list was used with BioMAP, a literature mining tool developed and designed in-house to find associations among biological entities such as genes, proteins, diseases, and pathways
+[41], to retrieve and carry out literature mining on abstracts from PubMed.
+Discovering associations from BioMAP
+The BioMAP tool identifies gene pair associations from a collection of PubMed abstracts using the Vector-Space tf*idf method and a thesaurus consisting of gene terms
+[41]. Each document, di, was converted to an M dimensional vector Wi, where Wik denotes the weight of the kth gene term in the document and M indicates the number of terms in the thesaurus. Wi was computed using the following equation:
+(1)
+W
+i
+k
+=
+T
+i
+k
+*
+log
+N
+n
+k
+where Ti is the frequency of the kth gene term in document di, N is the total number of documents in the collection, and nk is the number of documents out of N that contain the kth gene term. Once the vector representations of all documents were computed, the association between two genes, k and l, was computed as follows:
+(2)
+a
+s
+s
+o
+c
+i
+a
+t
+i
+o
+n
+k
+l
+=
+[?]
+i
+=
+1
+N
+W
+i
+k
+*
+W
+i
+l
+where
+k=1...m and l = 1.m. This computed association value was then used as a measure of degree of the relationship between the kth and lth gene terms. A decision could then be made about the existence of a strong relationship between genes using a user-defined threshold for the elements of the association matrix. Once a relationship was found between genes, the next step was to elucidate the nature of the relationship utilizing an additional thesaurus containing terms relating to possible relationships between genes
+[41]. This thesaurus was applied to sentences containing co-occurring gene names. If a word in the sentence containing co-occurrences of genes matched a relationship in the thesaurus, it was counted as a score of one. The highest score over all sentences for a given relationship was then taken to be the relationship between the two genes or proteins and was given as:
+(3)
+s
+c
+o
+r
+e
+k
+l
+m
+=
+[?]
+i
+=
+1
+N
+p
+i
+;
+p
+i
+=
+1
+;
+G
+e
+n
+e
+k
+,
+G
+e
+n
+e
+l
+,
+R
+e
+l
+a
+t
+i
+o
+n
+m
+a
+l
+l
+o
+c
+c
+u
+r
+i
+n
+s
+e
+n
+t
+e
+n
+c
+e
+i
+where N is the number of sentences in the retrieved document collection, pi is a score equal to 1 or 0 depending on whether or not all terms are present, Genek refers to the gene in the gene thesaurus with index k, and Relationm refers to the term in the relationship thesaurus with index m. The functional nature of the relationship was chosen using argmscoreklm. A higher score would indicate that the relationship is present in multiple abstracts.
+Validating associations of BioMAP using Gene Ontology Distance and Protein-Protein Interactions
+The TFs obtained from the literature mined data were further annotated using the Gene Ontology for the following six functionalities: TF, TF activator, TF co-activator, TF repressor, TF co-repressor activity, and DNA-binding transcription activity. For all proteins (including TF, kinase, proteins, ligands, receptors, etc.) obtained from the literature-mined data set, we computed its Gene Ontology Annotation Similarity (Gene Ontology Distance) with respect to all other proteins in the data.
+Gene Ontology Annotations Similarity
+Each protein pair was evaluated by computing the Gene Ontology Annotation Similarity, which was calculated using the Czekanowski-Dice
+[42] similarity method as follows:
+(4)
+d
+P
+i
+,
+P
+j
+=
+G
+O
+P
+i
+D
+G
+O
+P
+j
+G
+O
+P
+i
+[?]
+G
+O
+P
+j
++
+G
+O
+P
+i
+[?]
+G
+O
+P
+j
+where D is the symmetric set difference, # is the number of elements in a set, and GO(Pi) is the set of GO annotations for Pi. Similarly, we computed GO(Pj) for Pj. If the Gene Ontology Annotation Similarity d(Pi,Pj) between two proteins was less than 1.0, they were considered to be interacting, thus forming an interaction network. The GO annotations were identified for each protein from UniProt
+http://www.uniprot.org. We then further scored the interactions in this network using the protein-protein interaction algorithm described below.
+Protein-Protein Interaction Algorithm
+Since the available knowledge about protein-protein interactions is incomplete and contains many false positives, a major limitation common to all interaction networks is the quality of the interacting data used. To remove error with respect to false-positives, we developed a protein-protein interaction algorithm, which outputs the interaction scores that are annotated on the network as the interaction strength
+[41,43]. This algorithm consists of six basic steps: (i) identify the protein pair P(i,j) and its associated structures given in the protein data bank (PDB); (ii) predict the probable interacting residues of each PDB structure in the given pair using the physico-chemical properties of its residues, including hydrophobicity, accessibility, and residue propensity; (iii) compute the distance between the C-alpha coordinates of the probable interacting residues of the given pair; (iv) evaluate the ratio of the number of residues actually interacting with the probable interacting residues based on the distance threshold of C-alpha coordinates; (v) identify the protein pair as interacting or non-interacting based on the given distance threshold; and, (vi) evaluate the interaction of the gene pair - if 30% of the total number of PDB structures for the given protein pair (i,j) satisfies the distance threshold, then the pair is considered interacting.
+(5)
+P
+r
+o
+t
+e
+i
+n
+I
+n
+t
+e
+r
+a
+c
+t
+i
+o
+n
+S
+c
+o
+r
+e
+i
+,
+j
+=
+#
+o
+f
+I
+n
+t
+e
+r
+a
+c
+t
+i
+n
+g
+R
+e
+s
+i
+d
+u
+e
+s
+P
+r
+o
+b
+a
+b
+l
+e
+N
+u
+m
+b
+e
+r
+O
+f
+I
+n
+t
+e
+r
+a
+c
+t
+i
+n
+g
+R
+e
+s
+i
+d
+u
+e
+s
+(6)
+I
+n
+t
+e
+r
+a
+c
+t
+i
+o
+n
+B
+e
+t
+w
+e
+e
+n
+Pr
+o
+t
+e
+i
+n
+s
+S
+c
+o
+r
+e
+i
+,
+j
+=
+#
+o
+f
+I
+n
+t
+e
+r
+a
+c
+t
+i
+n
+g
+P
+D
+B
+s
+t
+r
+u
+c
+t
+u
+r
+e
+s
+T
+o
+t
+a
+l
+N
+u
+m
+b
+e
+r
+O
+f
+P
+D
+B
+s
+t
+r
+u
+c
+t
+u
+r
+e
+s
+Construction of TF interaction network of CRC
+The associations satisfying the above Gene Ontology distance and protein-protein interactions criteria were used to construct the TF interaction network of CRC.
+Determination of network topology
+Network topology is an important parameter that defines the biological function and performance of the network
+[44]. Network properties such as degree, centrality, and clustering coefficients, play an important role in determining the network's underlying biological significance
+[45,46]. For the topological analysis, we considered degree, clustering coefficient, and betweenness (centrality). Degree is the number of edges connected to node i. The clustering coefficient of node i is defined as
+Ci=2nkiki-1, where n is the number of connected pairs between all the neighbors of node i, and ki is the number of neighbors of n. Betweenness for node i is the number of times the node is a member of the set of shortest paths that connects all pairs of nodes in the network, and it is given as
+CBni=[?]j<kgjkni/gjk, where gjk is the number of links connecting nodes j and k, and gjk(ni) is number of links passing through i. These network properties were computed using the igraph package of statistical tool R (
+http://www.r-project.org).
+Ranking of TFs using multi-level, multi-parametric features
+The TFs were ranked using multi-level, multi-parametric features to better understand their significance in the TF interaction network of CRC. Multi-level refers to the various computational analysis stages that are involved in the detection of the important TFs, as indicated in Figure
+1. Multi-parameter features refer to topological and biological parameters and their associated features. Topological parameters can identify relevant nodes in the network; however, annotating the edges with biological parameters (edge strength) will help reveal biologically important nodes in the network.
+The edges are annotated using the Gene Ontology Annotation Similarity Score and the Protein Interaction Propensity Score. As individual edge weights alone cannot capture the complexity of the network
+[47,48], we also computed the Gene Ontology Annotation Similarity Score by considering the average edge weight of each protein and its interacting neighbors
+[47,48]:
+(7)
+G
+e
+n
+e
+O
+n
+t
+o
+l
+o
+g
+y
+A
+n
+n
+o
+t
+a
+t
+i
+o
+n
+S
+i
+m
+i
+l
+a
+r
+i
+t
+y
+S
+c
+o
+r
+e
+i
+=
+[?]
+i
+=
+1
+N
+[?]
+j
+=
+1
+K
+G
+O
+i
+,
+j
+K
+where N is the total number of nodes in the network, i is the node in consideration, K is the number of immediate neighbors of node i, and j is the interacting neighbors. The calculation of the Gene Ontology Annotation Similarity Score is illustrated in Additional file
+1. The Protein Interaction Propensity Score for a given node was computed based on the assumption that proteins mostly interact among the domains of their own family
+[49] and was thus computed as
+(8)
+P
+r
+o
+t
+e
+i
+n
+I
+n
+t
+e
+r
+a
+c
+t
+i
+o
+n
+P
+r
+o
+p
+e
+n
+s
+i
+t
+y
+S
+c
+o
+r
+e
+i
+=
+[?]
+i
+=
+1
+N
+[?]
+j
+=
+1
+K
+P
+r
+o
+t
+e
+i
+n
+I
+n
+t
+e
+r
+a
+c
+t
+i
+o
+n
+S
+c
+o
+r
+e
+ij
+K
+[?]
+i
+=
+1
+N
+[?]
+j
+=
+1
+N
+P
+r
+o
+t
+e
+i
+n
+I
+n
+t
+e
+r
+a
+c
+t
+i
+o
+n
+S
+c
+o
+r
+e
+ij
+N
+where N is the total number of nodes in the network, i is the node in consideration, and K is the number of immediate neighbors of node i. An illustration of the propensity score calculation is shown in Additional file
+1.
+These methods yielded CRC-relevant nodes in our TF interaction network. We then used node prioritization algorithms to rank the nodes in the network using the following steps:
+(a) Un-weighted and weighted node prioritization
+(i) Node prioritization based on un-weighted topological and biological features: In this method, the node prioritization used all four features that were described and computed in the previous steps and was calculated as,
+(9)
+NodeStrength
+i
+=
+[?]
+i=
+1
+N
+Clust. Coeff.+Betweeness+Gene Ontology Annotation Similarity score+Protein Interaction Propensity score
+i
+4
+(ii) Node prioritization based on weighted topological and biological features(10)NodeStrengthi=[?]i=1N0.4Protein Interaction Propensity Score++0.2Clust. Coeff.+Betweeness+Gene Ontology Annotation Similarity score+Protein Interaction Propensity scorei
+The actual weights, 0.4 and 0.2, were determined empirically, and the higher weight was associated with the feature Protein Interaction Propensity Score since it is a structure-based feature.
+Validation of proteins and its interaction
+Prior to computing the hypergeometric analysis and modules, we validated the proteins and their interactions using KEGG (
+http://www.genome.ad.jp/kegg), HPRD
+[50], and Random Forest classifier of WEKA
+[51].
+(b)  Node-node association prioritization based on hypergeometric distribution
+The basic assumption of hypergeometric distribution is that it clusters the proteins with respect to their functions. That is, if two proteins have a significant number of common interacting partners in the network, then they have functional similarities and therefore also contribute to each other's expressions
+[52]. The topological parameter, betweenness, finds the centrality of a node in the network. Hypergeometrically-linked associations between two nodes essentially link two nodes that may individually have very high betweenness scores but have low edge weight scores. Additional file
+2 describes the advantages of using the hypergeometric distribution metric. This parameter is also essential to identifying those nodes that cannot be identified using standard features.
+The nodes with very high p-values have higher statistical significance, suggesting that their functional properties play a major role in the network. The p-value for each association between two proteins, Pi and Pj, was computed as follows:
+(11)
+P
+N
+,
+n
+1
+,
+n
+2
+,
+m
+=
+N
+-
+n
+1
+!
+N
+-
+n
+2
+!
+n
+1
+!
+n
+2
+!
+N
+!
+m
+!
+n
+1
+-
+m
+!
+n
+2
+-
+m
+!
+N
+-
+n
+1
+-
+n
+2
++
+m
+!
+where n1 and n2 is the number of interacting proteins of Pi and Pj, m is the number of common proteins of Pi and Pj, n1 is the total number of proteins interacting with Pi, n2 is the total number of proteins interacting with Pj, n1-m is the number of proteins that interact only with Pi, n2-m is the number of proteins that interact only with Pj, and N is the total number of proteins in the dataset.
+(c) Construction of functional module
+We defined a module as the sub-graph of a network if it was associated with at least one TF. It is assumed that proteins in a particular module perform similar functions and could be together considered a module for that specific function
+[53]. For module construction, the nodes with high prioritization scores obtained through the un-weighted and weighted topological and biological features associations and the hypergeometric associations were considered. All direct interactions of the prioritized TFs were used to extract modules.
+(d) TF module ranking
+For the module rankings, each node within the module was annotated with the Node Strength obtained using equations (9) and (10). The module score for each of the modules was then computed as
+(12)
+A
+v
+e
+r
+a
+g
+e
+M
+o
+d
+u
+l
+e
+S
+c
+o
+r
+e
+i
+=
+[?]
+j
+=
+1
+C
+N
+o
+d
+e
+S
+t
+r
+e
+n
+g
+t
+h
+j
+C
+where, i is the ith module and
+C=3[?]M, where C denotes the number of nodes in the module and M is the largest module identified in the TF interaction network. The p-values were then computed for each TF in the modules as follows
+[54]:
+(13)
+p
+-
+v
+a
+l
+u
+e
+=
+1
+-
+[?]
+i
+=
+0
+k
+-
+1
+S
+I
+N
+S
+C
+I
+N
+C
+where S is the total number of modules present in the TF interaction network of CRC excluding the TF under consideration; C is the module size; N is the total number of nodes in the whole network; I is the number of modules with the specific TF under consideration; and k is the module. A module that had TFs with p <0.05 were considered for further analyses.
+Validation by pathway analysis
+The functional analysis of the highly ranked TFs and their corresponding modules was calculated using pathways identified by MetaCoreTM. The p-values for these pathways were based on their hypergeometric distributions, which was dependent on the intersection between the user's data (i.e., associations identified from BioMAP and validated by Gene Ontology distance and Protein Interaction Propensity Score) and the set of proteins obtained from the MetaCoreTM database in the pathway, and were computed as:
+(14)
+p
+-
+value
+r, n, R, N
+=
+[?]
+i
+=
+max
+r,R+n-N
+min
+n,R
+P
+i, n, R, N
+=
+R
+!
+n
+!
+N
+-
+R
+!
+N
+-
+n
+!
+N
+[?]
+i
+=
+max
+r,R+n
+-
+N
+min
+n,R
+1
+i
+!
+R
+-
+i
+!
+n
+-
+i
+!
+N
+-
+R
+-
+n
++
+i
+!
+where N is the global size of MetaCoreTM database interactions, R is the user list (identified from BioMAP), n is the nodes of R identified in the pathway of consideration, and r is the nodes in n marked by association. The pathways with p-value < 0.05 were further analyzed for their functional relevance. This analysis identified the pathways associated with TFs, which could then be experimentally analyzed by biologists in order to validate their associations and importance in CRC.
+
+Results
+Data collection and pre-processing
+We used PubMed abstracts to obtain a global perspective of TFs in the TF interaction network of CRC. For the key list given in Table
+1, BioMAP extracted 133,923 articles from PubMed. From these PubMed abstracts, BioMAP identified 2,634 unique molecular entities that were mapped to Swiss-Prot gene names.
+Construction of TF interaction network of CRC
+For the 2,634 molecular entities, using the Gene Ontology Annotation Similarity Score, we identified 700 gene interactions that involved at least one TF (the network consisted of 117 TFs and 277 non-TFs, for a total of 394 network proteins). Though the bait list had only one TF, the output dataset contained a large number of TFs, indicating the importance of TFs and their roles in CRC. This also demonstrated that bait lists that are highly relevant to the disease of interest can extract a large amount of knowledge from regardless of the vastness of the literature. In addition to the TF interactions, we identified 900 interactions found solely among non-TF entities. Also among the initial 700 interactions 553 interactions were identified in HPRD database.
+Among the 394 proteins, only 215 had known protein data bank (PDB) IDs, which produced a total of 3,741 PDB structures (X-ray). Of the initial 700 interactions, 377 interactions were associated with these 3,741 PDB structures. These interactions were evaluated using the previously-described in-house protein-protein interaction algorithm
+[41,43]. A 6 A C-alpha distance threshold and 10% threshold for minimum number of interacting residues were initially used to identify interactions between PDB structures; if 30% of structures satisfied these conditions, the protein pair was established to be probably interacting
+[55,56]. From the 377 interactions, 264 interactions satisfying the 6 A distance/structure criteria were identified. In these 377 interactions, 278 interactions were validated using HPRD database. These interactions had more than 50% of the interacting residues while the remaining 99 interactions had fewer than 50% of the interacting residues.
+In the constructed TF interaction network for CRC, shown in Figure
+2, the edges were annotated with the Gene Ontology Annotation Similarity Scores and Protein Interaction Propensity Scores (computations are depicted Additional file
+1).
+Figure 2
+Transcription Factor Interaction network. The red nodes indicate transcription factors while yellow represents the remaining proteins.
+Topological analysis of the TF interaction network of CRC
+In the TF interaction network shown in Figure
+2, the node degree ranged from 0 to 48, with an average degree of 4.29. A total of 133 nodes were identified with betweenness measures (i.e., these nodes passed through the paths of other nodes), and 149 nodes were identified with clustering coefficient measures. Table
+2 lists the top 19 nodes identified using degree, clustering coefficient, and betweenness. In addition to identification of the TFs with the highest topological feature scores, other proteins with similar topological rankings were also identified. All the nodes in the network were annotated with these topological parameters.
+Ranking of TFs using multi-level, multi-parametric features
+Node prioritization un-weighted/weighted schema (using topological and biological features)
+The topological and biological features - betweenness, clustering coefficient, Gene Ontology Distance Score, and Protein Interaction Propensity Score - were computed for the 394 nodes in the interaction network (Figure
+2). Nodes were ranked using the node strength, which computed using both weighted and un-weighted scoring schemes (discussed in the methods section); Table
+3 shows the top 10 TFs for each scoring schema.
+Validation of proteins and their interactions
+Proteins and their interactions were validated using KEGG, HPRD, and Random Forest. The proteins in each interaction were validated using KEGG pathways and the HPRD cancer signalling pathways. If a protein was present in the KEGG colon cancer pathways, it was annotated as HIGH. If a protein was in KEGG cancer pathways or HPRD cancer signalling pathways, it was annotated as MEDIUM. If a protein was not present in any of the above pathways but in other pathways of KEGG, it was annotated as LOW. In the initial 700 interactions, there were 20 proteins associated with CRC, 183 proteins associated with KEGG cancer pathways/HPRD cancer signalling pathways, and 128 associated with other KEGG pathways. Interactions were annotated as HIGH if both proteins were annotated HIGH or a combination of HIGH-MEDIUM or HIGH-LOW; MEDIUM if both proteins were annotated MEDIUM or MEDIUM-LOW; and LOW if both proteins were annotated LOW.
+Node prioritization using hypergeometric distribution
+Table
+4 shows the top 10 TF associations with the p-value < 0.05.
+Modules analysis
+For each of the TFs in the TF interaction network (Figure
+2), functional modules of size greater than or equal to three nodes were identified. This process yielded 70 modules with 3 nodes, 35 modules with 4 nodes, 18 modules with 5 nodes, 12 modules with 6 nodes, and 56 modules with 7 or more nodes. Each module was then analyzed using the average module score (equation (12)), and the significance of the TFs in each of these modules was assessed at p < 0.05 (equation (13)). Tables
+5 and
+6 show the TFs identified in top-scored modules and bottom-scored modules for the two scoring schemas, respectively.
+Validation using pathway analysis
+For the bait list given in Table
+1, literature mining identified an additional 2,634 entities which were then analyzed for their relevance in CRC pathways. The significance of the literature-mined molecules with respect to TFs, ranked TFs, functional modules, and their associated functional pathways was determined using MetaCoreTM from GeneGO. The MetaCoreTM tool identified 39 significant pathways for the bait list data with p-values ranging from 3.591E-10 to 7.705E-3. However, when augmented with literature-mined molecules, MetaCoreTM identified 286 significant pathways with p-values ranging from 1.253E-17 to 2.397E-2. These 286 pathways were analysed for their functional groups and were classified as major if associated with more than 3 pathways, or minor, if associated with 3 or fewer pathways. The 286 pathways identified were classified in 13 major functional groups and 6 minor groups.
+
+Discussion
+Global analysis of TF interaction network of CRC
+In the TF interaction network (Figure
+2), all 700 interactions were identified using the Gene Ontology Annotation Similarity Score. However, only 264 interactions out of 700 interactions could be further scored by the Protein-Protein Interaction method. Protein-protein interaction criteria is significant as it has a greater probability of revealing an in-vivo interaction of functional importance
+[43,44,55,56]; the protein-protein interaction algorithm is built on structure data, and structure provides the basis of protein functionality.
+We observed that a multi-parametric approach using both Gene Ontology Annotation SimilarityScore and Protein Interaction Propensity Score can help identify CRC-relevant interactions that may not have been identified if only one of the methods was used for construction of the TF interaction network. For example, when only the Gene Ontology Annotation Similarity Score was used, interactions between ATF2_HUMAN and MK01_HUMAN (MAPK1, ERK) or ELK1_HUMAN and MK08_HUMAN (JNK1) were either scored very low or missed all together. The interaction between ATF2-MK01 was identified only in the cellular function (0.6), but not in the molecular function, when the Gene Ontology Annotation Similarity Score was calculated. However, using the Protein Interaction Propensity Score, this interaction was scored high (0.74) as compared to cellular and molecular function. This interaction would also have been missed if only the molecular function for the Gene Ontology Annotation Similarity Score was used.
+Similar observations were made for ELK1_HUMAN and MK08_HUMAN (JNK1), which had Gene Ontology Annotation Similarity Scores of 0 for cellular function, 0.67 for molecular function, and 0 for biological process, but had a Protein Interaction Propensity Score was 0.25. The MAPK pathway, which is known to be important in CRC
+[57-59], is not well established in literature with respect to ATF2 and MK01 interaction. Similarly, ELK-1 and JNK isoforms are known separately as cancer relevant genes regulating important oncogenic pathways, such as cell proliferation, apoptosis, and DNA damage; however, their possible interactions and biological consequences in the context of CRC have not been reported
+[60]. The identification of this possible interaction then illustrates the benefit of augmenting literature data with both Gene Ontology Annotation Similarity and Protein Interaction Propensity Scores, which increases the probability of revealing novel interactions, ultimately resulting in a larger network perspective on CRC.
+Topological network analysis
+All the nodes in the interaction network shown in Figure
+2 were evaluated based on three topological features: degree, betweenness, and clustering coefficient respectively. As shown in Table
+2, p53, c-Jun, c-Myc, STAT3, NF-kB-p65, NF-kB/TNFRSF11A, SMAD3, SP1, STAT1, E2F1, MEF2A, and GCR were highly scored with respect to all three features. On the other hand, SMAD2, SMAD4, Elk-1, Lef1, CREM, EP300, JAK2, Akt1, PPARA, and MK14 were scored by only one of the three topological features. This type of topological stratification can provide a strong triaging basis before further experimental validation.
+The top ranking nodes were further analysed for their significance in CRC using literature evidence. For example, p53, which had a maximum degree of 48 and also scored highly on the other two parameters, is known to be involved in pathways important in CRC in addition to having \prognostic value
+[61,62]. In the case of c-Jun, its activation by JNK is known to be critical for the apoptosis of HCT116 colon cancer cells that have been treated by curcumin, an herbal derivative with anti-cancer properties
+[63,64]. Another important molecule identified was STAT3, which is a key signalling molecule responsible for regulation of growth and malignant transformation. STAT3 activation has been shown to be triggered by IL-6, and a dominant negative STAT3 variant impaired IL-6-driven proliferation of CRC cells in vitro[65-67]. Other examples of TFs with high node scores within the TF interaction network of CRC are shown in Table
+2. Analysis of these results shows that a majority of the TFs identified using literature augmented data and scored using topological methods are known to be highly relevant with respect to CRC.
+Ranking transcription factors using multi-level, multi-parametric features
+On comparing the results of un-weighted and weighted feature analysis methods, as shown in Table
+3, it can be seen that six of the top ten nodes, p53, c-Jun, STAT3, ABL1, c-Myc, and GL11, were common to both. Comparison of the nodes obtained using only the topological features (Table
+2) with those nodes obtained using both topological and biological features (Table
+3)revealed that eight nodes were common to both: p53, c-Jun, STAT3, c-Myc, RARA, STAT1, ESR1, and STAT3. The unique nodes identified based on both features in Table
+3 were ABL1, GL11, CDC6, ESR2, MK11, and PIAS1. Recent studies have identified GLI1 as highly up-regulated and PIAS1as down-regulated in CRC
+[68-71]. There is no report so far on association of ABL1 with CRC, though BCR-ABL1 is the well-known, clinically-relevant drug target in chronic myelogenous leukema
+[72]. These analyses resulted in the identification of additional and important TFs that underscore the importance of using a multi-level, multi-parametric approach for ranking TFs.
+Validation of proteins and its interaction
+More than 60% of the proteins in the interactions were associated with KEGG colon cancer pathways, KEGG cancer pathways, or HPRD cancer signalling pathways. This indicates the relevance of the constructed network with respect to cancer. Additionally, 55% of the interactions were annotated as HIGH, 35% as MEDIUM and 10% annotated as LOW, indicating the relevance of the network with respect to CRC. After annotating with HIGH, MEDIUM, and LOW, a Random Forest classifier was used to elucidate the significance of the networks. The precision/recall for the weighted schema was 0.75 and 0.742 respectively, while for un-weighted, it was 0.63 and 0.57 respectively. The ROC for weighted schema was as follows: HIGH = 0.957, MEDIUM = 0.835 and LOW = 0.82. These ROC scores suggest that the multi-parameter approach that was developed can help to identify relevant TFs in the TF interaction network of CRC.
+The second node prioritization method, using hypergeometric distribution, helped identify functional associations of the TF nodes within the TF interaction network of CRC. Using this method, 83 associations with p-value < 0.05 that involved 26 unique TFs were identified. Table
+4 shows the 10 highly-scored associations along with their p-values. When compared with the results from Table
+2 and Table
+3, the hypergeometric distribution method identified nine additional TFs: ATF-2, ETS1, FOS, NCOR1, PPARD, STAT5A, RARB, RXRA, and SP3.
+These TFs were then analyzed using the literature in order to confirm any association with CRC. We found that many of these TFs have not been extensively studied in CRC, if at all. ATF-2 stimulates the expression of c-Jun, cyclin D, and cyclin A, and it is known to play a major oncogenic role in breast cancer, prostate cancer, and leukemia
+[73]. However, little is known with respect to the role of ATF-2 in CRC, except for a recent study that identified ATF-2 over-expression associated with ATF-3 promoter activity in CRC
+[74]. Similarly sporadic evidence supports the notion that PPARD and PPAR-d are linked to CRC
+[75,76]. However, several others in the list have not yet been shown to be important in CRC. For example, RXRA/RARA, the ligand dependent TFs, have not been directly associated with CRC, but have been found to be associated in the network with PPAR s, which in turn has been linked to CRC. The MEF2 family of TFs, which are important regulators for cellular differentiation, have no known direct association with CRC, but MEF2 is known to associate with COX-2, whose expression plays an important role in CRC. MEF2 is activated by the MAPK signalling pathway, along with activation of Elk-1, c-Fos, and c-Jun. Activation of the latter pathways have been shown to contribute to hormone-dependent colon cancer
+[77]. It appears that the hypergeometric distribution analysis has identified a new group of TFs of potential importance to CRC by virtue of their interaction with genes that are known to play an important role in CRC, although these TFs themselves are not known to have any direct role in CRC.
+Module analysis
+As stated earlier, proteins that are affiliated within a module are more likely to have similar functional properties
+[52]. For this analysis, the modules considered were sized in the range of 3 and above. This larger module size identified low connectivity nodes which otherwise would have been missed using only the topological, hypergeometric analysis or smaller modules (i.e., only 2 or 3 nodes).
+Table
+5 shows the TFs that were associated with the 10 highest-ranked modules, all of which had p-values < 0.05 (from equation (13)). Table
+6 shows the TFs identified in the bottom ranked 5 modules. Twenty TFs were common among the 10 top ranked modules. The five TFs unique between the two scoring schemas were: MEF2A, SP3, IRF1, ATF-2, and Elk-1. IRF1, SP3 and ATF-2 were additionally not identified as high-scoring TFs in Table
+2,
+3, and
+4. IRF1 was identified among the top scoring modules in association with PIAS1, SP3, and HIF1A. Of these associations, HIF1A over-expression along with PIAS1 has been studied amd identified to be associated with CRC. HIF1A has also been associated with poor prognosis, and it is currently under consideration as potential biomarker
+[78].
+This module-level analysis also identified many new TFs associated in the lower-scoring modules. The TFs associated with the lower scoring modules listed in Table
+6 include VDR, HAND1, GLI1, GLI2, PPARD, Lef1, FOXA2, GATA-1, REST, ITF-2, TF7L2, and SLUG. Out of this group, GATA-1 presents an example as a novel TF with a possible link to CRC. The loss of expression of the GATA family is associated with several cancers; loss of expression for GATA-4 and GATA-5, in particular, have been reported in CRC
+[79]. No literature evidence is available for the relationship between GATA-1 and CRC, but our analysis warrants further study in this direction. Similar analysis and follow-up experimental validation of all the remaining TFs identified in both the high- and low-scoring modules can improve understanding of their relevance with respect to CRC.
+Further analysis of high-scoring modules showed that the 3-node modules were mainly associated with p53, particularly via E2F1. The 4-node modules were ranked highly when the TFs c-Jun, p53, and NF-kB-p65, all of which are known to be highly relevant to CRC, were present. One of the highly scored 6-node modules was associated with ATF-2:p53:JNK1:Elk-1:EPHB2:HIF1A (Figure
+3). EPHB2 has been associated with the Ras pathway, which in turn is a prominent oncogenic driver in CRC
+[80], while Eph receptors have been identified to be important in CRC
+[81], though more studies are necessary for better understanding their specific role in CRC. HIF1A over-expression is linked to serrated adenocarcinomas, a molecularly distinct subtype of CRC
+[82].
+Figure 3
+The novel, highly-scored functional module identified shows the association of ELK-1:JNK1 and EPHB2:HIF1A.
+Also noteworthy among the 6-node modules is the interaction between Elk-1 and JNK (Jun N terminal kinase) isoforms (MK09 and MK10 are JNK2 and JNK3, respectively), as there are many promising potential links between JNK isoforms and CRCs. These potential links include the established roles of JNKs in the development of insulin resistance, obesity, and Crohn's disease
+[83], all of which are well-known pre-disposing factors for CRC
+[84]. The JNK1 isoform promotes cancers of the liver, stomach, skin, and ovary
+[85,86], so it is plausible that other isoforms may also be involved in cancer. One of these isoforms, JNK2, is known to regulate breast cancer cell migration
+[87] and has been reported to play a dual role (both tumor promotion and suppression) in liver cancer
+[88].
+The JNK interacting partner, Elk-1, is one of the critical downstream components of the Ras-MAPK pathway, but efforts to target this pathway using Ras or MEK inhibitors have failed to produce clinical benefits in CRCs and many other types of cancers
+[89]. One logical explanation for this lack of clinical efficacy is the existence of one or more compensatory mechanisms to ensure the activation of same downstream component, in this case Elk-1, and related TFs. JNK is known to phosphorylate Elk-1 on the same site as ERK1/2 and Ser-383, allowing for regulation of its transcriptional activation function
+[90]. The consequence of JNK-induced Elk-1 activation is not completely clear, but it is known to play a role in cell proliferation and differentiation
+[91,92]. Elk-1 and JNK isoforms are known cancer-relevant genes that separately regulate important oncogenic pathways, including cell proliferation, apoptosis, and DNA damage pathways
+[83,93]. Both Elk-1 and JNK have been established as important drug targets in cancer, though not in CRC, and have multiple drugs/inhibitors that are in various phases of clinical trials
+[85,89]. Therefore, it is plausible that an active JNK-Elk-1 pathway in CRC could potentially confer resistance to Ras or MEK inhibitors, presenting a new drug targeting strategy.
+A third example of CRC-relevant TFs identified via the methodology used in this paper is GATA-1, which was identified in the 5-node module along with RUNX1SP1. Recent studies have shown the association of RUNX1 and RUNX2 with TGF-beta signalling pathways in colorectal cancer
+[94], suggesting a potential association of GATA-1 with CRC through RUNX1SP1. Our module analysis also revealed several less-studied TFs and their associations in CRC that may be of interest for future studies. These include IRF1 and STAT3 in the 5-node module, as well as Bcl-2's associations with 5 different TFs (STAT3, NF-kB, ESR1, p53, NF-kB-p65) in the 6-node module.
+These analyses show the advantages of using a multi-level, multi-parametric feature for analysing TFs of importance both in CRC and in other diseases. As each of the analysis processes employs different criteria for ranking, biologists will have greater, knowledge-driven power to identify and select targets for further validation.
+Validation using pathway analysis
+To better understand the significance of the highly-ranked TFs, modules, and the overall TF interaction network, all 2,634 proteins (output from BIOMAP) were analysed using MetaCoreTM for their significance in various pathways from the original bait list (39 pathways) and the literature augmented data-generated list (286 pathways). Figures
+4A and B show the comparisons between the rankings and pvalues of the bait list and the literature augmented pathways. For analytic purposes, the 286 pathways were further classified according to their functional groups as given by MetaCoreTM. Table
+7 shows the frequency distribution of these pathways with respect to their functional groups. From Table
+7 it can be observed that the top three functional groups were Development, Immune Response, and Apoptosis and Survival, which are well-known in CRC. Chemotaxis, which is also listed in Table
+7 as associated with four pathways, is the unidirectional movement of a cell in response to any given chemical gradient, which plays an important role in innate and acquired responses. The four chemotaxis-associated pathways were the CXR4 signalling pathway, inhibitory action of IL-8 and leukotriene B4-induced neutrophil-migration, and leukocyte and chemotaxis, all of which have been associated with CRC in literature
+[95,96], as well as Lipoxin inhibitory action of fMLP-induced neutrophil chemotaxis pathway. This last pathway has not been well-studied in CRC, though lipoxins are known to be associated with anti-inflammatory and proresolving mediators in CRC
+[97]. The analysis of the chemotaxis functional group demonstrates that while using a small bait list or list of experimental proteins may not fully depict the global profile of a disease, using literature augmented data can help to expand this profile and further help to understand new pathways with respect to disease.
+Figure 4
+A Ranking comparison between the Bait list pathways and Literature Augmented Data pathways. B: p-value comparison between the Bait List pathway and Literature Augmented Data pathways.
+It is possible that functional grouping shows a greater preponderance of pathways in areas where TFs appears to be the major mode of regulation (e.g., development, immune response, and survival) and lower prevalence of pathways in areas where post-transcriptional mechanisms play major regulatory role (e.g., signal transduction, DNA damage, and cytoskeleton regulation) due to the text mining process's focus on 'transcription factors'. Nonetheless, the top three functional groups are all primarily responsible for general cell fate determination, and deregulation of all these pathways is known to be the underlying basis of oncogenesis.
+Global analysis of TFs in CRC pathways
+Figure
+5 shows the TF distribution profile in each functional group for which the connectivity profile was analyzed. The Development, Immune Response, Transcription, and Apoptosis and Survival functional groups were associated with the highest number of TFs (54, 48, 24, and 20, respectively), whereas the Chemotaxis and Muscle Contraction functional groups were associated with 2 and 1 TFs, respectively. The most highly-ranked TFs identified through the analysis, p53, c-Jun, and c-Myc, were identified in multiple functional groups. TFs such as RARA/RXRA, VDR, and GATA, which are specific to certain functional groups, were identified in our ranking analysis as well.
+Figure 5
+Functional groups and associated transcription factors. The centermost transcription factors are associated with multiple functional groups. The size of the functional group represents the relative number of pathways and transcription factors associated with it.
+The global analysis that was carried out in this work provides a distinct advantage by enabling the visualization of all network TFs at a glance. It can be seen that the highest connectivity TFs varied from one functional group to another - STAT3 had 39 connections in Development, p53 had 26 connections in DNA Damage, (iii) c-Jun had 12 connections in Apoptosis and Survival, (iv) GATA-1 had 5 connections in Cytoskeleton Remodeling, and (v) c-Myc had 2 connections in Cell Adhesion. Though c-Myc was not identified with very high connectivity in any one functional group, it was present in almost every functional group (and also as a prioritized TF). Additional files
+ 3,
+4 and
+5 provide the Gene Ontology molecular function and hub nodes for all the functional groups and the connectivity profile order of the TFs in each functional group.
+Table
+8 shows the highly scored modules that were analysed with respect to their associated functional groups, pathways and GO Terms From this table it can be observed that the modules identified belonged mostly to the Apoptosis and Survival, Immune Response, DNA Damage, Development, and Transcription functional groups. Microsatellite instability due to defective DNA repair pathways and impairment of pathways that are developmentally conserved (e.g., Wnt/beta-catenin pathway) are the key molecular drivers of CRC origin, validating the significance of identifying the DNA Damage functional. Moreover, three of the modules were also associated with pathways are specific to inflammation, providing new clues to possible mechanisms for the widely accepted CRC-predisposing effect of inflammation. Thus the approach we developed not only validated some of the well-established paradigms of CRC biology but also provided actionable clues to yet-unstudied potential mechanisms. From this table it can be concluded that our methodology was able to reveal TFs that are already proven to be prognostic, those are under on-going studies for verifying prognostic values, and novel ones that can be further studied. Additional file
+6 gives the profile of the prognostic values for more TFs not included in Table
+8.
+
+Conclusions
+The text mining approach developed in this paper was able to correlate known and novel TFs that play a role in CRC. Starting with just one TF (SMAD3) in the bait list, the literature mining process was able to identify 116 additional TFs associated with CRC. The multi-level, multi-parametric methodology, which combined both topological and biological features, revealed novel TFs that are part of 13 major functional groups that play important roles in CRC. From this, we obtained a novel six-node module, ATF2-P53-JNK1-ELK1-EPHB2-HIF1A, which contained an association between JNK1 and ELK1, a novel association that potentially be a novel marker for CRC.
+The approach identified new possibilities, such as JNK1, for targeted CRC therapies using inhibitors that are undergoing clinical trials for non-cancer indications. Furthermore, pending further validation, some of the genes identified by our approach with possible new links to CRC may well prove to be new biomarkers for drug response and prognosis in CRC. For further follow-up, we plan to work on multiple bait lists, annotate the text mining data with gene expression, identify the gene signatures for the known and novel pathways, use in-vitro model validation, and, ideally, develop clinical trials.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1471-2407/12/331/prepub
+
+Supplementary Material
+Additional file 1
+Gene Ontology Annotation Similarity Score Protein-protein interaction algorithm.
+Click here for file
+Additional file 2
+Hypergeometric distribution.
+Click here for file
+Additional file 3
+Few transcription factors and their associated Gene Ontology molecular functions.
+Click here for file
+Additional file 4
+Nodes with highest number of connections identified for each functional group (defined by MetaCore
+TM
+in GeneGO).
+Click here for file
+Additional file 5
+Functional group transcription factor distribution. Transcription factors are arranged in decreasing order with respect to their connectivity in each functional group.
+Click here for file
+Additional file 6
+Analysis of transcription factors identified with prognostic value in CRC.
+Click here for file

@@ -1,0 +1,8 @@
+[Mixed]
+
+Supplementary Material
+01
+Table S1: MYO5A is found overexpressed in different tumor types
+Figure S1: Microarray expression of myosin-Va in normal skin versus melanoma. Expression analysis based on data published by Talantov et al. (2005) (Table S1). RNA isolated from 45 primary melanoma and 7 normal skin tissue specimens were analyzed.
+Figure S2: Expression of myosin-Va in melanoma cell lines. Western-blot of myosin-Va in a panel of human melanoma cell lines represented by cell lines derived from primary tumor in the radial growth phase (RGP) or vertical growth phase (VGP), and metastasis, including paired lines (WM793 and 1205Lu; WM278 and WM1617). B16-F10 is a highly metastatic murine melanoma cell line that expresses wild-type myosin-Va. S91-6 is a poorly metastatic melanoma cell line derived from a mouse characterized by loss of myosin-Va expression in the melanocytic lineage due to insertion of an ecotropic murine leukemia virus in an intron of the MYO5A gene. Quantification was done using ImageJ software (available at http://rsb.info.nih.gov/ij/). M, molecular weight markers.
+Figure S3: Lentiviral vector and oligonucleotide sequences used to generate the short hairpin RNA shMYO5a #1. Diagram of the lentiviral vector pFUG12 (top) used to express shMYO5a #1 or shControl. Note the presence of two independent promoters, driving the shRNA and EGFP expression. The shRNA sequences were cloned as described previously (Qin, 2003). The EGFP expression was used as a marker for transduction. The lentiviral particles containing a shControl, shMYO5a #2 and #3 were obtained commercially from Sigma Aldrich (SHCLNV-NM_000259, shM-488 and shM-489). shControl is a non-target shRNA that does not target to any human gene.

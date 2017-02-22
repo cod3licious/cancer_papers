@@ -1,0 +1,633 @@
+[Abstract, Results, Discussion, Methods, Mixed]
+
+Resistance to antiangiogenic therapy is directed by vascular
+phenotype, vessel stabilization, and maturation in malignant
+melanoma. Angiogenesis is not only dependent on endothelial cell invasion and proliferation, it also requires pericyte coverage of vascular sprouts for stabilization of vascular walls. Clinical efficacy of angiogenesis inhibitors targeting the vascular endothelial growth factor (VEGF) signaling pathway is still limited to date. We hypothesized that the level of vessel maturation is critically involved in the response to antiangiogenic therapies. To test this hypothesis, we evaluated the vascular network in spontaneously developing melanomas of MT/ret transgenic mice after using PTK787/ZK222584 for anti-VEGF therapy but also analyzed human melanoma metastases taken at clinical relapse in patients undergoing adjuvant treatment using bevacizumab. Both experimental settings showed that tumor vessels, which are resistant to anti-VEGF therapy, are characterized by enhanced vessel diameter and normalization of the vascular bed by coverage of mature pericytes and immunoreactivity for desmin, NG-2, platelet-derived growth factor receptor b, and the late-stage maturity marker a smooth muscle actin. Our findings emphasize that the level of mural cell differentiation and stabilization of the vascular wall significantly contribute to the response toward antiangiogenic therapy in melanoma. This study may be useful in paving the way toward a more rational development of second generation antiangiogenic combination therapies and in providing, for the first time, a murine model to study this.
+
+RESULTSTumor growth and progression in MT/ret transgenic mice occurs via high, but
+also low, angiogenic-active vascularizationFor analysis of tumor angiogenesis in a physiological setting, we used
+MT/ret transgenic mice, which spontaneously develop
+multiple melanoma (Kato et al., 1998)
+and metastases in lymph nodes (100%), spleen (>80%), and lung and brain
+(>10%; Fig. S1
+A). Tumor development started after a short latency of 2-3
+wk in the face and on the back of these mice, with up to ~100
+tumors/mouse (~20% +- SD) by the age of 9-10 wk (unpublished
+data). Immunohistological analyses revealed morphological analogy to human
+melanoma (unpublished data) and the expression of tyrosinase, tyrosinase-related
+protein (TRP) 1, and gp-100, which are enzymes, regulating the quality and
+quantity of pigment production in melanocytes (Fig. S1 B). Interestingly,
+detailed studies on tumor vascular beds showed two different vascular phenotypes
+in this tumor model (Fig. 1, A and B).
+One predominant type showed a high angiogenic-active phenotype (Fig. 1 A) with a mean microvessel density
+(MVD) of 250/mm2 (Fig. 1 C),
+in contrast to a second type which is characterized by only a few intratumoral
+vessels (Fig. 1 B) and a mean MVD of
+40/mm2 (Fig. 1 C) and
+which was subsequently described as low angiogenic tumor. Analyzing tumor volume
+in relation to MVD, it became evident that the phenotype of the vascular network
+in MT/ret melanoma was dependent on neither tumor volume nor
+tumor location (Fig. 1 C and not
+depicted). Furthermore, the intratumoral vessels of the low angiogenic tumors
+showed an almost 10-fold increase in vessel perimeter in comparison with the
+vessels of the high angiogenic tumor type (Fig.
+1 D) and a significant increase (P <= 0.001) in vessel lumina
+(not depicted). In contrast to high angiogenic tumors, total coverage by
+endothelial cells in the peritumoral tissue area of low angiogenic-active tumor
+nodules was observed (Fig. 1 B,
+arrowhead).Figure 1.Immunohistological and morphometric analyses of the vascular
+network in melanoma of MT/ret transgenic
+mice. (A and B) Representative images for immunoperoxidase
+detection of blood vessels using the endothelial marker CD31 in melanoma
+of high angiogenic (A) and low angiogenic (B) potential
+(n = 478 tumors of 63 mice, independently
+performed). Arrowheads indicate peritumoral coverage of endothelial
+cells in low angiogenic tumors. (C) Scatter blot for MVD (in millimeters
+squared) versus tumor volume (in millimeters cubed) in high and low
+angiogenic tumors (n = 20 tumors/vascular bed of
+four mice). (D) Quantification of vessel perimeter (in millimeters) for
+both vascular beds of MT/ret transgenic melanoma
+(n = 500 intratumoral vessels [100
+vessels/tumor] of five high angiogenic and 100 intratumoral vessels of
+nine low angiogenic tumors isolated from two mice). (E)
+Immunohistochemically based distribution analyses for the incidence of
+high and low angiogenic-active tumors per mouse (in percentage)
+calculated after isolation of all tumors (n =
+478 tumors of five mice). (F) Perfusion analysis (in percentage) of
+intratumoral vessels was performed after injection of FITC-conjugated
+lectin into tumor-bearing mice. Analyzing the number of double-positive
+lectin- and CD31-positive tumor vessels in comparison with CD31
+single-stained vessels resulted in calculation of vessel perfusion
+(n = 100 vessels/vascular phenotype in 10
+tumors each of four mice). Injection experiments were independently
+performed in each mouse. (G) Analysis of vessel-vessel distances
+(in micrometers) in both vascular beds of
+MT/ret-transgenic melanoma (n =
+500 intratumoral vessels [100 vessels/tumor] of five high angiogenic and
+100 intratumoral vessels of nine low angiogenic tumors of two mice).
+Median values of the experimental groups are indicated by the horizontal
+lines (D and G). All morphometric analyzes were microscopically
+quantified using CD31-stained tissue sections. Error bars, mean +-
+SD. Bars, 50 um.In addition, lymphatic endothelial cells were detected in a high number of tumor
+septa and peritumoral areas but not in intratumoral tissue in both tumor types
+(Fig. S1 C). Assessment of the relative abundance of the vascular bed phenotype
+per mouse showed a mean distribution of 83% high angiogenic to 17% low
+angiogenic tumors (Fig. 1 E). However,
+vessel perfusion did not differ in either tumor type (Fig. 1 F). Assessment of vessel-vessel distance in
+individual nodules revealed a mean distance of 41.8 um (+-19.1
+um) in tumors with high-angiogenic potential in comparison with 172.2
+um (+-57.7 um) in low angiogenic-active tumors (Fig. 1 G), which warrant the delivery of
+oxygen and nutrients for growth and progression.Rapid tumor growth of high angiogenic tumors results in increased tumor
+hypoxiaThe observations described in the previous section strongly suggest that both
+vascular beds coexist in parallel in the MT/ret transgenic
+model without the need to switch from the low- to the high angiogenic vascular
+phenotype to grow. To address potential differences in the tumor growth kinetic,
+we measured tumor volume of individual nodules starting early in life with
+tumor-free mice at weekly intervals over a period of 4 wk using flat-panel
+volume computer tomography (fl-VCT). Over the first 3 wk, tumor growth kinetics
+of high angiogenic-active tumors were significantly increased (P <= 0.001)
+compared with tumors with low vessel density (Fig. 2 A). This was paralleled by increased expression of the
+proliferation marker Ki-67 (Fig. 2 B) and
+apoptosis indices (not depicted) in high angiogenic tumors, associated with
+increased intratumoral hypoxic regions in those tumors (Fig. 2, C and D). The distribution of hypoxic areas within
+both vascular beds was paralleled by detection of glutase-1 (unpublished
+data).Figure 2.Comparative analysis of tumor growth rate, tumor cell
+proliferation, and induction of hypoxia in MT/ret
+transgenic mice. (A) Tumor growth curve of high and low
+angiogenic-active melanoma. Tumor volume (in millimeters cubed) of
+individual nodules was measured weekly over a period of 4 wk in mice of
+concordant sex and age using fl-VCT (n = 10
+tumors/mouse). The experiment was independently performed three times
+using five mice (***, P <= 0.001). (B)
+Immunofluorescence labeling of tumor cell proliferation using double
+staining of the proliferation marker Ki-67 (red) and the endothelial
+marker CD31 (green) in tumors of high and low angiogenic potential
+(n = 15 tumors/vascular phenotype of five
+mice, analyzed in five separate experiments). (C) Immunohistochemical
+assessment of hypoxic areas in high and low angiogenic-active tumors
+using pimonidazole injection (n = 10
+tumors/vascular bed of three mice). Filled arrowheads indicate selection
+of hypoxic tumor cells, empty arrowheads show tumor vessels, the
+double-headed arrow indicates the hypoxic-free tumor margin, and the
+star indicates tumor septa. Injection experiments were independently
+performed three times with the corresponding outcome. (D) Quantification
+of hypoxic area per tumor (in percentage) in high and low
+angiogenic-active tumors (n = 10 tumors/vascular
+bed of three mice) of three independent experiments;
+***, P <= 0.001. Representative images are
+presented (B and C). Error bars, mean +- SD. Bars, 100
+um.Lack of pericyte coverage and defects in vessel maturation promote
+neovascularization in angiogenic tumors of MT/ret transgenic miceIt has been shown that a plasticity window for remodeling neovasculature is
+defined by pericyte coverage (Benjamin et al.,
+1998). Therefore, we consequently analyzed the recruitment of mural
+cells in both vascular phenotypes. NG-2, Desmin, and PDGFR-b have been
+established as markers of early, i.e., immature, pericytes, whereas a
+smooth muscle actin (SMA) has been reported as a marker of mature mural cells
+including pericytes and smooth muscle cells (Nehls et al., 1992; Morikawa et
+al., 2002; Gerhardt and Betsholtz,
+2003). Intratumoral microvessels of MT/ret
+transgenic melanoma were covered by Desmin-positive mural cells without
+significant difference in both vascularization phenotypes (80% in high
+angiogenic vs. 92% in low angiogenic tumors; Fig. 3, A and B). A comparable percentage of vessels also expressed
+the early markers NG-2 and PDGFR-b (Fig.
+3 B). In contrast, coverage of intratumoral microvessels by
+a-SMA-positive mural cells was significantly higher (P <=
+0.001) in tumors of low vessel density (98%) compared with high
+angiogenic-active tumors (2%; Fig. 3, B and
+C). In accordance with the maturation defect and partial lack of
+pericyte coverage, excessive vessel leakiness was observed in tumors of high
+vessel density using FITC-conjugated dextran (unpublished data). Alongside the
+immunohistological findings, endothelial cells without or with partly developed
+basal lamina were assessed in high angiogenic tumors by electron microscopy
+(Fig. 3 D). Partly reduced pericyte
+coverage was observed, and integration of pericytes into the basal lamina could
+not be detected (Fig. 3 D). Based on
+pericyte loss, direct connection of tumor cells to endothelial cells was
+observed (Fig. 3 D). In contrast, nearly
+all blood vessels of low-vascularized tumors exhibited a well constructed basal
+lamina underlining the endothelial cell layer and intact integration of
+pericytes into the vascular wall (Fig. 3
+E).Figure 3.Quantitative assessment of mural cell maturation and stabilization
+in MT/ret melanoma. (A and C)
+Immunohistochemical double staining for the endothelial marker CD31
+(green) and the early pericytic marker Desmin (red) in low-vascularized
+(I) and high-vascularized (II) tumors (A), as well as for the late
+differentiation marker a-SMA (C; red). Representative images of
+>10 independently performed experiments are presented
+(n = 43 high angiogenic and 27 low
+angiogenic tumors of four mice). (B) Quantification of vessel coverage,
+calculated as the percentage of NG-2-, Desmin-,
+PDGFR-b-, or a-SMA-positive cells compared
+with the number of CD31-positive vessels (n =
+1,087 high angiogenic and 352 low angiogenic tumor vessels of 10 tumors
+of four mice; ***, P <= 0.001). Data are
+collected from >10 independent experiments. (D and E) Electron
+microscopic evaluation of the vascular wall structure in sections of
+tumor tissues with high vascular density (two to three blood vessels per
+microscopic field; D) and low vascular density (one to two blood vessels
+in three to four microscopic fields; E), analyzed for their construction
+of a basal laminar, availability of pericytes, and pericyte integration
+(n = 9 tumors/vascular bed of three mice).
+Data are representative of three independent experiments. EC,
+endothelial cell; Ery, erythrocytes within the vessel lumen; TC, tumor
+cells; star, pericyte; arrowheads, basal lamina. Representative images
+are presented (A and C-E). Error bars, mean +- SD. Bars: (A
+and C) 100 um; (D and E) 2 um.Reduced levels of proangiogenic factors and their receptors in endothelial
+cells of low-vascularized tumors are associated with resistance to anti-VEGF
+therapyWe and others were able to show that the angiogenic cascade of the Ang-Tie
+system is important for controlling vessel assembly, maturation, and quiescence
+(Maisonpierre et al., 1997; Nasarre et al., 2009). Thus, enhanced
+expression of Ang-2, which is responsible for vessel destabilization and
+immaturity (Carlson et al., 2001), may
+explain the defective integration and the partial loss of pericytes, vessel
+instability, and leakiness in high angiogenic tumors, which in turn may result
+in enhanced sensitivity of intratumoral microvessels to anti-VEGF therapy. We
+therefore analyzed the expression of Ang-1, which induces Tie2 activation
+leading to vessel stabilization and maturation (Wong et al., 1997), of its antagonist and vessel
+destabilization factor Ang-2, of their receptor Tie2, and of VEGF-A and its main
+receptor VEGFR2 in laser microdissected intratumoral endothelial cells by
+quantitative real-time PCR. A significant reduction (P <= 0.001) in
+expression of all monitored factors was observed in low angiogenic-active
+endothelial cells, except for levels of Ang-1, which was present in equal
+amounts in both vascular beds. In detail, intratumoral endothelial cells of low
+angiogenic tumors showed an ~100-fold decrease in expression of Ang-2 and
+its receptor Tie2, as well as an ~1,000-fold reduction of VEGF-A and its
+major receptor VEGFR2 compared with endothelial cells isolated from
+angiogenic-active vessels (Fig. 4). bEnd3
+cells, a mouse endothelial cell line derived from cortex blood vessels, mouse
+heart, and brain were used as controls for the angiogenic factor expression.Figure 4.Logarithmic presentation of quantitative expression analysis of
+angiogenic factors and corresponding receptors from microdissected
+endothelial cells of MT/ret melanoma. Laser
+microdissected intratumoral endothelial cells from cryosections of high
+and low angiogenic-active MT/ret melanoma were used for
+the quantitative real-time PCR analysis of angiogenic factors and their
+corresponding receptors (n = 5 high and 4 low
+angiogenic tumors of three mice). Total RNA of bEND3 cells and mouse
+brain and heart was used as a control for angiogenic factor expression.
+The analyses for each factor were done in triplicate for each
+experiment. Three independently performed experiments showed
+corresponding outcomes. Error bars, mean +- SD.PTK/ZK does not affect mature tumor vasculature in MT/ret melanomaPericytes, in particular, have been recently appreciated as critical regulators
+of vessel formation, stabilization, and function (Armulik et al., 2005; von Tell et al., 2006), but their role in the susceptibility of
+tumor vasculature to antiangiogenic therapy has not been finally clarified.
+Based on the observations described in the previous section, we used the
+MT/ret model because it represents two different vascular
+beds with differences in vessel maturation and stabilization to study
+sensitivity to anti-VEGF therapy. As a reference for an antiangiogenic therapy,
+we used PTK/ZK, a small molecule tyrosine kinase inhibitor, which was shown to
+specifically block VEGF-induced autophosphorylation of VEGFR-1, -2, and -3 and
+to inhibit endothelial cell proliferation, differentiation, and tumor
+angiogenesis (Wood et al., 2000; Hess-Stumpp et al., 2005). Oral
+administration of PTK/ZK in tumor-free MT/ret transgenic mice
+resulted in an excessive reduction (P <= 0.001) of tumor numbers (Fig. 5, A and B) without affecting the
+volume of growing tumors compared with the vehicle-treated control group (Fig. 5 C). Histological analyses disclosed
+that nearly all tumors (mean, 98%) that developed during PTK/ZK treatment
+exhibited the low angiogenic vascular phenotype (Fig. S2, A
+and B). As expected, the vehicle-treated control group exhibited
+the normal distribution of ~80% high versus 20% low angiogenic-active
+tumor beds (Fig. S2 B).Figure 5.Analysis of prevention and therapeutic effects of PTK/ZK on
+melanoma development and progression in MT/ret
+transgenic mice. (A) Tumor-free mice of concordant age and
+sex were used for the prevention trial (n = 10
+mice/experimental group). MT/ret transgenic mice,
+orally treated with PTK/ZK (50 mg/1 kg in 0.9% NaCl) or vehicle (0.9%
+NaCl) alone, were visualized at the beginning and end of therapy using
+fl-VCT. Therapy-resistant tumors of the PTK/ZK-treated group are
+highlighted by empty arrowheads. (B) Quantification of tumor development
+at the end of the prevention therapy in PTK/ZK-treated
+(n = 9 mice) and vehicle-treated
+(n = 10 mice) transgenic mice
+(***, P <= 0.001). (C) Total tumor volume
+analyses (in millimeters cubed) of vehicle-treated (n
+= 100 tumors of 10 mice) and PTK/ZK-treated (n
+= 73 tumors of nine mice) mice, grown during therapy using
+fl-VCT. Data of the prevention trial (A-C) were analyzed in two
+independently performed experiments. (D) Assessment of therapeutic
+effects of PTK/ZK in tumor-bearing mice screened at the beginning and
+end of therapy by fl-VCT (n = 10
+mice/experimental group). Hardly observable tumors are highlighted by
+empty arrowheads. (E) Investigation of tumor number in vehicle- and
+PTK/ZK-treated mice at the beginning and at the end of therapy
+(n = 8 mice/experimental group;
+**, P <= 0.005). (F) Analyses of total tumor volume
+(in millimeters cubed) during the therapeutic trial using fl-VCT
+(n = 100 tumors [beginning and end] of four
+vehicle-treated and five PTK/ZK-treated mice). All data of intervention
+experiments (D-F) were independently performed twice with
+corresponding outcomes (n = 5 mice/group). Error
+bars, mean +- SD.PTK/ZK efficiency represses tumor angiogenesis and results in vessel
+regressionWe consequently analyzed the therapeutic effect of anti-VEGF therapy using PTK/ZK
+in tumor-bearing animals to address the question of whether PTK/ZK is only able
+to inhibit endothelial cell recruitment during sprouting angiogenesis or whether
+PTK/ZK is also able to affect intratumoral vascularization of existing tumors.
+For this purpose, tumor-bearing MT/ret transgenic mice were
+selected for a therapeutic intervention trial and individually screened for
+tumor number and volume at the beginning of therapy, using fl-VCT (Fig. 5 D), and over time. In this study,
+PTK/ZK treatment resulted in inhibition of the development of novel tumors
+compared with vehicle controls (P = 0.005; Fig. 5 E) without affecting the volume of preexisting
+tumor at the end of therapy in both groups (Fig.
+5 F). In accordance with the prevention study, immunohistological
+analyses revealed that the majority of preexisting tumors showed low vascular
+density at the end of treatment. Interestingly, PTK/ZK treatment in preexisting
+tumors of high angiogenic potential obviously resulted in vessel regression
+(Fig. S2 D), which was confirmed by detection of laminin-positive empty vessel
+sleeves in the interspace between CD31-positive endothelial cells (not
+depicted). Immunohistochemical analyses at the end of the therapeutic PTK/ZK
+treatment showed, again in accordance with preventative treatment, that low
+vascular melanoma nodules did not respond to PTK treatment and therefore were
+distributed as with vehicle-treated mice (Fig. S2 D). It has been shown that
+bone marrow-derived cells could also contribute to the resistance to
+antiangiogenic therapy (Bingle et al.,
+2002; de Visser and Coussens,
+2006). Therefore, we analyzed the recruitment of macrophages in high
+and low angiogenic tumors treated with vehicle or PTK/ZK during the
+interventional setting. Immunohistological analyses for F4/80-expressing
+macrophages revealed that the majority was located inside the lumina of blood
+vessels or infiltrated as tumor cell-associated macrophages into the
+intratumoral areas in both tumor phenotypes without significant differences in
+number or localization of vehicle- or PTK/ZK-treated tumors (Fig.
+S3).Mature vascular network in human melanoma metastases grown during adjuvant
+bevacizumab therapyBased on our results using the murine melanoma model, we analyzed the vascular
+network, mural cell recruitment, and level of pericyte differentiation in human
+melanoma metastases, which had developed during the UK adjuvant bevacizumab
+trial in stage III cutaneous melanoma. In contrast to melanoma metastases
+observed from patients without therapy, bevacizumab-resistant metastases
+displayed a 17-fold increase in the diameter of tumor-associated blood vessels
+(mean, 5.3 +- 2.9 vs. 83.3 +- 21.7 um in untreated patients;
+P <= 0.001; Fig. 6 A), as well as
+an eightfold increase (mean, 305.3 +- 39.8 vs. 68.9 +- 23.0
+um) in vessel perimeter (P <= 0.001; Fig. 6 B). Interestingly, all blood vessels of
+bevacizumab-resistant tumors, identified by expression of CD31 (Fig. 6 C), exhibited mature vessel
+morphology by the expression of the early differentiation marker Desmin (not
+depicted) and the late marker a-SMA (Fig.
+6 E) in contrast to the majority of blood vessels of metastases from
+patients without bevacizumab therapy, where detection of desmin and
+a-SMA-covered blood vessels could not be observed (Fig. 6, D and F).Figure 6.Immunohistological and morphometric analyses of the vascular
+network in bevacizumab-resistant human melanoma metastases.
+(A and B) Quantification for vessel diameter (in micrometers; A) or
+vessel perimeter (in millimeters; B) of all existent tumor-associated
+blood vessels in melanoma metastases of patients receiving bevacizumab
+therapy (n = 100 vessels in three metastases of
+three patients), compared with metastases, isolated from patients
+without therapy (n = 100 vessels in 10 tumors of
+10 patients; ***, P <= 0.001). (C and D)
+Immunohistochemical detection of blood vessels using the endothelial
+cell marker CD31 (red) in cutaneous bevacizumab-resistant metastases (C)
+versus melanoma metastases developed off therapy (D). Arrowheads
+indicate tumor-associated blood vessels for better visualization. (E and
+F) Analysis of mural cell recruitment using the late stage
+differentiation marker a-SMA (brown) in therapy-resistant
+melanoma (E) and cutaneous metastases developed in patients without
+treatment (F). Arrowheads indicate the blood vessel location of the
+corresponding tumor section used for CD31 detection (D). Nuclei were
+counterstained using Hematoxylin. All immunohistochemical analyses
+(C-F) were done using all available and existent melanoma
+metastases (n = 3 metastases of three patients)
+of patients receiving bevacizumab therapy or melanoma metastases
+(n = 10 metastases of 10 patients) of
+patients without therapy. Immunohistological detection was performed
+twice with concordant results. Representative images of analyzed
+melanoma metastases are presented in C and D. Error bars, mean +-
+SD. Bars, 100 um.
+
+DISCUSSIONIn our study, we analyzed human melanoma metastases taken at clinical relapse in
+patients undergoing adjuvant treatment with bevacizumab (AvastinR), but
+we also analyzed a corresponding murine model in which melanomas develop
+spontaneously. In both systems, tumor development during anti-VEGF therapy
+(bevacizumab in humans and PTK/ZK in mice) was characterized by a mature
+intratumoral vascular network and stabilization of the vascular wall. The level of
+mural cell differentiation for vessel maturation and the process of vessel
+stabilization by pericyte coverage are believed to be major mediators for priming
+blood vessels to its sensitivity to anti-VEGF therapy.We also present, for the first time, a murine model (MT/ret)
+developing spontaneously metastasizing melanoma characterized by high, but also low,
+angiogenic-active tumors in parallel. This vascular phenotype is independent of
+tumor volume or location. Fast growing highly angiogenic-active tumors exhibit
+hypoxia-driven Ang-2 expression, leading to immature intratumoral vascular network,
+basal lamina defects, and loss of pericytes. In contrast, low angiogenic-active
+tumor nodules displayed stabilized vessels, a slower growth kinetic, and increased
+vessel lumina. Highly vascularized tumors were characterized by significant tumor
+regression in the adjuvant and remodelling of the tumor vascular bed in the advanced
+therapy setting. Interestingly, low angiogenic-active tumors did not respond to
+anti-VEGF therapy using the small-molecule inhibitor PTK/ZK. Careful expression
+profiling analysis of laser microdissected tumor-associated endothelial cells from
+both vascular beds revealed a significant decrease in expression of proangiogenic
+factors Ang-2 and VEGF-A and their receptors Tie2 and VEGFR-2 in VEGF-resistant
+MT/ret tumors. In summary, the most prominent differences
+between the two vascular beds observed in this melanoma model were the vessel
+structure (vessel density, vessel diameter/perimeter distribution, level of mural
+cell differentiation, and pericyte coverage or basement membrane investment) and the
+expression profile of the vascular-specific receptor tyrosine kinase systems.The concept of antiangiogenic cancer therapy seems simple at the first look;
+destroying tumor vasculature and depriving the tumor of nutrients and oxygen will
+ultimately induce tumor regression. The long-term survival benefit in patients of
+targeting the VEGF signaling pathway has not been so affirmative as initially hoped
+and better clinical outcomes have been seen in combination with chemotherapy (Hurwitz et al., 2004) or additional drugs
+(Perez et al., 2009). A key finding in
+this context is that VEGF-A/VEGFR-2 blockage leads transiently to vessel remodeling
+and normalization of the tumor vascular bed, as described by increased pericyte
+coverage of tumor vessels. This results in vessel stabilization and reduced vascular
+permeability, which facilitates access of coadministered chemotherapeutic drugs
+(Jain 2005).The role of VEGF in pericyte biology is less clear, and experiments aimed at
+specifically addressing the role of pericytes in responses to antiangiogenic cancer
+therapies are rare or lacking. Consequently, such experiments will need to be
+performed in genetically manipulated models, resembling the human situation in
+aspects of tumor development and angiogenesis. Conventional mouse melanoma models
+(e.g., B16), based on the transplantation of tumor cells, are not suitable for such
+studies. Transplantation of tumor cells triggers infiltration of immune cells such
+as macrophages, which are known to mediate important processes during tumor
+angiogenesis (Hagemann et al., 2009; Shieh et al., 2009), and the natural
+situation of tumor development and histology of the disease is not comparable with
+the clinical situation. Now, based on our findings, the MT/ret
+transgenic mouse model is the first model which fulfills all criteria of
+endogenously driven spontaneous tumor development and angiogenesis and presents, for
+the first time, VEGF-dependent and -independent tumor growth in parallel.
+Interestingly, distribution of both vascular beds does not correlate with tumor
+volume or location. In addition, there was not an experimental hint that low
+angiogenic tumors engage an angiogenic switch during progression and metastasis
+leading to neovascularization and vessel destabilization.The observed altered pattern of mural cell recruitment into the vascular wall and the
+maturation of blood vessels in both vascular phenotypes, and their role for
+susceptibility to antiangiogenic therapy, was our most surprising finding. However,
+the mechanisms of Ang-induced mural cell recruitment have not been elucidated.
+Mechanistically, the most well understood pathway of endothelial
+cell-directed mural cell recruitment is through paracrine-acting PDGF-B
+(Abramsson et al., 2003). However, the
+molecular cross talk between the Ang-Tie and PDGF-PDGFR systems has
+not yet been resolved. In previous studies, we were able to show that host-derived
+Ang-2 is able to affect early stages of tumor development and vessel maturation
+(Nasarre et al., 2009). Thus, our data
+suggest that hypoxia-triggered up-regulation of Ang-2, detected by laser
+microdissection of tumor-associated endothelial cells of high angiogenic melanoma,
+resulted in vessel destabilization by loss of pericyte coverage, followed by
+induction of neovascularization. This corresponds with recent in vitro observations
+of hypoxia-regulated Ang-2 expression in endothelial cells (Pichiule et al., 2004). These data confirm our recent finding
+that Ang-2 expression levels correlate with disease progression and metastasis in
+sera of melanoma patients (Helfrich et al.,
+2009) and suggests again that the Ang-Tie system might have a more
+direct effect on mural cell recruitment and maturation than previously thought.
+Interestingly, differences in the expression of Ang-1 could not be observed between
+vascular phenotypes. Ang-1 and Ang-2 have been described to exert opposing functions
+during vessel development. Although Ang-1-induced Tie2 activation transduces
+survival signals and leads to vessel stabilization and maturation (Suri et al., 1996), Ang-2 acts as a vessel
+destabilizing agent that induces permeability and leads to dissociation of
+cell-cell contacts in cultured endothelial cells (Scharpfenecker et al., 2005). This leads to the speculation
+that if Ang-2 as an antagonistic Tie2 ligand has a stronger binding capacity for the
+induction of Tie2 activation compared with Ang-1, resulting in mural cell depletion
+and vessel destabilization independent of the presence of Ang-1 expression.Among the most surprising findings of the present study was the altered pattern of
+mural cell recruitment and maturation of blood vessels in human melanoma metastases
+taken at clinical relapse in patients undergoing adjuvant anti-VEGF therapy using
+bevacizumab. These observations were paralleled by our corresponding melanoma model
+using PTK/ZK. In both experimental settings tumor vessels, which are resistant to
+anti-VEGF therapy, were characterized by increased vessel diameter, normalization of
+the vascular bed by coverage of mature pericytes, and immunoreactivity for Desmin,
+NG-2, PDGFR-b, and the late stage maturity marker a-SMA. Based on the
+finding that PTK/ZK-resistant blood vessels of MT/ret transgenic
+tumors showed only minor expression of proangiogenic factors (e.g., Ang-2 and
+VEGF-A), resulting in low angiogenic potential and resistance to the traditional
+antiangiogenic approaches, it is highly desirable to identify alternative ways to
+modulate tumor vasculature that do not interfere with the complex regulatory network
+of proangiogenic factors.Our findings demonstrate the role of mural cell recruitment and maturation for the
+susceptibility to anti-VEGF cancer therapy. The findings warrant further mechanistic
+analysis to focus on the molecular cross talk between Ang/Tie and PDFG/PDGFR
+signaling during mural cell recruitment and maturation. This may contribute to a
+more rational therapeutic exploitation of antiangiogenic therapy approaches. In this
+context, it would be of considerable interest to analyze biopsies from patients
+whose tumors are progressive despite VEGF/VEGFRs blockage. Results of such studies
+would lead to clinical studies trying to combine modalities targeting tumor
+angiogenesis by inhibition of VEGF signaling and blockage of mural cell recruitment,
+as well as maturity by inhibition of PDGF-B pathways. Future work using combination
+therapies targeting the implicated pathways and analyses of maturation kinetics in
+spontaneous mouse models will pave the way to the rational development of a second
+generation of antiangiogenic combination therapies to overcome the problem of
+therapy resistance.
+
+MATERIALS AND METHODSMice.Mice (C57BL/6) expressing the human ret proto-oncogene under
+the control of the mouse metallothionein I promoter-enhancer (Kato et al., 1998) were provided by
+M. Kato (Chubu University, Aichi, Japan). MT/ret transgenic
+mice develop spontaneously cutaneous malignant melanoma metastasizing to
+lymph nodes, spleen, lung, and brain that resemble human melanoma in many
+aspects of histopathology and clinical development (Kato et al., 1998). Mice were crossed with C57BL/6
+wild-type mice for heterozygous transgene expression and kept under specific
+pathogen-free conditions in the animal facility of the German Cancer
+Research Center (Heidelberg, Germany) and the Central Animal Laboratory at
+the University Hospital Essen (Essen, Germany). Experiments were performed
+in accordance with government and institute guidelines and regulations. For
+definition of tumor development, mice were monitored for indicated time
+points using fl-VCT (Siemens). Animal procedures were approved by the
+Regierungsprasidium, Karlsruhe, and the Landesamt fur Natur,
+Umwelt und Verbraucherschutz Nordrhein-Westfalen, Germany.Human tumor samples.Melanoma metastases of 59-66-yr-old patients, developed between 2 and
+8 wk after receiving 8-11 cycles of bevacizumab (AvastinR)
+as adjuvant therapy after resection of AJCC stage IIB, IIC, and III
+cutaneous melanoma, and metastases of patients off therapy (concordant age
+and gender) were assessed for their vascular bed and vessel maturity by
+immunohistochemistry. All available biopsies from patients relapsing on the
+treatment arm of the randomized-controlled clinical phase III study AVAST-M
+(adjuvant aVAStin trial in high-risk melanoma), evaluating the VEGF
+inhibitor bevacizumab, were obtained from October 2008 onward. Informed
+patient consent and the appropriate Institutional Review Board approval was
+obtained for all patients and relapses were confirmed by histological
+examination. Human protocols were approved by the Oxford Research Ethics
+Committee C (reference 07/H0606/112, tissue banking) and the trial approval
+for AVAST-M (07/Q1606/15).Immunohistochemistry.Consecutive cryosections (MT/ret melanoma) and
+paraformaldehyde-fixed paraffin sections (human melanoma metastases) were
+processed for immunostaining. For detection of the endothelial cell marker
+CD31, cryosections were fixed with acetone/methanol (1:1) and endogenous
+peroxidase was blocked with 3% H2O2, followed by
+avidin/biotin blocking. Nonspecific binding was blocked with 5% rabbit
+serum/1% bovine serum albumin in PBS + 0.02% Tween for 30 min. Rat
+anti-mouse PECAM-1 (BD), sheep anti-human PECAM-1 (R&D
+Systems), or ChromPure goat IgG (Dianova), used as negative control, were
+incubated and visualized using DAB or AEC Substrate Chromogen system (Dako),
+followed by counterstaining of nuclei using Meyer's Hemalaun solution
+(Merck). For the visualization of endothelial-pericyte association in
+MT/ret tumors, double stainings were performed using
+rat anti-CD31 (PECAM-1; BD) combined with rabbit anti-Desmin antibody
+(Abcam), rabbit anti-NG2 (Millipore), rat anti-CD140b (PDGFR-b;
+eBioscience), or mouse anti-a-SMA direct-labeled Cy3 antibody
+(Sigma-Aldrich). Mural cells in human metastases were detected using mouse
+anti-a-SMA (Sigma-Aldrich) and mouse anti-Desmin antibody
+(Dako). Cell proliferation was assessed by immunostaining with rat
+anti-Ki-67 antibody (clone TEC-3; Dako), basal lamina was visualized
+by rabbit anti-laminin (Sigma-Aldrich), and lymphatic endothelial cells were
+assessed using rabbit anti-Lyve-1 (ReliaTech), all of which were
+counterstained with PECAM-1 for vessel detection. Macrophage recruitment was
+analyzed using rat anti-F4/80 antigen (AbD Serotec). The number of
+macrophages was calculated as F4/80-expressing macrophages per tumor area
+(in millimeters squared) using microscopes (Olympus) and corresponding Cell
+P Software (Olympus). For the detection of expression of the melanogenic
+enzymes tyrosinase, TRP-1, and gp-100, paraffin-embedded tumor sections of 8
+um were deparaffinized, followed by antigen retrieval using 1 mM EDTA
+at 90degC for 10 min, blocking of nonspecific bindings, and incubation
+of primary antibodies over night at 4degC. Antibodies against
+tyrosinase, TRP-1, and gp-100 were provided by V. Hearing (National
+Institutes of Health, Bethesda, MD). Lymph endothelial cells were detected
+using rabbit anti-Lyve-1 antibody (ReliaTech). Apoptotic cells were
+detected by the MEBSTAIN Apoptosis Kit II (MBL International) and quantified
+as percentage of TUNEL-positive areas per field. Primary antibodies were
+detected by rabbit anti-rat Alexa Fluor 594, rabbit anti-rat
+Alexa Fluor 488, or donkey anti-rabbit Alexa Fluor 594 (all from
+Invitrogen). Nuclei were counterstained using propidium iodide. Slide
+fluorescence was examined by confocal laser-scanning microscopy (TCS SP2;
+Leica).Hypoxic tumor areas were detected by the formation of pimonidazole adducts
+after injection of pimonidazole hydrochloride compound into tumor-bearing
+animals for 30 min. Tumor sections were immunostained using the
+Hypoxyprobe-1 Plus kit according to the manufacturer's protocol
+(Natural Pharmacia International, Inc.). The hypoxic area index was
+quantified as the percentage of positive tumor area per total tumor area in
+tumors of corresponding volume.Morphometric analysis of tumor vessels and pericyte coverage.Morphogenic analyses of MT/ret tumors were done using consecutive
+cryosections stained for the endothelial cell marker CD31. The
+quantification of MVD and corresponding tumor volume was calculated using
+the mean of three tumor sections per tumor (top, middle, and base) of
+concordant distance. MVD was calculated as number of vessels per tumor area.
+Intratumoral vessel perimeter and vessel-vessel distance were
+measured in tumors of high and low vessel density. The percentage of high
+angiogenic or low vascularized tumors per mouse was analyzed by isolation of
+all tumors per mouse followed by endothelial cell detection using
+immunohistochemistry. Pericyte coverage was assessed using the pericyte
+marker NG-2, Desmin, PDGFR-b, or a-SMA in combination with
+CD31 for the detection of individual phases during pericyte differentiation.
+All vessels per tumor were counted using multiple alignment function. For
+the assessment of pericyte coverage in human melanoma metastases, paraffin
+sections of all available bevacizumab-resistant cutaneous metastases and
+metastases developing off therapy were costained for the endothelial cell
+marker CD31 and pericyte markers as described for murine analyses. All
+present vessels were analyzed for vessel perimeter and diameter as described
+earlier in this section. All morphometric analyses were performed on Olympus
+microscopes and corresponding Cell P Software.Assessment of vessel perfusion and stability.Tumor-bearing MT/ret transgenic mice were injected through the tail vein 20
+min before killing by cervical dislocation using 150 ug
+FITC-conjugated lectin/150 ul 0.9% NaCl from Bandeiraea
+simplicifolia (Sigma-Aldrich). A perfusion index was quantified
+as the percentage of lectin-positive per CD31-positive vessels in high and
+low angiogenic-active tumors. For assessment of vascular stability, mice
+were injected via tail vein using 1 mg/100 ul FITC-conjugated dextran
+(3.000 mol wt). After 15 min of incubation, mice were killed and
+histological analyses were performed.Laser microdissection of tumor-associated endothelial cells.10-um cryosections of murine melanoma were cut under RNase-free
+conditions, fixed with 70% ethanol in DEPC, and stained for the
+identification of tumor morphology using Meyer's Hemalaun solution
+for 1 min and EosinY for 1 s (both Merck). Intratumoral endothelial cells
+were isolated from five high and four low angiogenic tumors using the
+P.A.L.M. MicroBeam Microscope (Carl Zeiss, Inc.). RNA of microdissected
+endothelial cells was isolated using the RNeasy micro kit (QIAGEN) according
+to the manufacturer's instructions. Expression analysis of dissected
+tumor-associated endothelial cells was done by quantitative real-time PCR
+using 1 ug of total cellular RNA for reverse transcription.Quantitative real-time PCR.Specific primers of angiogenic factors and their receptors were designed to
+detect the amounts of various messenger RNA species in tumor-associated
+endothelial cells of the high angiogenic-active as well as low vascularized
+melanomas. For the generation of the standard, each primer pair was
+subjected to an endpoint PCR in a final volume of 30 ul using 1
+ul bEND3 complementary DNA (cDNA; for Ang-2, Tie2, VEGF, and VEGFR)
+or BALB/c fibroblast cDNA (for Ang-1) with 0.2 U Taq polymerase (GeneCraft),
+500 nM dNTP, 3 ul 10x buffer (provided by Bio-Rad
+Laboratories), and 0.5 uM of the particular sense and antisense
+primers under standard conditions (at 95degC for 3 min followed by 34
+cycles at 95degC for 30 s, 60degC for 45 s, and 72degC for 30
+s and an extention at 72degC for 8 min). Afterward, the PCR product was
+purified with PCR purification kit and cloned in the pDrive cloning vector
+with the PCR cloning kit (both QIAGEN). Colonies were determined for
+presence of the insert and the DNA was subsequently sequenced. Finally, 1
+ul each of cDNA or standard DNA within the range of 103 to
+108 molecules was amplified with SYBR green master mix
+(Bio-Rad Laboratories) and primers in a final volume of 25 ul
+according to the manufacturer's protocol. The total RNA of bEnd3
+cells, a mouse endothelial cell line derived from cortex blood vessels and
+mouse heart and brain was isolated using the RNeasy kit (QIAGEN). Afterward,
+1 ug of each sample was reverse transcribed with the QuantiTect
+Reverse Transcription kit in a final volume of 20 ul (QIAGEN). The
+following primers were used: mGAPDH forward,
+5'-TGACCACAGTCCATGCCATA-3', and reverse,
+5'-GACGGACACATTGGGGGTAG-3'; mVEGF-A forward,
+5'-ACTGGACCCTGGCTTTACTG-3', and reverse,
+5'-ACACAGGACGGCTTGAAGAT-3'; mVEGFR2 forward,
+5'-TTCTGGACTCTCCCTGCCTA-3', and reverse,
+5'-TCTGTCTGGCTGTCATCTGG-3'; mAng-1 forward,
+5'-AGGCTTGGTTTCTCGTCAGA-3', and reverse,
+5'-TCTGCACAGTCTCGAAATGG-3'; mAng-2 forward,
+5'-CACAGCGAGCAGCTACAGTC-3', and reverse,
+5'-ATAGCAACCGAGCTCTTGGA-3'; and mTie2
+forward, 5'-TCTGGGTGGCCACTACCTAC-3', and reverse 5'-
+TGAAAGGCTTTTCCACCATC-3'.Electron microscopy.Electron microscopy was used for the assessment of ultrastructural analyses
+of intratumoral vessels. Tumor samples were isolated and divided in half.
+One half was used for electron microscopy and fixed in 2.5% glutaraldehyde
+in 0.1 M cacodylate buffer. The corresponding half was used for
+identification of tumor vascularization by immunohistochemistry. Semithin
+sections from glutaraldehyde-fixed epoxy resin-embedded specimens
+were stained with paraphenylen diamine for light microscopy (Weis and Schroder, 1989).
+Ultrathin sections of osmium-treated tissue were contrast enhanced with lead
+citrate and uranyl acetate for electron microscopy (Weis et al., 1995). The ultrastructure of tumor
+vessels of both vascular phenotypes was studied in ultrathin sections using
+an electron microscope (902; Carl Zeiss, Inc.) equipped with a digital
+camera. On each section, five to six tissue areas were analyzed and used for
+semiquantitative assessment of vessel phenotype in each tumor group.fl-VCT.For the evaluation of tumor number and volume in the MT/ret
+transgenic mouse line, mice scanning was performed under inhalation
+narcosis, using an fl-VCT scanner (Siemens) at the indicated time points
+(Kiessling et al., 2004; Gupta et al., 2006). Total scan time
+was 40 s with a rotation time of 21 s. A tube voltage of 80 kV and a tube
+current of 50 mA with continuous radiation were selected. The reconstruction
+field of view was 4.5 cm transaxially with a reconstruction matrix of 512
+x 512 pixels and an axial slice spacing of 0.2 mm resulting in a
+voxel size of 0.08 x 0.08 x 0.2 mm3. A modestly
+sharp reconstruction kernel (H80s) was used for image reconstruction. Image
+postprocessing was performed using standard three-dimensional postprocessing
+steps, for example, volume rendering. The reconstructed volume datasets were
+fitted with a standard DICOM header and transferred to a standard
+radiological postprocessing workstation. The amount of metastasis was
+counted by reviewing the datasets on multiplanar reformations. Standard size
+measurement software was used for the quantification of tumor number and
+volume (InSpace; Siemens). For tumor volume calculation, two orthogonal
+tumor diameters were taken using the virtual caliper tool.Antiangiogenic treatment using PTK/ZK.MT/ret transgenic mice (concordant age and sex per group)
+were monitored by fl-VCT for the individual status of tumor development.
+Mice were treated at 2 wk of age (prevention, tumor free) or at 4 wk
+(therapeutic intervention, tumor bearing) by oral administration of PTK/ZK
+(Novartis; 50 mg/kg dissolved in 0.9% NaCl) or vehicle (0.9% NaCl) alone, as
+a control, twice a day over a period of 4 wk. Mice were measured at the
+beginning, weekly during treatment, and at the end of therapy for assessment
+of tumor number and volume. At the end of therapy, tumors were isolated and
+analyzed by immunohistochemistry. Experimental series (intervention and
+prevention) were repeated twice.Statistical analysis.Student's t test was used for the determination of
+statistical significance between experimental groups. All results were
+expressed as mean +- SD. P-values <0.05 were considered
+statistically significant.Online supplemental material.Fig. S1 shows the characterization of the MT7ret mouse model. Fig. S2
+analyzes the effects of PTK/ZK on vessel formation in melanoma of MT/ret
+transgenic mice. Fig. S3 displays the effects of PTK/ZK on macrophage
+recruitment in high and low angiogenic tumors of MT/ret melanoma. Online
+supplemental material is available at http://www.jem.org/cgi/content/full/jem.20091846/DC1.
+
+Supplementary Material
+Supplemental Material

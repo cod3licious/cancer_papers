@@ -1,0 +1,622 @@
+[Abstract, Introduction, Methods, Results, Discussion, Mixed]
+
+Selective ex-vivo photothermal ablation of human pancreatic cancer
+                    with albumin functionalized multiwalled carbon nanotubes. The process of laser-mediated ablation of cancer cells marked with                     biofunctionalized carbon nanotubes is frequently called                     "nanophotothermolysis". We herein present a method of selective                     nanophotothermolisys of pancreatic cancer (PC) using multiwalled carbon                     nanotubes (MWCNTs) functionalized with human serum albumin (HSA). With the                     purpose of testing the therapeutic value of these nanobioconjugates, we have                     developed an ex-vivo experimental platform. Surgically resected specimens from                     patients with PC were preserved in a cold medium and kept alive via                     intra-arterial perfusion. Additionally, the HSA-MWCNTs have been                     intra-arterially administered in the greater pancreatic artery under ultrasound                     guidance. Confocal and transmission electron microscopy combined with                     immunohistochemical staining have confirmed the selective accumulation of                     HSA-MWCNTs inside the human PC tissue. The external laser irradiation of the                     specimen has significantly produced extensive necrosis of the malign tissue                     after the intra-arterial administration of HSA-MWCNTs, without any harmful                     effects on the surrounding healthy parenchyma. We have obtained a selective                     photothermal ablation of the malign tissue based on the selective                     internalization of MWCNTs with HSA cargo inside the pancreatic adenocarcinoma                     after the ex-vivo intra-arterial perfusion.
+
+Introduction
+Pancreatic cancer (PC) is the fourth leading cause of cancer death in the United
+                States, with an overall 5-year survival rate of less than 5%.1 Only the surgical resection of the
+                primary tumor provides clinical benefit and improvement in survival. However, this
+                is rarely achieved in practice because, at the time of diagnosis, most PC patients
+                have advanced-stage disease and experience various symptoms such as severe pain,
+                jaundice, and weight loss. PC is also one of the most intrinsically drug-resistant
+                of all tumors and the lack of effective cytostatics contributes to the increased
+                mortality rates.2
+The development of targeted therapy represents an exciting and new approach to PC
+                treatment. Conceptually speaking, a targeted drug represents a responsive molecule
+                attached to a delivery carrier with affinity for specific surface receptor proteins
+                located in cell membranes.3 Being
+                endowed with target specificity, the carrier has the ability to concentrate only on
+                the desired biological area. The use of these biological carriers for the
+                development of specific and sensitive site-targeted bionanosystems makes the
+                selective internalization of molecules with photothermal properties in cancer cells
+                possible. This internalization process is not possible under normal conditions.4
+Studies suggest that nanotechnologies could play a major role in the development of
+                new anticancer therapies.5 Thermal
+                approach of nanoparticles, nanoemulsion, pH-responsive nanoparticles, nanoparticles
+                used in combination with radiation and nanovectors for drug delivery are the most
+                explored nanoparticle-based cancer treatment methods.6
+Nanotechnology has already brought to light promising results in PC research and
+                treatment. Gold nanoparticles were used to achieve a radiofrequency-mediated
+                necrosis of PC cells.7 F19
+                monoclonal antibodies conjugated to gold nanoparticles have demonstrated efficiency
+                in targeting the pancreatic carcinoma tissue.8 Our previous work shows that carbon nanotubes (CNTs)
+                alter the in-vitro molecular mechanisms of chemoresistance of PC cells.9
+Highly proliferative tumor cells were shown to present intracytoplasmic albumin
+                    deposits.10 Another study
+                confirmed that malign tumors are able to internalize albumin through endocytosis
+                which is further processed in lysosomes.11 The resulting amino acids are further used for the synthesis of
+                various substrates needed for tumor growth.12,13 Based on these
+                properties, the anticancer effect of albumin has been intensively studied. For
+                instance, a combination of cytostatic drug and albumin called Trexall(tm) is
+                currently prescribed for the treatment of metastatic PC in humans.14
+The research mechanisms involving the selective tumor targeting of biofunctionalized
+                CNTs are currently being intensely explored due to the impressive ability of CNTs to
+                convert near-infrared (NIR) laser radiation into heat. This intrinsic property
+                provides an opportunity to develop a new generation of immunoconjugates for cancer
+                photo-therapy with high performance and efficacy in the selective thermal ablation
+                of malignant cells.15 Although the
+                idea and the principles of such bioconjugation hold a tremendous potential for the
+                future, 100% selective internalization of nanobioconjugates in the cancer
+                cells still remains problematic.16
+                While progress has been made regarding biofunctionalization of CNTs using various
+                biological molecules such as DNA, antibodies, folates, and growth factors,17-19 there is a significant lack of knowledge on how to
+                obtain selectivity of these compounds for a single type of cancer cell. This is due
+                to the simultaneous presence of the receptors used for the specific binding of the
+                targeting molecules to the membranes of the noncancerous cells too, although in
+                smaller amount compared with the cancer cells.20
+Animal models of human cancer have been widely used for testing experimental cancer
+                    nanotherapies.21 Despite their
+                popularity, these models exhibit major flaws because human tumor cells undergo
+                kinetic changes after transplantation, and passage in the nude mice and the majority
+                of the xenografted human tumors do not maintain the morphological and biochemical
+                characteristics of the original tumors.22 Therefore, this methodological gap between testing new cancer
+                therapies in humans, on the one hand, and animal models, on the other hand, can be
+                avoided using ex-vivo perfusion techniques of surgically resected organs under cold
+                    storage.23
+Considering these data and the important role of albumin in tumor metabolism, we have
+                used human albumin bound to multiwalled CNTs (MWCNTs) for the selective targeting of
+                PC cells. Since ethical limitations made the selectivity and therapeutic potential
+                of these nanocompounds in patients impossible to test, we have designed an original
+                model of living PC. We used ex-vivo-perfused pancreatic specimens that have been
+                surgically removed from patients with ductal adenocarcinoma. On this model, the
+                intra-arterial administration of albumin conjugated with MWCNTs specifically induced
+                the release of this nanobioconjugate inside the malign tissue via the
+                "capillary bed". We present herein data suggesting that extensive
+                and selective tumoral necrosis was obtained when the living pancreas underwent laser
+                irradiation after the administration of human serum albumin (HSA)-MWCNTs via the
+                greater pancreatic artery.
+
+Materials and methods
+Antibodies and reagents
+For the experiments involving the noncovalent functionalization of CNTs, MWCNTs
+                    (>98% carbon basis, optical density [OD]
+                    x internal diameter [ID] x L 10-15 nm
+                    x 2-6 nm x 0.1-10.0 im; product number:
+                    677248), HSA, and Sephacryl(tm) 100-HR were purchased from Sigma Chemical
+                    Co (Deisenhofen, Germany), and all the other chemicals were purchased from Merck
+                    (Darmstadt, Germany). For the experiments involving the biofunctionalization of
+                    CNTs, pancreatic prelevation, and preservation we used Custodiol and Ringer
+                    solutions purchased from Essential Pharmaceutics (Newtown, PA). For experiments
+                    involving tissue viability, transferase dUTP nick end labeling (TUNEL) TMR Red
+                    assay was purchased from Roche Applied Science (Indianapolis, IN). For
+                    immunohistochemical staining, DRAQ5(tm) and
+                    4',6-diamidino-2-phenylindole (DAPI) were purchased from Sigma Chemical
+                    Co. Polyclonal gp60 antibody (Ab) was prepared as previously described,24 and the fluorescent probe of
+                    cy3 derivative of anti-gp60 was prepared according to the existing
+                        protocol.25
+Cell culture
+PANC-1 cells (ATCC CRL 1649) were maintained in RPMI (Roswell Park Memorial
+                    Institute) medium containing 10% fetal bovine serum (FBS), at
+                    37degC, in a humidified atmosphere. For the experiments, cells were
+                    cultivated to confluence on 60 mm plates (BD Biosciences, Erembodegem,
+                    Belgium).
+Characterization of the cells
+For the microscopy analysis, PANC-1 cells were trypsinized and transferred to 35
+                    mm plates at a density of 25 x 104 cells/dish. The cells were
+                    monitored by light microscopy (Olympus CKX 31, Munich, Germany).
+Noncovalent functionalization of CNTs with HSA
+MWCNTs (60 mg) were dispersed in a 3:1 (v/v) concentrated sulfuric and nitric
+                    acid mixture, and sonicated three times for 10 seconds each with a tip
+                    sonicator. Subsequently, the mixture was refluxed at 1200degC for 30
+                    minutes. The oxidized MWCNTs treated in water solution were then centrifuged at
+                    8000 rpm, to remove any large unreacted CNTs and metallic impurities from the
+                    solution. Finally, the oxidized MWCNTs were vacuum filtered through a 0.2
+                    mm polycarbonate filter (Whatman), until the elution was clear and had a
+                    neutral pH. The filter cake was dried overnight at room temperature. After
+                    filtration, the solution concentration was re-estimated using
+                    ultraviolet-visible near-infrared (UV-Vis-NIR) spectroscopy (Jasco-V 530,
+                    Gross-Umstadt, Germany). One milligram of fluorescein isothiocyanate (FITC) (10
+                    mg/mL in dimethyl sulfoxide) was mixed with 50 mg HSA in sodium buffer (20 mM,
+                    pH 8.5), followed by incubation for 2 hours in darkness, at room temperature,
+                    with continuous stirring. The HSA-FITC conjugate was purified by gel
+                    chromatography, using a Sephacryl 100-HR column eluted with 10 mM phosphate
+                    buffered saline (PBS).30
+Oxidized MWCNTs and HSA-FITC were mixed with deionized water at a concentration
+                    of 0.25 mg mL-1 and 1.25 mg mL-1,
+                    respectively. The mixture was sonicated for 1 hour with a tip sonicator under
+                    cooling in an ice bath, and then it was centrifuged for 5 minutes at 12000 rpm.
+                    The solids settled at the bottom of the centrifuge tube and consisted of unbound
+                    nanotubes, impurities, metals, and bundles of oxidized nanotubes. The resulting
+                    supernatant was collected and subjected to a second round of centrifugation. The
+                    collected supernatant contained the desired HSA-MWCNT conjugate.
+Further, for a higher purification, the supernatant underwent gel chromatography
+                    for the purification process. Sephacryl 100-HR that was presoaked and deaerated
+                    using a vacuum pump was packed up to 15 cm in a 2.5 cm diameter x 24 cm
+                    long glass column. The oxidized HSA-MWCNT supernatant recovered after
+                    centrifugation was layered on top of the gel and eluted using gravity water
+                    flow. Volume fractions were collected for 1-minute periods and analyzed for the
+                    presence of MWCNTs and HSA by measuring the absorbance at 500 and 280 nm,
+                    respectively, using the spectrophotometer (Jasco V530, Gross-Umstadt, Germany).
+                    Fractions with protein content were pooled for further use.26
+Immunochemical experiments
+For experiments describing the selective internalization of HSA-MWCNT conjugates
+                    in PC cells via GP60 receptors (Figure
+                        1), we have used freshly plated PANC-1 cells adhering to glass
+                    coverslips. By means of temperature-sensitive activation, PANC-1 cells have been
+                    exposed to cold (4degC) incubation for 60 minutes, in 5 mg HBSS
+                    (Hanks' balanced salt solution), mixed with cy3-labeled anti-gp60 Ab.
+                    Unlabeled anti-gp60 Ab were included in the incubation mixture at a 10-fold
+                    molar excess (5 mg/mL) to prevent nonspecific adsorption of the
+                    fluorescent probe. The cells were washed twice with MWCNTs functionalized with
+                    HSA-FITC (50 mg/L) at 4degC. Then, the cells were rewarmed to
+                    37degC for 15 minutes, allowing the occurrence of antibody
+                    internalization. In order to remove the antibody adhering to the cell surface,
+                    the cells were further washed three times at 1-minute intervals with cold
+                    (4degC) acetate buffer (100 mM NaCl, 50 mM sodium acetate, pH 5.0). The
+                    cells immediately returned to 50 mg/L FITC-HSA-MWCNTs (pH 7.4). The coverslips
+                    were then transferred to the stage of a fluorescent microscope and examined for
+                    Cy3-labeled internalization.
+Fluorescent staining procedures were performed in accordance with the
+                    manufacturer's protocol for each dye. Fluorescent images were acquired
+                    using a Zeiss LSM 710 confocal laser scanning unit equipped with argon and a
+                    HeNe laser mounted on a Axio Observer Z1 inverted microscope using 364, 488, and
+                    568 nm excitation laser lines to detect DRAQ5 (BP590-650 nm emission),
+                    DAPI (BP385-470 nm emission), fluorescein isothiocyanate (FITC)
+                    (BP505-550 emission), and Cy3 fluorescence (LP585 emission),
+                    respectively.
+PC harvesting
+Six patients diagnosed with adenocarcinoma of the body of pancreas were referred
+                    to the 3rd Surgery Clinic, Cluj-Napoca, Romania, for surgical treatment. In view
+                    of a localized pancreatic neoplasm, surgical removal of the tumor was planned
+                    for each patient. Each pancreatic tumor was found by palpation on the left side
+                    of the portal vein during laparotomy. This was confirmed by intraoperative
+                    ultrasonography, which showed hypoechogenic, well defined tumors, located
+                    between the isthmus and the corpus of the pancreas. The other parts of the
+                    pancreas appeared to be normal. Left splenopancreatectomy (distal pancreatectomy
+                    and splenectomy) with splenic, celiac, and hepatic lymphadenectomy was performed
+                    after the intraoperative identification and preparation of the splenic artery
+                    and vein.
+Pancreas preservation
+Each specimen (the body and tail of the pancreas and the spleen) was transported
+                    in a sterile bag containing Custodiol solution, sealed with an adhesive strip,
+                    and placed in a second container which was also filled with Custodiol perfusion
+                    solution in order to avoid any failure of cooling by trapped air. Each specimen
+                    was safety ensured by the double packing, placed in a sterile plastic container,
+                    and the lid securely closed. The plastic container was further placed in a
+                    cooling box containing ice for the transportation from the surgery room to the
+                    laboratory.
+Further, each specimen was immersed in a water bath for accurate temperature
+                    control at 5.5degC, filled with lactated Ringer's solution (a
+                    crystalloid solution with a composition physiologically closer to that of plasma
+                    than 0.9% saline).
+Custodiol solution, used for perfusion and flushing of donor pancreas in
+                    transplantology, was perfused through an appropriately prepared air-free
+                    perfusion tube system into the splenic artery located in the upper edge of the
+                    pancreas (at a flow rate of 1.5 mL per minute and per gram - the
+                    estimated weight of the specimen was between 80 and 110 g).
+Separately, 50 mL of HSA-MWCNT solution (200 mg/L) diluted with 50 mL Custodiol
+                    was administered by gravity perfusion (the container was placed 1 m above the
+                    level of the bath, the perfusion rate flow was of 0.5 mL/s) in the greater
+                    pancreatic artery (a blood vessel that arises from splenic artery), under
+                    Doppler ultrasound guidance (Figure
+                        2), to safely allow the flushing of the pancreatic "capillary
+                    bed" with HSA-MWCNT solution.
+The length of the ex-vivo experiment was of about 5 hours for each specimen, much
+                    less than the maximum time recommended (12-15 hours) for the
+                    preservation of the living pancreas during transplantation.27
+Laser irradiation
+A diode laser was fixed above the organ bath in a permanent position while the
+                    living pancreas was being kept immersed and perfused, as shown in Figure 2B. For the laser
+                    positioning above the malign lesion, ex-vivo ultrasound was performed on the
+                    surgical specimen. Thus, the laser diode was vertically placed 1 cm above the
+                    edge of the pancreas (1-3 cm above the hypoechogenic image inside the
+                    pancreatic parenchyma, depending on the morphological particularity of each
+                    laser-treated specimen). We irradiated the pancreatic parenchyma containing the
+                    tumor mass for 30 minutes, using a 5 W/cm2, 808 nm continuous laser
+                    generator (Apel Laser, Bucharest), in combination with the continuous
+                    intra-arterial administration of HSA-MWCNT-Custodiol solution.
+Measurement of heat shock protein (HSP) expression
+Specimens from various areas (both tumor and healthy tissue) were harvested after
+                    combined intra-arterial administration and external laser irradiation, and
+                    embedded in OCT cryomatrix (Sakura Finetek). Fluorescence immunostaining was
+                    performed on several sections for the measurement of HSP27 (green fluorescence)
+                    and HSP90 (red fluorescence) expression.
+Tissue staining and imaging
+For this purpose, multiple tissue samples were extracted from each region and
+                    from each surgical specimen, under ultrasound guidance. Thus, biopsy samples
+                    before, during, and after irradiation and treatment with HSA-MWCNTs were
+                    obtained from the tumor (central and peripheral area) and from the surrounding
+                    pancreatic tissue (5-10 mm outside the gross margins of the tumor),
+                    using TruCut needle (Dyna Medical, ON, Canada) biopsy.
+Biopsies were immediately frozen in liquid nitrogen, stored at
+                    -70degC, and sectioned at 7 mm with a Leica RM 2125 RT
+                    microtome (Wetzlar, Germany).
+For the common histopathologic analysis, tissue specimens harvested from the
+                    tumor mass and the surrounding areas were immersed in 4% formaldehyde
+                    solution, after the photothermal treatment. The tissues were embedded in
+                    paraffin wax, serially sectioned, and stained with hematoxylin and eosin.
+                    Typical morphological characteristics were examined under light microscope.
+                    Thermal injury was assessed in sections using a semiquantitative scale, with a
+                    necrotic area percentage of 0 = normal; 1 =
+                    <10%; 2 = 10%-50%; 3 =
+                    50%-75%; 4 = >75%. Light
+                    microscopy analysis was performed using an Olympus BX60 microscope (Hamburger,
+                    Germany).
+Electron microscopic observation
+Biopsies specimens were extracted from several parts of the tumor and routinely
+                    prepared on 0.05 mm thin slides, monitoring the changes in the malignant
+                    tissue's ultrastructural morphology, using a Jeol JEM 1010 transmission
+                    electron microscope (Jeol, Tokyo, Japan). The images were captured using a Mega
+                    VIEW III camera (Olympus, Soft Imaging System, Munster, Germany).
+Temperature measurements
+To characterize the baseline conditions and parameters for the proposed treatment
+                    method, continuous remote multithermometer reading was conducted in both the
+                    healthy and tumor tissue during the treatment, using a fast response Therma 20
+                    handheld thermometer (Electronic Temperature Instruments, Worthing, UK),
+                    equipped with stainless steel, fast response, needle penetration probe. The
+                    thermistor probes were positioned inside the healthy or tumor tissue under
+                    ultrasound guidance.
+Statistical methods
+The continuous data was tested for normality (Kolmogorov-Smirnov test)
+                    before the hypothesis testing. The longitudinal data, representing repetitive
+                    measurements of the same parameter during the follow-up interval, were analyzed
+                    through the construction of kinetic curve along with the area under the curve
+                    (AUC) calculus. Consecutively, kinetic curves of two different groups were
+                    compared using Mann-Whitney U test. Fisher's
+                    exact test was used for qualitative data correlations. For all tests, a 0.05
+                    threshold was selected for statistical significance. Statistical data analysis
+                    was performed using SPSS 17.0 software (Chicago, IL).
+
+Results and discussion
+Functionalization of MWCNTs with HSA
+To obtain a targeted delivery of MWCNTs directly into the cancer cells, and to
+                    visualize and detect the localization of the nanotubes inside the cells,
+                    HSA-FITC was used and noncovalently labeled onto the oxidized surface of
+                    MWNTs.
+Confocal microscopy has been proposed to identify fluorescein isothiocyanate
+                    (FITC) labeled CNTs in solution and to provide clues regarding the
+                    successfulness of noncovalent functionalization of MWCNTs with HSA-FITC. As
+                    shown in Figure 3C, globular
+                    green MWCNTs, corresponding to large molecules of fluorescent albumin, were
+                    observed.
+The oxidation of the nanotubes using a 3:1 (v/v) mixture of concentrated sulfuric
+                    and nitric acid gives them hydrophilicity and stability in aqueous systems due
+                    to the formation of -COOH, OH groups at the end of and along the
+                    sidewalls of the tubes.28
+Fourier transform infrared (FTIR) spectra from Figure 4A confirms successful oxidation. By
+                    comparing the FTIR spectra of pristine MWCNTs (black) with the oxidized-MWCNTs
+                    (red), the characteristic bands of the oxygen-containing groups appear at 3422
+                        cm-1, corresponding to the O-H stretching
+                        vibration,29 a week band at
+                    1721 cm-1, corresponding to the carbonyl and carboxyl
+                    C-O stretching vibration, at 1582 and 1380 cm-1,
+                    corresponding to the O-H deformation vibration, and at 1117
+                        cm-1, corresponding to the C-O stretching
+                    vibration. The band at 620 cm-1 corresponds to the C-O
+                    out-of-plane deformation.30
+Further, we have noncovalently conjugated HSA-FITC on the surface of oxidized
+                    MWCNTs. Firstly, we have covalently labeled HSA with FITC at an increased pH
+                    (above pH = 9), as schematically shown in Figure 3A. FITC has covalently attached to the
+                    protein through the alpha-amino group. Secondly, HSA-FITC complex has been
+                    adsorbed onto the nanotubes, presumably through electrostatic interactions
+                    between the functional groups of MWCNTs and the protein-positive domains (Figure 3B). Taking into
+                    consideration the fact that not all the surface of the nanotubes is oxidized,
+                    hydrophobic interactions can also occur.
+UV-Vis spectroscopy is a simple but efficacious method which confirms the
+                    formation of the oxidized MWCNT-HSA-FITC complex. The nanotube solutions give an
+                    adsorbtion band at 295.7 nm, which corresponds to the +/-plasmon
+                    transition of MWCNTs.31
+The yellowish HSA-FITC solution has the characteristic adsorbtion band at 489 nm
+                    and a second adsorbtion at 292 nm, which suggests the existence of aromatic
+                    amino acids of HSA. Comparing the above mentioned spectra, the formation of the
+                    MWCNT-HSA-FITC complex becomes obvious due to the appearance of oxidized-MWCNT
+                    band and HSA-FITC band at 475.6 nm, which is shifted and has low intensity
+                        (Figure 4C).
+The conjugation of HSA-FITC onto the nanotube surface is also confirmed by FTIR
+                    spectroscopy as seen in Figure
+                    4B. No similarity can be observed when comparing the spectra of HSA-FITC
+                    with that of the nanotube-conjugated HSA-FITC. All the corresponding peaks had
+                    shifted their position, and some of them even disappeared. In the higher region,
+                    the stretching vibration band of the N-H groups at 3409
+                        cm-1 changed their shape in a broad band that included
+                    two peaks: one at 3389 cm-1 (N-H groups stretching
+                    vibration) and the second at 3303 cm-1, which is the pyridine
+                    aromatic C-H stretching vibration band. The aliphatic C-H
+                    stretching vibration band at 2929 and 2873 cm-1 moved to 2922
+                    and 2865 cm-1, showing that these groups are involved in
+                    electrostatic bonds. Amide I and II are also shifted to low frequency: amide I
+                    from 1656 to 1649 cm-1, amide II from 1544 to 1532
+                        cm-1. The CH3 asymmetric and symmetric deformation
+                    changed their band from 1459 to 1447 cm-1, and from 1416 to
+                    1389 cm-1. The region in between dramatically changed their
+                    intensity. This is due to the spontaneous adsorbtion of the crystalline HSA-FITC
+                    complex onto the MWCNTs and the formation of a well organized oxidized
+                    MWCNT-HSA-FITC.
+Furthermore, atomic force microscopy (AFM) analysis of the HSA-MWCNT solution was
+                    performed. A representative AFM evidence of the successful attachment of HSA
+                    molecules onto the surface of the nanotubes is shown in Figure 3D. AFM allowed the analysis at the
+                    nanometric scale of the two HSA molecules (black arrows in Figure 3D) attached to the end of the nanotubes
+                    (white arrows). A single HSA molecule (red arrow) has been also observed in the
+                    topographic image shown. The length of the CNTs was estimated as being lower
+                    than 200 nm. The lateral resolution of an AFM image is determined by the tip of
+                    the object that is imaged. In the presented image, the width of the nanotube
+                    appears to be greater than 2 nm, as we used an AFM tip having a ~15 nm
+                    radius of curvature.
+Ex-vivo testing procedure
+The main goal of this investigation was to develop and test a new method of
+                    treatment of human pancreatic adenocarcinoma. Preliminary literature data
+                    supports the involvement of albumin in tumor growth. In the present study, we
+                    tested a carrier-linked CNT system based on HSA for the selective delivery and
+                    laser mediated ex-vivo ablation of living human PC tissue (Figures 2A and 2B).
+The central hypothesis of the study was that albumin will carry the MWCNTs inside
+                    the tumor tissue after intra-arterial perfusion. To test this hypothesis, we
+                    developed an experimental platform using viable resected specimens from patients
+                    who underwent curative treatment of PC.
+Despite their attractiveness in nanomedicine, in-vitro test conditions cannot
+                    duplicate the host environment due to the variability of the testing media (eg,
+                    acidic versus alkaline, differences in cation content), and exhibit limiting
+                    effect of protein binding on cell surface receptors.32 Moreover, the controlled conditions present in
+                    in-vitro biosystems are significantly different from those in vivo, and
+                    properties of nanoparticles such as high adsorption capacity, hydrophobicity,
+                    surface charge, optical and magnetic properties, or catalytic activity may be
+                        modified.33
+On the other hand, obvious potential pitfalls of nanophotothermolysis experiments
+                    on mice models are represented by the morphology and size of the tumor, which
+                    are fundamentally different than that of human tumors. Thus, all the
+                    particularities of human tumors such as vessel anatomy and distribution, and
+                    volume and location, are not comparable to these models.
+Cytotoxicity induced by laser irradiation or internalization of
+                    HSA-MWCNTs
+To avoid a potential bias, we investigated the possible necrotic effect of simple
+                    laser irradiation. For this purpose, using fine needle biopsy, we extracted
+                    tumor samples before and after irradiation, without HSA-MWCNTs. As shown in
+                        Figures 5A and 5B, no differences regarding size
+                    and shape, nuclear modifications or necrosis, were observed at the
+                    histopathological analysis of the specimens, before and after irradiation. For
+                    similar reasons, we analyzed tumor specimens after the simple internalization of
+                    HSA-MWCNTs. As shown in Figure
+                    5C, no morphological changes were noticed in the extracted samples after
+                    administration.
+In addition, terminal TUNEL assay was performed, suggesting that there was no
+                    difference regarding the apoptotic rate among the examined tissues (data not
+                    shown).
+Internalization of CNTs
+The ability of FITC-labeled bioconjugate of HSA-MWCNTs to internalize inside the
+                    tumor cells after administration via vascular supply has been assessed by
+                    confocal fluorescence and electron microscopy imaging.
+The area with the highest concentration of HSA-MWCNTs was observed in the central
+                    part of the tumor, where most of the malignant cells were stained with
+                    fluorescent dye (Figure 6C). The
+                    malignant tissue extracted from the periphery of the tumor also presented
+                    intracytoplasmic MWCNT-HSA-FITC. However, a lower density of fluorescent
+                    nanotubes was noted compared with the central region of the tumor (Figure 6B). No fluorescence was
+                    observed outside the tumor in the surrounding healthy parenchyma (Figure 6A). Thus, we have provided
+                    imagistic evidence that HSA can act as delivery carrier of MWCNTs, and because
+                    we were unable to identify any fluorescence in the healthy pancreatic tissue, we
+                    reasoned that the HSA-MWCNT bioconjugates exhibit 100% affinity for
+                    ductal adenocarcinoma cells. These data support on the one hand the involvement
+                    of the vascular architecture of the malignant lesion tributary to pancreatic
+                    magna artery and on the other hand the specificity of HSA for cell receptors in
+                    the selective internalization of HSA-MWCNTs.
+Moreover, electron microscopy of the tissue after treatment showed necrotic
+                    features with disintegrated nuclei, and intracellular clusters of MWCNTs,
+                    suggesting the efficacy of nanophotothermal ablation.
+The mechanism of selective internalization of HSA-MWCNTs inside the malignant
+                    pancreatic cells
+To shed light on the molecular mechanisms involved in the specific
+                    internalization of HSA-MWCNTs in the pancreatic malignant cells, we investigated
+                    the possibility that a 60 kDa glycoprotein, gp60, which is known to function in
+                    albumin transcytosis in malignant cells,34 was involved in the selective internalization
+                    of albumin bound to CNTs. To accomplish this, we let the cells treated with 5
+                    mg/L HSA-MWCNTs for 1 hour incorporate cy3-anti-gp60 antibody for 30
+                    minutes at 37degC. Therefore, we obtained fluorescent images proving the
+                    internalized cy3 fluorescence (Figure
+                        1B).
+Alternatively, we showed that PANC-1 cells internalized albumin-bound MWCNTs
+                    (fluorescently labeled with FITC) that were distributed into the punctate
+                    structure inside the cells (Figure
+                        1A). DAPI, which is known to form fluorescent complexes with natural
+                    double-stranded DNA, was used for nuclei staining. In Figure 1C, a nearly complete co-localization of
+                    the FITC fluorescence (green image) and cy3 fluorescence (red image) was
+                    emphasized by the yellow color in the merged image. This finding suggests that
+                    albumin-bound MWCNTs were incorporated into the plasmalemmal vesicles containing
+                    gp60 as a membrane protein, further validating HSA-MWCNT specificity for gp60
+                    receptors. Therefore, based on this data, we showed that HSA-MWCNTs can act as
+                    specific and sensitive site-targeted nanosystems against gp60 receptors located
+                    on the PC cell membranes.
+Very recent clinical trials suggest that specific targeting of GP60 (albondin)
+                    receptor with Abraxane (Celgene, Summit, USA), a cytostatic drug called
+                    paclitaxel bound to human albumin may prolong the survival in advanced cases of
+                        PC.35 For the first time,
+                    the results of this study demonstrate that HSA-MWCNTs exploit the albondin
+                    receptor, in a similar manner, penetrating the blood-stroma barrier with
+                    consequent delivery of active nanomaterial inside the malignant cells (Figure 7).
+Temperature measurements
+Laser irradiation of cancer cells labeled with HSA-MWCNTs may be used in two
+                    modes: pulse and continuous. The pulse mode produces localized (few micrometers)
+                    damage of individual cancer cells by laser-induced micro- and nano-bubbles
+                    around overheated nanoparticles, without harmful effects on the surrounding
+                    healthy cells. It particularly favors in-vivo destruction of single circulating
+                    tumor cells only by using nanosecond laser pulses. The second mode is more time
+                    consuming (a few minutes of exposure) and has the thermal denaturation and
+                    coagulation effects as main mechanisms of cell damage. It is more appropriate to
+                    treat primary tumors with sizes of several millimeters.36 Based on these data, we used continuous laser
+                    to irradiate the tumor after the internalization of HSA-MWCNTs.
+There was no difference in tissue temperature among the three areas measured at
+                    baseline (Figure 8): 1) the
+                    central region of the tumoral mass; 2) the peripheral region, 2-5 mm
+                    away from the edge of the hypoechogenic tumor mass; and 3) the healthy
+                    pancreatic tissue surrounding the tumor. Statistical analysis of the maximal
+                    tissue temperature among the three areas revealed that the heating curves of the
+                    area under the curve (AUC) corresponding to the central and peripheral regions
+                    of the tumor were significantly higher (P > 0.05) than
+                    the heating curves obtained from the temperature measurements in the pancreatic
+                    tissue. This indicates that the heating process following the irradiation and
+                    HSA-MWCNT treatment mainly occurred in the tumor mass. As shown in Figure 8B the maximal tissue
+                    temperatures (4.2degC in the surrounding healthy tissue; 25.6degC at
+                    the periphery of the tumor; 29.3degC in the central region of the tumor)
+                    were approximately achieved after 20 minutes of irradiation combined with the
+                    simultaneous administration of HSA-MWCNTs. The findings in Figure 8 demonstrate that after 20 minutes of
+                    laser irradiation combined with ex-vivo intra-arterial administration, the
+                    temperature elevations in the tumor tissue are high enough to produce extensive
+                    necrosis of the tumor compared with the harmless effects on the healthy
+                    parenchyma. In a separate experiment, 200 mg/L of highly purified solution of
+                    unconjugated MWCNTs were simultaneously administered in combination with
+                    external laser irradiation. Temperature measurements displayed a maximal
+                    increase (delta t = 16.6degC) in the superficial pancreatic tissue
+                    above the tumor (closest to the laser diode). Moreover, the temperature
+                    magnitude at the periphery of the tumor closest to the laser beam was of only
+                    9.7degC, while in the middle and distant margins of tumor the increase was
+                    of only 6.2degC and 4.5degC respectively. These changes were further
+                    confirmed by the histopathological analysis displaying extensive necrotic areas
+                    in the healthy tissue located in the vicinity of the laser diode, as suggested
+                    by the histological scores (Figure
+                        9E). Thus, we obtained evidence that ex-vivo intra-arterial
+                    administration of highly purified unconjugated MWCNTs is tributary to the
+                    architecture of the capillary bed inside the pancreatic parenchyma, further
+                    demonstrating the nonselective distribution of the nanomaterial inside the
+                    pancreatic tissue (both healthy and malignant).
+Remote thermistors may be independently placed inside the tissue, and can measure
+                    intraprocedural tissue temperatures. In the present study, the CNT mediated
+                    thermal activation of tissues was similar to that reported by other papers.37
+HSP response to MWCNT-mediated photothermal therapy
+To confirm the results mentioned above, we have used an independent measure of
+                    heat generation: induction of HSPs, which are induced by elevated temperatures
+                    and serve as endogenous cellular markers of thermal stress. As seen in Figure 8A, minimal expression
+                    exists for all HSPs in the surrounding tissue, after treatment. Maximal HSP27
+                    and HSP90 expression were induced in the tumor tissue.
+Assessment of tumor necrosis after laser treatment and internalization of
+                    HSA-MWCNTs
+In the present study, we have used MWCNTs as heat inducing agents under laser
+                    radiation, in order to obtain a selective necrosis of the malignant lesion. This
+                    method is based on the presence and clustering of MWCNTs inside the targeted
+                    cells. Their highly optical absorption capacity is responsible for inducing
+                    thermal effects under NIR irradiation, where the biological systems have low
+                    absorption and high transparency.38 The optoelectronic transitions in the graphitic structures of the
+                    MWCNT clusters generate thermal energy39 that rapidly diffuses into the subcellular compartments where the
+                    nanobioconjugates are present.
+In this ex-vivo experiment, the pancreas was preserved in crystalloid perfusion
+                    combined with cold storage. Simultaneously, HSA molecules bound to MWCNTs were
+                    directly perfused in the greater pancreatic artery under ultrasound guidance.
+                    The next step was to irradiate the hypoechogenic tumor mass.
+After combined irradiation and intra-arterial perfusion of HSA-MWCNTs, all
+                    sections were evaluated in detail for any cell shape changes (cell shrinkage,
+                    extraordinary cytoplasmic eosinophilia, clear cell change, cytoplasmic
+                    vacuolization), nuclear changes (nucleomegaly, multinucleation, hyper-chromasia,
+                    symplastic changes), and coagulative necrosis. The histopathological examination
+                    clearly revealed foci with sizes ranging from 500 mm to a few
+                    millimeters, with common signs of thermal cell necrosis, present in all the
+                    examined malignant slides in the entire tumor mass, mostly in its central
+                    area.
+A representative histopathological image of such necrosis is shown in Figure 9C: the malignant cells are
+                    shrunken, with loss of contact, eosinophilic cytoplasm and nuclear damage
+                    (pyknotic and fragmentized nuclei). The apoptotic bodies were present (Figure 9B). At the same time as the
+                    destruction of the tumor cells, thermal injury was observed in the stromal
+                    reactive tissue. Both the extracellular matrix and the cellular components of
+                    the desmoplastic reaction were affected. As shown in Figure 9B, the connective tissue surrounding the
+                    tumor cells was disrupted (oedematous), with fragmented, acidophilic collagen
+                    fibers. Some foci revealed hydropic degeneration, with cell ballooning due to
+                    intracitoplasmatic vacuolization of the tumor cells (Figure 9B). Due to the impaired staining
+                    characteristics, no clear demarcation between the viable and necrotic cells was
+                    observed. Figure 9D shows few
+                    areas of preserved tumoral architecture, with tumoral and glandular structures
+                    lined by mucus-secreting columnar cells alternating with thermally damaged,
+                    shrunken cells. No morphologic changes were noticed during the histopathological
+                    analysis of the samples extracted from the pancreatic tissue surrounding the
+                    tumor. Figure 9A illustrates the
+                    histological characteristics of this tissue after photothermal treatment. Normal
+                    pancreatic structure with secretory units or acini consisting of a single layer
+                    of pyramidal cells, surrounded by connective tissue, Langerhans islets and
+                    pancreatic ducts could be observed. These findings were additionally confirmed
+                    by electron microscopy analysis.
+Histological scoring indicated that pancreatic damage was more pronounced in
+                    malign tissue after treatment. As seen in Figure 9E, overall histological scores showed a
+                    marked increase in malign cell death (where necrotic areas were more than
+                    50%, on all the examined slides), whereas necrotic cells were observed
+                    only sporadically in tissue obtained from healthy, surrounding parenchyma. For
+                    control solution, tissue disruption and cell death was observed predominantly in
+                    the surrounding tissue. These data, together with the observation of massive
+                    HSA-MWCNT accumulation in the tumor tissue, suggest that the combination of
+                    HSA-MWCNTs and laser irradiation produces selective necrosis of human PC.
+To investigate the selectivity and efficacy of the proposed treatment, terminal
+                    TUNEL assay was performed in order to stain the necrotic nuclei of apoptotic
+                    cells on the examined slides. As seen in Figures 10A-10C, based on this method, we
+                    obtained strong imaging evidence that more than 95% of the tumor cells
+                    were apoptotic after irradiation. On the other hand, the apoptotic rate of the
+                    surrounding healthy cells was less than 2% (Figures 10D-10F) on all the examined
+                    slides (P < 0.0001). These observations strongly
+                    suggest the specific nature of our treatment and confirmed its efficacy in
+                    inducing selective apoptosis in human pancreatic adenocarcinoma.
+The hallmark of cell lysis is represented by DNA degradation, which in the early
+                    stages is selective to the internucleosomal DNA linker regions. The DNA cleavage
+                    may yield double-stranded and single-stranded DNA breaks (nicks). Both types of
+                    breaks can be detected by labeling the free 3'-OH termini with
+                    modified nucleotides such as fluorescein-dUTP in an enzymatic reaction. The
+                    terminal deoxynucleotidyl transferase (TdT) catalyzes the template-independent
+                    polymerization of deoxyribonucleotides to the 3'-end of single- and
+                    double-stranded DNA. This method is recognized for its high sensitivity and
+                    specificity for apoptotic cell detection in tissue sections.40 This selective destruction of
+                    the tumor tissue has additionally confirmed the efficacy of the selective
+                    internalization of MWCNTs, with HSA cargo, inside the ductal pancreatic
+                    adenocarcinoma after intra-arterial perfusion.
+According to the information provided by the remote temperature measurements, in
+                    the present study, the HSA-MWCNT-mediated heating was tumor-specific, and
+                    consequently, the risk of damaging collateral structures was insignificant.
+                    Therefore, a clinical development of such treatment would have great
+                    benefit.
+If we dissect the molecular detail of the HSA-MWCNT-mediated laser ablation
+                    mechanism, we obtain a selective necrosis of each malignant cell at a
+                    micrometric scale, with consequent global tumor involution. This is of decisive
+                    importance since all the current thermal ablation techniques in surgery rely on
+                    the use of invasive electrodes that generate high local temperature
+                    (90degC), with nonselective carbonization of the tissue. Therefore,
+                    methods such as radiofrequency or ultrasound ablation are not used in pancreatic
+                    surgery (they have limited applications in liver and kidney tumor
+                        treatment).41 Due to the
+                    burning effects on the tissue, complications of these techniques in surgical
+                    practice, such as the extensive destruction of normal tissue with organ failure,
+                    residual abscesses, vascular injuries and peritoneal hemorrhage, neoplastic
+                    seeding, and intestinal perforation, are quite common.42
+The spread of PC cells in the systemic circulation, with consequent seeding in
+                    other organs, a process called metastasis, is the cause of most PC-related
+                    deaths. Thus, the development of selective targeted therapies able to destroy
+                    these circulating cells could open a new era in the treatment of PC. Therefore,
+                    there is a dire need for innovations of such molecular "Trojan
+                    horses", able to produce safe single-cell necrosis, with minimal side
+                    effects.
+In this experiment, all the existent situations met in surgical practice were
+                    replicated. We reasoned that, from a surgical point of view, the ultrasound
+                    identification of the tumor and its vascular supply, the intra-arterial
+                    administration of the functionalized MWCNTs, as well as the external laser
+                    irradiation, could all be safely achieved in patients by means of minimally
+                    invasive surgery, with major benefits for the patient (eg, laparoscopic approach
+                    or percutaneous approach under ultrasound/CT guidance).
+
+Conclusion
+We showed for the first time that HSA-MWCNTs are selectively internalized in human
+                pancreatic adenocarcinoma cells through the binding of albumin carrier to the gp60
+                receptor. Moreover, to our best knowledge, this is the first demonstration of the
+                therapeutic potential of intra-arterially delivered nanobioconjugates in living
+                human tumors. This is of decisive importance, especially with regard to the
+                initiation of this therapeutic method in clinical trials. The proposed ex-vivo
+                platform could be further used for the development and testing of new
+                nanobioconjugates with specificity for PC. Thus, starting from this model, other
+                ex-vivo platforms (eg, human hepatocellular carcinoma, kidney tumors) can be built,
+                with the purpose of testing new active nanobiomolecules against human cancers.
+The above results assign human albumin as having a good potential for use as a
+                selective delivery carrier for the development of CNT-based targeting agents in the
+                treatment of PC. This original therapeutic strategy (intra-arterial administration
+                of nanobiosystems in living human organs) presented in this paper will likely
+                increase the knowledge of CNT-mediated photothermal therapy in cancer and will open
+                new doors in oncological research. Nevertheless, further research is required for
+                the careful assessment of unexpected toxicities and biological interactions of
+                HSA-MWCNTs inside the living organism.
+
+Ethical considerations
+The authors state that they have obtained appropriate institutional review board
+                approval (decision number 7699/17.05.2010) and have followed the principles outlined
+                in the Declaration of Helsinki for all human experimental investigations. For
+                research regarding surgically resected specimens, informed consent has been obtained
+                from the participants involved, and the experiments were tailored so that the future
+                outcome or further therapeutic strategy would not affect these patients.

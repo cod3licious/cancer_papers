@@ -1,0 +1,158 @@
+[Abstract, Introduction, Mixed, Mixed, Discussion]
+
+Involvement of memory T-cells in the pathophysiology of chronic
+lymphocytic leukemia. The role of T-cells in the pathogenesis of chronic lymphocytic leukemia has recently gained much attention due to the importance of the constant interaction between neoplastic B-cells with microenvironment substratum and T-cells. It is believed that these interactions modulate the clinical course of the disease, mainly through the regulation of the expansion, differentiation, and survival of chronic lymphocytic leukemia B-cells. Importantly, this crosstalk may also change the number, function, and memory phenotype of normal T-cells, thereby altering the amplitude and/or efficiency of adaptive immunity in chronic lymphocytic leukemia patients. The present study presents an overview on important aspects of this immunological crosstalk, particularly on the abnormalities of chronic lymphocytic leukemia B-cells and the alterations in normal T-cells, with focus on the CD4 memory T-cell compartment that could offer survival signals to chronic lymphocytic leukemia B-cell clone(s) and contribute to the establishment and progression of the disease. The authors believe that understanding the biological consequences of the interaction between normal T- and neoplastic B-cells in chronic lymphocytic leukemia may allow for improvements in the prognostic information and therapeutic approaches for this disease.
+
+Introduction
+Chronic lymphocytic leukemia (CLL) is the most common mature B-cell neoplasm in Western
+countries. It is characterized by the appearance of monoclonal
+CD5+CD19+ mature B-cells in the peripheral blood, lymphoid
+system, and bone marrow.1 The
+prevalence of the disease is higher in men compared to women and the estimated incidence
+is two to six cases per 100,000 people annually. At the time of diagnosis, approximately
+31% of the patients are younger than 64 years and the average age is 72 years.1,2
+The clinical course of CLL is heterogeneous, and survival can vary from months to
+decades. Although most patients have an asymptomatic disease, there is a group of
+patients with aggressive CLL characterized by autoimmune hemolytic anemia, recurrent
+infections, immunodeficiency, and transformation to aggressive lymphoma, with an average
+life expectancy of less than three years.1,3
+Several factors play an important role in the etiology of CLL, such as genetic
+predisposition related to the familiar history, environmental factors, and
+antigens/auto-antigens promoting division of precursor cells and clonal
+evolution.1,4 Moreover, the study of CLL genome by sequencing
+approaches revealed novel mutated genes, such as MYD88, NOTCH1, SF3B1, and XPO1, among
+others. Importantly, some of these genes may be considered as prognostic
+factors.5-6
+Another important aspect that modulates the outcome of the disease in CLL patients is
+the interaction between neoplastic B-cells with microenvironment substratum and T-cells.
+These interactions occur in organized structures termed pseudofollicular proliferative
+centers (PC), which are clusters of small lymphocytes dispersed in lymph nodes and bone
+marrow. Interestingly, PC are not visualized in any other B-cell neoplasm, and this
+structure is considered a hallmark of CLL.7 Data in the literature suggest that the crosstalk between CLL
+B-cells, extracellular components of the microenvironment, and T-cells has an important
+impact on the physiopathology and evolution of the disease, mainly through regulation of
+CLL B-cell expansion, differentiation, and survival. Conversely, this crosstalk may also
+induce qualitative and quantitative changes in normal T-cells that could impact the
+fitness of the immune system of CLL patients.7-10
+Tables 1 and 2 summarize some characteristics of neoplastic B-cells and normal T-cells,
+respectively, that may impact in CLL physiopathology.
+In addition to these changes in the T-cell compartment, recent data suggest an
+accumulation of memory T-cells in CLL patients that is associated with a more aggressive
+course of the disease.19,21,30,31 Therefore, this study
+aimed to discuss the possible involvement of memory T-cells in the physiopathology and
+clinical course of CLL.
+
+Memory T-cells
+T-cells play a crucial role in the immune system; they are critical for combating and
+controlling tumors and intracellular and extracellular pathogens, acting as cytotoxic
+cells (cytotoxic T-lymphocytes [CTL]) or assisting other immune cells (T-helper [Th]
+lymphocytes). Importantly, Th lymphocytes differentiate into subsets capable of
+producing different cytokine patterns and, therefore, exerting diverse helper
+functions.8
+The course of immune response can be briefly summarized by initial antigen-specific
+stimulation of naive T-cells that results in activation, vigorous proliferation, and
+differentiation to specific effector T-cell subpopulations, which are capable of
+fighting pathogens and tumor cells.8
+After pathogen clearance, the majority of effector T-cells die due to lack of
+stimulation with participation of the proapoptotic protein B-cell lymphoma 2 interacting
+mediator of cell death (BIM).32 In the
+case of chronic activation of T-cells, these may undergo activation-induced cell death
+(AICD), a cell death regulatory mechanism mediated by the FAS/ FASL
+interaction.33-34 Together, this homeostatic mechanism attempts to restore
+the initial 'baseline' immune system and is defined as the contraction phase of immune
+response.
+However, a small fraction of antigen-specific T-cells are resistant to cell death and
+become long-lived memory T-cells. These cells comprise a heterogeneous group that are
+more sensitive to low antigen concentrations and that survive in the body to give faster
+and more effective antigen-specific responses, providing immediate protection in
+peripheral tissues and the ability to confer secondary responses in lymph
+nodes.34
+Criteria such as immediate effector function, phenotypic diversity, proliferative index,
+migratory capability, and anatomical location are used to define memory T-cells in human
+models and characterize them in central memory (TCM) and effector memory (TEM) profiles
+(Table 3). This classification was proposed
+in 1999 by Sallusto et al. and is now widely accepted in the international scientific
+literature.35,36
+
+CLL and memory T-cells
+As previously mentioned, constant interaction with the microenvironment substratum and
+T-cells is essential for CLL B-cells in order to avoid apoptosis and acquire favorable
+growing conditions. As a result of this crosstalk, some changes in T-cells are well
+documented, but a recent observation that CLL is able to interfere in naive and memory
+T-cell status deserves more discussion.19,21,30,31
+It has been demonstrated that CLL patients have a significant skewing only in the CD4
+T-cell compartment towards TCM and TEM cells.37 Interestingly, this altered T-cell profile was associated with a
+more aggressive course of the disease, as shown by the positive association with
+unmutated human immunoglobulin heavy chain variable genes (IgVH), advanced
+regent admission index clinical stage, and shorter treatment-free survival. Conversely,
+there was no correlation between the increase in CD4 memory T-cells and CD38 expression
+or genomic aberrations in CLL patients.19
+Another study demonstrated that a CLL mouse model had decreased naive T-cells with
+concomitant increase in antigenexperienced memory T-cells, mainly the subtypes that have
+the ability to migrate to lymph nodes.30 As the background of the mouse model used was the TCL1, which
+represents an aggressive CLL, it is possible that the increased numbers of memory
+T-cells are related to the aggressiveness of CLL, both in humans and mice.
+An interesting question is how the different types of memory T-cells could influence CLL
+physiopathology. It has been postulated that chronic antigenic stimulation through the
+B-cell receptor (BCR) is required for the neoplastic clone to survive and
+grow.38 In this context, CD4 TCM
+cells have the capability to migrate to the lymph nodes due to their expression of CXCR5
+(a chemokine CXCL13-receptor produced by B-cells in lymph node follicles), and could
+interact with CLL B-cells, providing co-stimulatory signals, such as CD40L and
+cytokines.36 This crosstalk
+could contribute to a stronger BCR signaling, greater survival, expansion, and evolution
+of CLL.
+In addition, according to the literature on memory T-cell generation, a low but
+sufficient activation of naive T-cells is crucial to the differentiation of TCM
+cells.39 Associating this
+evidence with the fact that CLL B-cells are poor as antigen presenting cells,11 the interaction between CLL B-cells and
+naive T-cells could result in a weak stimulation leading to the generation and/or
+accumulation of CD4 TCM cells.
+Regarding TEM cells, cytokine production of interleukin-4 (IL-4) and interferon-gamma
+(IFN-g) could also participate in CLL progression, mainly through the up-regulation of
+BCL-2 and protection of CLL cells from apoptosis.40,41 It was demonstrated
+that, in in vitro co-culture assays, the apoptosis rate of CLL B-cells
+in the presence of CD4 TEM cells was lower than in other conditions, such as in the
+presence of either naive CD4 T-cells or peripheral blood mononuclear cells. Moreover,
+the protection conferred by CD4 TEM cells seems to depend on IL-4.19
+Considered together, the existence of an intrinsic feedback mechanism involved in the
+physiopathology of the CLL is supported, in which CLL B-cells could induce the
+generation and/or accumulation of CD4 memory T-cells, which, in turn, would help them
+achieve better survival and expansion (Figure 1).
+Indeed, it was demonstrated that CD4 memory T-cell generation is impaired in mice that
+are deficient in B-cells.37,42
+Figure 1
+Immunological crosstalk between chronic lymphocytic leukemia B-cells and CD4
+T-cells.
+At the lymph node site, neoplastic B-cells interact with naive and activated CD4
+T-cells, resulting in generation/ accumulation of CD4 memory T-cells in peripheral
+blood. Through the lymph node homing receptors, chemokine receptors and co-stimulatory
+CD4 central memory T-cells could offer survival signals to chronic lymphocytic leukemia
+B-cells at lymph node sites. In addition, cytokines produced by CD4 effector memory
+T-cells, such as interleukin-4 and interferongamma, could also participate in this
+survival process.
+Unpublished data from our group supports the aforementioned information. Briefly, we
+analyzed the peripheral blood T-cells of 21 CLL patients, and evaluated whether the
+distribution of naive and memory T-cells was related to the ZAP-70 expression, a
+well-established prognosis factor in CLL.43 Interestingly, this analysis demonstrated that ZAP-70 positive
+patients with neoplastic B-cells presented increased frequency and absolute numbers of
+CD4 TCM cells compared to the ZAP-70 negative patients and 17 age-matched healthy
+individuals (Correia RP, unpublished data). Although other clinical and laboratorial
+prognostic markers were not analyzed at this point, the results are in accordance with
+the literature that shows alterations in the memory CD4 T-cell subpopulations.
+Importantly, it is suggested that this alteration is restricted to the T-helper
+compartment, since no significant differences were observed among memory CD8
+T-cells.
+To the authors' knowledge, there is no study that evidences associations between genetic
+factors and T-cell skewing towards memory status. Because the authors believe that this
+information is critical for a better evaluation of the prognostic value of analyzing the
+memory T-cell compartment, as well as for the understanding of the involvement of CD4
+memory T-cells in the pathophysiology of CLL, studies with this focus are underway in
+this laboratory.
+
+Conclusions
+Abnormalities in T-cell subsets may be associated with the progression of CLL.
+Particularly, the increased CD4 memory T-cells could help CLL B-cells to achieve better
+fitness, i.e., more survival and proliferation signals. Therefore, understanding and
+unraveling this mechanism could improve the prognostic information and therapeutic
+approaches in CLL.

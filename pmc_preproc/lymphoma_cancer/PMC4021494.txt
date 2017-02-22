@@ -1,0 +1,169 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed, Mixed, Mixed, Mixed]
+
+The selective cytotoxic anti-cancer properties and proteomic analysis of Trigonella Foenum-Graecum. Background There are a number of dietary components that may prove useful in the prevention and treatment of cancer. In some cultures, fenugreek seeds are used to treat cancer. The current study focuses on the anticancer properties and proteomic profiles of fenugreek seeds, and is prompted by the clinical profile of a case of primary CNS T cell lymphoma that responded to fenugreek treatment and resulted in tumor regression.   Method Various normal and cancer cell lines were exposed to fenugreek extract at differing concentrations (100 mg/ml, 200 mg/ml and 300 mg/ml) and at different time points (0, 24, 48, 72 and 96 hrs). Protein fingerprints of fenugreek grain/seed types, obtained from four different geographical regions, were analyzed by proteomic expression profiles.   Results We observed selective cytotoxic effects of fenugreek extract in vitro to a panel of cancer cell lines, including T-cell lymphoma. Additionally, the cluster analysis of proteomics data showed that the protein profile of the particular fenugreek used by the patient is significantly different from three other regional subtypes of fenugreek extract.   Conclusion The in vitro effect of fenugreek as a substance with significant cytotoxicity to cancer cells points to the potential usefulness of fenugreek in the prevention and treatment of cancer.
+
+Background
+There is growing use of complementary and alternative anticancer medicines worldwide. Trigonella foenum graecum (fenugreek) is traditionally applied to treat disorders such as diabetes
+[1], high cholesterol
+[2], wound inflammation
+[3], and gastrointestinal ailments
+[4]. Fenugreek is also reported to have anticancer properties due to its beneficial active chemical constituents. It's mechanism of action is similar to several anticancer drugs, and is based on an ability to induce apoptosis
+[5].
+The current in vitro studies were prompted by the clinical profile of a previously reported case of primary CNS T cell lymphoma
+[6]. Brain MRI with contrast was performed and revealed numerous cerebellar-enhancing lesions with secondary hydrocephalus (Figure
+1). Brain biopsy of cerebral lesions showed a lympho-proliferative lesion. Histochemistry indicated T-cell infiltration of the cerebellum. Immunochemistry revealed immature T-lymphocytes (CD3, CD7, CD5) and mature lymphocytes (CD4, CD2).
+Figure 1
+Brain MRI with contrast shows cerebellar enhancing lesions with secondary hydrocephalus.
+The patient initially went into clinical remission for 37 months after chemotherapy and radiotherapy. After three years of remission, the patient's disease relapsed with intermittent weakness in her left arm and deviation of her mouth to the left. MRI of the brain with contrast showed a new enhanced lesion in the right frontoparietal region (Figure
+2). The lesion was biopsied and the histopathology analysis confirmed the recurrence of her lymphoma. The patient was put on terminal care because the family refused treatment and took the child home
+[6].
+Figure 2
+Brain MRI shows new enhanced lesion in the right frontoparietal lesion.
+The family decided to treat their child with concentrated extract of fenugreek, boiled in regular water. The approximate daily treatment amount was 8 g of fenugreek seeds, over the course of 6 months. Repeat brain MRI three months later showed significant improvement in the new right intra cerebral lesion frontoparietal (Additional file
+1: Figure S1). The subsequent brain MRI after six months showed complete resolution of the relapsed lesion (Figure
+3). The patient continued in remission for 11 years; however, she had a devastating relapse in early 2012 and is currently emaciated and bed ridden. A repeat brain MRI in June 2012 showed new enhanced lesions and diffuse high signals on the right hemisphere (Additional file
+2: Figure S2, ABCD).
+Figure 3
+Brain MRI with contrast shows
+complete resolution of relapsed lymphoma.
+In this report we demonstrate the selective cytotoxic effects of fenugreek extract in vitro on a panel of cancer cell lines, and a proteomics analysis of fenugreek.
+
+Methods
+Patient material
+The patient consented for the publication of the clinical report. The study was approved by the Office of Research Affairs (ORA under the umbrella of Research Advisory Council (RAC) of King Faisal Specialist Hospital and Research Center (KFSHRC), with approval umber RAC#. 2120 006.
+In order to avoid sample source variability all samples analyzed were purchased from the same local grocery store used by the patient.
+Cell culture and fenugreek extraction
+A variety of normal and cancer cell lines including; T-cell lymphoma (TCP), B-cell lymphomas, Thyroid Papillary carcinoma (FRO) and human breast cancer (MCF7) were obtained from American Type Culture Collection (ATCC). Cells were cultivated at 37degC and 5% CO2 in Dulbecco's MEM (DMEM) containing 5% fetal bovine serum, 3 mM glutamine (Gibco, NJ, USA) and antibiotics.
+Fenugreek seeds were extracted in water, filtered, and concentrated with minor modification
+[7]. The extract was reconstituted to a working stock concentration of 50 mg/ml
+[8]. Cells were exposed to fenugreek extract at different concentrations (100 ug/ml, 200 ug/ml and 300 ug/ml)
+[9] and at different time points (0, 24, 48, 72 and 96 hrs).
+Cell viability assay
+Cells were seeded onto a 96-well plate at a density of 5000 cells/well. In order to achieve meaningful quantitative analysis, duplicate or triplicates samples were subsequently incubated at 37degC for 72 hrs. in a titrated medium containing different concentrations of fenugreek extract. The number of viable cells was estimated using the protocol of 3-(4,5-dimethylthazol-2yl)-2,5-diphenyletrazlium bromide (MTT)-assay (Promega, Madison, WI, USA).
+Apoptosis analysis by annexin V staining
+Approximately 5 x 105 cells were seeded and cultured in 60 mm plates to 50-70% confluence. Triplicate samples were subsequently incubated at 37degC for 72 hours in a titrated medium containing different concentrations of fenugreek extract. The applied fenugreek extract was re-constituted in sterile water to yield the desired concentration of 300 ug/ml. Cells were collected at 24, 48, 72 and 96 hours, centrifuged and re-suspended in 1 ml of PBS. Thereafter, cells were stained with Propidium Iodide (PI) and Alexa Fluor 488 Annexin V, using Vybrant Apoptosis Assay kit #2 (molecular probes) according to the manufacturer's protocol. Stained cells were analyzed by flow cytometry. Viable cell percentages were determined by the FACS Calibur apparatus and the Cell Quest Pro software from Becton Dickinson (BD Biosciences).
+Proteomics analysis of anticancer effects of fenugreek proteins on brain tumor
+Protein patterns of different types of fenugreek grains/seeds were obtained from four different regions (labeled A-D). All four fenugreek types were analyzed by two-dimensional polyacrylamide gel electrophoresis (2-DE) for global differential protein expression profiles. The aim was to identify significantly differentially expressed proteins, and to identify proteins that are cancer related amongst the four types. The potential clinical applications of these proteins will be further evaluated.
+Electrophoresis, scanning and image analysis
+Seeds/grains from four different fenugreek types were ground and protein extracted. The samples were diluted to a total volume of 350 ml, in a solution containing 8 M urea, 2 M thio urea, 0.2% Pharmalyte, 0.3% DTT, 2 M CHAPS and a trace of bromphenol blue. A total amount of 75 mg of protein was loaded on each strip via rehydration using linear pH 4-7 Ready IPG, strips (Bio-Rad, Hercules, CA, USA). First-dimension isoelectric focusing was carried out for a total of 45,500 Vh in a PROTEAN IEF cell (Bio-Rad).
+The IPG-strips were then loaded and run on a 12.5% SDS-PAGE gel overnight at 100 V (constant) until the bromophenol blue dye front had reached the bottom of the gel. The gels were stained with silver nitrate and scanned using a calibrated densitometer, GS 800 and data was analyzed using PDQUEST software (Bio-Rad). Between 3-4 gels were run from each sample to allow for significant statistical analysis and ensure sample reproducibility.
+Data preprocessing/data analysis
+A difference of >= 2-fold change was used as a threshold for marked quantitative difference between pairs of samples. Significantly differentially expressed protein spots were first selected using two different statistical methods (Student's t test and Partial Least Square analysis), features available in PDQuest 2-DE image analysis software. The data from the match set was exported from PDQUEST in the form of a data table, with rows representing gels and columns representing spots. Datasets were normalized prior to analysis
+[10,11]. The resulting data were subjected to hierarchical clustering analysis using the J Express software (java.sun.com).
+
+Results
+Cytotoxic effect of fenugreek on normal and cancer cells
+We found that fenugreek extract has a very selective cytotoxicity against cancer cell lines such as T-cell lymphoma (TCP), B-cell lymphomas, Thyroid Papillary carcinoma (FRO) and breast cancer (MCF7). On the other hand, there was no significant cell cytotoxicity amongst normal cells, including human lymphocytes and meningioma, when treated with fenugreek. This clearly indicates that fenugreek has selective cytotoxic effects against cancer cells (Additional file
+3: Figure S3).
+Fenugreek selectively induces apoptosis in cancer and normal cells
+Apoptosis and necrosis of normal and cancer cells was measured using Annexin V apoptosis assay kit Viable cells, necrotic cells, and apoptotic cells were gated utilizing PI and Annexin V staining. We observed significant fractions of apoptotic cells when normal T-cell lymphocytes and cancer cells (T-cell lymphoma-TCP, and human Thyroid papillary carcinoma-FRO) were treated with 300 mg/ml of fenugreek for 24 and 72 hours respectively. There was a high degree of both early apoptosis (Additional file
+4: Figure S4 - cells in lower right corner) and late apoptosis (cells in upper right panel). The fractions of cells undergoing apoptosis due to fenugreek are significantly higher in all the studied cancer cells compared with normal cells (Figure
+4, Additional files
+4 and
+5: Figure S4, S5 and Additional file
+6: Table S1). All the data was generated using a FACSCaliber flow cytometer.
+Figure 4
+Flow cytometric graphs of T-cell lymphoma without fenugreek treatment (A) and when treated with 300 mg/ml of Fenugreek, for 24, and 72 hours, B and C respectively. The very low number of cells migrated to the right- upper panel are the dead cells by apoptosis induction (late apoptosis) the right lower is the early apoptosis indicating that the apoptotic cell cytotoxicity of fenugreek is very low in normal T-cell lymphocytes cell line. Apoptosis and necrosis was measured using Annexin V apoptosis assay kit. (Molecular Probe). The graphical distribution of viable cells, necrotic and population of apoptotic cells was gated according to their staining signals to PI and Annexin V. The data was generated using a FACS caliber flow cytometry.
+Comparison of protein expression patterns between the four regional fenugreek samples
+An average total number of 790 spots were resolved and minimum of 88.5% of the spots were matched between all the gels. Samples were run in triplicate gels to allow for analysis of statistical significance. Marked quantitative and qualitative similarities were observed in the protein expression profiles of all four fenugreek types. In addition, differential protein expression data revealed marked changes only in the expression profiles between sample A (The extract taken by the patient) and the other fenugreek types B, C & D. The similarity in protein expression between pairs of fenugreek samples was observed using the correlation analyses between two types of samples. When pairs of B/C/D samples were compared an average correlation coefficient of 0.86 was observed. However, we observed a significant degree of heterogeneity in the protein expression between pairs of A/B, A/C and A/D, with an average correlation of only 0.38 (Additional file
+6: Table S2). Representative 2-DE maps from each of the fenugreek samples are shown in Figure
+5.
+Figure 5
+Representative 2-DE gels derived from all the 4 different regional Fenugreek samples. (A): Fenugreek taken by the patient. (B, C and D): Fenugreeks form other regions.
+Hierarchical cluster analysis of differentially expressed proteins between the four regional fenugreek samples
+Matched spots on the gels were compared to investigate differences in protein expression patterns. Protein expression data of a distinct set of 105 differentially expressed protein spots were examined. These differences were statistically significant using Partial Least Square analysis (PLS, P < 0.05) between sample A and the other three fenugreek types (B/C/D) combined. The resulting dataset from these 105 differentially expressed proteins were then subjected to hierarchical cluster analysis. A distinctive 'heat map' separating fenugreek A from the remaining three samples was observed (Figure
+6A). Because of the limited sample size, we used another statistical method, Student's- t test, to select variables that may discriminate between the three sample groups. This analysis resulted in 70 protein spots that differ significantly between the four sample groups. The resulting dataset from these 70 differentially expressed protein spots were then used for possible classification of the samples into their respective groups, using hierarchical cluster analysis. All the A samples were distinct from the other samples, similar to the pattern observed in Figure
+6A (data not shown). To reduce the proteins within the dataset to a more practical number, a total of 8 protein spots, that fall in the intersection of the above two data sets, were selected. All fenugreek A samples were correctly classified away from the other three fenugreek sample types (B/C/D) using the 8 protein spot dataset (Figure
+6B). The fact that the rest of the fenugreek types share more similarities in their expression patterns might explain why there is no distinct clustering of these three sample types. The localization on the 2-DE gel, as well as the differential expressions of some of these protein spots (shown as histograms), is indicated in Additional file
+7: Figure S6.
+Figure 6
+Hierarchical Cluster analysis of fenugreek samples from region A away from the other three different regional fenugreek types using expression dataset from
+(A)
+105 and
+(B)
+8 protein spots that differed significantly using PLS and students-t test analyses respectively.
+Some of the differentially expressed protein spots, that are absent or down-regulated in the fenugreek A samples compared with the remaining three fenugreek types, are shown in Additional file
+7: Figure S6. On the other hand, the up-regulated protein spots in the fenugreek A samples, as compared to the other fenugreek samples, are shown as gel segments in Additional file
+8: Figure S7AB.
+The clustering data, taken together with the correlation analyses of protein expression patterns, showed clearly that three fenugreek types (B/C/D) were very similar (average correlation coefficient = 0.86) compared with fenugreek A (r = 0.38). This indicates that even though there might be different fenugreek species, the medicinal properties they possess may be due to specific proteins that span the regional/species differences.
+
+Discussion
+Despite the rarity of T-cell lymphomas, primary CNS lymphoma has a, distinctive clinical presentation
+[12-17], and has a poor prognosis
+[18]. The standard first-line treatment, of radiation therapy and chemotherapy, can achieve a complete response in only 20%-50% of patients. And the reported median survival for T-cell CNS lymphomas is between 13.5 and 22 months
+[17,19].
+Our case study, to our knowledge, is the first of its kind to show the anticancer properties of fenugreek in a patient with established relapsed primary CNS lymphoma. The daily use of aqueous extract of fenugreek resulted in 11 years remission of relapsed primary CNS T- cell lymphoma. Also our experimental research, in vitro, showed that fenugreek is also selectively cytotoxic to cancer, and not to normal cells. Normal lymphocytes showed no apoptosis while T-Cell lymphoma and breast cancer cells were highly apoptotic following fenugreek treatment.
+There is a clear reciprocal in vivo and in vitro anti cancer response to aqueous fenugreek. The distinctive, long duration, remission of a patient with relapsed primary T-cell lymphoma after daily use of aqueous extract of a particular Trigonella foenum graecum, however remarkable, only represents a single case. A more rigorous scientific evaluation, such as a clinical trial, is obviously warranted before the anti cancer properties of fenugreek can be confirmed
+Nonetheless, alternative medicine use is widespread amongst cancer patients. In many surveys, herbal medicines are amongst the most commonly used treatments. Herbal remedies are believed by the general public to be safe, cause less side-effects and be less likely to cause dependency
+[20]. However most of these perceptions have not been studied in prospective research.
+Extracts of fenugreek seeds, and some of their constituents, have been shown to have anti carcinogenic potency
+[21-23]. Anti cancer properties of fenugreek, or its constituents, involve multiple functional and molecular targets. Fenugreek induced apoptosis has been reported in a wide variety of tumor cell lines including human; colon
+[24], osteosarcoma
+[25], leukemia
+[26], breast
+[27], and liver
+[28].
+The preventive efficacy of dietary fenugreek seed, and its major constituent, diosgenin, on azoxymethane-induced rat colon carcinogenesis during initiation and promotion stages has been evaluated
+[24]. These in vitro experiments indicated that diosgenin inhibits cell growth and induces apoptosis in the HT-29 human colon cancer cell line in a dose-dependent manner. Furthermore, diosgenin induced apoptosis in HT-29 cells at least in part by inhibition of bcl-2 and by induction of caspase-3 protein expression. This study suggests the fenugreek constituent, diosgenin, has potential as a novel preventive agent for colon cancer
+[24].
+Another study suggested significant chemo preventive effect of fenugreek seeds against breast cancer
+[29]. Fenugreek seed extract was demonstrated to significantly inhibit MDA 231-induced mammary hyperplasia and decreased its incidence. The authors further suggest that apoptosis might mediate fenugreek's protective anti-breast cancer effects
+[29]. The induction of apoptosis by fenugreek extract is suggested by its ability to increase the expression of pro-apoptotic genes, and thus this spice holds promise for consideration in complementary therapy for breast cancer
+[5].
+In a recent study, fenugreek was demonstrated to be cytotoxic to a panel of cancer but not normal cells
+[23]. Treatment with 10-15 mg/mL of fenugreek for 72 h was found to be growth inhibitory to breast, pancreatic and prostate cancer cell lines. When tested at higher doses (15-20 mg/mL), fenugreek continued to be growth inhibitory to prostate cancer cell lines but not to either primary prostate or normal prostate cell lines. At least part of the growth inhibition was reported to be due to induction of cell death, as seen by incorporation of Ethidium Bromide III into cancer cells exposed to fenugreek
+[23].
+Protodioscin (PD) has been purified from fenugreek and identified by Mass, and 1H- and 13C NMR. The effects of PD on cell viability in human leukemia (HL-60) and human stomach cancer (KATO III) cells have been investigated. PD displayed strong growth inhibitory effect against HL-60 cells, but weak growth inhibitory effect on KATO III cells. Morphological changes (apoptotic bodies) have been observed in HL-60 cells treated with PD, but not in KATO III cells treated with PD. These findings suggest that growth inhibition of HL-60 cells by PD results from the induction of apoptosis
+[21].
+Al-daghri
+[30] reported that incubation of Jurkat T lymphocytes cells with fenugreek extract at concentrations ranging from 30 to 1500 mg/mL, for up to 3 days resulted in cell death in a dose- and time-dependent manner. Jurkat cell death was preceded by the appearance of multiple large vacuoles, which coincided with transcriptional up-regulation of the autophagy marker LC3
+[30]. Distinct morphological changes including the appearance of large vacuoles, membrane disintegration and increased expression of autophagy protein LC3 transcripts indicated that fenugreek extract induced autophagy and autophagy-associated death of Jurkat cells
+[30].
+Autophagy is a physiological response to stress and has been suggested to enable cells to adapt and survive and, hence, is considered a pro-survival mechanism
+[31]. Apoptosis is the best-described form of programmed cell death, but autophagy reportedly contributes to cell death as well. It has also been defined as an extremely conserved process of programmed cell death and its activation causes cell death
+[32]. Defective regulation of autophagy in cancers suggests that autophagy is a true tumor suppressor pathway
+[30].
+It has been suggested that environmental and geographical differences may significantly influence the biologically active components of fenugreek extracts
+[24]. In our study, four different types of fenugreek were analyzed by proteomics fingerprinting. A set of eight protein spots from fenugreek seeds obtained from one particular region (A) were significantly different from those harvested from three different geographical locations (B, C & D). Our proteomics data, based on these eight protein spots, allowed accurate discrimination between regional fenugreek A and three other fenugreek samples B, C and D.
+These proteins are of significant interest, and thus warrant further characterization to more fully explore their potential therapeutic use. We recognize the limited sample size of this preliminary study, however our results are of significant interest as they highlight the potential usefulness of a particular type of fenugreek as an anti-cancer drug. However, these exciting results obviously warrant additional study, including further drug characterization and development.
+
+Conclusions
+In summary, to our knowledge, this is the first human case in which established malignant CNS cancer showed regression, then disappearing of the cancer lesion with daily use of fenugreek extract. Fenugreek may serve as a potential therapeutic in the treatment of lymphoid malignancy and other cancers. GC-MS analysis of fenugreek extract indicated the presence of several compounds with anticancer properties, including gingerol, cedrene, zingerone, vanillin and eugenol
+[30]. However whole crude extract has been shown to provide more selective potential than these individual compounds used in isolation
+[23]. Also it must be considered that the biologically active agents in fenugreek may vary based on geographical environments.
+
+Competing interest
+The authors declare that they have no competing interest.
+
+Authors' contribution
+AA: Conception and design, review patient's clinical data and results interpretation, /analysis and manuscript writing and editing. AF: designed /supervised in vitro experiments, assisted flow cytometry data analysis and interpretation, contributed to data analysis, interpretation and presentation. AA: Assisted Alkhodairy in carrying out in vitro experiments, apoptosis assays and flow cytometry experiments. A-MM: Assisted Alaiya in proteomics experiments, collection and assembly of data/interpretation. BE: Assisted Alaiya in proteomics experiments, collection and assembly of data/interpretation. SZ: Assisted Alaiya in proteomics experiments, collection and assembly of data/interpretation. AA: Designed, supervised, carried out, and analyzed proteomic data and interpretations, manuscript writing/editing. All authors read and approved the final manuscript.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1472-6882/14/114/prepub
+
+Supplementary Material
+Additional file 1: Figure S1
+Brain MRI with contrast shows significant improvement of the new right frontoparietal intra cerebral lesion.
+Click here for file
+Additional file 2: Figure S2
+A, B: Brain MRI with contrast shows enhanced lesion. C, D: Brain MRI Flair sequence with new diffuse high signals over the right hemisphere.
+Click here for file
+Additional file 3: Figure S3
+Fenugreek exerted cytotoxicity effect on normal and cancer cells. The Cell-viability was measured by positive staining using propidium iodide. (LCL, Human Normal Lymphocytes, TCP are T-cell lymphoma, and FRO are the human Thyroid papillary carcinoma).
+Click here for file
+Additional file 4: Figure S4
+Flow cytometric graphs of T-cell lymphocytes (Normal cells) when treated with 300 mg/ml of Fenugreek, for 24, and 72 hours respectively. The very low number of cells migrated to the right- upper quadrant are the dead cells by apoptosis induction (late apoptosis) the right lower is the early apoptosis indicating that the apoptotic cell cytotoxicity of fenugreek is very low in normal T-cell lymphocytes cell line. Apoptosis and necrosis was measured using Annexin V apoptosis assay kit. (Molecular Probe). The graphical distribution of viable cells, necrotic and population of apoptotic cells was gated according to their staining signals to PI and Annexin V. The data was generated using a FACS caliber flow cytometry.
+Click here for file
+Additional file 5: Figure S5
+Apoptosis and cell viability in: Normal lymphocytes (LCL) (Blue)) showed no apoptosis, no cell killing, while the T-Cell lymphoma (Red column) and the Anaplastic Thyroid (FRO) (Green column); showed similar high cell cytotoxicity by apoptosis when incubated with fenugreek.
+Click here for file
+Additional file 6: Table S1
+Fenugreek cytotoxicity and Apoptotic effects on different cancer and normal cells. Table S2. Correlation analysis of pairs of 2-DE gels of fenugreek samples from four different regions A, B, C and D. Note the poor correlation between pairs of fenugreek from region A vs. B/C/D, compared with good correlation among pairs of D/C,B/D, C/B.
+Click here for file
+Additional file 7: Figure S6
+Global protein analysis showing expression levels of 8 protein spots that differs significantly between the fenugreek samples from region A and the rest three different regional fenugreek sample types using Student's t- test.
+Click here for file
+Additional file 8: Figure S7
+AB: Gel segments of showing protein spots that are only present (A, upper panel) or absent (B, lower panel) in fenugreek samples from region A compared with the rest three other regional fenugreek samples B, C and D.
+Click here for file

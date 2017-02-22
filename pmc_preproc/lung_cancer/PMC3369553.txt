@@ -1,0 +1,483 @@
+[Abstract, Methods, Results, Discussion, Mixed, Mixed]
+
+The Diesel Exhaust in Miners Study: A Nested Case-Control Study of Lung
+Cancer and Diesel Exhaust. Background Most studies of the association between diesel exhaust exposure and lung cancer suggest a modest, but consistent, increased risk. However, to our knowledge, no study to date has had quantitative data on historical diesel exposure coupled with adequate sample size to evaluate the exposure-response relationship between diesel exhaust and lung cancer. Our purpose was to evaluate the relationship between quantitative estimates of exposure to diesel exhaust and lung cancer mortality after adjustment for smoking and other potential confounders.   Methods We conducted a nested case-control study in a cohort of 12 315 workers in eight non-metal mining facilities, which included 198 lung cancer deaths and 562 incidence density-sampled control subjects. For each case subject, we selected up to four control subjects, individually matched on mining facility, sex, race/ethnicity, and birth year (within 5 years), from all workers who were alive before the day the case subject died. We estimated diesel exhaust exposure, represented by respirable elemental carbon (REC), by job and year, for each subject, based on an extensive retrospective exposure assessment at each mining facility. We conducted both categorical and continuous regression analyses adjusted for cigarette smoking and other potential confounding variables (eg, history of employment in high-risk occupations for lung cancer and a history of respiratory disease) to estimate odds ratios (ORs) and 95% confidence intervals (CIs). Analyses were both unlagged and lagged to exclude recent exposure such as that occurring in the 15 years directly before the date of death (case subjects)/reference date (control subjects). All statistical tests were two-sided.   Results We observed statistically significant increasing trends in lung cancer risk with increasing cumulative REC and average REC intensity. Cumulative REC, lagged 15 years, yielded a statistically significant positive gradient in lung cancer risk overall (P trend = .001); among heavily exposed workers (ie, above the median of the top quartile [REC >= 1005 mg/m3-y]), risk was approximately three times greater (OR = 3.20, 95% CI = 1.33 to 7.69) than that among workers in the lowest quartile of exposure. Among never smokers, odd ratios were 1.0, 1.47 (95% CI = 0.29 to 7.50), and 7.30 (95% CI = 1.46 to 36.57) for workers with 15-year lagged cumulative REC tertiles of less than 8, 8 to less than 304, and 304 mg/m3-y or more, respectively. We also observed an interaction between smoking and 15-year lagged cumulative REC (P interaction = .086) such that the effect of each of these exposures was attenuated in the presence of high levels of the other.   Conclusion Our findings provide further evidence that diesel exhaust exposure may cause lung cancer in humans and may represent a potential public health burden.
+
+Materials and MethodsCohort Design and Follow UpEight non-metal mining facilities (three potash, three trona, one limestone, and one salt
+[halite]) were selected from all US non-metal mining facilities with at least 50 employees
+who were considered to have had high air levels of diesel exhaust underground but low
+levels of potential occupational confounders (ie, radon, silica, asbestos) (12). Eligible subjects included all workers who were
+ever employed in a blue-collar job for at least 1 year after introduction of diesel
+equipment into the mining facility (year of introduction: 1947-1967 across the eight
+facilities) until the end of follow-up on December 31, 1997. The cohort consisted of
+12 315 workers with a total of 278 041 person-years of follow-up. More
+detailed information on the cohort can be found in the accompanying article on the cohort
+study (12).Case Subject Definition and IdentificationVital status of each cohort member was ascertained through December 31, 1997, by linkage
+with the National Death Index Plus (NDI Plus) (http://www.cdc.gov/nchs/ndi.htm)
+and Social Security Administration mortality files. Cause of death information was
+obtained from NDI Plus or from death certificates (for deaths occurring before the
+introduction of NDI Plus). A total of 217 deaths were identified with lung cancer
+(International Classification of Diseases-O code 162) specified as
+either the underlying or contributing cause on the death certificate. We attempted to
+retrieve pathology reports and diagnostic slides for all case subjects, which proved to be
+challenging because 85% of the case subjects had died more than 10 years before we
+contacted the hospital. After repeated attempts, we successfully obtained pathology
+reports or slides for 70 of the 170 case subjects for whom we obtained consent to access
+medical records. When the pathology report or diagnostic slides were available, the
+diagnosis of lung cancer was confirmed through review by an expert pathologist (W. D.
+Travis), which resulted in the exclusion of one case subject as "unlikely" to
+have had lung cancer. Of the 217 eligible case subjects identified, we interviewed 213
+(98.1%) of their next of kin.Control Subject Selection for the Nested Case-Control StudyBased on incidence density sampling, we selected up to four control subjects for each
+lung cancer case subject by random sampling from all members of the study cohort who were
+alive before the day the case subject died. With this design, all cohort members were
+eligible to serve as control subjects for more than one case subject, and case subjects
+before death were eligible to serve as control subjects for other case subjects who died
+earlier (23 control subjects went on to become case subjects at a later point in time).
+Control subjects were individually matched to each case subject on mining facility, sex,
+race/ethnicity (ie, white, African American, American Indian, Hispanic), and birth year
+(within 5 years). In the analysis, estimates of diesel exposure and potential confounders
+(eg, cigarette smoking, employment in other high-risk occupations for lung cancer, and
+history of nonmalignant respiratory disease) for each control subject were truncated at
+the date of death of the matched case subject. We identified 650 eligible control subjects
+and interviewed 611 (94.0%) of them or their next of kin (if the control subject was
+deceased or too ill for interview). Of the next of kin who were interviewed, 55% were
+adult children, 31% were spouses or former spouses, 6% were siblings, and 8% were other
+relatives (with the exception of two friends/co-workers).The InterviewLiving control subjects (n = 222) and next of kin of lung cancer case subjects (n
+= 198) and ill or deceased control subjects (n = 340) were interviewed using
+a computer-assisted telephone interview (as explained below, an additional 15 case
+subjects and 49 control subjects were excluded from analysis). The interview was designed
+to collect information about the subject's demographics, smoking history (both
+active and passive), lifetime occupational history, medical history, family medical
+history, and usual adult diet. We obtained information on all jobs held for 12 months or
+longer since the age of 16. For each job held at a study mining facility, we collected
+information on the use of respiratory protective equipment (eg, respirators and masks) and
+the mining facility location where each subject spent most of his or her time (surface or
+underground) to supplement information obtained from the subject's company employment
+record. We also collected information about all jobs held before and after employment at
+the study mining facilities, including whether the subjects operated or worked near diesel
+engines.We compared data obtained from next of kin of deceased control subjects to those obtained
+from direct interviews with living control subjects for several key variables (eg,
+cigarette smoking, history of employment in a high-risk occupation for lung cancer, and
+history of nonmalignant respiratory disease). In general, data obtained from next of kin
+were similar to those obtained from directly interviewed control subjects. For cigarette
+smoking, the percentages of direct vs next-of-kin interviews by smoking category were as
+follows: never smoker, 27% vs 28%; occasional smoker, 3% vs 2%; former smoker of less than
+one pack per day, 17% vs 17%; former smoker of one to less than two packs per day, 31% vs
+24%; former smoker of two or more packs per day, 11% vs 6%; current smoker of less than
+one pack per day, 1% vs 3%; current smoker of one to less than two packs per day, 9% vs
+14%; and current smoker of two or more packs per day, 1% vs 6%, respectively. Living
+control subjects and next of kin of dead control subjects reported similar proportions of
+"ever smokers" (73% and 72%, respectively). As expected, deceased control
+subjects had a slightly higher proportion of current smokers of one or more packs per day
+than living control subjects (20% and 10%, respectively). This observation is consistent
+with the reported cause of death; 80% of control subjects who were current smokers of one
+or more packs per day died of a smoking-related cause compared with 60% of control
+subjects who never smoked.This study was approved by the Institutional Review Boards of the National Cancer
+Institute, the National Institute for Occupational Safety and Health (NIOSH), and Westat,
+Inc. All interviewees provided verbal informed consent before the interview, and next of
+kin of case subjects provided written consent to obtain medical records and pathology
+materials.Diesel Exhaust Exposure AssessmentThe eight facilities in the study had both underground (ore extraction) and surface (ore
+processing) operations. Underground workers were exposed to diesel exhaust primarily from
+ore extraction, haulage, and personnel transport vehicles. Surface workers generally had
+little to no contact with diesel equipment, although some had low levels of diesel
+exposure from the operation of heavy equipment or diesel trucks or because they worked
+near diesel equipment.Respirable elemental carbon (REC), a component of diesel exhaust, is considered the best
+index of diesel exhaust in underground mining (13). The methods we used to develop quantitative estimates of historical exposure
+to REC at each mining facility have been described in detail (14-18). Briefly, the
+exposure assessors (P. A. Stewart, R. Vermeulen, J. B. Coble) developed location- and job
+title-specific estimates, by year, back to the year of the introduction of diesel
+equipment in each facility, blinded to mortality outcomes. The estimates were based on
+measurements from 1998 to 2001 DEMS industrial hygiene surveys at each working mining
+facility, past Mine Safety and Health Administration enforcement surveys, other
+measurement data, and information from company records and interviews with long-term
+workers. The same REC estimates were used to develop quantitative estimates of average
+intensity and cumulative REC exposure for subjects in both this and the cohort study
+(12).A small percentage of subjects in the nested case-control study worked at more than
+one study facility (ie, 5.9% worked at two facilities and 0.7% worked at three). For these
+workers, their exposure metrics were based on diesel exposure at all relevant study
+facilities. Control subjects working in more than one facility were matched to case
+subjects on the facility where the control subject worked the longest. In
+facility-specific analyses, workers at multiple facilities were assigned to the facility
+where they worked the longest.Statistical AnalysisThe effect of diesel exhaust exposure on risk of dying of lung cancer was quantified by
+the odds ratio. Odds ratios and 95% confidence intervals were estimated by conditional
+logistic regression. Quartile and tertile cut points for exposure metrics were chosen to
+achieve approximately equal numbers of case subjects in each category. In all tables,
+statistical models included a term for exposure (ie, quartiles of average REC intensity
+[mg/m3], cumulative REC exposure [mg/m3-y], or duration of
+exposure [years]). Final models also included terms for potential confounding factors.
+These included a variable that combined cigarette smoking status and smoking intensity
+with location worked because initial analyses indicated that the risk of lung cancer from
+cigarette smoking was different for surface and underground workers (ie, smoking status
+[never, former, current], by smoking intensity [unknown or occasional smoker, <1, 1 to
+<2, >=2 packs per day], by location [surface only, ever underground]). Former smoker
+was defined as a case subject who had stopped smoking more than 2 years before their date
+of death and a control subject who had stopped smoking more than 2 years before the
+matched case subject's date of death. We included intensity smoked rather than
+duration smoked or pack-years in our final models; however, results were similar when
+either of these metrics was used to control for smoking (data not shown). The addition of
+a variable representing the interaction of location worked and smoking to models
+statistically significantly improved analogous models that included smoking without
+location (range of P values for the likelihood ratio test =
+.011-.064 for average REC intensity and cumulative REC, unlagged and lagged). The
+final models also included two other potential confounders: employment in a high-risk
+occupation for lung cancer for at least 10 years (ie, miner outside the study mining
+facilities, truck driver, welder, machinery mechanic, painter) and history of nonmalignant
+respiratory disease diagnosed at least 5 years before death/reference date (ie, primarily
+pneumoconiosis, emphysema, chronic obstructive pulmonary disease, silicosis, tuberculosis
+but excluding asthma, pneumonia, and bronchitis because the latter three diseases were not
+associated with lung cancer in our study). Other potential confounders [ie, duration of
+cigar smoking; frequency of pipe smoking; environmental tobacco smoke; family history of
+lung cancer in a first-degree relative; education; body mass index based on usual adult
+weight and height; leisure time physical activity; diet; estimated cumulative exposure to
+radon, asbestos, silica, polycyclic aromatic hydrocarbons (PAHs) from non-diesel sources,
+and respirable dust in the study facility based on air measurement and other data (14)] were evaluated but not included in the final
+models because they had little or no impact on odds ratios (ie, inclusion of these factors
+in the final models changed point estimates for diesel exposure by <=10%). Exposure
+levels to other possible confounding exposures in these facilities, such as arsenic,
+nickel, and cadmium, were not estimated because of very low levels and generally
+non-detectable measurement results (14).To test for trend, a Wald test was performed, treating the median value for each level of
+the categorical exposure variable among the control subjects as continuous in the model.
+To test for interaction between two risk factors, we added a cross-product term to the
+logistic model and conducted a likelihood ratio test between the model with and without
+the cross-product term. All statistical tests were two-sided.We explored quantitative patterns in odds ratios for both continuous average REC
+intensity and continuous cumulative REC exposure, denoted by d, by
+fitting various standard models for occupational epidemiological data, including a
+log-linear model, OR(d) = exp(b d); a power
+model, OR(d) = d
+b; a linear model, OR(d) = 1 + b
+d; and a linear-exponential model, OR(d) = 1
++ b d exp(g d). All models were adjusted
+for the same set of potential confounding factors as described above. We fitted models
+over the full range of exposure and, for comparative purposes, over a restricted range of
+lower exposure levels. We compared deviances (a measure of model fit) with the null model
+that omitted REC exposure, in which larger changes in deviance denoted greater
+improvements in fit (Supplementary Table 1, available online).For average REC intensity and cumulative REC exposure, we evaluated lag intervals by
+excluding exposure occurring 0, 3, ... , 25 years (by 2-year intervals) before the
+death/reference date and compared changes in model deviance to a model that omitted REC
+exposure. The optimal lag interval (ie, the largest improvement in model fit) occurred for
+a lag between 13-17 years for average REC intensity and 15 years for cumulative REC
+exposure (Supplementary Figure 1, available online). For consistency, we used a
+15-year lag for both exposure metrics in the final analyses.Of the 213 lung cancer case subjects and 611 control subjects interviewed for study,
+subjects were excluded for the following reasons: one case subject was identified as
+"unlikely" to have had lung cancer based on review of pathology material; 10
+case subjects did not have any eligible control subjects (because of race/ethnicity for
+nine nonwhite or Hispanic case subjects and age for one case subject who was 88 years
+old); 39 control subjects were incorrectly matched on race/ethnicity based on more
+accurate information obtained during interview; four case subjects and five control
+subjects were found ineligible for inclusion in the cohort based on a final review of
+company work histories by NIOSH (12); and five
+control subjects were not suitable matches to any case subject because the original
+matched case subject was found to be ineligible for study. The final analytic dataset
+included 198 case subjects and 562 control subjects (666 control subjects for analytical
+purposes because some cohort members served as control subjects for more than one case
+subject). This analytical dataset was predominantly male, with only two female case
+subjects and eight female control subjects.
+
+ResultsOdds ratios for potential confounders (except cigarette smoking) and lung cancer risk are
+shown in Table 1. A statistically significant
+increased risk of lung cancer was observed for workers employed at least 10 years in
+occupations at high-risk for lung cancer (OR = 1.75, 95% CI = 1.06 to 2.91)
+(Table 1) and those with a history of
+nonmalignant respiratory disease for at least 5 years before death/reference date (OR
+= 2.15, 95% CI = 1.21 to 3.82) (Table
+1). The elevated risk among those with nonmalignant respiratory disease less than 5
+years before death may have been reflective of the early stages of lung cancer.
+Statistically nonsignificant increased risks were observed for workers who had a family
+history of lung cancer, smoked cigars for 10 or more years, lived with two or more smokers,
+exercised less than once per day, and had a vocational school education. Statistically
+nonsignificant decreased risks were observed among workers who were overweight or obese and
+who smoked at least 10 pipefuls of tobacco per week (Table
+1). Several non-diesel exposures present at very low levels (ie, levels not typically
+associated with risk in epidemiological studies) at the study mining facilities were not
+statistically significantly related to lung cancer risk in our study (Table 1). Levels of radon underground at the study mines were low (ie,
+arithmetic mean <=0.02 Working Levels). The odds ratio for workers in the top quartile of
+cumulative radon exposure was 1.32 (95% CI = 0.76 to 2.29), and workers in quartiles
+2 or 3 had little or no increased risk (Table 1).
+No consistent trend in risk with increasing cumulative radon exposure was apparent
+(P
+trend = .220). Little or no increased risk was observed for possible
+exposure to asbestos, silica, and PAHs from non-diesel sources, which was consistent with
+the low measured mean air levels of these potential confounding variables (Table 1) (14).
+Workers in the top quartile of cumulative respirable dust exposure had an elevated risk (OR
+= 1.31, 95% CI = 0.70 to 2.46), but workers in quartiles 2 or 3 had no
+increased risk (Table 1). Factors with
+statistically nonsignificant increased or decreased risks had little or no confounding
+effect on estimates of risk from diesel exposure (ie, changed point estimates by <=10%)
+and were not included in the final models.
+Table 2 shows the effect of cigarette smoking
+overall and cross-classified by location of employment (ie, surface only and ever
+underground). Overall, for both surface-only and ever underground workers combined, the risk
+of lung cancer was statistically significantly associated with smoking status (never,
+former, current smoker) and smoking intensity (former smoker of >=2 packs per day vs never
+smoker: OR = 5.40, 95% CI = 2.23 to 13.06; current smoker of >=2 packs per
+day vs never smoker: OR = 12.41, 95% CI = 5.57 to 27.66) (Table 2). We also observed an interaction between
+cigarette smoking and location of employment, after adjustment for cumulative REC, lagged 15
+years (P
+interaction = .082). The lung cancer risks associated with moderate (1 to
+<2 packs per day) and heavy smoking (>=2 packs per day) were higher among workers who
+only worked at the surface than among those who ever worked underground for both current and
+former smokers. For example, the odds ratio for current smokers of one to less than two
+packs per day who worked only at the surface was 13.34 (95% CI = 4.50 to 39.53)
+compared with an OR of 4.51 (95% CI = 1.50 to 13.58) for those who ever worked
+underground (Table 2). Because the effect of
+smoking appeared to be diminished among underground workers compared with that among surface
+workers, we included the cross classification of location of employment, smoking status, and
+smoking intensity in all models used to estimate lung cancer risk by diesel exposure (Tables 1, 3,
+and 7; Figure
+1), unless noted otherwise. It is also noteworthy that among never smokers,
+underground and surface-only workers had similar risks after adjustment for 15-year lagged
+cumulative REC (OR = 0.90; 95% CI = 0.26 to 3.09) (Table 2), suggesting that the risk experienced by surface-only workers
+was mainly due to smoking. Figure 1Odds ratios (ORs) (solid squares) for lung cancer by expanded categories
+of average respirable elemental carbon (REC) intensity and cumulative REC (Supplementary Table 2, available online). A) Average REC
+intensity, full range; B) Average REC intensity, less than 128
+mg/m3; C) Cumulative REC exposure, full range;
+D) Cumulative REC exposure, less than 1280 mg/m3-y. ORs
+located at the mean exposure within category. Models for OR by continuous exposure
+(d) include a power model, OR(d) =
+d
+b (solid line); a linear model, OR(d)
+= 1 + b d (dashed line for the full range
+and dashed-dotted line for the restricted range); and a linear-exponential
+model, OR(d) = 1 + b d exp(g
+d) (dotted line). Exposure variables were based on a
+15-year lag. Confidence intervals were omitted for clarity. The log-linear model was
+excluded because it did not fit the data well.Trends in risk with increasing levels of diesel exposure are either statistically
+significant or of borderline significance (P
+trend <= .08) for all metrics (both unlagged and lagged) (Table 3). The strongest gradient in risk was seen for
+15-year lagged cumulative REC (P
+trend = .001). The odds ratio for workers in the top quartile of 15-year
+lagged cumulative REC exposure (ie, >=536 mg/m3-y) was 2.83 (95% CI =
+1.28 to 6.26) compared with workers in the lowest quartile. When the top exposure quartile
+was split at the median (ie, 1005 mg/m3-y), the risk continued to rise
+(P
+trend over all five exposure levels = .002); odds ratios were 2.53 (95% CI
+= 1.06 to 6.04) and 3.20 (95% CI = 1.33 to 7.69) for workers in the top
+quartile with cumulative REC exposures below and above the median of the quartile,
+respectively.We observed a statistically significant gradient in risk with increasing number of years
+exposed to diesel exhaust among all workers (P
+trend = .043), although an elevated odds ratio occurred only in the
+highest duration category. The odds ratio for workers exposed to diesel exhaust for 15 or
+more years was 2.09 (95% CI = 0.89 to 4.90) compared with surface workers with
+negligible or bystander exposure (Table 3).We also examined risk among all subjects who ever worked underground (Table 4) and among those who worked only at the surface
+(Table 5). Among underground workers, we observed
+statistically significant trends in risk with increasing average REC intensity, unlagged
+(P
+trend = .01) and lagged 15 years (P
+trend = .001), and with increasing cumulative REC, lagged 15 years
+(P
+trend = .004) (Table 4). Among
+surface workers, in contrast, no consistent positive gradient in risk with increasing diesel
+exposure was apparent (Table 5), probably due to
+the small number of subjects (53 case subjects and 100 control subjects) and the low levels
+of diesel exposure experienced by surface workers. Because of the increased precision gained
+by estimating odds ratios based on all subjects, our primary estimates of risk are based on
+surface and underground workers combined (Table
+3). We stratified the combined results (Table 3) on
+whether the subject had self-reported diesel exhaust exposure from a job outside the study
+mining facility (eg, ever employed as a long-haul truck driver) (data not shown). No
+systematic differences in risk were apparent among subjects with or without occupational
+diesel exposure outside the study facility (P
+interaction between cumulative REC, lagged 15 years, and outside occupational
+diesel exhaust exposure = .222).Use of protective equipment did not appear to modify the observed associations between
+diesel exhaust exposure and lung cancer. However, most information on protective equipment
+use was obtained from next-of-kin interviews, resulting in a large number of workers with
+unknown data (59 case subjects and 129 control subjects). Subjects who reported having used
+protective equipment appeared to experience risks similar to the estimates for all workers
+combined (Table 3). For example, among workers who
+used protective equipment, odds ratios for 15-year lagged cumulative REC exposures of less
+than 3 mg/m3-y, 3 to less than 72 mg/m3-y, 72 to less than 536
+mg/m3-y, and 536 mg/m3-y or more were 1.0 (referent), 0.31
+(95% CI = 0.04 to 2.23; 16 case subjects and 42 control subjects), 1.76 (95% CI
+= 0.11 to 27.91; 10 case subjects and 23 control subjects), and 3.66 (95% CI =
+0.26 to 52.09; 20 case subjects and 31 control subjects), respectively.
+Figure 1 shows category-specific odd ratios (square
+symbol), with confidence intervals omitted for clarity, and fitted odds ratios for 15-year
+lagged average REC intensity and cumulative REC using various continuous models. To provide
+additional points for graphing the exposure-response curve based on categorical data
+(Figure 1), we expanded the number of cut points
+(cut points for average REC intensity, lagged 15 years: <2, 2 to <4, 4 to <8, 8 to
+<16, 16 to <32, 32 to <64, 64 to <128, 128 to <256, and >=256
+mg/m3; cut points for cumulative REC, lagged 15 years, were similarly
+defined but multiplied by a factor of 10 to account for duration of exposure: <20, 20 to
+<40, 40 to <80, 80 to <160, 160 to <320, 320 to <640, 640 to <1280, 1280
+to <2560, and >=2560 mg/m3-y; Supplementary Table 2, available online). Odds ratios increased with 15-year
+lagged average REC intensity and leveled off above 20-80 mg/m3 (Figure 1, A for the full range and Figure l, B for average REC intensity under 128 mg/m3).
+For the full range, the odds ratio pattern was best explained by a one-parameter power model
+(deviance = 5.3, P = .022), whereas for the restricted range,
+the power and linear models were comparable (deviance = 2.8, P
+= .092 and deviance = 3.2, P = .075, respectively). A
+similar increasing pattern of odds ratios was observed for cumulative REC exposure, lagged
+15 years (Figure 1, C for the full range and Figure l, D for cumulative REC under 1280
+mg/m3-y), with a leveling off of risk for exposures above 1,000
+mg/m3-y and perhaps a decline in risk among the most heavily exposed
+workers. The two-parameter linear-exponential model (dotted line) was the best fitting model
+for the full range (relative to the null model, deviance = 12.2, P
+= .002) (Figure l, C); for the restricted
+range, the best models were the one-parameter linear model (dashed-dotted line) (deviance
+= 15.6, P < .001) and the two-parameter linear-exponential model
+(dotted line) (deviance = 16.0, P < .001) (Figure 1, D) (Supplementary Table 1, available online). We carried out similar model
+comparisons using the unlagged exposure metrics (Supplementary Table 3, available online). However, our evaluation of optimal
+lag intervals (Supplementary Figure 1, available online) suggested that the unlagged approach
+led to exposure misclassification because recent exposures may not have had sufficient time
+to contribute to lung cancer risk and thus resulted in generally poorer fit of the various
+models.The combined effect of diesel exposure and intensity of cigarette smoking is shown in Table 6. Among the 14 case subjects and 178 control
+subjects who never smoked, odds ratios by tertile of cumulative REC, lagged 15 years, were:
+1.0 (referent), OR = 1.47 (95% CI = 0.29 to 7.50), and OR = 7.30 (95%
+CI = 1.46 to 36.57). Risk also increased with increasing level of diesel exposure
+among smokers of less than one and one to less than two packs per day. In contrast, risk
+decreased with increasing levels of diesel exposure among smokers of at least two packs per
+day. Similarly, risk associated with smoking intensity was modified by diesel exposure.
+Among workers in the lowest tertile of cumulative REC, lagged 15 years, smokers of at least
+two packs per day had a risk 27 times that of nonsmokers, whereas among those in the highest
+tertile of cumulative REC, heavy smokers had about 2.5-fold the risk of nonsmokers. The
+P
+interaction between level of diesel exposure and cigarette smoking was .086. We evaluated lung cancer risk by quantitative level of diesel exposure for each type of
+mining facility (Table 7). Too few workers were
+employed in the one salt and the one limestone mining facility to estimate risk for these
+types separately. For workers in both potash and trona mining facilities, risk tended to
+increase with increasing levels of average REC intensity and cumulative REC exposure. Trends
+were more consistent among potash miners, perhaps reflecting more stability in odds ratios
+resulting from twice as many case subjects in the potash as in the trona facilities (Table 7).
+
+DiscussionThis case-control study nested within a cohort of miners showed a strong and
+consistent relation between quantitative exposure to diesel exhaust and increased risk of
+dying of lung cancer. To our knowledge, this is the first report of a statistically
+significant exposure-response relationship for diesel exposure and lung cancer based
+on quantitative estimates of historical diesel exposure with adjustment for smoking and
+other potential confounders. We observed increasing trends in risk with increasing exposure
+to diesel exhaust for both average REC intensity and cumulative REC exposure, unlagged and
+lagged 15 years, with the strongest gradient in risk with cumulative REC, lagged 15 years.
+We further observed a gradient of increasing risk within the top quartile of 15-year lagged
+cumulative REC exposure for workers below and above the median of the quartile. The
+associations between diesel exposure and lung cancer were apparent for workers employed in
+either the potash or trona facilities (too few workers were employed in the one salt and one
+limestone mine to estimate risk separately). The consistency of findings for both potash and
+trona facilities is noteworthy because smoking was prohibited in the trona facilities but
+not in potash or the other facilities in the study. Reports by next of kin or study subjects
+of workers' use of protective equipment within the study mining facilities and
+workers' additional occupational exposure to diesel exhaust outside the study
+facilities had little or no impact on our findings.These positive findings are consistent with those of the cohort analysis of underground
+workers in the same study population (12). However,
+estimates of risk for underground workers in the case-control analysis were somewhat
+higher than those based on the cohort analysis. For example, the odds ratios by quartile of
+the 15-year lagged cumulative REC exposure in the case-control analysis were 1.0,
+2.11, 3.48, and 5.90 (for cohort cut points, <108, 108 to <445, 445 to <946, and
+>=946 mg/m3-y, respectively), compared with hazard ratios of 1.0, 1.50,
+2.17, and 2.21 from the cohort analysis (12). The
+lower point estimates from the cohort analysis may be partly due to negative confounding
+from cigarette smoking because current smoking was inversely related to diesel exposure in
+underground workers (36% and 21% current smokers in lowest vs highest cumulative REC
+tertile, respectively). Odds ratios for underground workers in the case-control
+analysis using the same cohort cut points dropped to 1.0, 1.94, 2.42, and 3.75,
+respectively, when smoking was removed from the model.The continuous models suggest a steep slope at the low end of the exposure-response
+curve followed by a leveling, or perhaps even a decline, in risk among the most heavily
+exposed workers. A plateauing of exposure-response curves has been reported in studies
+of other occupational exposures and cancer risk (19). Possible biological explanations for a plateauing effect include saturation of
+metabolic activation and enhanced detoxification or greater DNA repair efficiency at higher
+exposure levels. Alternatively, nondifferential misclassification of diesel exposure may be
+greater at higher exposures, obscuring further increases in risk.We observed an increased lung cancer risk associated with diesel exposure as was seen among
+German potash miners (11), as well as among other
+diesel-exposed occupational groups including truck drivers (6,7), railroad workers (8,20),
+dockworkers (9), and bus garage workers (10). The German potash miners study (11) found elevated risk with increasing estimated
+cumulative total carbon exposure (another surrogate for diesel exposure), although the trend
+was not statistically significant. Relative risks were 1.0, 1.13, 2.47, 1.50, and 2.28 for
+exposure quintiles (ie, <1.29, 2.04, 2.73, 3.90, >3.90 mg/m3-y,
+respectively) (11). Some differences between the
+German study (11) and this study are that this
+study is considerably larger (US miners: 198 lung cancer deaths out of a total of
+278 041 person-years; German miners: 61 lung cancer deaths out of 152 557
+person-years), and the US miners had a longer latent period for the development of lung
+cancer than the German miners because diesel technology was introduced earlier in the US
+study mines (1947-1967) than in the German mines (1969). Finally, in this study, an
+intensive effort was undertaken to characterize diesel exposure levels over time by
+incorporating changes in size of the diesel equipment, numbers of equipment, and air flow
+rates exhausted from the mines based on information collected from the facilities. Our
+information indicated that these factors varied considerably over time (14). In the German study, the investigators relied on
+reports from local engineers and industrial hygienists that working conditions were constant
+over past years. However, in contrast to this study, no past industrial hygiene measurements
+were available to confirm this assumption.We observed an attenuation of the effect of cigarette smoking among study subjects who were
+exposed to high levels of diesel exhaust as estimated by REC (Table 6). This finding mirrors a recent observation from a study in
+Xuanwei, China (21), where lung cancer rates are
+high because of unvented indoor burning of coal for heating and cooking in homes (22). The effect of tobacco on lung cancer risk in that
+study was weak in the presence of heavy indoor exposures from smoky coal but became stronger
+with installation of venting, which greatly diminished smoky coal air concentrations (21,22). Little
+is known about the effect of the interaction between cigarette smoking and diesel exhaust
+exposure on lung cancer risk. If our observation of attenuation of the smoking effect in the
+presence of high levels of diesel exhaust is confirmed, several possible mechanistic
+explanations are apparent. First, at high levels of diesel exhaust exposure, PAHs,
+nitro-PAHs, and related compounds could compete with the metabolic activation of PAHs in
+tobacco smoke, leading to enzyme saturation. For example, PAHs in complex mixtures have been
+shown to have less than additive genotoxic effects at higher exposure levels (23). Second, constituents of diesel exhaust may
+suppress enzymes that activate or induce enzymes that detoxify carcinogens in tobacco smoke.
+For example, diesel exhaust particles have been shown to reduce activity of CYP2B1, which
+plays a role in the activation of certain tobacco-specific nitrosamines (24). Also, diesel particulate matter has been shown to
+reduce the initiation of skin tumors in Sencar mice treated with the potent PAH
+dibenzo[a,l]pyrene, possibly through inhibition of enzymes that carry out its metabolic
+activation (25).We also observed a weakening of the diesel exhaust effect among heavy smokers (ie, smokers
+of at least two packs per day), which is necessarily implied by the observation of a
+weakening of the effect of smoking at least two packs per day among workers heavily exposed
+to diesel exhaust. It has previously been reported that coal dust burden in the lungs of
+coal miners is reduced among smokers, which may be attributable to increased coal dust
+clearance (26), and it is possible that diesel
+exhaust particulate deposition may be reduced in the lungs of smokers by a similar process.
+Although little experimental evidence is available to date to support and explain effect
+modification of diesel exposure by smoking, it is theoretically possible by one or more of
+the mechanisms described above.If the observed interaction between smoking and diesel exhaust represents a real effect,
+then the generalizability of our estimates of risk for diesel exposure to other populations
+depends not only on the level of exposure to diesel exhaust but also on the distribution of
+smoking status and intensity in the population. For example, estimates of lung cancer risk
+in a population of never smokers with diesel exposures similar to those of the miners in
+this study would be 1.0, 1.47, and 7.30 for individuals with cumulative REC, lagged 15
+years, of less than 8 mg/m3-y, 8 to less than 304 mg/m3-y, and
+304 mg/m3-y or more, respectively. In contrast, the overall study population,
+which included 29% never smokers, had lower odds ratios of 1.0, 1.12, and 2.40 for the same
+tertiles of cumulative REC exposure, lagged 15 years, respectively (data not shown). In
+fact, the proportion of never smokers in this study population is substantially lower than
+the 51% reported for the US population of men aged 18 years or older (27), suggesting that diesel-related estimates of lung cancer risk in
+the US population may be higher than the overall risk estimates reported here because the
+proportion of never smokers in the US population is higher than in this study cohort.Our study has several major strengths including its relatively large size, which provided
+adequate statistical power to detect a statistically significant exposure-response
+relationship, adequate latent period for the development of lung cancer, detailed exposure
+assessment that enabled us to evaluate risk based on quantitative historical exposure to
+REC, subjects with a wide range of diesel exposure and with underground workers experiencing
+exposure levels considerably higher than that of other occupationally exposed groups in
+previous studies, a high interview participation rate for both case subjects and control
+subjects, and the ability to control for confounding from smoking and other lung cancer risk
+factors. Two main limitations are also apparent. First, the data on smoking and other
+potential confounders were derived mainly from next-of-kin interviews. Although a comparison
+of confounder data derived directly from living and from next of kin for deceased control
+subjects revealed comparability of responses, we cannot completely rule out the possibility
+of residual confounding. Second, as in most epidemiological studies of cancer that rely on
+retrospective exposure assessment, estimates of diesel exposure in this study undoubtedly
+had some imprecision despite considerable effort to minimize misclassification. This
+imprecision is likely to result in nondifferential misclassification of exposure, which
+would tend to bias the estimates of risk toward the null (28). Thus, the true estimates of lung cancer risk associated with diesel exhaust
+may, in fact, be higher than those reported here.In sum, our results provide further evidence supporting a causal effect of diesel exhaust
+exposure on lung cancer mortality in humans. We observed a statistically significant
+exposure-response relationship after we adjusted for possible confounding from smoking
+and other established and hypothesized lung cancer risk factors. The exposure-response
+curve showed a steep increase in risk with increasing exposure at low-to-moderate levels
+followed by a plateauing or perhaps a decline in risk among heavily exposed subjects.Our findings are important not only for miners but also for the 1.4 million American
+workers and the 3 million European workers exposed to diesel exhaust (29), and for urban populations worldwide. Some of the higher average
+elemental carbon levels reported in cities include Los Angeles (4.0 mg/m3)
+(30), the Bronx (a borough in New York City) (6.6
+mg/m3) (31), nine urban sites in
+China (8.3 mg/m3) (32), Mexico City
+(5.8 mg/m3) (33), and Estarreja,
+Portugal (11.8 mg/m3) (34).
+Environmental exposure to average elemental carbon levels in the 2-6 mg/m3
+range over a lifetime as would be experienced in highly polluted cities approximates
+cumulative exposures experienced by underground miners with low exposures in our study.
+Because such workers had at least a 50% increased lung cancer risk, our results suggest that
+the high air concentrations of elemental carbon reported in some urban areas may confer
+increased risk of lung cancer. Thus, if the diesel exhaust/lung cancer relation is causal,
+the public health burden of the carcinogenicity of inhaled diesel exhaust in workers and in
+populations of urban areas with high levels of diesel exposure may be substantial.
+
+FundingThe research was funded by the Intramural Research Program of the National
+Institutes of Health, National Cancer Institute, Division of Cancer Epidemiology and
+Genetics and the National Institute for Occupational Safety
+and Health, Division of Respiratory Disease Studies.
+
+Supplementary Material
+Supplementary Data

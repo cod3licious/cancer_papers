@@ -1,0 +1,189 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed]
+
+Assessing risk of breast cancer in an ethnically South-East Asia population (results of a multiple ethnic groups study). Background Gail and others developed a model (GAIL) using age-at-menarche, age-at-birth of first live child, number of previous benign breast biopsy examinations, and number of first-degree-relatives with breast cancer as well as baseline age-specific breast cancer risks for predicting the 5-year risk of invasive breast cancer for Caucasian women. However, the validity of the model for projecting risk in South-East Asian women is uncertain. We evaluated GAIL and attempted to improve its performance for Singapore women of Chinese, Malay and Indian origins.   Methods Data from the Singapore Breast Screening Programme (SBSP) are used. Motivated by lower breast cancer incidence in many Asian countries, we utilised race-specific invasive breast cancer and other cause mortality rates for Singapore women to produce GAIL-SBSP. By using risk factor information from a nested case-control study within SBSP, alternative models incorporating fewer then additional risk factors were determined. Their accuracy was assessed by comparing the expected cases (E) with the observed (O) by the ratio (E/O) and 95% confidence interval (CI) and the respective concordance statistics estimated.   Results From 28,883 women, GAIL-SBSP predicted 241.83 cases during the 5-year follow-up while 241 were reported (E/O=1.00, CI=0.88 to 1.14). Except for women who had two or more first-degree-relatives with breast cancer, satisfactory prediction was present in almost all risk categories. This agreement was reflected in Chinese and Malay, but not in Indian women. We also found that a simplified model (S-GAIL-SBSP) including only age-at-menarche, age-at-birth of first live child and number of first-degree-relatives performed similarly with associated concordance statistics of 0.5997. Taking account of body mass index and parity did not improve the calibration of S-GAIL-SBSP.   Conclusions GAIL can be refined by using national race-specific invasive breast cancer rates and mortality rates for causes other than breast cancer. A revised model containing only three variables (S-GAIL-SBSP) provides a simpler approach for projecting absolute risk of invasive breast cancer in South-East Asia women. Nevertheless its role in counseling the individual women regarding their risk of breast cancer remains problematical and needs to be validated in independent data.
+
+Background
+The best-known statistical model available for predicting an individual woman's chance of developing breast cancer is that derived using information from regularly screened Caucasian women from the USA participating in the Breast Cancer Detection Demonstration Project (BCDDP)
+[1]. This model uses age-at-menarche, age-at-birth of first live child, number of previous benign breast biopsy examinations, and number of first-degree-relatives with breast cancer as well as baseline age-specific breast cancer risks, to provide a predicted probability of invasive or in situ breast cancer development. Subsequently, the baseline hazard was modified using invasive breast cancer rates from the National Cancer Institute's Surveillance, Epidemiology and End Results (SEER) program from 1983-7 to obtain the model we term GAIL
+[2].
+GAIL is well calibrated among Caucasian women who received annual screening
+[1-3]. Although derived from a particular group of Caucasian women, GAIL also permits projections for women with differing characteristics including those of other ethnic groups. But, because of the wide variation in international breast cancer rates and the risk factors associated with breast cancer, GAIL may not always perform well
+[4-7]. For example, Kaur et al[5] concluded that GAIL only applied to their subpopulation of women who had received screening mammograms and is not readily applicable to all American-Indian and Alaska-Native women. Similar conclusions were found for women from the Czech Republic
+[6] and Italy
+[7].
+Because breast cancer rates are higher for Caucasian than African-American women over 40 years, and the reverse for younger women, Gail et al[8] amended GAIL to account for this racial difference using data from African-American women participating in the Women's Contraceptive and Reproductive Experiences (CARE) Study. Further this modified model, termed CARE by Gail et al[8], is more parsimonious in that age-at-birth of first live child and its interaction with the number of affected first-degree-relatives are no longer included. CARE fits the Women's Health Initiative Studies
+[8] data well with 350 cases observed and 323 expected but under predicts risk in African-American women with previous breast biopsy examinations.
+Breast cancer rates are increasing throughout Asia and it is the leading cancer among Singaporean women
+[9], although the incidence rate is markedly lower than that for Caucasian women with a different etiology, particularly an earlier age-of-onset. It is also likely that only a small proportion of Asian women have received regular mammograms based on coverage of available screening programs. Thus, it is important to recognize limitations of the breast cancer prediction models when counseling women of different ethnic groups. The aim of this paper is to examine and modify models of 5-year invasive breast cancer risk in participants of the Singapore Breast Screening Programme (SBSP) to account specifically for women of Chinese, Malay and Indian origins.
+
+Methods
+Components of the Gail Models
+To estimate the probability of invasive breast cancer in women using Gail models several components for the calculations have to be determined, the values of which depend on the specific women concerned. If, apart from those aged 0-19 years and greater than 85 years, the age range is divided into 15 equal divisions of 5 years, with the end of the age-group j indexed by tj (Table
+1) then, for an individual at age a=tj-1 within a particular relative risk, rij, the probability of developing breast cancer by age a+5 is given, following Gail (1989, Equation 6)
+[1], by
+(1)
+P
+a
+,
+a
++
+5
+,
+r
+ij
+=
+[?]
+j
+b
+j
+r
+ij
+b
+j
+r
+ij
++
+c
+j
+S
+t
+j
+-
+1
+S
+a
+C
+t
+j
+-
+1
+C
+a
+1
+-
+exp
+-
+5
+b
+j
+r
+ij
++
+c
+j
+where i refers to the binary split of the current age (agecat=0,1) at 50 years.
+In a USA context, the important risk factors, and their category weightings, for the development of relative risk, rij, include the current age, age-at-menarche (agemen), age-at-first-live-birth (ageflb) (nulliparous coded 2), number of first-degree-relatives with breast cancer (numrel), and number of previous benign breast biopsies (nbiops), presence of atypical hyperplasia (atypical) and interaction terms (ageflbxnumrel and nbiopsxagecat)
+[1,2].
+In equation (1), bj=Bj[1-AR(agecat)] is the baseline age-specific composite breast cancer rate for age-group j, Bj is the age-specific breast cancer incidence rate and AR is the attributable risk in the broader age category within which j falls. When developing GAIL, AR for the USA Caucasian population was found to be approximately constant in those less than 50 years at AR-49=0.4771, and for older women at AR50+=0.4736.
+For an individual in risk group i of age a=tj-1, the probability of remaining breast cancer free up to the age, tj, is estimated by S(tj)=S(tj - 1)exp(-bjrijD). In addition, the age-specific hazard cj of dying of other causes is assumed to be the same for all subjects in the age-group j. The probability of surviving competing risks up to the end of the age-group j, tj, is estimated by C(tj)=C(tj - 1)exp(-cjD), where C(0)=1.
+The Fortran program BCPTCARE of the National Cancer Institute calculates equation (1), for given values rij, by combining these with data providing information on a, Bj and cj.
+Data sources
+SBSP
+SBSP recruited 29,193 female permanent residents and citizens of Singapore, including 24,609 ethnically Chinese, 1,630 Malay and 1,434 Indian, from 01 October 1994 to 28 February 1997. Women were eligible with no previously diagnosed cancers (except non-melanoma of the skin), no mammography within the past year or biopsy within the last 6 months. Prior to mammography, all attendees completed a questionnaire including demographics; reproductive and family histories; smoking; and menopausal hormone therapy use
+[10,11].
+Included in the risk evaluation are those who were disease-free (including 33 in situ) at the time of breast cancer screening. In order to focus on incident breast cancer, women were included only if they were followed-up to be alive without disease (5 in situ) for the next 3 years. As the prevalent breast cancers are not included, the study women have a lower absolute risk than the general female population
+[12]. Thus the 'clock' was started 3 years from the date of their negative screen and, amongst these women, those who developed invasive breast cancer in the following 4-8 year period are the designated cases. Any women with in situ disease who then developed an invasive cancer were considered as invasive in the year of this latter diagnosis. Women with unknown age-at-menarche or date-of-diagnosis were excluded.
+The study was approved by the Singhealth Institutional Review Board (2008/468/B) and National Cancer Centre Institutional Review Board (NC08-041). As this was a large population based study, with full anonymity of all data, direct consent from the participants is waivered.
+Nested case-control study
+To study risk factors for breast cancer, a nested case-control study was conducted within SBSP in 2006
+[13]. Women who were screened-positive (including those with in situ disease) or developed invasive breast cancer before 2006 were defined as case patients. Control subjects were selected from those who did not have a breast cancer diagnosis at the time of study. These were matched to cases by 5-year at age-at-entry groups and calendar year of entry into the SBSP program and ethnicity. Data from these women was used to build a model to project absolute invasive breast cancer risk.
+Follow-up and breast cancer ascertainment
+Breast cancer incidence and death status for SBSP participants were notified as either detected through SBSP or subsequently through record linkage with the Singapore Cancer Registry (SCR). All whose death status was not captured were assumed alive at 1 March 2009. SCR includes all cases of cancer occurring in citizens and permanent residents (population near 5 million) between 1968 and 2008. Annual invasive breast cancer cases and annual non-breast cancer deaths are obtained from SCR and annual population numbers from Singapore Resident Population report (2003-2007)
+[14]. These were used to calculate average race-specific estimates of Bj, and cj for the period 2003-2007 (Table
+1, Singaporean).
+Statistical analyses
+To estimate the probability of invasive breast cancer for a different population one can assume that all the components necessary are already contained in GAIL. That is, the regression coefficients, b, (Table
+2, BCDDP), together with Bj and cj, remain as those specified when formulating that model (Table
+1, Caucasian women). The calculated probabilities can be applied to an age-specific group of interest to provide the expected number of cases, E. This can then be compared to the actual number of cases observed, O. A ratio of E/O = 1 indicating perfect agreement within that age category. The corresponding 95% confidence interval (CI) is:
+EOexp+-1.96x1O[2,3]. If k age categories are concerned then, under the null hypothesis, [?](O - E)2/E follows a kh2 distribution with k degrees of freedom
+[8].
+In a preliminary investigation, we noted that applying GAIL unchanged to Singaporean women substantially overestimated the number of invasive breast cancer cases: (O=241, E=401.54, E/O=1.67). Consequently our study aim was modified, to one investigating features of the local population which might influence the ultimate predictions while preserving the Gail-based modelling approach.
+Breast cancer rates and competing mortality rates are much lower for Singaporeans of all ethnic groups than Caucasians in those over the age of 30; particularly so in those > 70 years (Table
+1, Singaporean). To take into account such differences, which may influence the expected value E[7,8,15], we formulated GAIL-SBSP using the regression coefficients and AR derived from the BCDDP cohort (Table
+2) combined with the average race-specific estimates of Bj, and cj for the period 2003-2007 for Singaporean women (Table
+1).
+In validating GAIL-SBSP we were unable to classify SBSP participants with respect to either history of previous benign biopsy or atypical hyperplasia status. Consequently those ever having previous benign breast biopsies
+[11] were categorized as a single biopsy, and atypical hyperplasia was categorized as unknown.
+As it is known that the etiological factors for breast cancer vary according to, for example, ethnicity and/or geographical location of the women, the risk factors concerned and/or their weightings in the established Gail model may require some modification. To explore this, we used subjects from the nested case-control study. Relative odds were obtained by use of multiple logistic regression with the same independent variables and coding as GAIL-SBSP (Table
+2). A simplified model (S-GAIL-SBSP) with only three variables - age-at-menarche, age-at-birth of first live child and number of first-degree-relatives with breast cancer was identified. In contrast, in order to explore whether adding other risk factors could predict invasive breast cancer with improved accuracy, the extended model (E-GAIL-SBSP) added ethnicity (ethnicity), parity (parity), smoking (smoking), body mass index (bmi), use of hormonal replacement therapy (hrt), use of oral contraception (oc) and waist-to-hip ratio (whr). The body mass index was categorized as <23.0, 23.0-27.4 and >=27.5 kg/m2 (coded as 0, 1 or 2) following the World Health Organization (WHO) guideline for Asian populations
+[16]. To avoid missing any potentially important predictors P<0.05 was used for statistical significance to select variables for multivariate modeling. Finally E-GAIL-SBSP was created by taking only those variables with prognostic significance into the model.
+Model discriminatory accuracy was measured by the age-specific concordance statistic, using a logistic regression model of breast cancer status on the estimated risks. Thus each model was assessed by use of the area under the receiver operating characteristics curve (AUC) created by computing sensitivity and specificity
+[17]. The CI was based on the standard normal approximation. The average of the age-specific concordances used weights proportional to the number of women in each age group
+[18]. The variance for the average age-specific concordance was the sum, over the age groups, of the weight squared multiplied by the estimated variance of the age-specific concordance estimate. Age-groups with no cases are excluded from the calculations.
+
+Results
+GAIL-SBSP
+Of the 29,193 women in SBSP, 28,883 were available for the 5-year risk assessment. A total of 241 invasive cases were observed and these are categorized by ethnicity and age-group together with the numbers predicted by GAIL-SBSP (Table
+3). In total GAIL-SBSP predicted 241.83 cases (E/O=1.00, CI=0.88 to 1.14) - suggesting good model calibration (goodness-of-fit, P=0.957). This satisfactory prediction was also seen within all age groups (goodness-of-fit, P=0.092). This agreement was reflected in Chinese and Malay, but not in the relatively few Indian women as 17 cases were observed and only 10.16 predicted (E/O=0.60, CI=0.37 to 0.96).
+In general, predictions were good amongst the various risk categories (Table
+4). However, among women who had two or more first-degree-relatives with breast cancer, the numbers were under predicted (E/O=0.18, CI=0.04 to 0.71) while for those with no history there was excellent calibration (E/O=1.02, CI=0.90 to 1.16).
+S-GAIL-SBSP
+To estimate the relative risk function, we analyzed 439 invasive breast cancer cases (121 diagnosed at screening and 318 subsequently) and 1,198 controls from the nested case-control study (Table
+5). As far as possible, those risk factors identified for GAIL were initially used to estimate the regression coefficients which were reported in Table
+2 (GAIL-SBSP (FULL)). Using the same model structure there are some substantial differences, and a good deal of instability when estimating the interaction terms, as compared to those derived for GAIL. As a consequence, the simplified model S-GAIL-SBSP including only age-at-menarche, age-at-birth of first live child and number of first-degree-relative with breast cancer to obtain the relative risks (RR) was derived (Table
+2, S-GAIL-SBSP). The corresponding RRs for each of the risk categories are given in Table
+6 where they are compared with those used in GAIL (Table
+6, BCDDP). Omitting age and number of previous benign breast biopsies and the interactions did not degrade the fit of the model (P=0.359).
+The differences in the RRs between the nested case-control study and BCDDP are largest only in the groups where the number of first-degree-relatives with breast cancer is two or more.
+The simplified model with only three variables - age-at-menarche, age-at-birth of first live child and number of first-degree-relative with breast cancer utilized the modified RRs and predicted 241.80 cases (E/O=1.00, CI=0.88 to 1.14) (Table
+3). The satisfactory prediction was seen in all ethnic groups although among Indian women, as was the case for GAIL-SBSP, the calibration was not entirely consistent across all age-groups.
+Again similar to GAIL-SBSP, S-GAIL-SBSP predictions were relatively close amongst the various risk categories (Table
+4). However, the model underestimated the observed incidence of breast cancer for women who had a biopsy although this was not statistically significant (E/O=0.67, CI=0.44 to 1.01) while for those without a biopsy there was a very good calibration (E/O=1.04, CI=0.91 to 1.19).
+E-GAIL-SBSP
+To determine whether other risk factors could improve S-GAIL-SBSP performance, the effects of the Gail model risk factors were re-estimated in a multiple logistic regression that used subjects from the nested case-control study. We expanded the model by including ethnicity, parity, smoking, bmi, use of hormonal replacement therapy, use of oral contraception and waist-to-hip ratio to estimate the regression coefficients (Table
+5). In addition to age-at-menarche, age-at-birth of first live child and number of first-degree-relatives with breast cancer, both parity and bmi were significantly associated with the probability of invasive breast cancer.
+Following Gail et al[8], the ARs necessary to convert Singaporean age-specific invasive breast cancer rates to baseline rates for SBSP women were calculated. In order to match the follow-up period of the SBSP participants, this was based on invasive cases diagnosed over 1993-2002
+[9,19] and over 2003-2007 [SCR unpublished]. Estimates of AR were 0.5356 for those younger than 50 years and 0.5397 for older women. These ARs and modified RRs were used to re-evaluate equation (1) and hence formulated E-GAIL-SBSP together with Singapore race-specific estimates of Bj and cj (Table
+1).
+Overall, E-GAIL-SBSP predicted 289.47 cases (E/O=1.20; CI=1.06 to 1.36) and so was not able to satisfactorily capture the number of cases among the various risk categories (goodness-of-fit, P=0.004). Moreover, E-GAIL-SBSP statistically significantly underestimated the number of cases among women with two or more first-degree-relatives with breast cancer (E/O=0.24, CI=0.06 to 0.97).
+Comparison between the three models
+In the calibration, the SBSP participants were divided into deciles of 5-year invasive breast cancer risks predicted by GAIL-SBSP, S-GAIL-SBSP and E-GAIL-SBSP, respectively. These predicted rates were compared with those observed in Figure
+1. Thus, for example, GAIL-SBSP under predicted in the seventh, ninth and tenth deciles, there were generally closer predictions with S-GAIL-SBSP except in the sixth decile, and a considerable over prediction in the tenth decile with E-GAIL-SBSP. Clearly the addition of bmi and parity to E-GAIL-SBSP did not materially improve calibration.
+Figure 1
+Comparison of observed breast cancer risk with that predicted by each model. The horizontal axis shows the grouping by deciles of risk and the vertical axis the observed and corresponding predicted risk.
+The unweighted average concordance statistics were very similar, and not statistically significantly different, with AUC = 0.6098 (CI=0.57 to 0.65), 0.5997 (CI=0.56 to 0.64), and 0.6162 (CI=0.58 to 0.65) for GAIL-SBSP, S-GAIL-SBSP and E-GAIL-SBSP, respectively (Figure
+2). In addition, the estimated age-specific AUC of S-GAIL-SBSP for the intervals from 50 to 74 years were modest except in the oldest group; specifically, 0.5766 (CI=0.53 to 0.62) for those aged 50 - 59, 0.5838 (CI=0.53 to 0.64) for 60 - 69 years, and 0.8938 (CI=0.70 to 1.00) for 70 - 74 years.
+Figure 2
+Receiver operating characteristic and corresponding area-under-the-curve (AUC) for the breast cancer risks predicted by GAIL-SBSP, S-GAIL-SBSP and E-GAIL-SBSP, respectively.
+
+Discussion
+Although first developed by MH Gail and his associates
+[1] some 25 years ago, the GAIL model continues to play an important role in predicting the 5-year risk of invasive breast cancer. Thus Schonfeld et al[15] have shown that GAIL remains well calibrated in more recent cohorts. However, although refinements have been made, application of the underlying methodology to non-Caucasian women has been limited and suggests that further modification may need to be made for its use in women of other ethnic groups. Singapore has a population which is predominantly of Chinese ethnicity but also with those of Malay and Indian descent and has also completed a large mammographic screening study involving 29,193 randomly selected women follow-up from which enables invasive breast cancer rates to be determined. Thus the very different breast cancer rates, and etiological risk factors varying in their presence and magnitude when compared to other populations, enables the GAIL model itself to be tested and variants (if relevant) to be established.
+Retaining the GAIL model structure, but applying Singapore national and race-specific invasive breast cancer and other cause mortality rates, to develop GAIL-SBSP resulted in absolute risk projections that worked reasonably well as assessed by the comparison of observed and expected cases across all age groups and amongst the majority of risk categories (Tables
+3 &4). In total 241 cases were recorded while GAIL-SBSP predicted 241.83 (E/O=1.00, CI=0.88 to 1.14). However, the model under predicted for the very few women who had two or more first-degree-relatives with breast cancer. Prediction was satisfactory for Chinese women but over-predicted for the Malay and Indian women. Since these latter groups each comprise of only 5% of the population studied, the accuracy of these specific predictions requires further investigation in residents of the Malaysian Peninsula and the Indian Sub-Continent. Nevertheless, the results for the Chinese women suggests the potential that GAIL can be improved for South-East Asian populations by using local (and/or updated) estimates of incidence and competing mortality rates.
+Although the performance of GAIL-SBSP is in general satisfactory, at least amongst Singapore-Chinese women, one might anticipate that taking into account implications of the different health systems and etiological factors may produce improved prediction. For example, only 10% of the subjects in the SBSP cohort had had a mammogram in the previous year and this may have an impact on the apparent natural history of disease. More generally, women from much of the Asia-Pacific region do not receive regular mammogram screening
+[20]. Also, some factors included in GAIL may have different consequences in an Asian-Pacific population due to genetic predisposition, geographic, or other influences. To explore these aspects we initially used the same risk factors and coding that were in the original model of GAIL
+[1,2] to estimate relative risks with subjects from a case-control study, nested within the SBSP cohort (GAIL-SBSP (FULL)) and to compare these estimates with those from the BCDDP Table
+2. Finally we derive a simplified model (S-GAIL-SBSP) with fewer risk factors and also an extended one (E-GAIL-SBSP) with additional risk factors included both incorporating local baseline race-specific breast cancer and other mortality rates.
+S-GAIL-SBSP, which included age-at-menarche, age-at-birth of first live child and number of first-degree-relatives with breast cancer was well calibrated in the total SBSP cohort and across most subgroups (Tables
+3 &4). It was not surprising that 'ever having previous benign breast biopsy' was not included in this revised prediction for Singaporean women as this reflects a specific health care delivery system in which biopsies were not common as is the case for the majority of Asian women (including Chinese-Occidental migrants)
+[20,21] although an increasing proportion of these women now receive mammographic screening
+[22,23]. Other evidence for the use of simpler, but more targeted, models has been provided by predictions of estrogen receptor-positive breast cancer in postmenopausal women in the USA
+[24]. However, the concordance from GAIL-SBSP (AUC = 0.61) is relatively low. This is similar to previous validation studies in non-Asian populations which have recorded an AUC between 0.56 and 0.60 for the GAIL model for Caucasian women
+[3], for the modified GAIL (CARE) an average age-specific AUC of 0.555 in African-American women
+[8], and 0.614 in Asian- and Pacific-Islander-American women
+[25]. Thus a good model with a higher discriminatory accuracy, in addition to good calibration, is needed
+[26]. Unfortunately, given the low relative risks associated with most established non-modifiable breast cancer risk factors, it is unlikely that any prediction model will have a much higher discriminatory accuracy
+[3,27].
+The modest concordance suggests that additional factors prognostic for outcome may be required. In this respect we found that of bmi and parity were independent predictors of risk. Thus their inclusion in E-GAIL-SBSP, with modified AR and RRs derived from the SBSP cohort, marginally improved the discriminatory power (AUC = 0.62) but overestimated the predicted breast cancer cases substantially in, for example, the highest decile (Figure
+1). One reason for this is that the ARs calculated may be inappropriate, possibly due to the true risk factor prevalence by age not taking a binary form with a cut at 50 years and/or influencing Asian women in different ways. Using the original AR values of GAIL made no improvement. Also overestimates may be a consequence of over-fitting a model with many risk factors based on only a modest number of cases and controls
+[28]. Similar mixed results were observed when the use of hormonal replacement therapy, oral contraception, smoking and waist-to-hip ratio were investigated (unreported analyses).
+It has been suggested that the addition of mammographic breast density could provide improved discriminatory power for the GAIL model for Caucasian women
+[29,30] as the density is associated with an increased risk of breast cancer
+[13,31]. Further women with Tabar IV
+[32] parenchymal patterns amongst the SBSP cohort also have a significant higher risk of breast cancer when compared to those with the remaining patterns (odds ratio=2.30, CI=1.14 to 4.63). However those screened for this in the SBSP study were too few in number for us to validate any model that incorporates this risk factor.
+The GAIL-SBSP, S-GAIL-SBSP and E-GAIL-SBSP models should always be applied with caution or avoided for certain specific populations as is true for GAIL itself. For example, although large SBSP was essentially confined (95%) to those of 50 and more years, they are applicable to younger women but further validation is needed. Further, we started the "clock" three years after negative screening which implies the SBSP based models are pertinent to women thought to be free of breast cancer. A woman who has just had a negative breast examination and mammogram, as the United Kingdom breast screening programme has shown, has about one third the absolute risk of breast cancer in the following three years
+[33]. Nevertheless, to establish the risks definitively, validation studies from a more representative sample of South-East Asian women in regular follow-up are required.
+The strengths of this study include the use of a predominately postmenopausal group of women from three ethnic groups, Chinese, Malay and Indian, drawn from a very large screening program in which more than 29,000 women were randomly chosen to participate. Further, since neither Asian- or Chinese-Occidental (born in or migrated to the West) women were systematically included in the development of the Gail-based models
+[1,2]. We believe this is the first attempt to validate and modify the basic GAIL model to ethnically diverse women living in an Asian region. Earlier studies
+[21] have explored those of Chinese-Occidental origin who had migrated when aged less than 21 years (N=216) or had been residents in a western country for 10 years or less (N=421)
+[21] and Asian- and Pacific-Islander-American women
+[25].
+Limitations of using SBSP data for individual absolute risk predictions include the inability of the nested case-control study to estimate elaborate models with sufficient precision. Also our validation data included relatively small numbers of breast cancer cases, especially amongst Singapore-Malay and -Indian women and those with two or more affected first-degree relatives. Furthermore, as with retrospective studies in general, the level of ascertainment of incident cases is of concern. However, Singapore is a small island where all citizens and permanent residents are registered in the population registry with a unique registration number. Also cancer notification is mandatory and this enables near complete ascertainment of breast cancer incidence by linkage of SBSP participants with the Singapore Cancer Register database.
+
+Conclusion
+In conclusion, we found that among South-East Asian postmenopausal women, the GAIL type model could be refined using race-specific estimates of invasive breast cancer incidence and other cause mortality rates. A model which includes age-at-menarche, age-at-birth of first live child and number of first-degree-relatives with breast cancer appears to provide a simpler approach for projecting absolute risk of invasive breast cancer in South-East Asia women. Nevertheless its role in counseling the individual women regarding their risk of breast cancer remains problematical and needs to be validated in independent data.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1471-2407/12/529/prepub

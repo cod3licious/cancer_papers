@@ -1,0 +1,273 @@
+[Abstract, Introduction, Mixed, Mixed, Mixed, Discussion]
+
+Molecular targeted therapies in metastatic melanoma. The advent of personalized medicine has ushered in a new era for cancer therapy with a significant impact on the management of advanced melanoma. Molecular targeted therapies have shown promise in the management of various malignancies, including melanoma, with lower toxicity profiles and better overall survival as compared with conventional therapy. The discovery of BRAF mutations in melanoma led to the development of BRAF inhibitors for the treatment of advanced melanoma. However, growing concerns over drug resistance to molecular targeted therapies including BRAF inhibitors, have spurred efforts to elucidate additional molecular targets for the treatment of advanced melanoma. In this review, we discuss the known molecular aberrations in melanoma, current and novel targeted approaches in its treatment, and drug resistance patterns.
+
+Introduction
+Malignant melanoma is the fifth and sixth most common new skin cancer diagnosis in men and women,
+respectively, in the United States. Among the skin cancers, melanoma has the greatest metastatic
+potential, with metastatic disease occurring in 10%-15% of patients at
+diagnosis.1,2 Metastatic melanoma has a dismal prognosis, with a five-year overall
+survival of 15%. Over the past 40 years, limited progress has been made in the treatment of
+metastatic melanoma through the use of chemotherapy, immunotherapy, biochemotherapy, and
+combinations thereof.3,4
+Conventional chemotherapy with dacarbazine and temozolomide has yielded poor response rates of
+7%-20% and a median survival of nine months, with mild toxicity
+profiles.5,6 Immunotherapies such as interleukin-2, while achieving durable
+responses (response rate 16%, median duration of response 8.9 months) in metastatic
+melanoma, are associated with significant toxicity3
+and offer limited options for effective and safe therapies for management of metastatic
+melanoma.7,8
+Two new immunotherapeutic agents, ie, ipilimumab (recombinant, fully human IgG1 monoclonal
+antibody against cytotoxic T lymphocyte-associated antigen 4 [CTLA-4]) and
+anti-programmed cell death 1 [PD-1], show promise as potentially effective therapies
+with manageable side effect profiles in metastatic melanoma. Ipilimumab has an overall response rate
+of 10.9%, and in those patients who respond, over half have a durable response.9,10
+The major limitations are that at this time there is no way to predict these responders, and side
+effects include numerous immune-mediated toxicities. A T cell regulator that functions similarly to
+CTLA-4 is PD-1. The PD-1 ligand allows tumors to evade the host immune response. PD-1 ligand
+antibodies have been shown to enhance tumor immune response in patients with melanoma.11 Other promising therapies include several
+angiogenesis-promoting molecules, such as vascular endothelial growth factor.12 In spite of recent advances in immune-based therapy, and given the
+absence of long-term remissions in the majority of treated patients, new treatments for metastatic
+melanoma are needed.
+Recent advances in molecular biology and genomics have uncovered the molecular heterogeneity of
+tumors and facilitated a shift in anticancer therapy strategies from the traditional
+"one-size-fits-all" approach to an individualized approach to therapy.13,14
+Key molecular drivers of tumor oncogenesis and mechanisms of tumor resistance have been uncovered,
+revealing the limitations of reliance solely on the clinical and pathological classification of
+tumors. This knowledge has resulted in the development of new treatment strategies that rely on
+therapy targeted towards identified functional genetic mutations, resulting in improved tumor
+response rates and relatively tolerable side effect profiles.15
+The discovery of activating mutations in serine/threonine kinase, BRAF (v-raf murine sarcoma
+viral oncogene homolog B1) in 50%-60% of melanomas (superficial spreading
+type) in 2002 spurred investigations into the development of targeted therapies. This ultimately
+resulted in the approval of vemurafenib, a BRAF inhibitor, by the US Food and Drug Administration in
+August 2011 for the treatment of locally advanced/unresectable or metastatic BRAF-mutated malignant
+melanoma.16,17 The purpose of this review is to discuss the conventional and novel
+molecular targeted treatment approaches for the management of advanced melanoma and show the major
+drug resistance patterns associated with BRAF inhibitor therapies.
+
+Molecular pathogenesis of melanoma and implications for targeted therapy
+Melanoma is a heterogeneous disease reflected by its complex pathobiology. Recent advances in
+molecular genomic techniques have enabled the elucidation of functionally relevant cellular
+processes implicated in the oncogenesis of melanoma. Dysregulation of the cell growth cycle and
+signaling represent key mechanisms for tumor growth and persistence in melanoma and are the
+predominant molecular events in the majority of cases.
+Cell cycle changes
+Cell cycle dysregulation in melanoma represents one of the most important pathogenetic mechanisms
+for its oncogenesis, resulting in uncontrolled cellular proliferation. The most prominent molecular
+target is the CDKN2A locus (chromosome 9p21) that acts as a tumor suppressor in melanoma. Germline
+and somatic mutations in CDKN2A account for 10%-40% of familial
+melanoma,18 and 10% of all melanomas are
+familial in origin.19 The absolute risk for
+melanoma in individuals with the CDKN2A mutation is modulated by identifiable heritable traits
+(skin, hair, and eye color, large numbers of benign and atypical nevi, giant congenital nevi or a
+family history of melanoma) and environmental factors (history of sunlight exposure).20,21-24 In familial cases, the risk
+for development of melanoma by the age of 50 years is 50% in the United States, and
+76% by the age of 80 years.25 In sporadic
+CDKN2A mutation carriers, the risk of melanoma is much lower, at 14%, 24%, and
+28% by the ages of 50, 70, and 80 years.26
+CDKN2A encodes two distinct proteins, p16INK4A and p14ARF, which both act
+as tumor suppressors by inhibiting progression of the cell cycle through negative regulation of the
+RB1 and p53 pathways, respectively. Therefore, genetic aberrations that lead to functional loss of
+either of these proteins (p16INK4A and p14ARF) will ultimately result in
+uncontrolled cellular proliferation. While initial studies of first-generation CDK inhibitors, such
+as flavopiridol, failed to demonstrate efficacy in preclinical studies, second-generation CDK
+inhibitors (SCH 727965), have shown more promising results in halting melanoma progression in mouse
+xenografts. This effect is potentiated when CDK inhibitors are combined with paclitaxel.27,28
+RB1 is the central piece of the pathway controlled by p16INK4A, serving in its
+unphosphorylated form to sequester E2F transcription factor, preventing it from inducing gene
+expression critical for transition from the G1 to the S phase of the cell cycle. RB1 phosphorylation
+leads to release of E2F, enabling it to induce expression of the target genes necessary for
+progression from the G1 to S phase of the cell cycle. Phosphorylation of RB1 is performed by a
+catalytic complex composed of cyclin D1 and CDK 4 or 6. The activity of this catalytic complex is
+dependent on levels of p16INK4A. High levels of p16INK4A lead to suppression
+of the activity of the cyclin D1-CDK4/6 complex, with resulting suppression of RB1 phosphorylation
+and suppression of release of EF2 sequestration and ultimately cell cycle arrest at the G1/S step.
+However, when levels of p16INK4A are low, inhibition of the catalytic complex is
+released, resulting in progression of the cell cycle. Genetic mutations that affect the CDKN2A locus
+occur as deletions of p16INK4A in 50% of melanomas and as inactivating point
+mutations in 9% of melanomas.29 This
+suggests that p16INK4A serves a critical role in cell cycle regulation in melanocytes.
+Less common mutations include amplifications and point mutations of the CDK4 gene, resulting in
+constitutive activation of the CDK4/cyclin D1 complex, overexpression of CDK6, and inactivating
+mutations in the RB1 gene (6% of melanomas).29
+TP53 is the most common gene mutation in human cancer and p53 transcription factor controls
+various genes responsible for cell cycle arrest, senescence, DNA repair, and cell death. However,
+TP53 mutations represent a low frequency event in melanoma, occurring in only 9% of
+melanomas.30 MDM2 is one of the negative
+regulators of p53 and is regulated by p14ARF (one of the protein products of CDKN2A)
+which, when bound to MDM2, inhibits its function and stabilizes p53.20 Mutations in p14ARF result in restoration of MDM2 activity
+and ubiquitination of p53 by MDM2, with resulting degradation and destabilization of p53.31 This loss of p53 through mutations in
+p14ARF and active MDM2 eventually leads to cell cycle progression. Therefore, the
+MDM2-p53 interaction is a possible treatment target for tumors because blocking MDM2 stabilizes and
+reactivates p53, allowing for tumor suppression.32
+MDM2 antagonists are just beginning clinical trials.
+Cell signaling changes
+Dysregulation of the signal transduction pathway for mitogen-activated protein kinase (MAPK),
+also known as RAS/RAF/MEK, plays a key role in multiple human cancers, including melanoma.
+Activation of MAPK signaling by mutations is implicated in 90% of melanomas.33 Signaling through the MAPK pathway occurs through
+extracellular signals that lead to the binding of a broad array of receptor tyrosine kinases, which
+results in activation of Ras, a small G-protein with three isoforms, HRAS, KRAS, and NRAS, with
+resultant downstream effects of cellular proliferation and survival. Al-Mulla et al demonstrated the
+variable effects of Ras mutations on the invasiveness of tumors in vitro, with implications for the
+biologic behavior of these tumors in vivo.34 The
+receptor tyrosine kinases include growth factor receptors, such as epidermal growth factor receptor,
+c-KIT, platelet-derived growth factor receptor, vascular endothelial growth factor receptor, and
+fibroblast growth factor receptor.35 Binding of
+growth factors to receptor tyrosine kinases leads to activation of Ras, resulting in formation of a
+complex between Ras and one of the RAF serine/threonine kinase isoforms, ie, ARAF, BRAF, or RAF1
+(CRAF). Formation of the Ras-RAF complex leads to activation of RAF and phosphorylation and
+activation of MEK that, in turn, activates MAPK isoforms (also known as ERK), including MAPK3 and
+MAPK1. MAPK3 and MAPK1 activation results in an array of downstream effects, including increased
+proliferation, protection from apoptosis, and increased survival through induction of transcription
+factors and cell cycle proteins in the nucleus.20,35 Ras activation ultimately results in
+stimulation of multiple intracellular signaling pathways, including the MAPK pathway, Ral guanine
+nucleotide exchange factors, and the phosphoinositide 3-kinase (P13K/AKT) pathway.36
+The predominant mutations in the MAPK pathway leading to its constitutive activation are
+mutations in BRAF. Of all malignancies, activating mutations in BRAF are present at the highest
+frequency (27%-68%) in melanomas.16,37 The mutation that accounts for the
+majority (60%-100%) of all BRAF mutations in melanoma involves substitution
+of a glutamate for valine at position 600 (V600E).38,39 This results in downstream
+activation of MAPK and ultimately proliferation and survival of melanoma. Hence BRAF V600E
+represents an attractive molecular target for treatment of melanoma. The BRAF V600E mutation has
+also been described in benign melanocytic proliferations, suggesting that this mutational event
+alone is not sufficient for tumorigenesis and that additional genetic insults are required for
+transformation to melanoma.20 Intermittently
+sun-exposed skin, as well as acral and mucosal melanomas, commonly bear BRAF mutations.40 MAPK signaling in melanocytes via growth
+factor-mediated activation of adenylate cyclase primarily occurs through BRAF and likely explains
+the high frequency of BRAF mutations seen in melanoma. An increase in adenylate cyclase activity
+results in accumulation of cyclic AMP and activation of protein kinase. Activated protein kinase A
+inhibits CRAF, enabling signaling to proceed via BRAF.41
+Mutations in the Ras proteins, NRAS, HRAS, and KRAS, are less common events in melanoma,
+accounting for 20%, 2%, and 1% of all melanomas, respectively. These Ras
+mutations appear to represent early events in the oncogenesis of melanoma, with additional
+mutational events necessary to initiate oncogenic transformation.42 The most common (>80%) mutation in NRAS is a point
+mutation that results in substitution of glutamine for leucine at position 61.43 This point mutation leads to dysfunctional GTPase activity that
+maintains the Ras protein in an activated (GTP-bound) state. NRAS-mutated melanomas appear to have
+distinctive clinical, histopathologic, and prognostic features. The typical clinical presentation is
+in older individuals (>55 years of age) on chronically photoexposed skin of the extremities.
+Histopathologic features include thicker tumors without ulceration and higher mitotic rates compared
+with BRAF-mutant melanomas. Mutant NRAS melanoma has a worse overall survival than wild-type NRAS
+melanoma.44-46 Mutant NRAS melanoma is dependent on CRAF and not BRAF signaling for
+growth factor-mediated MAPK signaling. This pathway relies on two parallel mechanisms, including Ras
+isoform switching, that permits inactivation of BRAF by causing its phosphorylation thereby
+preventing Ras/BRAF association, and increased expression of the cyclic AMP degrading enzyme,
+phosphodiesterase IV, which restricts protein kinase A activity and ultimately prevents
+phosphorylation of CRAF at its inhibitory sites, promoting CRAF-mediated MAPK signaling.41 The latter mechanism presents an opportunity for
+therapeutic targeting of phosphodiesterase IV through its inhibition in melanomas with Ras mutations
+that are resistant to BRAF V600E inhibitors.47
+While phosphodiesterase IV antibodies have demonstrated therapeutic potential for the management of
+chronic obstructive pulmonary disease and asthma,48,49 there are no definitive studies
+evaluating their clinical efficacy in mutant NRAS or wild-type BRAF melanoma. However, preliminary
+findings have demonstrated inhibition of growth potential and increased apoptosis of mutant NRAS
+melanoma cell lines.47
+
+BRAF inhibitors: mechanisms of action and drug resistance patterns
+Recognition of multiple mutations in melanoma within components of the MAPK signaling pathway has
+led to interest in targeted therapies, especially given the lack of evidence for improved overall
+survival rates with conventional therapies, such as interleukin-2 and chemotherapy.50 While mutations in both NRAS and BRAF have been
+identified in melanoma,16,51 therapies targeting the MAPK pathway have focused on inhibition of
+BRAF and MEK. Initial attempts to inhibit BRAF in melanoma used sorafenib, a tyrosine kinase
+inhibitor that inhibits multiple tyrosine kinases, including BRAF. However, sorafenib does not block
+the V600E mutation, and therapy alone or in combination with chemotherapy did not demonstrate
+benefit.52-54 More selective BRAF inhibitors were developed, and in 2011 the US
+Food and Drug Administration approved the selective inhibitor, vemurafenib, for patients with
+malignant melanoma bearing the activating BRAF (V600E) mutation. In a Phase I trial, 81% of
+patients with V600E-positive metastatic melanoma responded to treatment. Overall, 26 of 32 patients
+showed a partial response (defined as a decrease by at least 30% in the sum of the largest
+diameter of each target lesion), including two with complete resolution.55 A randomized controlled Phase III trial compared vemurafenib with a
+commonly used standard chemotherapy agent, dacarbazine, in 675 patients with untreated
+V600E-positive metastatic melanoma. At six months, overall survival was 84% in the
+vemurafenib group and 64% in the dacarbazine group.17 After the interim analysis, crossover to vemurafenib from dacarbazine
+was recommended, and an updated analysis continues to show improvement in overall survival and
+progression-free survival.17 While the initial
+response can be dramatic, progression-free survival has ranged from 5-7 months,17,57
+leading to concern about drug resistance. Indeed, secondary mutations in addition to BRAF have been
+observed with progressive disease.58,59
+Dabrafenib is another selective BRAF inhibitor that has shown significant activity in patients
+with metastatic melanoma in Phase I/II studies.60
+Further clinical trials are underway with dabrafenib. It is important to note that the BRAF
+inhibitors, vemurafenib and dabrafenib, are the first treatments to show benefit in patients with
+metastasis to the brain.61,62 In addition, while vemurafenib has been studied in patients with the
+V600E mutation, studies with dabrafenib are examining activity in non-V600E and V600K
+mutations.56,62
+Importantly, vemurafenib and dabrafenib have been well tolerated overall, with the most common
+side effects being cutaneous. Patients can experience fatigue and arthralgias with both agents, but
+unlike vemurafenib, approximately 10% of patients on dabrafenib also develop pyrexia.63 Patients can experience significant photosensitivity
+and rash that can require dose reduction, and epithelial neoplasms ranging from benign keratosis to
+keratoacanthomas and squamous cell carcinomas are common, and can affect up to
+20%-30% of patients on vemurafenib.17,64 The mechanism
+underlying increased rates of malignant squamous proliferations with BRAF inhibitors is thought to
+involve disruption of the MAPK pathway, where inhibition of RAF activity leads to increased activity
+in RAS. RAS mutations are common in cutaneous squamous cell carcinomas and keratoacanthomas, and the
+paradoxical activation of RAS seen with BRAF inhibition accelerates the oncogenic process.65 There is also concern that BRAF inhibition may induce
+carcinogenesis in other melanocytic proliferations or other organs through a similar mechanism. For
+example, new wild-type BRAF primary melanomas have been found to arise in patients subsequent to
+treatment with BRAF inhibitors.66
+Understanding drug resistance for selective BRAF inhibitors remains a major concern and area of
+interest. Although the pathway that leads to squamous cell carcinoma with BRAF inhibitors seems to
+have been elucidated, studies suggest resistance is due to more complex compensatory activation of
+numerous components of the MAPK pathway. There can be upregulation of receptor tyrosine kinases,
+such as platelet-derived growth factor receptor-b and insulin-like growth factors, secondary
+NRAS mutations, and activation of MEK.58,59 MEK activation can occur through various mutations in
+MEK1.67 COT kinase is an activator of the MAPK
+pathway that does not require RAF signaling, and upregulation of COT kinase has been shown to
+promote resistance to BRAF inhibitors.68 In
+addition, increased phosophorylated ERK1/2 levels have been observed in melanomas with acquired
+resistance to vemurafenib.67 Finally, BRAF V600E
+splice variants, reported in colon and thyroid cancer, lead to reactivation of feedback in the MAPK
+pathway via MEK and the receptor tyrosine kinase, epidermal growth factor receptor.69-71 The possibilities for potential combinations allowing for drug resistance are clearly
+numerous and complex. These resistance patterns support consideration of combination therapies,
+including BRAF inhibitors and drugs that target other members of the MAPK pathway.
+
+Future directions in molecular-targeted therapy for melanoma
+With limited disease-free survival rates and drug resistance following treatment with BRAF
+inhibitors, additional treatment options are needed. Efforts are underway to find other targeted
+therapies within the MAPK pathway that could be used alone or in combination with BRAF inhibitors.
+There has been significant investigation into MEK inhibition. Phase III trials comparing trametinib,
+a MEK inhibitor, with chemotherapy in patients with BRAF V600E/K mutant malignant melanoma show
+improved overall survival and progression-free survival.72 The combination of dabrafenib and trametinib has shown improved progression-free survival
+as well as reduction in the rate of secondary cutaneous neoplasms (such as squamous cell
+carcinoma).73 Based on the numerous pathways for
+resistance, MEK inhibition alone is unlikely to be the only answer to BRAF resistance. Nonetheless,
+MEK inhibitors have shown promise.
+Another option being explored for targeted therapy in melanoma is the receptor tyrosine kinase,
+c-KIT (or CD117). Activating c-KIT mutations have been reported in approximately
+20%-30% of certain subtypes of melanoma, including acral melanomas and
+mucosal melanomas, and melanomas that develop on photodamaged skin.74 The most common point mutation is L576P in exon 11, but point
+mutations also occur in exons 13, 17, and 18.75
+Other tumors, including gastrointestinal stromal tumors with c-KIT mutations have been responsive to
+the tyrosine kinase inhibitor, imatinib.76
+Therefore, Phase II trials were conducted with imatinib in patients with acral or mucosal melanoma
+or melanomas on chronically sun-damaged skin that harbored KIT mutations or amplifications. Response
+rates of 16%-23% with a small number of complete long-term responses have
+been seen, with no difference in response rates between the various melanoma subtypes.77-79 Notably, the same KIT mutations (K642E and N822K) that have shown response to treatment
+in gastrointestinal stromal tumors also show response in the treatment of melanoma. Meanwhile,
+resistance to specific KIT mutations (V654A and D820Y) are observed in both gastrointestinal stromal
+tumors and melanoma.77 There are numerous tyrosine
+kinase inhibitors, and trials involving other KIT-directed therapies are underway in patients with
+melanomas harboring c-KIT mutations.
+Attempts have been made to target Ras indirectly by blocking important post-translation
+modification. Farnesyl transferase inhibitors, such as lonafarnib, block Ras by inhibiting its
+farnesylation and blocking translocation of Ras to the plasma membrane. Lonafarnib, in combination
+with other chemotherapeutic agents such as sorafenib and cisplatin, has demonstrated encouraging
+results in metastatic melanoma in vitro.80,81 A single clinical trial attempted to treat melanoma
+by inhibiting Ras via farnesyl transferase suppression, and showed significant toxicity and a lack
+of efficacy.82 However, it should be noted that
+the patients in this study were not selected based on the presence of NRAS mutation.
+
+Conclusion
+The advent of oncologic molecular typing has galvanized the discipline of personalized medicine.
+Recognition of common mutations within particular tumors has shown and holds tremendous promise for
+targeted individualized therapies. In melanoma, studies show an early favorable response to BRAF
+V600E inhibitors in treating BRAF V600E mutant melanomas. However, many challenges remain. The first
+and foremost is the other half of metastatic melanomas which do not harbor BRAF mutations. Another
+challenge is that although overall survival increases for those using BRAF inhibitors, complete
+resolution only occurs in a minority and most cases relapse through secondary resistance. Other
+targeted therapies, such as tyrosine kinase inhibitors, are being explored in melanomas with
+activating c-KIT mutations, and therapies such as MEK inhibitors are being developed to exploit
+regulation of the MAPK pathway. Immunomodulation has shown potential, but the ability to provide
+targeted immunomodulating therapy has yet to be achieved. The limitations of BRAF inhibitors and
+other targeted therapies reinforce the complexity of these tumors and the host response.
+Combinations of existing and new therapeutic options will need to be explored. However, advances
+made over the last few years have generated new hope for effective treatments.

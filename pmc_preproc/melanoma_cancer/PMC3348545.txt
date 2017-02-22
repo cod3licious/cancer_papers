@@ -1,0 +1,19 @@
+[Abstract, Methods, Mixed]
+
+The SETDB1 histone methyltransferase is recurrently amplified in and accelerates melanoma. The most common mutation in melanoma, BRAF(V600E), activates the BRAF serine/threonine kinase and causes excessive MAPK pathway activity1,2. BRAF(V600E)mutations are also present in benign melanocytic nevi3, highlighting the importance of additional genetic alterations in the genesis of malignant tumors. Such changes include recurrent copy number variations that result in the amplification of oncogenes4,5. For certain amplifications, the large number of genes in the interval has precluded an understanding of cooperating oncogenic events. Here, we have used a zebrafish melanoma model to test genes in a recurrently amplified region on chromosome 1 for the ability to cooperate with BRAF(V600E) and accelerate melanoma. SETDB1, an enzyme that methylates histone H3 on lysine 9 (H3K9), was found to significantly accelerate melanoma formation in the zebrafish. Chromatin immunoprecipitation coupled with massively parallel DNA sequencing (ChIP-Seq) and gene expression analyses revealed target genes, including Hox genes, that are transcriptionally dysregulated in response to elevated SETDB1. Our studies establish SETDB1 as an oncogene in melanoma and underscore the role of chromatin factors in regulating tumorigenesis.
+
+Methods Summary
+miniCoopR Assay
+miniCoopR was constructed by inserting a zebrafish mitfa minigene (promoter + open reading frame + 3'UTR) into the BglII site of pDestTol2pA219. Individual MiniCoopR clones were created by Gateway multisite recombination using human, full-length open reading frames (Invitrogen). 25pg of each MiniCoopR-Candidate clone and 25pg of tol2 transposase mRNA were microinjected into one-cell embryos generated from an incross of Tg(mitfa:BRAFV600E); p53(lf); mitfa(lf) zebrafish. Rescued animals were scored weekly for the presence of visible tumor.
+Senescence Assay
+SA-bGal staining was performed as described10, except that scales plucked from the dorsum of melanocyte-rescued zebrafish were stained instead of tissue sections. This assay was performed in an albino(b4) mutant background so melanin pigment would not obscure bGal staining. Experimental animals were injected with 20pg miniCoopR-SETDB1 + 10pg miniCoopR-EGFP and controls with 30pg miniCoopR-EGFP. Rescued melanocytes were recognized as EGFP-positive cells.
+Gene Expression
+From zebrafish, total RNA was extracted from four miniCoopR-SETDB1 melanomas and four miniCoopR-EGFP melanomas. Total RNA from each was used for synthesis of cDNA, which was hybridized to a Nimblegen 385K array (catalog 071105_Zv7_EXPR). Zebrafish genes downregulated by SETDB1 were selected by fold change (EGFP/SETDB1) > 5 and filtered by a 'SETDB1 specificity score', which was defined as a fold change of >3 when comparing Tg(mitfa:BRAFV600E); p53(lf) melanomas to miniCoopR-SETDB1 melanomas.
+Immunohistochemistry
+Human melanoma tissue microarrays (TMAs) were analyzed by immunohistochemistry for SETDB1 using rabbit polyclonal Ab (Sigma HPA018142, 1:200) and a mouse monoclonal Ab 4A3 (Sigma, WH0009869M7, 1:400) with a purple substrate for the secondary antibody (Vector Labs, VIP Substrate). A methyl green counterstain was used.
+
+Supplementary Material
+1
+2
+3
+4

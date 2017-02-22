@@ -1,0 +1,14 @@
+[Abstract, Methods, Mixed]
+
+Functional genomics reveals serine synthesis is essential in PHGDH-amplified breast cancer. Cancer cells adapt their metabolic processes to drive macromolecular biosynthesis for rapid cell growth and proliferation (1,2). RNAi-based loss of function screening has proven powerful for the identification of novel and interesting cancer targets, and recent studies have used this technology in vivo to identify novel tumor suppressor genes (3). Here, we developed a method for identifying novel cancer targets via negative selection RNAi screening in solid tumours. Using this method, we screened a set of metabolic genes associated with aggressive breast cancer and stemness to identify those required for in vivo tumourigenesis. Among the genes identified, phosphoglycerate dehydrogenase (PHGDH) is in a genomic region of recurrent copy number gain in breast cancer and PHGDH protein levels are elevated in 70% of ER-negative breast cancers. PHGDH catalyzes the first step in the serine biosynthesis pathway, and breast cancer cells with high PHGDH expression have elevations in serine synthesis flux. Suppression of PHGDH in cell lines with elevated PHGDH expression, but not those without, causes a strong decrease in cell proliferation and a reduction in serine synthesis. We find that PHGDH suppression does not affect intracellular serine levels, but causes a drop in the levels of alpha-ketoglutarate, another output of the pathway and a TCA cycle intermediate. In cells with high PHGDH expression, the serine synthesis pathway contributes approximately 50% of the total anaplerotic flux of glutamine into the TCA cycle. These results reveal that certain breast cancers are dependent upon increased serine pathway flux caused by PHGDH over-expression and demonstrate the utility of in vivo negative selection RNAi screens for finding potential anticancer targets.
+
+Methods Summary
+To undertake negative selection RNAi screening in solid tumours, pools of MCF10DCIS.com cells expressing an shRNA library were injected into the 4th mammary fat pad of immunocompromised mice and allowed to form tumours. Abundances of shRNAs in the tumours was determined using massively parallel sequencing and compared to shRNA abundance in the injected cells. Genes targeted by shRNAs that were significantly depleted during tumour growth were considered hits and prioritized by analyzing gene copy number data from human tumours and cancer cell lines. Lentiviral shRNAs were used to suppress PHGDH expression in breast cancer cell lines with and without PHGDH genomic amplification. Serine synthesis pathway activity and anaplerosis were measured via flux analyses utilizing isotopically labeled molecules.
+
+Supplementary Material
+1
+2
+3
+4
+5
+6

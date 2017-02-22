@@ -1,0 +1,337 @@
+[Abstract, Methods, Mixed]
+
+Recurrent mutations in epigenetic regulators, RHOA
+and FYN kinase in peripheral T cell lymphomas. Peripheral T-cell lymphomas (PTCLs) are a heterogeneous and poorly understood group of non Hodgkin lymphomas1,2. Here we combined whole exome sequencing of 12 tumor-normal DNA pairs, RNAseq analysis and targeted deep sequencing to identify new genetic alterations in PTCL transformation. These analyses identified highly recurrent epigenetic factor mutations in TET2, DNMT3A and IDH2 as well as a new highly prevalent RHOA p.Gly17Val (NM_001664) mutation present in 22/35 (67%) of angioimmunoblastic T-cell lymphomas (AITL) and in 8/44 (18%) not otherwise specified PTCL (PTCL NOS) samples. Mechanistically, the RHOA Gly17Val protein interferes with RHOA signaling in biochemical and cellular assays, an effect potentially mediated by the sequestration of activated Guanine Exchange Factor (GEF) proteins. In addition, we describe new and recurrent, albeit less frequent, genetic defects including mutations in FYN, ATM, B2M and CD58 implicating SRC signaling, impaired DNA damage response and escape from immune surveillance mechanisms in the pathogenesis of PTCL.
+
+METHODS
+Patient samples
+DNAs from PTCLs were provided by tumor banks at Columbia University
+Medical Center in New York, USA; Sylvester Comprehensive Cancer Center, Miami,
+USA; Hospital Central de Asturias in Oviedo, Spain; Centro Nacional de
+Investigaciones Oncologicas in Madrid, Spain; Institut Gustave Roussy,
+Villejuif, France; Centre Henri Becquerel, Rouen, France; and Hospital Clinic in
+Barcelona, Spain. Samples were obtained with informed consent and analysis was
+conducted under the supervision of the Columbia University Medical Center
+Institutional Review Board. We selected samples for Whole Exome Sequencing based
+on the availability of sufficient DNA from diagnosis, and normal (blood, buccal
+swab or non tumor infiltrated biopsy material) matched samples.
+Whole exome capture and nextgen sequence analysis
+We used matched tumor and normal DNA samples from 12 PTCL patients
+(Supplementary
+Table 1) for exome capture with the SureSelect 50 Mb All
+Exon kit (Agilent Technologies) following standard protocols. We performed
+paired-end sequencing (2 x 100 bp) using HiSeq2000 sequencing instruments
+at Centrillion Biosciences (Palo Alto, CA). Illumina HiSeq analysis produced
+between 67.5 and 136.8 million paired-end reads per sample (Supplementary Table
+2). We mapped reads to the reference genome hg19 using the
+Burrows-Wheeler Aligner (BWA) alignment tool version 0.5.9. Mean depth (defined
+as mean number of reads covering the captured coding sequence of a haploid
+reference) was 45x with 84% of the genome covered more than 10x and 58%
+covered more than 30x. We identified sites that differ from reference
+(called here variants) in each sample independently. We constructed empirical
+priors for the distribution of variant frequencies for each sample. We obtained
+high-credibility intervals (posterior probability >=
+1-10-5) for the corresponding change in frequency
+between tumor and normal samples, using the SAVI algorithm (Statistical
+Algorithm for Variant Identification) developed at Columbia University32,33. The number of germline SNPs in the coding region were
+18,000 comparable with previous reports32. Most of the candidate germline SNPs (16,000, or
+~90% of germline variants) were reported in dbSNP database. We identified
+candidate somatic variants using the following criteria: variant total depth in
+tumor and normal larger than 10x and smaller than 300x, variant
+frequency larger than 15% in tumor and less than 3% in normal, and at least 1%
+change in frequency from the normal with high posterior probability (>=
+1-10-5). Also to remove systematic errors, we
+excluded all variants that were found present in any of the normal cases. In
+addition, to eliminate ambiguous mapping from captured pseudogenes, and regions
+of low complexity, each variant with a flanking 20-base context sequence around
+its genomic position was mapped to the hg19 reference using the BLAST algorithm.
+We kept in the list only those with unique mappability, i.e. we required the
+41-base sequence to uniquely map to the reference genome, with only one
+mismatch.
+Mutation validation
+We designed primers flanking exons containing 121 randomly selected
+candidate somatic variants identified by exome sequencing using Primer3, and
+used Whole-Genome-Amplified (WGA) DNA from tumor and matched normal DNAs for PCR
+amplification. We analyzed the resulting amplicons by direct bidirectional
+dideoxynucleotide sequencing and obtained a validation rate of 90% (Supplementary Table
+1).
+RNA Sequencing, mapping, and identification of variants
+After the exome sequence analysis of 12 tumor and normal PTCL samples
+(Supplementary
+Table 1); we analyzed 34 additional PTCL samples by
+RNA-Seq using paired-end Illumina Hiseq sequencing. (Supplementary Table
+7). We obtained on average over 67.6 million reads, 51.5
+million (75.7%) mapped to the human NCBI reference sequence (RefSeq) using BWA
+alignment algorithms20. Reads
+mapping on the same starting position were discarded. We identified sites that
+differed from the reference in each sample and constructed empirical priors for
+the distribution of variant frequencies for each sample independently. In order
+to reduce the false positive rate in variants detection and remove mapping
+artifacts and systematic errors, we mapped samples' paired-end reads to
+human RefSeq with Bowtie2 alignment algorithm21, which mapped a total of 1.83 billion reads of
+reads (76%) properly to the reference. We then identified sites that differed
+from the reference in each sample and intersected the set of variants identified
+with both BWA and Bowtie2 alignments as previously described22. In all samples, we selected
+variants with total depth >10x and frequency >20%, and
+excluded variants identified in dbSNP135 database, as well as those which did
+not pass the Multiplicity filter. In addition, variants corresponding to poorly
+expressed (RPKM < 3) genes were removed to reduce the effects of spurious
+PCR amplification during library preparation. In order to reduce the presence of
+germline mutations, variants identified also present in 65 DNA-Seq samples from
+unaffected individuals were excluded and we removed also variants common to
+those present in 11 RNASeq samples from normal B and T cells. In detail, we
+mapped the normal RNA-Seq sample reads with BWA and Bowtie to human RefSeq and
+identified the variants, creating an internal normal variant database (INVD)
+composed by the union of all the variants identified in normal B and T cells.
+Successively, we filtered those variants occurring in PTCL samples overlapping
+the INVD. Finally, we limited the list of variants to those identified in genes
+found somatically mutated in PTCL by exome sequencing.
+Targeted deep resequencing
+Mutational analysis of selected genes of interest was performed by
+targeted resequencing using microfluidics PCR (Access Array system; Fluidigm)
+followed by sequencing of the amplicon libraries in a MiSeq instrument
+(Illumina). Primers targeting the regions of interest were designed at Fluidigm
+to produce amplicons of 200 bp +- 20 bp. We performed multiplex PCR
+amplification of up to 10 amplicons per well in the Fluidigm Access Array chip
+according to the manufacturer's instructions using 30 ng of DNA per sample.
+After multiplex PCR amplification the resulting DNA products were barcoded so
+that all amplicons corresponding to the one sample carry the same index. Indexed
+libraries were pooled and the resulting library was quantified by quantitative
+PCR using the Kapa Library Quantification Kit (Kapa Biosystems) in a 7500 PCR
+instrument (Applied Biosystems). Amplicon libraries were spiked with ~25%
+PhiX genomic library to increase amplicon diversity and sequenced in a MiSeq
+instrument to generate 2x251 bp paired reads following an amplicon
+sequencing protocol for custom primers. Each pair of the paired end reads
+produced by MiSeq were stitched together using FLASH version 1.2.6 (Fast Length
+Adjustment of SHort reads), given that the amplicon sequences (up to 200 bp)
+were shorter than the read length (251 bp). This step increases the quality of
+the reads correcting for mismatches in the overlap by selecting the base with
+higher quality. Then, 5' and 3' adaptors and PCR primer sequences, were trimmed
+using cutadapt. Merged and trimmed reads were aligned to the UCSC hg19 reference
+genome using BWA-MEM as single-end reads. Aligned reads were analyzed for
+variants using the SAVI (Statistical Algorithm for Variant Identification)
+algorithm and variants were selected based on coverage depth and frequency.
+Given the presence of significant normal cells in most PTCL samples, variants
+around 50% frequency were flagged as candidate private germline SNPs. Candidate
+variants identified by this first round of amplicon resequencing were
+independently validated in a second round of targeted deep sequencing. Briefly,
+we selectively amplified the amplicons covering the positions of candidate
+mutations in their corresponding positive samples, barcoded these PCR products,
+pooled them and sequenced the resulting library in a MiSeq instrument as
+detailed before.
+RNAseq gene fusion analysis
+We performed gene fusion analysis in RNAseq data using ChimeraScan
+23 and deFuse
+24 algorithms, which
+identify gene fusion candidates by detecting read pairs discordantly mapping to
+two different genes. From this analysis we then successively reduced the
+candidate list by applying homology-based filters and by detecting reads
+spanning across the junction breakpoint (Split Reads). Finally, we annotated
+candidate fusions on the base of the breakpoint coordinates, predicted amino
+acid sequence, open reading frame conservation and UniProt database proteomic
+information.
+Quantitative RHOA p.Gly17Val allele specific qPCR
+assay
+Analysis and quantitation of RHOA p.Gly17Val was
+performed using a Mutation Detection Assay Competitive Allele-Specific
+TaqMan(r) PCR (Life Technologies) following the manufacturer's instructions
+with slight modifications. All analyses were conducted on a 7500 real-time PCR
+system run with 7500 software (v.2.0.6 Applied Biosystems). The assay was run in
+96-well plates in a reaction volume of 20 mL, using 50 ng of genomic DNA,
+10 mL of Taqman Universal PCR Master Mix 2x, and 2 mL of specific
+Taqman assay 10x (RHOA wild type or
+RHOA p.Gly17Val). We used a thermal profile of 10 min at
+95degC for Hot Gold Start activation followed by 40 cycles of amplification
+(95degC for 15 s and 55degC for 60 s). The threshold detection was set
+at 0.05. Standard curves of CT vs. log template
+amount for each specific assay were linear over the range of 25 to 250,000
+copies of plasmid DNA. We determined a sensitivity of detection for the
+RHOA p.Gly17Val mutant allele assay of <0.1% by
+analyzing samples consisting of 10, 25, 102 and 103 copies
+of RHOA p.Gly17Val mutant allele plasmid DNA spiked into 30 ng
+(104 copies) of wild type genomic DNA, which corresponds to
+samples containing 0.1%, 0.25%, 1% or 10% mutation load, respectively. Data
+analysis was performed with the Mutation Detector(tm) Software (Life
+Technologies). Briefly, in mutation analysis calculations, the difference
+between the CT value of the mutant allele assay and the CT
+value of the wild type allele assay is calculated for all mutant allele assays
+run on the sample. This DCT value represents the quantity of
+the specific mutant allele detected within the sample and is used to determine
+the sample mutation status by comparison to a predetermined detection
+DCT cutoff value.
+Structural depiction and analysis
+We identified structural coverage of the FYN protein through use of the
+PSI-Blast and SKAN algorithms. The structures 2DQ7, 2DLY, 3UA7, 2LP5, and 1G83
+were structurally aligned into composite structures to assess for conformational
+flexibilities, and subsequently analyzed through use of the Chimera
+Suite25,26. In silico modeling of
+identified mutations was performed using the I-TASSER software suite and
+Modeller program; structures were refined and analyzed in Chimera25,27. We predicted protein stability changes upon mutation
+through use of the SDM potential energy statistical algorithm and associated
+software37. We created all structural images using UCSF
+Chimera25.
+Plasmids and vectors
+We obtained pcDNA3 EGFP-RHOA WT (plasmid#12965) containing the full
+length human RHOA construct fused to EGFP as well as pcDNA3 EGFP-RHOA Thr19Asn
+dominant negative (plasmid #12967) and pcDNA3 EGFP-RHOA Gln63Leu constitutively
+active mutants (plasmid #12968) from Addgene, Inc28. We generated the RHOA
+p.Gly17Val allele by site directed mutagenesis on the mammalian expression
+pcDNA3 EGFPRHOA WT using the QuickChange II XL Site-Directed Mutagenesis Kit
+(Stratagene) according to the manufacturer's instructions. We cloned PCR
+products encompassing wild type RHOA, RHOA
+p.Gly17Val, RHOA p.Thr19Asn and RHOA
+p.Gln63Leu with an N-terminal HA tag as
+BglII-XhoI fragments into the pMSCV vector
+for retroviral expression. We obtained pRK5 c-FYN plasmid containing a full
+length FYN open reading frame29 from Addgene, Inc. (Plasmid #16032) and
+introduced FYN p.Leu174Arg, FYN
+p.Arg176Cys, FYN p.Tyr531His and FYN
+p.Thr342Ile Tyr531His mutations using the QuickChange II XL Site-Directed
+Mutagenesis Kit (Stratagene). All constructs were verified by sequencing. Wild
+type and mutant FYN cDNAs containing an N-terminal HA tag were subcloned into
+pcDNA3.1(-) and into the MSCV240-puromycine-IRES-GFP retroviral vector.
+The CSK-pcDNA3.1 (+) hygro plasmid expressing a full length CSK cDNA open
+reading frame was a gift from Dr. Xin-Yun Huang (Cornell University, New York,
+NY). We cloned FYN SH2 domain complementary DNA constructs encoding wild type
+FYN SH2 domain (codons 148-231) with an N-terminal GST tag in the pGEX4-T1
+expression vector between the EcoRI and XhoI
+restriction sites. We generated the FYN SH2 domain mutations Leu174Arg and
+Arg176Cys by site-directed mutagenesis on the E. coli
+expression pGEX4-T1 FYN SH2 domain vector using the QuikChange II XL
+Site-Directed Mutagenesis Kit (Stratagene) according to the manufacturer's
+instructions.
+Cell lines
+We cultured HEK293T (Thermo Scientific), HeLa (ATCC) and Rat1A cells (a
+gift from Dr. Ana Lasorella, Columbia University) in DMEM media supplemented
+with 10% fetal bovine serum, 100 U ml-1 penicillin G and 100
+mg ml-1 streptomycin at 37degC in a humidified
+atmosphere under 5% CO2. We maintained Jurkat cells (ATCC) under
+similar conditions in RPMI 1640 media supplemented with 10% fetal bovine serum.
+Cell lines were regularly tested for mycoplasma contamination.
+Retroviral production and infection
+We transfected the retroviral constructs pMSCV-HARHOA, pMSCV-HA-RHOA
+Gly17Val, pMSCV-HA-RHOA Gln63Leu, pMSCV-HA-RHOA Thr19Asn, pMSCV-FYN, pMSCV-FYN
+Tyr531His, pMSCV-FYN Thr342Ile Tyr531His, pMSCVFYN Arg176Cys, pMSCV-FYN
+Leu174Arg and the pMSCV control plasmid with gag-pol and VSVG expressing vectors
+into HEK293T cells using JetPEI transfection reagent (Polyplus). We collected
+viral supernatants after 48h and used them for infection of Rat1A and Jurkat
+cells by spinoculation. After infection, we selected cells for 4 days in media
+containing 1 mg/ml of puromycin.
+Western blot
+Western blot analysis were performed using standard procedures with the
+following antibodies: RHOA (67B9) rabbit monoclonal antibody against RHOA
+(#2117, Cell Signaling Technology)30; FYN rabbit polyclonal antibody (#4023, Cell Signaling
+Technology)31;
+Phospho-Src Family (Tyr416) polyclonal antibody (#2101, Cell Signaling
+Technology)32; CSK
+(CSK-04) mouse monoclonal antibody (sc-51580, Santa Cruz Biotechnology); GST
+mouse monoclonal antibody (clone DG122-2A7, Millipore,
+1DB-001-0000851588)33;
+GAPDH goat polyclonal antibody (sc-20357, Santa Cruz Biotechnology)34; ARGHEF1 goat polyclonal
+antibody (sc-8492, Santa Cruz Biotechnology)35 and a rat monoclonal antibody specific for HA tag
+(11867423001, Roche Diagnostics, 1DB-001-0000868977).
+Immunofluorescence
+We analyzed F-actin in Hela cells transfected with plasmids expressing
+GFP, GFP-RHOA, GFP-RHOA Gln63Leu, GFP-RHOA Thr19Asn and GFP-RHOA Gly17Val by
+Phalloidin Texas Red staining (1:100; Life Technologies), followed by DAPI
+(4',6-Diamidino-2-Phenylindole, Dihydrochloride) staining and confocal
+microscopy on a Zeiss LSM510-NLO microscope.
+RHOA protein expression in Escherichia coli, purification,
+and GEF exchange assay
+We expressed wild type RHOA, RHOA Gly17Ala and RHOA Gly17Val proteins as
+GST-tagged proteins in E. coli Rosetta 2(DE3) cells. We induced
+expression of the fusion proteins in bacteria cells with 0.1 mM
+isopropyl-b-D-thiogalactopyranoside (IPTG) for 16h at 18degC. We
+harvested cells and lysed them in lysis buffer (20 mM Hepes, pH 7.5, 150 mM
+NaCl, 5mM MgCl2, 1 mM DTT, 1% Triton X-100, 0.5 mg / ml lysozyme) supplemented
+with Complete EDTA-free protease inhibitor (Roche). We purified GST-tagged RHOA
+proteins by binding them to immobilized glutathione Sepharose beads (Thermo
+scientific) and eluting them with 50 mM reduced Glutathione, 50 mM HEPES, pH
+7.4, 150 mM NaCl, 5 mM MgCl2, 5 % glycerol, 1 mM DTT. We assessed
+protein expression and purity by Coomassie staining. Next, we analyzed the
+capacity of purified recombinant GST-RHOA, GST-RHOA Gly17Ala and GST-RHOA
+Gly17Val proteins to incorporate GTP in response to recombinant MCF2L/DBS-His
+(Cytoskeleton, Inc.) with the RhoGEF exchange assay kit (Cytoskeleton, Inc.)
+following the manufacturer's instructions. Briefly, this assay analyzes the
+uptake of the fluorescent nucleotide analog N-methylanthraniloyl-GTP (mant-GTP)
+into RHOA by measuring the spectroscopic difference between free and RHOA-bound
+mant-GTP. As mant-GTP gets bound in the nucleotide binding pocket of RHOA in
+response to a GEF protein, its fluorescence (ex: 360 nm, em: 440 nm) increases
+dramatically. Thus, enhancement of mant-GTP fluorescent intensity in the
+presence of RHOA indicates nucleotide uptake by the GTPase.
+RHOA activation assay
+We used Jurkat cells expressing wild type HA-RHOA, HA-RHOA
+Gly17Val, HA-RHOA Thr19Asn and HA-RHOA Gln63Leu and plated them at
+106 cells/ml in RPMI 0.5% FBS. After 24 hours we spun them down
+and resuspended in serum-free RPMI 1640 media. For serum stimulation cells were
+treated with media containing 10% FBS for 10 min. We washed serum starved and
+serum stimulated cells once with ice cold PBS and lysed them in Lysis buffer (50
+mM Tris pH 7.5, 10 mM MgCl2, 0.3 M NaCl and 2% IGEPAL). After
+spinning down to remove debris and membranes we quantified lysate protein
+content using the Precision Red Advanced Protein Assay (Cytoskeleton, Inc.).
+Next we incubated 100 mg of total cleared protein lysate with 20
+ml Rhotekin-RBD beads (Cystoskeleton, Inc.) for 1h at 4degC with
+rotation. After incubation we washed the Rhotekin-RBD beads with 500 ml
+wash buffer (25 mM Tris pH 7.5, 30 mM MgCl2 and 40 mM NaCl),
+resuspended them in 15 ml SDS-PAGE loading buffer. Rhotekin bead samples
+were loaded into a Bis-Tris gel and proteins were resolved by electrophoresis in
+MES buffer and transferred to a PVDF membrane. The presence of HA-tagged
+activated RHOA associated with the Rhotekin-RBD beads was determined by
+immunoblotting using an HA antibody following standard procedures.
+Immunoprecipitation and Western blot analysis of FYN activation
+We performed FYN immunoprecipitations in Rat1A cells infected with
+control (empty vector) retroviruses or retroviruses expressing wild type FYN,
+FYN Leu174Arg, FYN Arg176Cys and FYN Tyr531His and analyzed FYN phosphorylation
+via Western blot analysis using a Phospho-Src Family (Tyr416) polyclonal
+antibody (#2101, Cell Signaling Technology).
+FYN protein expression in Escherichia coli, purification,
+and peptide binding assays
+We expressed wild type and mutant FYN SH2 domain as GST-tagged proteins
+in E. coli Rosetta 2(DE3) cells as detailed for the production
+of GST-RHOA fusion proteins before. Next, we performed peptide binding assays
+with Pull-Down Biotinylated Protein-protein Interaction Kit (Thermo scientific)
+according to the manufacturer's instructions using an amino acid 527-537 FYN
+biotinylated peptide (biotin-Thr Glu Pro Gln Tyr Gln Pro Gly Glu Asn Leu); an
+amino acid 527-537 pTyr531 FYN biotinylated peptide (biotin- Thr Glu Pro Gln
+pTyr Gln Pro Gly Glu Asn Leu) and an amino acid 527-537 Tyr51His FYN
+biotinylated peptide (biotin- Thr Glu Pro Gln His Gln Pro Gly Glu Asn Leu)
+(Anaspec Inc). Briefly, we incubated synthetic biotinylated peptides with
+purified GST-FYN SH2 domain, mutant FYN SH2 domain or GST alone proteins for 1 h
+at 4degC, resolved and analyzed interacting proteins via 10%
+SDS-polyacrylamide gel electrophoresis (SDS-PAGE) followed by transfer to a PVDF
+membrane and Western blot analysis with an anti-GST antibody.
+CSK FYN inhibition assay
+We transfected Hela cells with plasmids driving expression of wild type
+(pRK5 c-FYN) and activating mutant FYN alleles (pRK5 FYN Leu174Arg, pRK5 FYN
+Arg176Cys and pRK5 FYN Tyr531His) alone and with a vector driving expression of
+CSK (CSK-pcDNA3.1) at ratios 1:1 and 1:3 and analyzed the levels of FYN
+activation and FYN and CSK expression via Western blot analysis.
+Dasatinib FYN inhibition assays
+We transfected HEK293T cells with vectors driving the expression of
+activated mutant FYN proteins (pRK5 FYN Leu174Arg, pRK5 FYN Arg176Cys and pRK5
+FYN Tyr531His). After 48 hours cell cultures were treated with increasing
+concentrations of dasatinib (Selleck Chemicals) for 6 hours and analyzed for FYN
+phosphorylation and FYN expression by Western blot analysis. Similarly,
+transformed Rat1A cells expressing the FYN Tyr531His mutant or a double FYN
+Thr342Ile Tyr531His mutant protein were treated with vehicle only or dasatinib
+(1mM) for 6 hours and analyzed for FYN phosphorylation and FYN expression
+by Western blot analysis.
+Cell proliferation assays
+We analyzed relative cell growth at 72 hours of vehicle only treated and
+dasatinib treated (1mM) Rat1A transformed cells expressing either the FYN
+Tyr531His mutant or a double FYN Thr342Ile Tyr531His mutant protein. Cell growth
+was determined in triplicates by measurement of the metabolic reduction of the
+tetrazolium salt MTT using the Cell Proliferation Kit I (Roche) following the
+manufacturer's instructions.
+Statistical analyses
+We evaluated differences in the percentages of RHOA
+wild type and RHOA Gly17Val mutant in different PTCL groups
+using the Fisher's exact test. We analyzed differences in cell growth rates in
+control and dasatinib treated cells using the Student's t test.
+We tested the linear correlation between tumor content in PTCL samples and
+RHOA p.Gly17Val allele burden with the coefficient of
+determination R2.
+
+Supplementary Material
+1
+2

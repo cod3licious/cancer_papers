@@ -1,0 +1,73 @@
+[Abstract, Mixed, Discussion, Mixed]
+
+Isolation of Stem Cells from Human Pancreatic Cancer Xenografts. Cancer stem cells (CSCs) have been identified in a growing number of malignancies and are functionally defined by their ability to undergo self-renewal and produce differentiated progeny1. These properties allow CSCs to recapitulate the original tumor when injected into immunocompromised mice. CSCs within an epithelial malignancy were first described in breast cancer and found to display specific cell surface antigen expression (CD44+CD24low/-)2. Since then, CSCs have been identified in an increasing number of other human malignancies using CD44 and CD24 as well as a number of other surface antigens. Physiologic properties, including aldehyde dehydrogenase (ALDH) activity, have also been used to isolate CSCs from malignant tissues3-5. Recently, we and others identified CSCs from pancreatic adenocarcinoma based on ALDH activity and the expression of the cell surface antigens CD44 and CD24, and CD1336-8. These highly tumorigenic populations may or may not be overlapping and display other functions. We found that ALDH+ and CD44+CD24+ pancreatic CSCs are similarly tumorigenic, but ALDH+ cells are relatively more invasive8. In this protocol we describe a method to isolate viable pancreatic CSCs from low-passage human xenografts9. Xenografted tumors are harvested from mice and made into a single-cell suspension. Tissue debris and dead cells are separated from live cells and then stained using antibodies against CD44 and CD24 and using the ALDEFLUOR reagent, a fluorescent substrate of ALDH10. CSCs are then isolated by fluorescence activated cell sorting. Isolated CSCs can then be used for analytical or functional assays requiring viable cells.
+
+Protocol
+1. Harvest Xenografts from Mice
+ Prepare the cell dissociation buffer: Dulbecco's modified Eagle medium (DMEM) supplemented with 10% fetal calf serum (FCS), penicillin-streptomycin, 200 U/mL Collagenase type IV, and 0.6 U/mL dispase.
+ An athymic (nu+/nu+) mouse harboring a subcutaneous human pancreatic cancer xenograft that is less than 1 cm in greatest diameter is euthanized by carbon dioxide asphyxiation and cervical dislocation.
+ The subcutaneous tumor is harvested from the flank of the mouse by blunt dissection using forceps and scissors and placed immediately in the cell dissociation buffer.
+ Tumors are weighed and placed back into 10 mL cell dissociation buffer per 1 gram of tumor tissue.
+2. Generate a Single-cell Suspension from the Xenografts
+ Working in a sterile biosafety cabinet, the tumor is transferred to a 100 x 20 mm culture dish with 1 mL of cell dissociation buffer. Tumors are mechanically minced using sterile razor blades and forceps. The tumor cell suspension is triturated through a 5-mL serological pipet 10 times. The tumor pieces should be small enough to not clog the 5-mL serological pipet.
+ The tumor cell suspension is transferred to a 50-mL conical tube containing the remaining volume of cell dissociation buffer (filled less than 50%) and vortexed at maximum speed for 1 minute.
+ The tumor cell suspension is then incubated at 37degC for 2 hours with intermittent vortexing for 1 minute every 20 minutes.
+3. Deplete Cell Suspension of Tissue Debris and Dead Cells
+ After the 2-hour incubation the cell suspension is vortexed at maximum speed for 1 minute.
+ The cell suspension is then passed through a 70-mm filter and collected in a fresh 50-mL conical tube and adjusted to a final volume of 15 mL per tube.
+ To further separate viable cells from dead cells and tissue debris, the tumor cell suspension is separated by density centrifugation using Ficoll-Paque Plus. An underlayment of Ficoll-Paque Plus is created by pipeting 15 mL of Ficoll-Paque Plus slowly below the cell suspension being careful not to mix the two layers.
+ The cell suspension and Ficoll layers are is centrifuged at 500x g for 30 minutes with the brakes turned off.
+ Cells at the interface of the Ficoll-Paque Plus and cell dissociation buffer are collected and transferred to a fresh 50-mL conical tube.
+ Fresh DMEM supplemented with 10% FCS is added to the cell suspension to dilute it 1:3 (e.g. 20 mL fresh media added to 10 mL of cell suspension).
+ The cells are collected by centrifugation at 450x g for 10 minutes, the media decanted, and the cell pellet is resuspended in 1 mL of ALDEFLUOR buffer.
+ Ten microliters of the cell suspension is diluted with 10 mL trypan blue and viable cells are counted using a hemocytometer. If a large number of dead cells or tissue debris are noted during this step, then cell separation by density centrifugation can be repeated (steps 3.3 - 3.7).
+4. Stain Cells for Fluorescence Activated Cell Sorting
+ Label seven 12 x 75 mm polystyrene test tubes as follows:
+ Unstained CD44-APC CD24-PE mouse CD31-biotin + mouse lineage-biotin + mouse H-2Kd-biotin ALDEFLUOR ALDEFLUOR + DEAB + IgG2bk-APC + IgG2ak-PE ALDEFLUOR + CD44-APC + CD24-PE + mouse CD31-biotin + mouse lineage-biotin + mouse H-2Kd-biotin.
+ Dilute the cell suspension in 2 mL of ALDEFLUOR buffer to a final concentration of 5-10 million cells/mL and keep on ice. Add 100 mL of the cell suspension to tubes #1, 2, 3, and 4 and keep them on ice. Add 1 mL DEAB to tube #6 and keep on ice. Add ALDEFLUOR reagent to the remaining cell suspension diluted 1000- fold (e.g. add 1.6 mL ALDEFLUOR reagent to 1.6 mL cell suspension), mix well, and place on ice. Transfer 100 mL of this mixture to tubes #5 and 6, and the remaining mixture (1.4 mL) to tube #7. Incubate all of the tubes in a 37degC water bath for 40 minutes. Mix the cell suspension every 10 minutes in order to prevent the cells from settling to the bottom of the tubes.
+ Centrifuge the cells at 450x g and 4degC for 10 minutes and then decant the buffer. Resuspend the pellets in tubes #1 and 5 in 100 mL ALDEFLUOR buffer. To tubes #2, 3, 4, and 6, add 100 mL of ALDEFLUOR buffer containing the appropriate antibodies diluted as follows: 1:20 for IgG2bK-APC, IgG2aK-PE, CD44-APC, and CD24-PE antibodies; 1:100 for mouse CD31-biotin, mouse lineage-biotin, and mouse H-2Kd-biotin antibodies. To tube #7 add 1.4 mL of ALDEFLUOR buffer containing a 1:20 dilution of CD44-APC, and CD24-PE antibodies and a 1:100 dilution of mouse CD31-biotin, mouse lineage-biotin, and mouse H-2Kd-biotin antibodies. Incubate the cell suspensions on ice for 10 minutes.
+ Centrifuge the cells at 450x g and 4degC for 10 minutes and then decant the buffer. Resuspend the pellets in tubes #1, 2, 3, 5, and 6 in 100 mL ALDEFLUOR buffer. Prepare 1.5 mL of ALDEFLUOR buffer containing a 1:100 dilution of streptavidin- PerCP protein. Add 100 mL to tube #4 and add 1.4 mL to tube #7. Incubate the cell suspensions on ice for 10 minutes.
+ Centrifuge the cells at 450x g and 4degC for 10 minutes and then decant the buffer. Resuspend the pellets in tubes #1, 2, 3, 4, 5, and 6 in 200 mL ALDEFLUOR buffer. Resuspend the pellet in tube #7 in 2.8 mL of ALDEFLUOR buffer containing 2 mg/mL propidium iodide. Keep tubes on ice at all times.
+ Pass cells through 35-mm filter using 12 x 75 mm polystyrene test tubes with strainer caps.
+5. Isolate Cancer Stem Cells by Fluorescence Activated Cell Sorting
+ A FACSAria flow cytometer is prepared for cell sorting.
+ Compensation controls are set using cells from tubes #1, 2, 3, 4, and 5.
+ Gates are created based on forward- and side-scatter parameters to collect cell singlets.
+ Non-mouse (PerCP-negative) and viable (non-propidium iodide stained) cells are gated using the FL-3 channel.
+ ALDH+ cells are collected based on gates created using DEAB-treated cells (tube #6) and the FL-1 channel.
+ CD44+CD24+ cells are collected based on gates created using cells stained with ALDEFLUOR, IgG2bK-APC, and IgG2ak-PE (tube #6) using the FL-4 and FL-2 channels.
+ Cells are collected in 12 x 75 mm polystyrene test tubes containing 1 mL of DMEM supplemented with 10% FCS.
+ After cells have been sorted, centrifuge the cell suspension at 450x g for 10 minutes, decant the media, and resuspend the cells in 500 mL fresh DMEM supplemented with 10% FCS.
+ Count the number of sorted cells using a hemocytometer as described in step 3.8.
+6. Representative Results
+This protocol will lead to the isolation of ALDH+ and CD44+CD24+ pancreatic CSCs.
+The percentage of mouse-derived cells is variable, but we have found that most human
+pancreatic cancer xenografts contain 20-60% mouse-derived cells using the mouse
+CD31, mouse lineage cocktail, and mouse H-2Kd biotin-conjugated antibodies (Figure
+1A). Likewise the frequency of each CSC population from different xenografts is
+variable, but generally we have found that 1-4% of the total cell population is ALDH+ (Figure 1B) and 0.2-5% is CD44+CD24+ (Figure 1C).
+We routinely manually count sorted cells using a hemocytometer since the FACSAria
+machine counts are often inaccurate due to non-cellular particles detected by the
+FACSAria.
+Figure 1. Flow cytometry plot depicting specific populations from a pancreatic cancer
+xenograft. (A) Cells staining positively in the FL-3 channel (propidium iodide+, mouse
+CD31+ mouse lineage+, or mouse H-2Kd+) are excluded so as to isolate only viable and
+non-mouse derived cells. (B) ALDH activity in a human pancreatic cancer xenograft
+was measured by flow cytometry using the ALDEFLUOR reagent in the presence and
+absence of the ALDH1 inhibitor diethylamino-benzaldehyde (DEAB). The frames
+represent gates that depict ALDH+ cells that were created based on cells treated with
+DEAB and then applied to untreated cells. The percentages of ALDH+ cells are shown
+in the gate. (C) The CD44+CD24+ gate was created based on cells stained with
+ALDEFLUOR, and the IgG2bk-APC (isotypic control for CD44-APC) and IgG2ak-PE
+(isotypic control for CD24-PE) antibodies. The percentages of CD44+CD24+ cells are
+shown in the gate.
+
+Discussion
+This protocol describes the isolation of pancreatic CSCs from human xenografts. Several key steps in this procedure will enhance the yield of viable CSCs. The recovery of a pure population of pancreatic CSCs is dependent on the purity of viable cells present in the cell suspension before sorting on the FACSAria. Taking care to use xenografts that are less than 1-cm in greatest diameter helps to reduce the amount of necrotic tissue in the center of the tumor. Additionally, depleting the cell suspension of
+tissue debris and dead cells during Ficoll-Paque gradient centrifugation is critical and can be repeated if a large number of tissue debris or non-viable cells are detected when the cells are counted on the hemocytometer.
+The staining protocol described here utilizes the ALDEFLUOR reagent system to detect ALDH activity as well as fluorophore-conjugated antibodies to detect specific cell surface antigens. ALDEFLUOR staining is performed at 37degC and, therefore, needs to be completed before antibody staining (on ice) to prevent the potential for antibody capping, which can happen at 37degC. Since cells can efflux the ALDEFLUOR reagent, it is important to maintain the cells in ALDEFLUOR buffer at 4degC after ALDEFLUOR staining has been completed. The ALDEFLUOR buffer contains a drug efflux inhibitor that helps maintain intracellular levels of ALDEFLUOR.
+Since this method isolates viable pancreatic CSCs they can be applied in a number of experiments that measure the physiological function of these cells. We have used these cells for tumor-initiation assays utilizing immunocompromised mice and in vitro cell migration/invasion assays. Furthermore, RNA, DNA, and protein can be collected
+from these cells for analytical studies comparing CSC and non-CSC populations.
+
+Disclosures
+No conflicts of interest declared.

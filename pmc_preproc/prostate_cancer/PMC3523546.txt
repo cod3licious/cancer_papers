@@ -1,0 +1,651 @@
+[Abstract, Introduction, Results, Discussion, Methods]
+
+The Multi-Leu Peptide
+Inhibitor Discriminates Between
+PACE4 and Furin And Exhibits Antiproliferative Effects On Prostate
+Cancer Cells. The proprotein convertases (PCs) play an important role in protein precursor activation through processing at paired basic residues. However, significant substrate cleavage redundancy has been reported between PCs. The question remains whether specific PC inhibitors can be designed. This study describes the identification of the sequence LLLLRVKR, named Multi-Leu (ML)-peptide, that displayed a 20-fold selectivity on PACE4 over furin, two enzymes with similar structural characteristics. We have previously demonstrated that PACE4 plays an important role in prostate cancer and could be a druggable target. The present study demonstrates that the ML-peptide significantly reduced the proliferation of DU145 and LNCaP prostate cancer-derived cell lines and induced G0/G1 cell cycle arrest. However, the ML-peptide must enter the cell to inhibit proliferation. It is concluded that peptide-based inhibitors can yield specific PC inhibitors and that the ML-peptide is an important lead compound that could potentially have applications in prostate cancer.
+
+Introduction
+The proprotein convertases (PCs) are members
+of a mammalian family
+of endoproteases related to the bacterial subtilisin and the yeast
+kexin. Their main function is to activate precursors within the secretory
+pathway. There are seven PCs that cleave proteins at paired basic
+amino acid residues, namely furin, PC2, PC1/3, PC4, PACE4, PC5/6,
+and PC7.1 The optimal PC recognition sequence
+is R-X-K/R-R|, while the minimal consensus sequence is R-X-X-R|.
+A variety of substrates have been described including precursors of
+hormones, enzymes, growth factors, receptors, cell membrane proteins,
+and plasma proteins but also a number of pathogenic proteins such
+as viral glycoproteins and bacterial toxins.2 There is growing evidence of the involvement of PCs in various cancers.
+Our previous work showed that PACE4 has a role in prostate cancer
+cellular proliferation.3 PACE4 has a wide
+expression pattern and is constitutively secreted into the extracellular
+media.4 It has been suggested from immunohistochemical
+observations that in addition to its localization within the secretory
+pathway, PACE4 is also localized at the cell surface through interactions
+between its cysteine-rich domain (CRD) and heparan sulfate proteoglycan
+(HSPG)5 or tissue inhibitors of metalloproteinases
+(TIMPs).6 Recently, two independent studies
+(including one from our group) showed a specific overexpression of
+PACE4 mRNA in prostate cancer tissues.3,7 This overexpression
+is correlated with higher circulating protein levels in some patients.7 Using a molecular inhibition approach, the relevance
+of PACE4 in a prostate cancer model has been demonstrated.3 As the expression levels of other PCs remains
+unchanged, it was suggested that a selective PACE4 inhibitor, with
+limited inhibition toward furin, might provide a useful tool against
+prostate cancer. To our knowledge, no such inhibitor has been yet
+reported (for complete review see ref.1,2).
+Designing
+specific PC inhibitors represent an important challenge.
+The high homology level deep within the catalytic cleft suggests that
+small-molecule inhibitors acting as competitive inhibitors will be
+unlikely to produce any specificity.1,8,9 Indeed, structural evidence indicates that the PC
+active sites are nearly identical in their S1-S4 subsites.a However, there are notable
+differences found at the S5 subsite and beyond.1 This suggests that peptide-based inhibitors could
+be designed to achieve the desired specificity, although they would
+require a minimum of six residues. There is some proof for this concept
+based on discovered endogenous peptide inhibitors, such as the 7B2
+CT-peptide, which is a highly potent (nM range) and specific PC2 inhibitor.10,11 Of course, each PC also has an endogenous inhibitor within its structure,
+namely their prodomains, of which the C-terminal
+region provides the critical positions for inhibition at the catalytic
+sites. PC prodomains first act in the ER as intramolecular chaperones
+and then as activity delayers through interactions in cis with the
+active site of their cognate PC. The derived prodomains have been
+shown to be potent PC inhibitors in trans but display minimal levels
+of specificity.12-14 Last, the screening of peptide combinatorial libraries
+has led to the identification of polyarginine peptides as furin inhibitors,15,16 however, these are also not highly specific.
+The present study
+reports the development of a new PACE4 inhibitor,
+named the Multi-Leucine (ML)-peptide. Our focus remains primarily
+on discriminating between our target PACE4 and furin, which is the
+only ubiquitously PC enzyme in normal tissues. Since it is known that
+furin inhibition can be lethal (i.e., as demonstrated in furin knockout
+mice17,18), it appears logical to design an inhibitor
+that primarily avoids furin as a target. We also present some of the
+characteristics of the ML-peptide as a potent inhibitor of proliferation
+in prostate cancer cell lines.
+
+Results
+PCs Inhibition by Recombinant Prodomains
+PC prodomains
+act as cis regulatory inhibitors during the maturation process and
+have been considered as lead compounds for PC inhibition. Our previous
+work assessed the inhibitory potency of the prodomains as trans competitive
+inhibitors.13 However, their inhibitory
+potency has never been carried out for PACE4 until now (Figure 1a). We observed that most PC prodomains displayed
+similar inhibition potencies for PACE4 and furin, with Ki values ranging from low nanomolar (12.4 nM) to subnanomolar
+levels (0.34 nM). The inhibition ratios (furin/PACE4) were always
+in the range of 1-5 for all prodomains, with the exception
+of the PC7 prodomain, which displayed a 36-fold inhibition preference
+for PACE4 over furin. The Ki obtained
+with the PC7 prodomain on PACE4 (0.34 nM) is lower than the Ki previously reported for inhibition of PC7
+by its own prodomain.13
+Figure 1
+PC prodomains as PACE4
+inhibitors. (a) PCs prodomains were produced
+and purified to perform inhibition assays toward PACE4 and furin.
+The ratio between Ki for furin and PACE4,
+namely the specificity ratio, point out the selectivity of PC7 prodomain
+toward PACE4. This inhibitor is a 36-fold better inhibitor for PACE4
+than furin. Kis in the table
+are means and standard deviations of three independent experiments.
+(b) PCs prodomain sequence alignment was performed for the region
+P7-P1 downstream primary cleavage site. Dark background indicates
+conserved residues, while light-gray background indicates residues
+of same type than consensus. Bold letters represent hydrophobic residues.
+UniProtKB accession numbers are the following: hfurin (P09958), mPC1/3
+(P63239), hPC2 (P16519), mPC4 (P2921), hPC5/6 (Q92824), hPC7 (Q16549),
+and hPACE4 (P29122).
+To further investigate the selectivity of PC7 prodomain
+inhibition
+toward PACE4, a sequence alignment was performed, focusing on the C-terminal regions (Figure 1b). Although
+prodomains are approximately 100 amino acids in length, our analysis
+focused on the dissimilarities in the P1-P7 region of the primary
+cleavage site. Because those residues are directly implicated in molecular
+recognition by PCs, we hypothesized that the 36-fold difference might
+be related to this C-terminal region. The sequence
+alignment (Figure 1b) reveals that the PC7
+prodomain differs from the consensus in position P6, as it does not
+exhibit a basic amino acid at this position. Apart from the PC2 prodomain,
+a poor inhibitor of both furin and PACE4, only PC7 is dissimilar from
+consensus in this position. It is well-known that the presence of
+a basic residue in position P6 promotes increased inhibition potency
+for furin.16,19-22 However, the observation of Leu residues
+at P6 and P7 positions of the PC7 prodomain suggests that PACE4 may
+have a preference for hydrophobic residues.
+PS-SPCL to Profile PC-Inhibitor Recognition
+The use
+of combinatorial libraries has proven its relevance for the rational
+design of inhibitors.23-25 This method has also been used for PC recognition
+pattern studies.15,26,27 An 8-mer Positional Scanning-Synthetic Peptide Combinatorial Libraries
+(PS-SPCL) approach was used to further study differences in furin
+and PACE4 inhibition. Because it is hypothesized that specific PC
+inhibition will be reached by varying the P5-P8 positions,
+this library was synthesized by fixing the P1-P4 positions
+with the core consensus motif RVKR while using the combinatorial method
+for the P5-P8 positions. This pattern ensures that each peptide
+in the library has the ability to be recognized and bind to the PC's
+active site. The inhibition profiles for PACE4 and furin at the P6
+position are shown in (Figure 2). As expected,
+peptides with Arg and Lys at the P6 position were the most potent
+PACE4 inhibitors (Ki = 40 and 37 nM, respectively).
+It is interesting to note that peptides with hydrophobic Leu residue
+displayed equally strong PACE4 inhibitory potency (Ki = 49 nM) (Figure 2). In contrast,
+when testing furin inhibition, peptides containing Leu in P6 had a
+much higher inhibition constant (900 nM) whereas peptides with Lys
+and Arg at this position maintained mid-nM range inhibition constants
+(230 and 300 nM, respectively). For this purpose, the specificity
+ratios were most important and led to the observation that peptides
+containing a Leu residue showed a 18-fold ratio (furin/PACE4). The
+second highest ratio was obtained with peptide containing His residue
+with a 11-fold specificity ratio. It is relevant to mention that pH
+differences in the enzymatic assays might influence this result (pH
+6.5 for PACE4 and pH 7.5 for furin) given that the histidine side-chain
+pKa is 6.08.
+Figure 2
+Use of SP-SPCL to profile
+PC-inhibitor recognition. To better understand
+the recognition patterns of PACE4 and furin, SP-SPCL was used toward
+both enzymes. For each sample in this table, the general recognition
+pattern RVKR is present in positions P1-P4 and P6 position
+are occupied by a unique amino acid. The other positions of those
+peptides are occupied by an equimolar mixture (X) of the 19 natural
+amino acids, cysteine excluded. Ki was
+calculated from IC50 using the Cheng and Prussof equation
+for competitive inhibitors. Kis are means
+and standard deviations of at least two independent experiments.
+Thus, this partial combinatorial library approach
+confirmed that
+PACE4 tolerates the presence of a hydrophobic amino acid in the P6
+position whereas furin did not and presents a clear preference for
+basic amino acids in this position. On the basis of these results,
+peptides containing Leu at the P6 position should lead to selectivity
+for PACE4.
+Multiple Leu Extensions of RVKR-NH2 Generate Potent Inhibitors of PACE4
+As
+a Leu containing peptide could offer a selective inhibition toward
+PACE4, the effects of Leu N-terminal extensions of
+the core sequence Ac-RVKR-NH2, a poor micromolar inhibitor of PCs, was investigated in vitro
+(Figure 3). The peptide Ac-LLRVKR-NH2 was a midnanomolar inhibitor of PACE4, but the progressive
+addition of N-terminal Leu decreased the inhibition
+constant to the low nanomolar range (18-22 nM) for both Ac-LLLRVKR-NH2 and Ac-LLLLRVKR-NH2. However, the subsequent
+addition of leucine residues increased Ki values, reaching higher nanomolar values (300 nM) for the decapeptide
+Ac-LLLLLLRVKR-NH2. Peptides
+containing three to four Leu residues were the most potent inhibitors
+of PACE4 evaluated in this study and were significantly more effective
+on PACE4 than furin (20-22-fold). The peptide Ac-LLLLRVKR-NH2 and now designated as the
+ML-peptide was chosen as lead inhibitor for further characterization
+on PACE4 inhibition. The inhibitory potency of the ML-peptide was
+also assayed with other members of the PC family and also showed high
+levels of specificity (Supporting Information
+Table S1).
+Figure 3
+Multi-Leucine peptides. To stabilize PC-inhibitor
+interaction, N-terminal leucine extensions were added
+to the core RVKR
+sequence. (a,b) Each peptide was assayed with PACE4 and furin in an
+inhibition assay. (c) Kis in this table
+are means and standard deviations of three independent experiments.
+The specificity ratio represents the relative inhibition preference
+toward PACE4. Peptides Ac-LLLRVKR-NH2 and Ac-LLLLRVKR-NH2 were
+the most potent and the most selective inhibitors of PACE4 of this
+library. The peptide Ac-LLLLRVKR-NH2, named Multi-Leu peptide (ML), was selected as lead compound
+for further studies.
+The ML-Peptide As an Inhibitor of Prostate Cancer Cell Proliferation
+In a previous study, PACE4 was proposed as a new therapeutic target
+in prostate cancer3 based on a molecular
+inhibition approach using the prostate cancer cell line DU145. Because
+the molecular inhibition of PACE4 in DU145 cells had dramatic effects
+on cell proliferation in vitro and in vivo, we decided to test the
+ML-peptide as a pharmacological inhibitor to achieve identical results.
+In the present study, two additional prostate cancer cell lines were
+included, namely LNCaP and PC3 cells. Thus, PACE4 expression level
+was first evaluated in LNCaP and PC3 cell lines in comparison to DU145
+cells using a RT-qPCR approach (Figure 4a).
+PACE4 was most highly expressed in LNCaP cells, with nearly 6-fold
+higher levels than DU145 cells, but was almost absent in PC3 cells.
+DU145 and LNCaP cells also exhibited higher levels of furin mRNA than
+PC3 cells. Similar expression levels were observed for PC5/6 and PC7
+within all cell lines investigated and PC1/3 and PC2 were undetectable.
+The effect of the Multi-Leu peptide on cellular proliferation of each
+cell line was evaluated using MTT assays (Figure 4b). The ML-peptide showed a very poor inhibition of PC3 cells,
+whereas the half-maximal inhibitory concentrations (IC50) were in the micromolar range for DU145 and LNCaP cells (100 +-
+10 and 180 +- 60 mM, respectively). Thus, the ML-peptide
+inhibited the proliferation of DU145 and LNCaP cells, but not PC3
+cells, showing a strong correlation with cellular PACE4 expression.
+Figure 4
+ML-peptide
+as an inhibitor of prostate cancer cell proliferation.
+In previous work, our research team proposed PACE4 as a therapeutic
+target against prostate cancer progression.3 (a) DU145, LNCaP, and PC3 prostate-cancer derived cell lines were
+first screened to compare their PCs expression levels using RT-qPCR.
+PACE4 was highly expressed in DU145 and LNCaP and almost absent from
+PC3. (b) To assess the efficiency of our new PACE4 inhibitor in such
+context, MTT assays were performed on those cell lines. ML is efficient
+to inhibit proliferation and metabolic activity in DU145 and LNCaP,
+two PACE4-expressing cell lines, indicating a possible role for ML
+as a prostate cancer therapeutic. (c) To prove that the inhibition
+observed is a PCs dependent mechanism, the peptide Ac-LLLLRVK[DArg]-NH2 was used as negative control.
+Because the P1 position is a key residue of the recognition pattern,
+the replacement of P1 Arg by DArg significantly affected the Ki for this peptide. (d,e) As expected from inhibition
+constant values, the peptide Ac-LLLLRVK[DArg]-NH2 is a poor proliferation inhibitor in a MTT assays with
+DU145 and LNCaP.
+An additional control experiment was performed
+to test the PC-specific
+interaction of the ML-peptide resulting in cell proliferation inhibition
+by designing a ML-peptide substituted at the P1 position with a DArg.
+As the P1 Arg position is critical for PC recognition, this modification
+should strongly abrogate the observed effects unless they are not
+PC-mediated. As expected, the peptide Ac-LLLLRVK-[DArg]-NH2 showed a substantial loss of affinity
+in vitro going from a nM to a mM inhibitor (Figure 4c) (Kis = 1380 and 2600 nM for
+PACE4 and furin, respectively). Consistent with this affinity loss,
+this peptide also showed a significant loss of potency in both DU145
+(Figure 4d) and LNCaP (Figure 4e) cell-based assays (IC50 440 +- 80 and 390
++- 10 mM, respectively). These data make a strong case that
+decreased cell proliferation is mediated by PC inhibition.
+The ML-Peptide Targets Intracellular PACE4 to Inhibit DU145
+Proliferation
+PACE4 is localized both at the cell surface
+and within the intracellular secretory pathway.5,6,28 Thus, it was relevant to determine whether
+the inhibitory effect of the ML-peptide is mediated by cell surface
+and/or intracellular PACE4. To elucidate this question, ML-peptide
+analogues bearing N-terminal modifications with strikingly
+different cell penetration properties were designed. The ML-peptide
+was coupled with an N-terminal amino-poly(ethylene
+glycol)-8 (a-amine-o-propionic acid octaethylene glycol,
+known as PEG8) group that should render the peptide much less hydrophobic,
+whereas a N-terminal hydrophobic 8-amino-octanoyl
+(C8) chain was used in order to increase its hydrophobicity. In vitro
+enzymatic activity assays demonstrated that PEGylation and alkylation
+of the ML-peptide did not alter its potency or selectivity for PACE4
+inhibition (Figure 5a). The uptake of FITC-labeled
+versions of these ML-peptide analogues were tested on DU145 cells
+and analyzed using a fluorescence-activated cell sorter (FACS) (Figure 5b). The FITC-b-Ala-ML-peptide had excellent
+cell penetration properties, considering it is relatively unmodified,
+suggesting that the hydrophobic content of this peptide is sufficient
+to penetrate cell membranes (see also confocal microscopy in Supporting Information Figure S1). However, cells
+treated with FITC-[PEG8]ML-peptide showed a geometric mean of the
+distribution (GeoMean) of about 1 log unit lower than the one measured
+for the FITC-b-Ala-ML-peptide (5.43-7.84 vs 48.90-52.82).
+These results indicate that the FITC-[PEG8]-ML-peptide penetrates
+the cell membrane very poorly. As expected, the FITC-C8-ML-peptide
+displayed greater cell penetration properties with 5-fold greater
+GeoMean compared to the control FITC-b-Ala-ML-peptide (260.08-261.95
+vs 48.90-52.82, respectively). When all three peptides were
+tested on DU145 cells, the [C8]-ML-peptide gave very similar results
+to the ML-peptide by maintaining antiproliferative effects (IC50s 80-100 mM) while the [PEG8]-ML-peptide could
+no longer reduce cell proliferation (IC50 was estimated
+to be >500 mM) (Figure 5c,d). This
+result
+provides strong evidence that the antiproliferative actions of the
+ML-peptide were largely mediated by intracellular PACE4. A second
+conclusion is that the cell penetration properties of the unmodified
+ML-peptide are sufficient to achieve a near maximal effect.
+Figure 5
+ML-peptide
+targets intracellular PACE4 to inhibit prostate cancer
+cell lines proliferation. (a) To determine whether the cell proliferation
+effects are mediated by cell surface or intracellular PACE4, ML N-terminal extensions were design to modify cell penetration
+properties of our inhibitor. Neither PEGylation (PEG8) nor alkylation
+(C8) modified the affinity of Multi-Leucine inhibitor toward PACE4
+and furin, as determined in a kinetic assay. (b) The uptake of FITC-labeled
+peptides was tested on DU145 cells and analyzed by FACS. The FITC-b-Ala-ML-peptide
+has excellent cell penetration properties. Comparison of GeoMeans
+(numbers adjacent the peaks) obtained with these three peptides indicates
+that PEGylation prevents cell entry, whereas alkylation increases
+the uptake of the inhibitor. (c) Using a MTT metabolic assay, it was
+clearly demonstrated that alkylation increases inhibitory potency
+of ML peptide, whereas PEGylation leads to a poor proliferation inhibitor
+in DU145 cell line. (d) IC50 in the table are means of
+five independent experiments. N.C. means the curve did not converged
+to 50% with doses up to 500 mM. This assay demonstrates that
+ML peptide must enter the cell in order to inhibit DU145 proliferation.
+The ML-Peptide Induces Cell Cycle Arrest
+To obtain
+further support for the antiproliferation effects observed, a DNA
+content analysis on LNCaP treated cells was performed with 100 or
+200 mM of ML-peptide (Figure 6). As these
+assays are performed over a 96 h period, which could result in peptide
+degradation, a modified analogue Ac-[DLeu]LLLRVKR-NH2 was also used. The substitution of
+the N-terminal Leu by a DLeu provided improved stability
+of the peptide to amino-peptidases (unpublished data). A dose-dependent
+G0/G1 accumulation and S phase decrease were
+observed following exposure to ML-peptide and ML-peptide analogue.
+Following a 200 mM treatment with the Ac-[DLeu]LLLRVKR-NH2, a 10% increase in the G0/G1 population was observed along with an increase
+in cells with hypodiploid DNA content (sub-G1) proportions,
+which represent apoptotic cells.
+Figure 6
+Cell viability and cell cycle analyses
+of ML-peptide treated LNCaP.
+The effect of PACE4 inhibition on cell cycle distribution was observed
+by flow cytometry. LNCaP cells were treated for 96 h with 100 or 200
+mM of peptide. (a) Ac-LLLLRVKR-NH2 or (b) Ac-[DLeu]LLLRVKR-NH2. Cell cycle distribution was assessed from
+cellular DNA content analysis of cells treated with propidium iodine.
+The percentage of cells in each phases were calculated from total
+living cells. Hypodiploid DNA content (sub-G1) represents
+cells undergoing apoptosis. The experiment was done three times in
+duplicates. The significance of the results were established from
+an unpaired two-tailed t test. (* p < 0.05; ** p < 0.01; ***p < 0.001). (c) Data in the table are mean and standard deviation
+of a representative experiment.
+
+Discussion and Conclusions
+Furin was the first discovered
+PC, and ever since the discovery
+of additional PCs, issues of distinct and redundant functions have
+been debated for this family of enzymes.2,4,29,30 While this remains
+a fundamental interrogation, it can also be envisaged that an answer
+to this question could have repercussions on the druggability of PCs
+in various pathologies. Structural data have been very clear that
+within the deep subsites of the catalytic cleft (S1-S4), the
+PCs appear to be virtually identical. This has an immediate consequence
+from a medicinal chemistry point of view, that small-molecule inhibitors
+(i.e, small organic compounds) will not be specific if they are competitive
+inhibitors. It cannot be excluded that small molecules could specifically
+inhibit PCs if they have an allosteric mechanism of action, but to
+date no such inhibitors have been reported nor have druggable allosteric
+PC sites been established. Therefore, the most probable option presently
+is to use peptides as lead compounds to design specific PC inhibitors.
+This is plausible based on the observed structural differences within
+the S4-S7 subsites, as deduced by homology modeling of the
+furin structure. Peptide-based inhibitors afford a number of advantages,
+the principal one being a great variety of structures that could provide
+an optimal fit, providing the sought specificity. The disadvantages
+of peptide-based inhibitors are in their further use as in vivo drug
+compounds because they can be readily degraded, may be excreted rapidly,
+and are said not to be very cell penetrable. However, these obstacles
+can be overcome through peptidomimetic approaches. There is mounting
+evidence of the potential benefits of inhibiting PACE4 in prostate
+cancer cells. Should a therapeutic application be possible, it would
+have to be through the development of a relatively specific PACE4
+inhibitor. Thus, we have focused our studies on a peptide-based approach
+to target PACE4, with the full knowledge of the obstacles that may
+arise.
+As the starting point to design a specific PACE4 inhibitor,
+the
+potency and the selectivity of purified PC prodomains toward PACE4
+and furin were evaluated (Figure 1a). As furin
+is the only basic amino acids cleaving PC ubiquitously expressed (i.e.,
+defined as expressed in every single normal cell) and furin full knockouts
+in mice have proven to be lethal,17 it
+seemed appropriate to establish an inhibitor that favors PACE4 as
+much as possible over furin. This objective may appear almost insurmountable
+due to the stated structural similarities of the two enzymes and multiple
+data suggesting very similar substrates. Nonetheless, the peptide
+designs focus on obtaining the best specificity ratio of furin/PACE4
+inhibitory potency (furin Ki /PACE4 Ki).
+As previously reported in various studies, including
+our own previous
+work,12-14 PCs prodomains are highly potent inhibitors of PCs
+(nM and sub-nM range), except for PC2 prodomain, which displays no
+inhibition at concentrations up to 1 mM. However, one observation
+stands out, namely the specificity ratio of the PC7 prodomain, which
+was 36-fold (furin Ki/PACE4 Ki). The alignment of PC prodomains was performed for region
+P7 to P1, as this region contains key residues for substrate-PCs recognition
+(Figure 1b) and highlights the higher density
+of hydrophobic residues in this region. The PC7 prodomain clearly
+stands out as it differs from the consensus in position P6. This suggests
+that basic residue in P6 position could be crucial for potent furin
+inhibition, whereas PACE4 may tolerate a broad range of residues for
+this position.
+The combinatorial peptide library provided additional
+support for
+this hypothesis (Figure 2). This library was
+anchored at the C-terminal with the consensus motif
+RVKR to allow the study of P5-P8 positions. It was first observed
+that Kis were higher for furin than PACE4
+for every peptide mixture. As positions P8, P7, and P5 of those samples
+are occupied by an equimolar mix of the 19 natural amino acids (cysteine
+excluded), this could indicate that PACE4 can accommodate a more diversified
+selection of amino acids. Thus, when looking at Kis for position P6 for furin, it can be concluded that
+furin has a marked preference for basic residues, as Lys and Arg peptides
+are the only midnanomolar inhibitors of this enzyme in this library.
+On the other hand, although P6 Lys and P6 Arg peptides are mid-nM
+inhibitors of PACE4, similar levels of inhibition can be reached with
+P6 Leu peptides. The highest specificity ratios for P6 position were
+obtained from Leu, His, Val, Ile, and Ala containing peptides. On
+the basis of the hydrophobic nature of Leu, Val, Ile, and Ala, this
+suggests that PACE4 tolerates the presence of hydrophobic residues
+in position P6 and this opens possibilities to design specific inhibitors.
+The synthesized series of ML-peptides validated the differences
+between furin and PACE4 in the P5-P8 region. To date, the ML-peptide
+is the best PACE4 specific inhibitor described. Although furin and
+PACE4 share very identical catalytic domains and an almost identical
+catalytic cleft,8,9 our design of the ML-peptide selective
+PACE4 inhibitor shows that even with these similarities, both enzymes
+have different binding affinities. The results highlight the fact
+that furin does not provide nonpolar peptide stabilization in its
+catalytic cleft while PACE4 has good binding affinity with both cationic
+and nonpolar peptides. To hypothesize on the origin of partial selectivity
+between differently charged substrates, a homology model of PACE4
+containing peptide Ac-RVKR-cmk in the binding cleft
+was built using MODELER 9v8 from crystalline furin 1P8J(31) (Figure 7).
+Figure 7
+Homology model of PACE4.
+Stereoscopic views of (a) mouse furin
+crystal catalytic cleft (1P8J) and (b) PACE4 homology model. Asp and Glu negative
+charges are shown in red, whereas Arg and Lys positive charges are
+shown in blue. Green spheres represent dicationic calcium ions and
+decanoyl-RVKR-cmk inhibitor has been modified to
+Ac-RVKR-cmk for clarity. The homology model was built
+with Modeler 9v6 on a linux platform. (c) Alignment of hfurin and
+hPACE4 catalytic domain. Bold letters represent the catalytic triad
+D-H-S.
+A close examination of the whole catalytic domain
+of PCs shows
+various degrees of charge excess, as previously reported for other
+subtilisins.32 By looking at the number
+of positively charged Arg and Lys (i.e., His being mostly neutral
+at cytoplasmic pH is left out) and negatively charged Asp and Glu,
+the overall total charge calculated for both convertase catalytic
+domains are -7 for human furin and 0 for human PACE4 (i.e.,
+the catalytic domain of furin goes from N-terminal
+prodomain primary cleavage site Asp108 to Val444 and from Gln150 to
+Ala496 in PACE4). The active site of both furin and PACE4 also reveals
+that the S1, S2, and S4 sites are formed by residues with similar
+properties, e.g., Glu257 and Glu230 in furin replace Asp309 and Asp282
+in PACE4, respectively (Figure7). On the other
+hand, the differences in affinity observed with multiple Leu extension
+in the ML-peptide propose the existence of notable differences in
+subsite S5 and beyond. To gain a deeper insight of the phenomenon,
+it is necessary to dissect the binding cleft of both PCs. One common
+feature among all the subtilases is the presence of a groove running
+from the catalytic site to helixes a3 and a4 that stabilizes
+a peptidic substrate in an antiparallel b-sheet conformation
+through an induced fit process. This interaction can also be seen
+in the noncatalytic PCSK9 structure (2PMW) between the prodomain and the region
+homologous to the catalytic cleft of the other PCs (Ser147 to Gln152).33 Despite the fact that other residues might be
+involved, the same trend remains for furin and PACE4: a way of hosting
+a peptidic substrate or inhibitor adopting an antiparallel b-sheet.34 On the basis of these data, we propose that
+the linear conformation of the peptide brings the P6-P8 residues
+of the inhibitor in the vicinity of the residues located at the tip
+of helix a4, and this region of the enzyme would represent the
+subsites S6, S7, and S8. We also focused our analysis on the disparities
+in this region to better understand the specificity observed for ML-peptide
+because the solvent accessible residues of helix a4 differ in
+PACE4 and furin. From the homology model of PACE4, it appears that
+the most critical dissimilarity in the helix a4 comes from the
+replacement of acidic residues in furin by either basic or neutral
+residues in PACE4 (Glu271 and Glu272 in furin exchanged for Lys323
+and Gln324 in PACE4). Consequently, the N-terminal
+end of helix a4 has a charge of -1 in furin and +2 in
+PACE4. Finally, an intramolecular quench of charges in PACE4 may explain
+its potential to complex neutral ligands. Such self-quenching is unlikely
+for furin in the N-terminal region of the helix a4.
+In sum, the fact that furin catalytic clef is more negatively charged
+than PACE4 might very well account for much of the selectivity showed
+by the two PCs.
+The cellular effects of the ML-peptide are remarkable,
+as they
+phenocopy the antiproliferation effects observed in our previous molecular
+studies knocking down PACE4 in DU145 cells.3 This study also provided additional evidence for the PACE4 targeted
+antiproliferation using LNCaP cells. However, the effects of the ML-peptide
+are largely ineffective in the PC3 cell lines, as it expresses very
+little if any PACE4. As a control, the polybasic peptide Ac-RARRRKKRT-NH2, which is a potent furin
+inhibitor35 of similar length, was tested
+in the MTT cell-based assays (with LNCaP and DU145 cells) and no antiproliferative
+effects could be observed with this peptide (Supporting
+Information Figure S2). This negative result shows that furin
+inhibition does not affect cell proliferation. We are confident that
+the furin target was reached by the peptide, as in a previous study
+we showed that this potent furin inhibitor has cell penetration properties.35 Additional control peptides provide evidence
+that the ML-peptide indeed targets PACE4 because the Ac-LLLLRVK[DArg]-NH2 shows a substantial loss
+of affinity in vitro and is also a poor inhibitor of DU145 and LNCaP
+cell proliferation (Figures 4d,e).
+PACE4
+is localized at the cell surface and in the extracellular
+matrix due to interactions between its cycteine-rich domain (CRD),
+heparin sulfate proteoglycans (HSPGs),5,36 and tissue
+inhibitors of metalloproteinases (TIMPs).6 To assess the importance of cell surface PACE4 in tumor progression,
+the ML-peptide was modified with N-terminal PEGylation,
+significantly reducing its cell penetration property while not affecting
+its inhibitory potency (i.e, PEGylated ML-peptide has a similar Ki to the ML-peptide). Because the PEGylated
+ML-peptide significantly losses its ability to inhibit DU145 proliferation,
+it leads to the conclusion that intracellular PACE4 is required for
+this function.
+A reduction of cellular proliferation could occur
+by a number of
+mechanisms downstream of PACE4 inhibition, but most likely a number
+of important growth factors which are substrates of PACE4 have lost
+their activity due to lack of processing. This general lack of growth
+factor activity would eventually have effects on the cell cycle. Therefore,
+a cell cycle analysis was performed to evaluate if cell cycle arrest
+or slow-down was possible. A dose-dependent accumulation of cells
+in G0/G1 phase was observed, thus preventing
+cells entry into S phase. The transition between G1 and
+S phase is a finely regulated mechanism controlled by a combination
+of environmental considerations mostly influenced by the presence
+of growth signals and the discontinuation of extracellular inhibitory
+signals. This could suggest that the ML-peptide inhibits the processing
+of growth factors required to go beyond the restriction point and
+therefore triggers a cell cycle arrest at this point. However, while
+outside of the scope of the present manuscript, further studies identifying
+these substrates and signaling pathways involved will be required.
+Nonetheless, various potential substrates have been suggested in various
+other studies.37 Of interest was the observation
+of apoptosis following an exposure to 200 mM Ac-[DLeu]-LLLRVKR-NH2 in LNCaP cells. This phenomenon
+may be easily explained by the fact that cell cycle arrest is usually
+poorly tolerated and prolonged cytostasis must be escaped by cell
+death.38 If this is true, then more potent
+and stable versions of the ML-peptide inhibitor could result in exceptional
+drugs that reduce prostate cancer cell proliferation as well as inducing
+specific cell death. In the context of the metastasis phase of prostate
+cancer, a PACE4 inhibitor has the potential to become an important
+therapeutic agent.
+
+Experimental Section
+Peptide Synthesis
+Synthesis of SP-SPCL peptide library
+was performed as described previously (Torrey Pines Institute for
+Molecular Studies).23,39 All other peptides were obtained
+by solid-phase peptide synthesis (50 mmol scale) on a polystyrene
+resin, TentaGel S RAM (Rapp Polymere, capacity 0.23 mmol/g), with
+a Pioneer peptide synthesizer (Applied Biosystems), according to standard
+coupling procedures and Fmoc strategy.40 The protected amino acids were coupled at 3-fold excess using HATU
+as coupling agent in the presence of DIPEA in DMF. The Fmoc groups
+were removed by treatment with 20% piperidine in DMF. After the final
+Fmoc deprotection, with the exception of FITC-labeled peptides, N-terminal acetylation was carried out in DMF with acetic
+anhydride (0.5%) and 2.6-lutidine (0.6%). The FITC-peptides were labeled
+with fluorescein isothiocyanate isomer I (FITC) through their N-terminus (b-Ala was used as a spacer for the peptide:
+FITC-[b-Ala]-LLLLRVKR-NH2). A 1.5 equiv of FITC in pyridine-DCM (1:4) was added
+to the resin and allowed to couple overnight. After completion of
+the synthesis, the protected peptidyl resins were treated with TFA-H2O-TIS (95:2.5:2.5) and stirred for 3 h. The solutions
+with the released peptides were filtered and evaporated in vacuo to
+a volume of about 1 mL. Then the peptides were precipitated with diethyl
+ether to afford crude products. The crude compounds were purified
+by semipreparative HPLC (Agilent Technologies, 1100 series HPLC equipped
+with a diode array detector (DAD)) on reversed-phase support Agilent
+C18 column (15 mm, 100 A, 7.8 mm x 300 mm).
+The purity of the peptides was controlled using analytical HPLC. A
+SELDI-TOF mass spectrometer (Bio-Rad Laboratories) was used to confirm
+the identity of the pure products (molecular ion). According to both
+HPLC and mass spectrometry, the purity of peptides exceeded 98%. Their
+physicochemical properties are presented in Supporting
+Information Table S2. The peptide content analyses were performed
+in vacuo with a Beckman 120C autoanalyzer following 24 h hydrolysis
+in 5.7 N HCl at 110 degC and analyzed using a Varian DS604 system
+integrator.
+Production of Recombinant PCs and Prodomains
+Recombinant
+soluble human PCs were produced from S2 insect cells and purified
+as previously described.13 Briefly, S2
+conditioned medium was purified using ultrafiltration, anion exchange
+chromatography, hydrophobic interaction chromatography, and gel filtration.
+The prodomains of PCs were produced in One Shot TOP 10 cells (Invitrogen)
+transformed with cDNA construct of full-length prosegment. The recombinant
+prodomains were purified from bacterial lysate by nickel chromatography
+and reverse-phase HPLC as previously described.13
+Enzyme Inhibition Assays
+Enzyme inhibition assays for
+furin were performed in 100 mM Hepes pH 7.5, 1 mM CaCl2, 1 mM b-mercaptoethanol, and 1.8 mg/mL BSA, while assays for
+PACE4 were performed in 20 mM Bis-Tis pH 6.5, 1 mM CaCl2, and 1.8 mg/mL BSA. All assays were performed with the substrate
+pyroGlu-Arg-Val-Lys-Arg-methyl-coumaryl-7-amide (Bachem, CA) at 100
+mM. Assays were carried out at 37 degC for 60 min, and real-time
+fluorescence was measured using a Gemini EM 96-well spectrofluorometer
+(Molecular Devices, CA) (lEM, 370 nm; lEX., 460 nm; CutOff, 435 nm). Inhibitory peptides and prodomains
+were added to the assays at decreasing concentrations to perform a
+competitive inhibition assays. Kinetics assays were analyzed using
+SoftMaxPro5, and Ki values were determined
+from IC50 using Cheng and Prusoff's equation41 with Km values of
+4.61 mM for furin and 3.5 mM for PACE4.
+PCs mRNA Quantitation
+Total RNA was extracted by the
+QIAGEN RNA isolation kit (Qiagen). The quality of the total RNA sample
+was assessed using an Agilent Bioanalyzer with the RNA Nano Chip (Agilent
+Technologies). Briefly, 1 mg RNA was reverse transcribed and
+the obtained cDNA was used to carry out qPCR analysis. The primers
+used are shown in Supporting Information Table
+S3. Relative expression were calculated using b-actin
+as a reference gene and the formula (1 + amplification efficiency)
+- D(DCT) for each cell line, as described previously.3
+Cell Culture and MTT Assays
+To perform MTT assays,
+both DU145 and PC3 cell lines were seeded at a density of 1500 cells
+per well in 96-wells plates. LNCaP cells were seeded at a density
+of 2500 cells per well in a poly lysine coated 96-well plate. After
+24 h, media was changed and inhibitory peptides were added to the
+cells. The peptides were incubated with the cells for 72 h prior to
+addition of MTT reagent at a final concentration of 1 mg/mL. MTT reagent
+was incubated 4 h with DU145 and LNCaP and 6 h with PC3 cells, and
+then media was removed and formazan was solubilized with 100 mL
+of 2-propanol-HCl (24:1N). The total metabolic activity was
+normalized relatively to vehicle treated cells (Sterile bidistilled
+water 0.1% DMSO). Each step of MTT, as well as maintenance of DU145,
+LNCaP, and PC3 cells, were carried in RPMI 1640 5% FBS for DU145 and
+10% FBS for LNCaP and PC3. IC50 were determined using Prism
+5.0 (GraphPad Software).
+Cellular Uptake Assays
+The uptake of FITC peptides
+was tested on DU145 cells and analyzed with a FACScan cytometer (Becton
+Dickinson, Mountain View, CA). First, 4 x 105 cells
+were incubated 1 h in serum-free RPMI media with 10 mM of FITC-b-Ala-ML,
+FITC-[PEG8]-ML, or FITC-[C8]-ML and collected by centrifugation. Then
+the cell pellets were washed twice with trypsin (0.05% v/v) during
+5 min at 37 degC to remove nonspecific interactions with the membrane.
+Cells were incubated 2 min with propidium iodine (10 mg/mL)
+in order to exclude cells with altered membrane. A minimum of 10000
+events per sample was acquired, excluding cell clumps and debris.
+GeoMeans were determined using CellQuest Software (Becton Dickinson,
+Mountain View, CA).
+Cell Cycle Analyses
+To perform cell cycle analyses
+on LNCaP, 4 x 105 cells were seeded in 10 cm culture
+dishes and grown for 24 h without treatment. Cells were then treated
+with vehicle (0.1% DMSO) or with 100 mM or 200 mM of peptides
+Ac-LLLLRVKR-NH2 or Ac-[DLeu]LLLRVKR-NH2. Treatments were carried
+out in complete medium (10% FBS) for a period of 96 h, and cell media
+were changed every 24 h to offset peptide degradation. Cells were
+harvested using trypsin, washed once with PBS, resuspended in 0.5
+mL of PBS, and fixed by dropwise addition of 1.5 mL of ice-cold ethanol.
+After a 30 min incubation at room temperature, cells were washed with
+PBS and DNA staining was performed in 20 mM HEPES pH 7.2, 0.16 M NaCl,
+and 1 mM EGTA buffer containing 10 mg/mL of RNaseA and 10 mg/mL
+of propidium iodine.
+Flow cytometry was performed using a FACScan
+cytometer (Becton Dickinson, Mountain View, CA) equipped with a 15
+mW argon ion laser tuned at 488 nm. A minimum of 10000 gated events
+per sample were acquired. Forward and side scatter signals were used
+to establish the live gate to exclude debris and cell clumps and a
+second live gate was set using the FL3-A and FL3-W parameters of the
+doublet discrimination module (DDM), allowing single cell measurements.
+The percentages of cells in different phases of cell cycle were calculated
+by ModFit software (Verity Software House, Topsham, ME).

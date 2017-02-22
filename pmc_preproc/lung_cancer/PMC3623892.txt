@@ -1,0 +1,220 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion, Mixed, Mixed, Mixed, Mixed]
+
+Functional capacity, physical activity and muscle strength assessment of individuals with non-small cell lung cancer: a systematic review of instruments and their measurement properties. Background The measurement properties of instruments used to assess functional capacity, physical activity and muscle strength in participants with non-small cell lung cancer (NSCLC) have not been systematically reviewed.   Method Objectives: To identify outcome measures used to assess these outcomes in participants with NSCLC; and to evaluate, synthesise and compare the measurement properties of the outcome measures identified. Data Sources: A systematic review of articles using electronic databases MEDLINE (1950-2012), CINAHL (1982-2012), EMBASE (1980-2012), Cochrane Library (2012), Expanded Academic ASAP (1994-2012), Health Collection Informit (1995-2012) and PEDRO (1999-2012). Additional studies were identified by searching personal files and cross referencing. Eligibility Criteria for Study Selection: Search one: studies which assessed functional capacity, physical activity or muscle strength in participants with NSCLC using non-laboratory objective tests were included. Search two: studies which evaluated a measurement property (inter- or intra-rater reliability; measurement error; criterion or construct validity; or responsiveness) in NSCLC for one of the outcome measures identified in search one. Studies published in English from 1980 were eligible. Data Extraction and Methodological Quality Assessment: data collection form was developed and data extracted. Methodological quality of studies was assessed by two independent reviewers using the 4-point COSMIN checklist.   Results Thirteen outcome measures were identified. Thirty-one studies evaluating measurement properties of the outcome measures in participants with NSCLC were included. Functional capacity was assessed using the six- and twelve-minute walk tests; incremental- and endurance-shuttle walk tests; and the stair-climbing test. Criterion validity for three of these measures was established in NSCLC but not the reliability or responsiveness. Physical activity was measured using accelerometers and pedometers. Only the construct validity for accelerometers and pedometers was reported. Muscle strength was measured using hand-held dynamometry, hand-grip dynamometry, manual muscle test, one-repetition maximum and the chair-stand test, however only two studies reported reliability and measurement error and one study reported construct validity.   Conclusion Currently there is a gap in the literature regarding the measurement properties of commonly used outcome measures in NSCLC participants, particularly reliability, measurement error and responsiveness. Further research needs to be conducted to determine the most suitable outcome measures for use in trials involving NSCLC participants.
+
+Background
+Non-small cell lung cancer (NSCLC) is associated with significant disease burden, impaired physical status and diminished physical activity
+[1,2]. Due to the disease and treatment (surgery, chemotherapy and or radiotherapy) adverse physiological and psychological effects are prevalent in NSCLC, particularly exercise intolerance, weakness and impaired gas exchange and commonly a cycle of functional decline ensues
+[1]. Increasingly exercise interventions targeted at preventing the functional decline associated with NSCLC or improving the physical status prior to or after cancer treatment are the focus of research trials
+[3]. Three commonly used endpoints are functional capacity "the maximal capacity of an individual to perform aerobic work or maximal oxygen consumption"
+[4]; physical activity "any bodily movement produced by skeletal muscles that results in energy expenditure"
+[5]; and muscle strength "the maximum voluntary force or torque brought to bear on the environment under a given set of test conditions"
+[6]. The gold standard instruments (outcome measures) to assess these outcomes are laboratory based, which are not always feasible for use in research or clinical practice
+[7]. Therefore, a wide variety of instruments have been used to assess changes in these outcomes in the NSCLC literature.
+When selecting the most appropriate outcome measure the clinician or researcher should consider the measurement properties established for their population of interest. Reliability determines the ability of an instrument to obtain data which are accurate, consistent and have small measurement errors when the instrument is repeated longitudinally (intra-rater reliability) or by multiple examiners (inter-rater reliability)
+[8,9]. Validity determines the ability of an instrument to measure what it is intended to measure, that is, how well the data relate to data obtained from the gold standard instrument (criterion-concurrent validity); how well data predict an outcome (criterion-predictive validity); or how well an instrument obtains data, as hypothesised, when compared to an instrument measuring a similar construct (construct validity)
+[8,9]. Responsiveness determines the ability of an instrument to detect meaningful change over time
+[9].Whilst a test may have excellent reliability, validity and responsiveness in one clinical population, these findings cannot always be extrapolated to other populations
+[9].
+This review is designed to capture outcome measures applicable for use in the clinical setting by health professionals or researchers. The COnsensus-based Standards for the selection of health status Measurement INstruments (COSMIN) guidelines and the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines have been followed to report this review
+[8,10,11].
+Objectives
+1. To identify non-laboratory outcome measures which have been used to assess functional capacity, physical activity or muscle strength in participants with NSCLC;
+2. To evaluate, synthesise and compare the measurement properties established in participants with NSCLC for each of the outcome measures identified.
+
+Method
+Protocol
+No protocol had been previously published for this review.
+The search for this systematic review was conducted in two parts. Search 1 identified studies which used an outcome measure to assess functional capacity, physical activity or muscle strength in participants with NSCLC. This initial search allowed a list of outcome measures to be generated. Search 2 identified studies which examined the measurement properties of the outcome measures identified in Search 1, specifically in participants with NSCLC.
+Search 1: outcome measures
+Eligibility criteria
+Studies
+This review considered any type of quantitative study design as defined by the National Health and Medical Research Council Classification
+[12]. Full manuscripts published in English in a peer reviewed journal from 1980 onwards were eligible.
+Participants
+Participants of any age, diagnosed with NSCLC, at any stage of the disease were considered. NSCLC was defined as: carcinoma of the lung including adenocarcinoma, squamous cell carcinoma and large cell carcinoma
+[13]. At least five participants with NSCLC were required for the study to be included. Studies which included mixed cancer cohorts were also eligible providing at least five participants were diagnosed with NSCLC. The authors were contacted for studies which did not specify the type of lung cancer to confirm the number of participants with NSCLC. Studies without original participant data (such as reviews, narratives or editorials) were excluded.
+Outcomes
+Outcomes of interest were objective tests which, based on face validity, aimed to measure functional capacity, physical activity or muscle strength in the clinical setting. Outcome measures conducted in a laboratory were excluded. Patient-reported outcome measures, such as questionnaires, were excluded.
+Information sources, search and study selection
+Prior to conducting this review the Cochrane Library (including the Cochrane Database of Systematic Reviews and Database of Abstract of Review of Effectiveness DARE), Physiotherapy Evidence Database (PEDro), the COSMIN list of systematic reviews of measurement properties
+[14] and the International Prospective Register of Systematic Reviews (PROSPERO)
+[15] were searched to ensure no similar reviews had been published. Seven electronic databases were searched by one reviewer (CG) using a systematic, comprehensive and reproducible search strategy to identify all published studies (Additional file
+1). Databases were accessed via The University of Melbourne and Austin Health, Australia, with the last search run on 4-October-2012.
+Search terms used were: lung cancer, NSCLC, fitness, exercise, exercise capacity, functional capacity, function, acceleromet*, physical activity monitor*, global positioning system, strength, walk*, ambulat*, pedometer*, gait, outcome, assessment, test*, functional assessment, outcome assessment, exercise test, treatment outcome, data collection. A standardised eligibility assessment was performed by two independent reviewers (CG, SP) (Additional file
+1). All studies identified by the search strategy were assessed based on title/abstract for eligibility. If there was insufficient information to include/exclude a study, full-text was retrieved. Consensus was required by both reviewers. Full-text of all relevant studies was obtained and read to ensure the inclusion criteria were met. Disagreements were settled by a third independent reviewer (LD). If there was insufficient information to include/exclude an article, the authors were contacted where possible. At each assessment stage agreement between reviewers was estimated with percentage agreement and the Kappa statistic using SPSS for Windows statistical software package (IBM(r) SPSS(r) Statistics Version20.0.0)
+[16]. All references were stored in Endnote software 2010 versionX4.
+Data collection process
+A data collection form was specifically developed and used to extract data from studies by one reviewer (CG) and a second reviewer cross-checked extracted data (SP). To avoid double counting data, multiple reports on the same patient group were identified by juxtaposing study details. Collected data were stored in Microsoft(R) Office Excel(R)2007.
+Search 2: measurement properties
+Eligibility criteria
+Studies
+Studies which aimed to develop an outcome measure or evaluate the measurement properties of an outcome measure identified in Search 1 were eligible. Only studies published in a peer reviewed journal were included. Conference abstracts or studies not published in a peer reviewed journal were excluded due to the inability to effectively evaluate risk of bias of the individual study. Only studies published from 1 January 1980 that were available in English were eligible.
+Participants
+Participants of any age, diagnosed with NSCLC, at any stage of the disease were considered. NSCLC was defined as: carcinoma of the lung including adenocarcinoma, squamous cell carcinoma and large cell carcinoma
+[13]. At least five participants with NSCLC were required for the study to be included. Studies which included mixed cancer cohorts were also eligible providing at least five participants were diagnosed with NSCLC. The authors were contacted for studies which did not specify the type of lung cancer to confirm the number of participants with NSCLC. Studies without original participant data (such as reviews, narratives or editorials) were excluded.
+Outcomes
+Outcomes of interest were the measurement properties: reliability (inter- or intra-rater), measurement error, criterion validity (concurrent or predictive), construct validity (hypothesis testing) and responsiveness of outcome measures identified in Search 1
+[8]. Studies validating an alternative test against an outcome measure of interest (which provide indirect evidence for validity) and longitudinal studies (which provide indirect evidence for responsiveness) were excluded because such studies have not specifically formulated or tested hypotheses about the measurement properties
+[8]. Studies evaluating a battery measure including a relevant sub-component were also excluded as they are designed to be used in their entirety.
+Information sources, search and data extraction
+Four electronic databases were searched by one reviewer (CG) using a systematic, comprehensive and reproducible search strategy (Figure
+1). The last search was run on 4-October-2012. A previously published search filter was used (sensitivity 97.4%; precision 4.4%) (Additional file
+2)
+[17]. No publication date or language restrictions were imposed on the search. The study selection and data collection processes followed were the same as described for Search 1. Data items extracted were adapted from the COSMIN generalizability checklist
+[10].
+Figure 1
+Flow diagram of measurement properties study selection process - Search 2. Abbreviations: 1RM, one repetition maximum; 6MWT, six-minute walk test; 12MWT, twelve-minute walk test; Acc, accelerometer; CINAHL, Cumulative Index to Nursing and Allied Health Literature; CR, cross referencing; CST, chair-stand test; ESWT, endurance-shuttle walk test; EMBASE, the Excerpta Medica Database; excl, excluded; HHD, hand-held dynamometry; HGD, hand-grip dynamometry; ISWT, incremental-shuttle walk test; MMT, manual muscle test; n, number; NSCLC, non-small cell lung cancer; OM, outcome measure; Pedom, pedometer; S1, search from part one; SCT, stair-climb test.
+Risk of bias of studies
+Two independent reviewers (CG, CO) evaluated risk of bias using the 4-point COSMIN checklist
+[18]. This checklist was originally developed to assess the methodological quality of patient-reported outcome measures however it has also been suggested for use to assess the quality of non-patient reported outcome measures
+[10]. Four items from the checklist (internal consistency, structural validity, cross-cultural validity and content validity) are only applicable to questionnaires and were therefore not assessed
+[19]. Questions for remaining items (reliability, measurement error, hypothesis testing, criterion validity and responsiveness) were scored on a 4-point scale. The overall score for each item was obtained by using the lowest score (excellent, good, fair or poor) recorded for any question within the item, as recommended by the COSMIN scoring system
+[18]. Reviewer agreement was estimated with percentage agreement and the Kappa statistic
+[16].
+
+Results
+Search 1: outcome measures
+The search of seven electronic databases and cross referencing identified 6,398 studies. Assessment of title/abstract and full text results in 88 articles using 13 different outcome measures being included (Figure
+1; Additional file
+1). A list of outcome measures was generated (Table
+1). Almost perfect agreement between reviewers of potentially relevant titles/abstracts (CG, SP) (97.0%, Kappa=0.93) and full-text articles (CG, SP) (94.5%, Kappa=0.82) was obtained
+[16]. The third reviewer (LD) was consulted twice. Twenty-two authors were contacted to clarify the cancer type, 13 responded. In ten cases the lung cancer type could not be confirmed and these studies were excluded.
+Search 2: measurement properties
+Study selection
+The search identified 375 studies of which 34 articles (31 studies) were included (Figure
+1). Almost perfect agreement was obtained between reviewers (CG, SP) for titles/abstracts (96%, Kappa=0.92) and substantial agreement was obtained for full-text articles (90%, Kappa=0.78)
+[16]. Twelve authors were contacted to clarify the cancer type, nine responded. In seven cases the lung cancer type could not be confirmed and these studies were excluded.
+Study characteristics
+Table
+2 summarises the 31 prospective observational studies. The majority of studies included only participants with NSCLC (n=18, 58%). Studies had a mean (standard deviation [SD]) sample size of 130 (146) participants (range 12-640). Outcome measures were longitudinally repeated in 25% of studies: before and after surgery (n=5, 16%)
+[20-24], chemotherapy (n=1, 3%)
+[25] and radiotherapy (n=2, 6%)
+[26-28] (Table
+3).
+Outcome measures
+Measurement properties evaluated were: intra-rater reliability (studies n=1); inter-rater reliability (n=1); measurement error (n=1); criterion-concurrent validity (n=2); criterion-predictive validity (n=20); construct validity (hypothesis testing) (n=11) and responsiveness (n=0) (Table
+1; Table
+4; Additional file
+3).
+Risk of bias of studies
+Risk of bias was assessed by independent reviews (CG, CO) achieving a percentage agreement of 87%, Kappa=0.80
+[16]. Consensus was achieved on 100% of occasions that reviewers disagreed. Overall studies evaluating validity scored 'excellent' or 'good' on 12/29 occasions. No studies evaluating reliability scored 'excellent' or 'good' (Table
+5). The worst performing area for validity studies was design requirements (lack of a priori hypotheses formed) and for reliability studies was design requirements (small sample size).
+Study results
+Study results are summarised in Table
+1 and the sections below. The stair-climbing test, six-minute walking test (6MWT) and incremental-shuttle walk test (ISWT) performed the best out of the 13 tests reviewed, primarily due to lack of studies investigating measurement properties of the other 10 tests (Table
+1).
+Functional capacity
+The 6MWT, twelve-minute walking test (12MWT), ISWT, endurance-shuttle walking test (ESWT) and stair-climbing test are field tests reflecting functional capacity. No studies investigated inter or intra-rater reliability, measurement error or responsiveness of these tests in participants with NSCLC.
+The criterion-concurrent validity of the ISWT and stair-climbing test against the gold standard cardio-pulmonary exercise test (CPET) was reported by three studies (Table
+4)
+[29-31]. The ISWT was validated against CPET (VO2peak) with strong correlation (r=0.67)
+[30]. The stair-climbing test (ascent speed) was validated against CPET (maximum oxygen consumption VO2max) with strong correlation (r2=0.77)
+[29].
+The criterion-predictive validity of the 6MWT, ISWT and stair-climbing test were reported and these instruments were shown to predict post-operative outcomes (studies n=12)
+[20-24,32-38], post-operative length of hospital stay (n=1)
+[39] and survival (n=8) (Table
+4)
+[23,25,30,33,40-43]: Pre-operative stair-climbing test was a predictor for post-operative complications when using variables: test duration
+[36], oxygen saturation
+[34,36,37] or altitude
+[32-35,38]. Pre-operative 6MWT was a predictor for post-operative respiratory failure (p<0.05)
+[23]. Pre-operative stair-climbing test was a predictor for post-operative length of stay (r=0.34)
+[39] and hospital cost (coefficient=2160.2)
+[33]; and 6MWT was a predictor for post-operative health related quality of life (HRQoL) physical domains (GEE=0.001)
+[24]. The 6MWT was shown in two papers to predict survival in advanced NSCLC (hazard ratios=0.44
+[25] and 0.48
+[40]). With every 50 m improvement in 6MWT, survival improved by 13%
+[40] and patients walking >= 400 m pre-chemotherapy had greater survival time
+[25]. In the post-operative population survival was predicted by pre-operative ISWT (area under the ROC curve=0.7)
+[30]; stair-climbing test (steps climbed) (p<0.05)
+[41]; stair-climbing test (altitude) (coefficient=0.91
+[33]; hazard ratio=0.5
+[43]) and inability to perform stair-climbing test (odds ratio=0.2)
+[42]. A pre-operative stair-climbing test result of >44steps predicted post-operative survival at 30 days (positive predictive value=91%, negative predictive value=80%)
+[41].
+Three studies reported on the construct validity of the 6MWT and ISWT: The 6MWT was validated against respiratory function tests (forced expired volume in one-second) with strong correlation (r=0.53)
+[26]. The ISWT was validated with moderate correlation against inspiratory muscle strength (r=0.42)
+[44] and isokinetic muscle dynamometry (r=0.39) (Table
+4)
+[44].
+Physical activity
+No studies validated accelerometers or pedometers against the gold standard measure of physical activity (direct calorimetry)
+[45] or investigated reliability, measurement error or responsiveness. Four studies investigated construct validity (Table
+4): The ActivPAL(tm) accelerometer (step count) was validated against ActivPAL(tm) (estimated energy expenditure) with strong correlation (r=-0.91)
+[46] and Eastern Cooperative Oncology Group (ECOG) Performance-Scale (p<0.05)
+[47]. The Actigraph (accelerations/minute) was validated with medium correlation against the Hospital Anxiety and Depression Scale (depression) (r=-0.41)
+[48], the Ferrans and Power Quality of Life Index Cancer-Version III (HRQoL) (r=0.38-0.57)
+[49], the European Organisation for Research and Treatment of Cancer quality of life questionnaire (loss of appetite) (r=-0.41)
+[49]; and with strong correlation against the Pittsburgh Sleep Quality Index (sleep medication use) (r=-0.58)
+[50]. The OMROM Walking Style Pro(r) pedometer (distance walked) was validated against CPET (VO2max) with moderate correlation (r=0.4)
+[51].
+Muscle strength
+Only two studies investigated muscle strength test reliability (Table
+1; Additional file
+3): The inter-rater reliability of the MFB50K pulley-gauge hand-held dynamometer (HHD) (elbow/knee extension) was very good (ICC=0.90, 0.96 respectively), however measurement error between examiners was large (SEM=10.6, 19.8 respectively), as was the smallest detectable difference (SDD=29.4, 54.8 respectively) (Additional file
+4)
+[52]. The Jamar hand-grip dynamometer (HGD) (grip-strength) intra-rater reliability percent coefficient of variation was 6.3, which was better than that demonstrated for HGD with Biodex attachment (%CV16.7) (Table
+1; Additional file
+3)
+[28].
+No tests measuring muscle strength were validated against the gold standard measure (isokinetic dynamometry). Construct validity was reported for the chair-stand test with a moderate correlation against Karnofsky Performance Status (r2=0.56) (Table
+4)
+[53].
+
+Discussion
+This review focused on three commonly assessed outcomes (functional capacity, physical activity and muscle strength) used in the NSCLC literature
+[3]. Tests used to evaluate the effectiveness of exercise in patients with NSCLC must be reliable and responsive to change in the outcome of interest, regardless of the cancer stage of participants and therefore understanding how different NSCLC stages respond to the outcome measures is vital. Standardised measures allow generalizability of study results across trials, which is important in NSCLC, given the poor participant consent/retention rate
+[54] and mortality rate. The gold standard measurement of functional capacity, physical activity and muscle strength require laboratory tests which have significant limitations for use in exercise-based NSCLC research trials. CPET (functional capacity)
+[7], direct calorimetry (physical activity) and isokinetic dynamometry (muscle strength) require expensive equipment, advanced monitoring and experienced technicians. Whilst limited studies have reported CPET to be safe and feasible in NSCLC
+[55], field tests which be performed reliably in clinical settings may reduce research costs, participant burden and drop-out rates. This review demonstrated the use of 13 different field tests and, although a number of studies investigated the validity of outcome measures in NSCLC, only two studies investigated reliability, with no study investigating test responsiveness. Further studies are needed to establish measurement properties of standardised field tests for individuals with NSCLC to allow the most appropriate choice of test when designing research trials.
+Functional capacity was the most common outcome of interest in this review, with the 6MWT most commonly used. Search 1 retrieved 38 studies utilising the 6MWT in NSCLC and Search 2 retrieved seven studies investigating 6MWT measurement properties. Only 51% (n=17/33) of studies published after 2002, using the 6MWT in Search 1, referenced the American Thoracic Society guidelines in their methodology
+[56]. Three studies referenced the guidelines but stated they performed only one 6MWT during a testing session. Two tests have been shown to enhance reliability in other populations, with reports demonstrating the second 6MWT increases by 9-15 m
+[56,57]. The encouragement used in the 6MWT in part one studies was variable. No studies identified in part two of this review analysed the reliability of the 6MWT. Similarly, in Search 1, 14 studies used the 6MWT to evaluate the benefit of exercise intervention over time, however no studies in Search 2 investigated the responsiveness of the 6MWT in any stage of NSCLC. In comparison, there has been a substantial amount of work regarding the criterion-predictive validity of the 6MWT in patients with NSCLC. Results demonstrated the 6MWT was predictive for post-operative complications, HRQoL and survival. The 6MWT has not been validated against CPET in NSCLC, however it has been validated against CPET in populations with cardiorespiratory disease with moderate correlations (r=0.51-0.93)
+[58-61]. Given the frequent use of the 6MWT, establishing reliability, measurement error, minimal clinically important difference, responsiveness and validating the 6MWT against CPET in NSCLC should be a priority.
+In Search 1 the ISWT was used in six studies involving participants with NSCLC and twice this was to evaluate the benefit of exercise
+[62,63]. Only fifty percent of the studies described how the participant was monitored during the test
+[30,44,64], however all studies referenced their procedure, most (n=5/6, 83%) referencing the original protocol when the test was created
+[65]. The ISWT was only performed once during the testing session across all studies excluding one. Given no studies in Search 2 investigated the reliability of this test, similar to the case with the 6MWT, further research needs to investigate the best method for completing it in NSCLC to determine if a familiarisation effect is present.
+The 12MWT and the ESWT have been infrequently used in studies of NSCLC and neither test was investigated regarding its measurement properties in NSCLC. Currently the alternative 6MWT and ISWT appear to be better choices of tests until further research is completed.
+Search 1 identified 21 studies utilising the stair-climbing test in NSCLC, all in pre-lung resection candidates. No studies have used the stair-climbing test to evaluate exercise intervention. Currently there is no gold standard method to perform the stair-climbing test. Published studies used variable instructions, encouragement, monitoring and experience of assessors. Some authors reported the number of steps/altitude whilst others reported test duration. Results of Search 2 consistently demonstrated the stair-climbing test to be valuable in the pre-operative evaluation of lung resection candidates, with the stair-climbing test providing prediction validity with regard to post-operative complications, length of stay, mortality and hospital cost. The stair-climbing test has also been validated against the gold standard (CPET). No studies evaluated reliability; measurement error or responsiveness in NSCLC and therefore it is currently not known if this is a suitable test to evaluate exercise interventions, especially in post-operative and chemo-radiation cohorts.
+Search 1 demonstrated that physical activity has been measured in participants with NSCLC using accelerometers and pedometers. Search 2 showed that accelerometers and pedometers have not been validated against the gold standard measure (direct calorimetry) in NSCLC. Direct calorimetry has limitations and accelerometers are commonly the preferred method to measure physical activity
+[66,67]. However, accelerometers and pedometers are limited in that they rely on participant compliance. In the NSCLC literature, few studies are conducted measuring physical activity levels and even fewer studies have investigated the measurement properties associated with tests.
+Muscle strength was measured using five different tests by 17 studies in sSarch 1. Search 2 retrieved three studies evaluating measurement properties of only three of the five instruments. All three studies were conducted with mixed cancer cohorts and the methodological quality of each study was 'poor' or 'fair': therefore results need to be interpreted with caution. Hand dynamometry was the most commonly used instrument to assess muscle strength in part one studies. Two hand-dynamometry devices were tested for reliability however results were not strong enough to recommend use of a particular device. Whilst both HHD and HGD have been shown to be reliable and valid in many patient populations, further research needs to be performed in NSCLC
+[68-70]. Manual muscle testing is often considered to be qualitative and frequently performed in profoundly weak populations such as those with critical illness
+[71,72]. Four studies in Search 1 used MMT to measure upper-body strength on repeated occasions however the measurement properties have not been established. This review demonstrated that HHD, HGD, MMT, one-repetition maximum and the chair-stand test have been used in NSCLC, however there is currently insufficient research to support the use of one measure over another.
+Limitations
+To minimise risk of selection bias two independent reviewers were utilised. In Search 2 articles were excluded if cancer type was unconfirmed. There is a risk of publication bias, where studies which have found poor measurement properties have not been published. Given that registration of studies evaluating measurement properties is not standard practice, the extent of this is unknown
+[8].
+The COSMIN checklist was not completed in its entirety and may have also under-estimated methodological quality because the rating of each item was determined using the lowest score rather than the average or highest score.
+Due to the small number of studies evaluating measurement properties of the included outcome measures in cohorts with only NSCLC participants, this review included studies with mixed cancer types (providing at least five participants had NSCLC). Different cancer types are associated with heterogeneous symptom profiles (for example dyspnoea and pain), gas exchange and exercise capacity. Therefore findings from the studies with mixed cancer types must be interpreted with caution when extrapolated for use in NSCLC. Additionally there was heterogeneity with regards to the participants in the included studies (particularly age and treatment exposure) (Table
+2). This may explain, in part, the variance in data obtained and large standard deviations reported by individuals studies (Additional file
+4) because age, comorbidities (such as COPD) and treatment (such as chemotherapy) directly impact exercise capacity and performance as well as the disease of NSCLC.
+
+Conclusion
+Measurements of functional capacity, physical activity and muscle strength are commonly used as outcomes for individuals with NSCLC participating in exercise trials. The 6MWT, 12MWT, ISWT, ESWT and stair-climbing test have been used to assess functional capacity in NSCLC. Only two tests (ISWT and stair-climb test) were validated against CPET, the gold standard measure of functional capacity. Physical activity has been measured using accelerometers and pedometers: there was some evidence for construct validity but neither had been validated against the gold standard or tested for reliability. Muscle strength has been measured using HHD, HGD, manual muscle test, 1RM and the chair-stand test. Only two strength measures were tested for their reliability in NSCLC, and there was insufficient evidence to support the use of one strength measure over another. Responsiveness and minimal important clinical difference was not established for any of the 13 tests. Currently there is an important gap in the literature regarding the measurement properties of commonly used tests in NSCLC and further research needs to be conducted in this area to improve the clinical use and applicability of these tests in patients with NSCLC.
+
+Competing interest
+The authors declare that they have no competing interests.
+
+Authors' contribution
+CG participated in the design of the protocol, contributed to establishment of search terms, performed database searching, reviewed articles for inclusion from Search 1 and 2 (as first independent reviewer), performed quality appraisal (as first independent quality assessor) and drafted the manuscript. CMcD participated in the design of the protocol, contributed to the background literature search and manuscript preparation. SP reviewed articles for inclusion from Search 1 and 2 (as second independent reviewer), cross checked extracted data and contributed to manuscript preparation. CO contributed to establishment of search terms, development of data extraction forms, performed quality appraisal (as second independent quality assessor) and contributed to manuscript preparation. LD participated in the design of the protocol, background literature search, contributed to the development of the search strategy, reviewed articles for inclusion from Search 1 and 2 (as third independent reviewer) and contributed to the manuscript preparation. All authors read and approved the final manuscript.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1471-2407/13/135/prepub
+
+Supplementary Material
+Additional file 1
+Flow diagram of outcome measures selection process - Search 1 [11]. Abbreviations: Ax, assessment; CINAHL, Cumulative Index to Nursing and Allied Health Literature; DARE, Database of Abstracts and Reviews of Effects; EMBASE, the Excerpta Medica Database; FT, full text; n, number; NSCLC, non-small cell lung cancer; OM, outcome measure; PEDRO, Physiotherapy Evidence Database; PROM, patient reported outcome measure.
+Click here for file
+Additional file 2
+Search strategy - Search 2 [17]. Abbreviations: CINAHL, Cumulative Index to Nursing and Allied Health Literature; EMBASE, the Excerpta Medica Database; MESH, Medical Subject Heading Indexing.
+Click here for file
+Additional file 3
+Interpretability. Abbreviations: 6MWT, six minute-walk test; acc, accelerations; chemo, chemotherapy; CST, chair-stand test; E1, examiner one; E2, examiner two; Elb, elbow; E, extension; ECOG, Eastern Cooperative Oncology Group; ft, feet; gp, group; HGS, hand grip strength; hrs, hours; inpt, inpatients; IQR, inter-quartile range; ISWT, incremental-shuttle walk test; kg, kilogram; lbs, pounds; m, meters; MIC, minimal important change; min, minutes; ml, millilitres; N, newtons; outpt, outpatient; O2desat, oxygen desaturation; POC, post-operative complication; post-op, post-operative; pre-op, pre-operative; PS, performance status; RT, radiotherapy; s, seconds; SCT, stair-climb test; SD, standard deviation; SDD, smallest detectable difference; VO2peak, peak oxygen consumption; yr, year published.* results presented from most recent publication.
+Click here for file
+Additional file 4
+Inter-rater reliability, intra-rater reliability and measurement error associated with outcome measures. Abbreviations: 95% CI, 95% confidence intervals;%CV, percent coefficient of variation; b/t, between; E, extension; Elb, elbow; HGD, hand-grip dynamometry; HHD, hand-held dynamometry; ICC, intraclass correlation coefficient; mean diff, mean difference for repeated measures; min, minutes, OM, outcome measure; NR, not reported; SEM, standard error of measurement.
+Click here for file

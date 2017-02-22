@@ -1,0 +1,247 @@
+[Abstract, Introduction, Methods, Results, Discussion, Discussion]
+
+Validation of Rosner-Colditz breast cancer incidence model using an independent data set, the California Teachers Study. To validate an established breast cancer incidence model in an independent prospective data set. After aligning time periods for follow-up, we restricted populations to comparable age ranges (47-74 years), and followed them for incident invasive breast cancer (follow-up 1994-2008, Nurses' Health Study [NHS]; and 1995-2009, California Teachers Study [CTS]). We identified 2026 cases during 540,617 person years of follow-up in NHS, and 1,400 cases during 288,111 person years in CTS. We fit the Rosner-Colditz log-incidence model and the Gail model using baseline data. We imputed future use of hormones based on type and prior duration of use and other covariates. We assessed performance using area under the curve (AUC) and calibration methods. Participants in the CTS had fewer children, were leaner, consumed more alcohol, and were more frequent users of postmenopausal hormones. Incidence rate ratios for breast cancer showed significantly higher breast cancer in the CTS (IRR = 1.32, 95 % CI 1.24-1.42). Parameters for the log-incidence model were comparable across the two cohorts. Overall, the NHS model performed equally well when applied in the CTS. In the NHS the AUC was 0.60 (s.e. 0.006) and applying the NHS betas to the CTS the performance in the independent data set (validation) was 0.586 (s.e. 0.009). The Gail model gave values of 0.547 (s.e. 0.008), a significant 4 % lower, p < 0.0001. For women 47-69 the AUC values for the log-incidence model are 0.608 in NHS and 0.609 in CTS; and for Gail are 0.569 and 0.572. In both cohorts, performance of both models dropped off in older women 70-87, and later in follow-up (6-12 years). Calibration showed good estimation against SEER with a non-significant 4 % underestimate of overall breast cancer incidence when applying the model in the CTS population (p = 0.098). The Rosner-Colditz model performs consistently well when applied in an independent data set. Performance is stronger predicting incidence among women 47-69 and over a 5-year time interval. AUC values exceed those for Gail by 3-5 % based on AUC when both are applied to the independent validation data set. Models may be further improved with addition of breast density or other markers of risk beyond the current model.
+
+Introduction
+For over a decade since developing and expanding the Rosner-Colditz model for breast cancer incidence [1, 2], we have sought approaches to estimating performance in an independent validation data set. Although we have conducted internal validation using split sample approaches [3], we have not previously used an independent data set to assess performance. This has largely been due to the need for data on age at each birth for women, an input to spacing of births that directly relates to breast cancer risk in early studies [4] and is confirmed in our model [5] and by others [6]. The closer births are together, the more rapidly breast tissue-aging decreases and the lower total risk accumulates through premenopausal years [7]. In addition, details on age at menopause and type of menopause as well as type and duration of postmenopausal hormone therapy (HT) are important risk factors.
+Our approach then is to use an independent data set to estimate performance following the principles outlined in literature addressing validation and application of prediction models in medicine [8, 9]. To date, no model of breast cancer incidence has been implemented as part of routine clinical care where risk estimates might guide level of screening, genetic counseling, or chemoprevention.
+As previously noted, the Rosner-Colditz model includes a range of established reproductive factors, body mass index (BMI), and alcohol intake in its basic form [2]. This is one of a large number of breast cancer risk prediction models. In a systematic review and meta-analysis, Meads et al. [10] identified 17 breast cancer risk models with differing sets of modifiable and non-modifiable risk factors, with many omitting age at menopause, type of menopause, and use of postmenopausal hormones, all factors strongly related to future breast cancer risk. Only four models had validation in potentially independent data sets. These models included Gail [11] and also the Rosner-Colditz model [1, 2, 12]. The performance of the Gail model summarized as AUC in a previous validation within the NHS data was 0.58, though both have not been compared in a common independent data set.
+Moons and others emphasize a sequence of model development, validation, application, and assessment of performance in application/clinical setting [8, 9]. To date, we find no reports on the last aspect of breast cancer model performance in routine clinical settings. Here we focus on the conduct of validation in an independent data set.
+We collaborated with California Teachers Study (CTS) investigators to draw on an independent prospective data set and assess the performance of the Rosner-Colditz model, which was developed and refined in the Nurses' Health Study (NHS). We also compare model performance against the Gail model when both are fit to the independent data set.
+
+Methods
+As noted above, a key issue in identifying an independent prospective study with appropriate risk factor collection included the need for details of age at each pregnancy, a refinement of usual reporting of age at first birth and number of births typical of epidemiologic studies. Details on age and type of menopause were also important since this is omitted from the Gail model despite a long record of being established as a modifier of future breast cancer risk [5, 13, 14]. Other key risk factors not included in the Gail model are duration and type of postmenopausal HT used [15], BMI [16], and alcohol intake [17]. These are all in the Rosner-Colditz log-incidence model.
+CTS This cohort contains the necessary data collected at baseline in 1995 for the cohort. The CTS approach to questionnaire follow-up, after 2 years, then after 3 more years, then at varying intervals each updating some exposures, together with case ascertainment ongoing annually through the California tumor registry, meant we use baseline data only. We limit the population to women who were postmenopausal at baseline. To compare incidence during common follow-up time periods we use the time frame for CTS from baseline 1995 to 2009.
+NHS This cohort of women followed from 1976 has routinely updated information every 2 years on reproductive risk factors for breast cancer, family history of breast cancer, use of postmenopausal hormones, and from 1980 onwards alcohol intake. The original Rosner-Colditz model was developed in the broader NHS cohort [1, 2, 5]. For comparability with data available from the CTS, we limit the population for this analysis to women who were postmenopausal at baseline in 1994. Thus the corresponding time available for the NHS is 1994-2008. In 1994, NHS participants were 47-74. Hence, we limit the CTS participants included in the analysis to a comparable age range, excluding their older cohort members.
+Model fitting issues
+Limited only to baseline data from the CTS, we modified the Rosner-Colditz model to omit updating. Because this differs from our standard approach of updating exposure information every 2 years [2], we estimate the impact of this modification on overall performance.
+Duration of current use of postmenopausal HT is significantly related to incidence of breast cancer [2, 18], and to type of menopause, age at menopause, and time since menopause. These factors are all importantly related to postmenopausal breast cancer incidence. We, therefore, used imputation methods to estimate future duration of use for postmenopausal HT in the CTS [19]. We used a two-step process to estimate use according to type of hormone used currently, and duration of use. We first fit a model to NHS data to estimate the duration of hormone use from 1994 to the return of the 2006 follow-up questionnaire for each type of HT (estrogen, E, alone and estrogen plus a progestin, E&P). Predictors included menopause type and time since menopause, and duration of use of HT among current users (see Tables 8 and 9). In addition to these characteristics of menopause, parity was positively related to ever use of E alone but not E&P, and positively to duration of use of estrogen alone, but inversely to duration of estrogen plus progestin. BMI was inversely related to ever use of E and E&P, but was unrelated to duration of use of either. Alcohol use was inversely related to ever use of E alone and to ever use of E&P, but not to duration of use of either formulation. We developed this model separately for use of E alone and for use of E&P. We then used this model with baseline CTS data to impute future use by type and duration for participants, taking the average of 5 imputations for each participant. (See Tables 8 and 9 for the imputation models and Appendix 2 for a summary of the imputation strategy.)
+Time frame
+To compare incidence of breast cancer in the two cohorts over a common time frame, we identified common subsets from the two cohorts. We use the CTS baseline in 1995 and 1994 as the start point for inclusion of NHS follow-up. We then draw on the age range of the NHS participants to define a comparable age range for CTS participants. Thus we limit NHS follow-up data to the interval 1994-2008. CTS data for the corresponding years are included with follow-up from 1995 to 2009.
+During follow-up of the NHS cohort from 1994 to 2008, we identified 2,026 invasive breast cancer diagnoses among postmenopausal women during 540,617 person years. In the CTS, we identified 1,400 incident invasive breast cancer diagnoses among postmenopausal women during 288,111 person-years.
+Description of the log-incidence model of breast cancer
+We assume that the incidence of breast cancer at time t (It) is proportional to the number of cell divisions accumulated throughout life up to age t (i.e., It = kCt).
+Ct is obtained from1\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C_{t} = C_{0} {\text{x}}\mathop \prod \limits_{i = 0}^{t - 1} \left( {C_{i + 1} /C_{i} } \right) = C_{0} {\text{x}}\mathop \prod \limits_{i = 0}^{t - 1} \lambda_{i}$$\end{document}
+Thus, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda_{i} = \frac{{C_{i + 1} }}{{C_{i} }} =$$\end{document} the rate of increase in \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C_{t}$$\end{document} from age \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i$$\end{document} to age \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i + 1$$\end{document}.
+Log (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\lambda_{i} )$$\end{document} is assumed to be a linear function of risk factors that are relevant at age \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$i.$$\end{document} The set of relevant risk factors and their magnitude and/or direction may vary according to the stage of reproductive life. We fit PROC NLIN of SAS to estimate the parameters of the model with breast cancer risk factors including (1) duration of premenopause, (2) duration postmenopause, (3) type of menopause, natural or surgical (4) parity, (5) age at each birth, (6) current, past HRT use, (7) duration of HT use by type, (8) BMI, premenopause [?] BMI1, (9) BMI, postmenopause [?] BMI2, (10) height, (11) benign breast disease (BBD), (12) alcohol intake, (13) family history of breast cancer.
+We fit the base model using baseline variables and imputed HT duration without updating exposures and assessed covariates using the CTS comparing their magnitude and direction to the variables in the NHS. We assess the performance of the model from the NHS in the CTS by fitting the NHS model and averaging five imputations of HT use. We fit the Gail model [11] using the formula from page 1880, with the caveat that in each cohort the number of previous biopsies is scored 0 or 1 and the number of relatives with family history is scored 0 or 1. We compare the c-statistic for Gail versus Rosner-Colditz log-incidence using the Wilcoxon rank sum test [20].
+To assess calibration, we use the NHS model to estimate relative risks for individual women in the CTS and combine these with SEER data to estimate absolute risk. We then group the CTS participants by decile of estimated absolute risk and compare observed and expected counts of incident breast cancers and test for trend using Poisson regression approaches (for additional details, see Appendix 1).
+To assess calibration, we apply the NHS risk model to the CTS population using imputed data for HRT use over 12 years. Suppose there are N subjects in the CTS population who are followed for T person-years. We divide the T person-years into L age strata and let Tl = number of person-years in the lth age stratum. Based on the NHS risk model, we compute the relative risk for the ith person at the jth person-year given by RRij compared to a hypothetical person at baseline risk where all covariate values are 0. Let h1*(l) be the age-specific incidence rate for the lth age group from SEER 1995-2006. We use the methods of Gail (1989) to combine the RRij from the NHS model with h1*(l) to estimate h1(l) = baseline incidence rate for the lth age group of CTS. An estimate of the incidence rate for the ith subject in the jth person-year is then given by\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hat{I}_{ij} = \mathop \sum \limits_{l = 1}^{L} h_{1} (l)\delta_{ijl} RR_{ij}$$\end{document}where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta_{ijl} = { 1}$$\end{document} if the ith subject is in age group l at the jth person-year, = 0 otherwise.
+The corresponding estimate of cumulative incidence for the ith subject over ti person-years is given by\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E_{i} = 1 - { \exp }( - \mathop \sum \limits_{j = 1}^{{t_{i} }} \hat{I}_{ij} )$$\end{document}Let Oi = 1 if the ith subject develops breast cancer over ti person-years, = 0 otherwise.
+If the NHS model is well calibrated in the CTS population, then Oi should follow a Poisson distribution with mean = \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E_{i}$$\end{document}. To test this we let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mu_{i} = E(O_{i} )$$\end{document} and consider the Poisson regression model\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\ln \left( {\mu_{i} } \right) = \alpha + { \ln }(E_{i} )$$\end{document}
+A test of the calibration of the model at the individual level is\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$H_{0} : \alpha = 0 \, {\text{vs}}. \, H_{1} :\alpha \ne 0$$\end{document}which we can perform using a Poisson regression model with intercept only and offset given by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${ \ln }(E_{i} )$$\end{document}.
+We also can group the subjects into deciles by cumulative incidence per year (or \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$E_{i}^{*} = E_{i} /t_{i}$$\end{document}) and compute the observed (O(d)) and expected (E(d)) number of cases in the dth decile and run a Poisson regression at the aggregate level of the form:\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\ln \left( {\mu^{(d)} } \right) = \alpha + { \ln }(E^{(d)} )$$\end{document}where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\mu^{(d)} = E(O^{(d)} ).$$\end{document}
+The individual and aggregate Poisson regression models are actually equivalent. The Poisson regression approach should be a more sensitive model of goodness of fit than the Hosmer-Lemeshow statistic given by\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$X_{HL}^{2} = \mathop \sum \limits_{d = 1}^{10} \frac{{(O^{(d)} - E^{(d)} )^{2} }}{{E^{(d)} }}$$\end{document}which is more similar to a test of hetereogeneity than the test for trend approach given by Poisson regression.
+Finally, to combine inferences over several imputed data sets, multiple imputation approaches are used to obtain an overall test of calibration based on averaging estimates of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\alpha$$\end{document} over several imputations. More detail on the calibration methodology is given in Table 8.
+
+Results
+Risk factor prevalence differences (Tables 1, 2)
+Baseline data for the NHS and CTS are presented in Table 1, for women 47-59 years at baseline, and Table 2, for women 60-74 years of age. The mean age, age at menarche, and age at menopause were comparable in the cohorts as were the prevalence of biopsy confirmed BBD and family history of breast cancer. The CTS included more nulliparous women (25 %) versus 6 % in the NHS for women 47-59 years, and 18 versus 6 % for women 60-74 years. CTS cohort members versus women in the NHS had an average of 1 fewer births per woman; more current postmenopausal hormone use (age 47-59 years: 70 vs. 56 %, age 60-74 years: 53 vs. 35 %) and longer duration of use; leaner current BMI (age 47-59 years: 25.3 vs. 26.6, age 60-79 years: 25.3 vs. 26.1) and higher current alcohol intake (age 47-59: 7.9 g/day vs. 5.0 g/day, 60-79: 8.2 g/day vs. 5.1 g/day).
+Incidence rates (Table 3)
+Age-specific and age-adjusted incidence rates show breast cancer incidence rates are higher in the CTS for women over age 60 years (Table 3). Across all ages, 47-87 years, the age-adjusted incidence rate ratio shows that the CTS has significantly higher incidence (age-adjusted IRR 1.32, 95 % CI 1.24-1.42).
+Comparing parameter estimates in each cohort (Table 4)
+The modified model using only baseline data and imputed HT duration of use was fit separately to the NHS and then to the CTS cohort data to compare coefficients side by side (see Table 4). We note a number of important similarities across the two independent cohort studies supporting favorable performance. The magnitude of the coefficient for age at first birth (gynecologic age at first birth) is comparable, being positive in both cohorts. The associated birth index (a summary of total years from each birth to minimum [age, or age at menopause], summed over all births in parous women and = 0 for nulliparous women) shows a strong inverse association of comparable magnitude in both cohorts (-0.0032 in NHS vs. -0.0026 in CTS). Thus, for a typical woman with menarche at age 13, menopause at 50, births at 20, 23, 26, 29, (giving a birth index 102), this translates to a RR 0.72 for the NHS and 0.77 for the CTS. Terms for BBD and family history are comparable as are the association for alcohol and for height and BMI among women not taking HT (estrogen negative time).
+We also note some differences between the two cohorts. The magnitude of the association for duration of E&P has a larger magnitude in the CTS, b = 0.035 versus 0.015 in NHS. The term for current use is weaker in the CTS, giving a combined relative risk for a current user with 5 years of use of e0.202+ 5(0.035) = e0.377 = 1.46 compared to a never user for the CTS and e0.368+5(0.015) = e0.443 = 1.56 for the NHS. For current users with 10 years of use, the RRs are 1.74 for the CTS and 1.68 for the NHS. Thus, the overall associations for current users are comparable at longer durations of use. The association for BMI is somewhat weaker during estrogen negative time (postmenopause, non-use of postmenopausal hormones) in the CTS compared to the NHS (0.00038 vs. 0.00195 per BMI unit per year).
+Summary model performance in NHS and CTS cohorts (Table 5)
+We fit model coefficients from Table 4 to NHS and applied the coefficients from NHS to CTS data for follow-up from 1995 to 2009 as an external validation of the NHS model (see Table 5). The overall performance in the NHS was 0.597 for the full follow-up and 0.586 in CTS. For the first 5-year follow-up interval among women 47-69 years, the risk prediction performance was comparable in both cohorts (0.608 in NHS and 0.609 in CTS) supporting validity of the model. We also observed that in NHS during the first 5-year follow-up period, 1994-1999, performance was higher in women 47-69 years (c = 0.608) than in those 70-87 years (c = 0.587). For the second follow-up interval from 2000 to 2008 the model again performed better in younger women c = 0.599 compared to older women c = 0.577, but in each group performance was lower than in the first time interval. This pattern of performance was also observed when the Gail model was applied to the NHS cohort performance was higher in younger women and in the first versus second follow-up interval.
+Applying the NHS log-incidence model to the CTS data, a similar pattern emerged; the performance was better during the first 5 years of follow-up in younger than older women (c = 0.609 for 47-69 year old women vs. 0.564 for 70-87 year old women). During the later follow-up, 2001-2009, the performance was further reduced. The Gail model applied to the CTS data also showed this pattern in the first follow-up interval.
+Comparing the Gail model to the log-incidence model in the independent CTS data, the AUC for the Gail model performance was 4 % lower overall (c = 0.547 vs. 0.586, p < 0.0001); during the first follow-up period for women 47-69 years (c = 0.572 vs. 0.609, difference in AUC = 0.037, p = 0.008), and in women 70-87 years (c = 0.516 vs. 0.564, difference in AUC = 0.048, p = 0.09). In the later follow-up from 2001 to 2009 these differences persisted.
+Comparison of c statistic for actual NHS data versus the use of imputed values in that cohort (Table 6)
+To assess the drop off in model performance induced by not updating exposure variables, we next fit the model to NHS data using first imputed and then updated values for HT duration (see Table 6). Fitting the model to NHS updated data from 1994 through 2008 (right hand panel of Table 6) we observe an AUC c statistic value of 0.616 (s.e. 0.006). If instead of using observed updated data, we impute future duration of HT after menopause, the AUC c statistic is reduced modestly to 0.600 (s.e. 0.006). When assessing performance in the early follow-up from baseline and later follow-up--again the actual data were comparable to imputed data for the first 5 years, but showed reduced performance in the 2000-2008 interval. For example, for women 47-69, the AUC decreased from 0.641 with actual updated data to 0.595 using imputed data.
+Calibration observed and expected counts in CTS by decile of risk, predicted with NHS betas
+Finally, we use five imputations to estimate the expected number of cases of breast cancer according to the NHS model stratifying the CTS participants by decile of risk. As shown in Table 7, the observed count was slightly lower than the predicted case count. Poisson regression across all women allows estimation of the adjustment factor (a) = -0.048, s.e. (a) = 0.027, p = 0.074. Overall the model fit is not significantly different from SEER, O/E = 0.96 a 4 % underestimate. Thus applying the NHS model with its rich use of exposure across the life course for established breast cancer risk factors, and accounting for the risk factor profile of individual women in the CTS, we fully account for breast cancer incidence in this independent population.
+
+Discussion
+We identified an independent large data set with 1,400 incident invasive breast cancer cases, that allowed evaluation of a breast cancer incidence risk prediction models using a common definition of incident invasive breast cancer, over common time periods, and age groups. Age-standardized breast cancer incidence in the CTS was significantly higher than in NHS. Overall performance of the Rosner-Colditz log-incidence model shows AUC consistent with performance in the original NHS, supporting external validity of the model. In the external validation data set the model outperformed the Gail model by 3-5 % for differing age groups and follow-up intervals based on the AUC. Although adaptations had to be made using only baseline data, this approach is comparable to using the tool in clinical practice to predict risk and stratify women to guide prevention interventions. Assessment of the lack of updating but use of imputed duration of hormone use among postmenopausal women showed modest attenuation over a 5-year follow-up interval in the NHS. Calibration against SEER showed good performance and close agreement of predicted with observed incidence.
+General issues on validating
+Data availability on key reproductive variables including age at first birth, age at each birth, menopause and type of menopause, as well as history of biopsy confirmed BBD and family history of breast cancer, height, weight, and history of alcohol intake supported use of a common model in comparable data that had been collected with similar methods and would reflect approaches in clinical and epidemiologic practice. Because HT modifies risk of breast cancer, imputing future use among current users was necessary as the CTS does not update data every 2 years as NHS does, and in clinical practice future use is unknown but is important for risk prediction. Summary imputation models are provided that may be of use for clinical application in other settings where future use of hormones will be estimated given past history ascertained at a clinic visit without any updating going forward. As seen in Tables 8 and 9 the imputation performed well in terms of ever use (c statistic 0.87) and duration of use of estrogen alone and estrogen plus progestin. Assessment indicates such imputation is robust for 5 years, though predictive performance may attenuate over longer follow-up or prediction time intervals.
+To fit the Gail model we used a common approach in both cohorts and used family history positive without the added detail of more than one relative. An extremely small fraction of all cohort members have more than one relative with breast cancer, limiting the impact of this truncation of data.
+Review of evidence shows many models of breast cancer incidence have been developed, but few are validated, and perhaps even fewer evaluated for performance in clinical settings. This applies more broadly than just breast or other cancer prediction--with limited validation and evaluation of clinical impact of prediction models on disease outcomes. For breast cancer, Meads [10] show the range of variables included is substantial with many models not including menopause, type of menopause, or use of postmenopausal HT, or alcohol intake. Other than the Rosner-Colditz model based on NHS data, only Boyle includes alcohol [21], a known carcinogen for breast cancer [17], and age at menopause is only included by Rosner-Colditz and Tyrer [22]. Parity and BMI are more broadly included across models [10]. The most complete of the 17 models summarized by Meads is the Rosner-Colditz model with external validity now established in this independent data set. Several models were assessed for performance by Amir et al. [23] in a UK population of 4,536 women attending a "family history and hereditary screening programme", among whom 52 developed breast cancer. The Tyrer-Cuzick model [22] had the best performance based on c statistic, though the O/E performance was at the level of 0.8 for this model compared to 0.9 for Gail [23]. While Amir and Tyrer-Cuzick have been evaluated in high-risk populations where they are likely to perform better, such a comparison in the general population has not been reported.
+For CHD on the other hand, Van Dieren et al. [24] review evidence on model development and evaluation--45 prediction models reported in the literature, 12 specific for patients with diabetes; 31 % validated in independent population of diabetics, and only one evaluated in clinic for its effect on patient management.
+Calibration
+While age-standardized incidence rates differ between NHS and CTS the coefficients for risk factors when fitted to the Rosner-Colditz breast cancer incidence model are quite comparable and evaluation of predicted incidence in the calibration analysis shows no significant deviation from SEER incidence, with O/E of 0.96. The range of incidence expected in the SEER calibration study reveals approximately fourfold difference in expected values between lowest and highest decile. This is a non-trivial spread in risk across deciles and is evaluated by the Poisson regression to assess trend in difference between O and E over deciles of risk. The observed lower incidence in NHS may reflect cohort follow-up procedures that do not fully capture incident breast cancers as efficiently as the surveillance through the state tumor registry in California, a state with historically low out migration. As all women should have access to Medicare after age 65, differential screening and access to care should not be an issue when comparing these two cohorts.
+Future issues
+Future applications in routine clinical settings will add further modeling issues. For example, as approximately one-third of women report hysterectomy in the United States and because age at menopause is an important risk factor in our model, we will need to impute estimated age at menopause among women with hysterectomy before menopause. We have previously derived an algorithm for use in this setting [25]. Other missing data will also need to be addressed, likely using NHANES data as has been implemented in clinical applications of a risk model for progression of age-related macular degeneration using demographic, genetic, environmental, and ocular factors [26]. Other clinical application data come from the United Kingdom where Evans and colleagues have collected breast risk data in a routine breast screening setting, and report evaluation of the Tyrer and Cuzick breast risk model at the level of distributions of 10-year risk and also assess SNPs in a subset of women. Approximately 34 % of women attending breast screening enrolled and risk estimates were returned to those with 10-year risk above 8 % (107 women). Performance assessment of the tool is ongoing in this routine mammography setting [27]. The breast cancer surveillance consortium generated a risk prediction model among more than 1 million women undergoing mammography [28]. They began with age, race, ethnicity, and breast density (measure with BI-RADS) and adjusted estimates of family history and history of breast biopsy. The model was developed in 60 % of the population and validated in the remaining 40 %, and is well calibrated, though it does not include any reproductive or lifestyle predictors of breast cancer. While these two examples indicate that risk factors and prediction can be incorporated into mammography services, issues of missing data and real time estimation of risk have yet to be addressed, and the impact of risk presentation on clinical decision making and outcomes of care has not been evaluated.
+
+Conclusion
+Through validation in an independent data set, we have shown that the Rosner-Colditz model performs consistently when applied in that independent setting. Performance is stronger predicting incidence among women 47-69 years and over a 5-year time interval. AUC values are significantly higher than the Gail model in the independent validation data set, and may be further improved with addition of breast density or other markers of risk beyond the current model. Further refinement may be needed to handle missing data in routine clinical settings.

@@ -1,0 +1,195 @@
+[Abstract, Methods, Results, Discussion]
+
+Germline BRCA1 mutations increase prostate cancer risk. Background: Prostate cancer (PrCa) is one of the most common cancers affecting men but its aetiology is poorly understood. Family history of PrCa, particularly at a young age, is a strong risk factor. There have been previous reports of increased PrCa risk in male BRCA1 mutation carriers in female breast cancer families, but there is a controversy as to whether this risk is substantiated. We sought to evaluate the role of germline BRCA1 mutations in PrCa predisposition by performing a candidate gene study in a large UK population sample set.   Methods: We screened 913 cases aged 36-86 years for germline BRCA1 mutation, with the study enriched for cases with an early age of onset. We analysed the entire coding region of the BRCA1 gene using Sanger sequencing. Multiplex ligation-dependent probe amplification was also used to assess the frequency of large rearrangements in 460 cases.   Results: We identified 4 deleterious mutations and 45 unclassified variants (UV). The frequency of deleterious BRCA1 mutation in this study is 0.45% three of the mutation carriers were affected at age 65 years and one developed PrCa at 69 years. Using previously estimated population carrier frequencies, deleterious BRCA1 mutations confer a relative risk of PrCa of ~3.75-fold, (95% confidence interval 1.02-9.6) translating to a 8.6% cumulative risk by age 65.   Conclusion This study shows evidence for an increased risk of PrCa in men who harbour germline mutations in BRCA1. This could have a significant impact on possible screening strategies and targeted treatments.
+
+Materials and methods
+Samples
+A series of men with PrCa were recruited from the UK Genetic Prostate Cancer
+Study (UKGPCS) as reported previously (Eeles et
+al, 1997). The majority (546, 83.4%) of
+patients with a known diagnosis method (655/913) had clinically
+presenting (not prostate-specific antigen (PSA) screened) disease. Case
+selection for this study was based primarily on age at diagnosis of 65
+years (821 cases; age range 36-65 years); with a further cohort aged
+>65 years (92 cases; age range 66-88 years) with a family history
+of one or more first-degree relatives with PrCa (Table
+1).
+Mutation detection
+Germline DNA was obtained from peripheral blood samples and extracted as
+reported previously (Edwards et al,
+1997). A total of 29 primer pairs were designed using primer3
+and exonprimer (Rozen and Skaletsky, 2000;
+http://ihg.gsf.de/ihg/ExonPrimer.html) to cover all exons,
+intron/exon junctions, proximal promoter and exon 1a/b region of the
+full-length NM_007294.3 mRNA transcript; primer sequences available
+on request. Using Qiagen multiplex PCR kit 206145 (Qiagen, Hilden, Germany),
+the 29 primer pairs were grouped into four multiplexs (3 x 7
+multiplexes and 1 x 6 multiplex) and two singleton reactions. The
+amplicons were sequenced on an ABI3730 Genetic Analyzer using a 1/16th
+BigDye v3 protocol (Applied Biosystems, Foster City, CA, USA). Deleterious
+mutations were confirmed by Sanger sequencing using a different aliquot from
+stock DNA of each sample. Multiplex ligation-dependent probe amplification
+was performed on a subset of 460 samples using a modified protocol of the
+SALSA MLPA kit P002-C2 (MRC-Holland, Amsterdam, The Netherlands).
+Sequence analysis
+Mutation surveyor 3.97 (Softgenetics, State College, PA, USA) was used to
+analyse the sequencing data, using a region of interest covering
+500 bp of the near promoter exons 1-3, 5-24 and also
+including +-20 bp per exon to screen the intron/exon
+boundaries. Results were exported to Human Genome Variation Society
+nomenclature and converted to hg19 genomic coordinates using Mutalyzer 2.0
+b-8, (http://www.mutalyzer.nl/) to allow variant annotation using
+ANNOVAR (Wildeman et al, 2008;
+Wang et al, 2010). Variants were
+designated as 'novel' if they were not described in dbSNP132,
+Breast cancer Information Core (BIC) or the Leiden Open Variation Database
+as of July 2011 (Szabo et al, 2000;
+Sherry et al, 2001; Fokkema et al, 2011).
+Statistical methods
+Estimates for BRCA1 prevalence in the general population were
+derived from a study where a large population series and a set of high-risk
+breast cancer families from the United Kingdom were analysed incorporating
+the effect of BRCA1, BRAC2 and other genes to account for residual family
+history (Antoniou et al, 2002).
+Confidence intervals for the prevalence of BRCA1 mutations among
+PrCa cases and hence the CIs on RR were computed using an exact binomial
+procedure. Age-specific cumulative risks of PrCa to age 65 in BRCA1
+mutation carriers were computed based on the RR estimated from this study
+and age-specific pooled incidence rates from five cancer registries in
+England for the year 2002 as reported in Ferlay et
+al (2007).
+
+Results
+We screened 913 PrCa cases for germline mutations in the BRCA1 gene
+using direct Sanger sequencing. After quality control (QC) exclusions, data from
+886 PrCa cases were analysed. We identified four deleterious mutations
+(0.45%), of which three were frameshifts and one was a splice site
+mutation (Table 2). A subset of the PrCa cases (460)
+was also screened for large-scale rearrangements (LGRs) using MLPA, none were
+found in our sample set.
+All four deleterious mutations had been previously recorded in BIC (http://research.nhgri.nih.gov/bic/). We also identified 45
+missense variants (10 novel), 15 synonymous substitutions (5 novel) and 6
+intronic variants (1 novel; Supplementary Table
+1). The majority of deleterious mutations occurred in PrCa cases
+<65 years (3 out of 4) and all mutations are within two distinct functional
+domains of BRCA1; mutations c.68_69delAG (A) and c.212+1G>T (B) in the
+N-terminus RING finger domain and c.1954dupA (C) and c.2475delC (D) in the large
+central DNA-binding domain (Figure 1).
+In addition we have also identified several missense unclassified variants (UV)
+and a deletion in the proximal promoter region, c.1-1462delC immediately
+3' of a CREB-binding site regulated by methylation (Mancini et al, 1998; Atlas et
+al, 2001; DiNardo et al,
+2001).
+The missense UVs identified were annotated by ANNOVAR against dbNSFP normalised
+(0-1) scores for SIFT, Polyphen2, LRT, MutationTaster and Phylop,
+(Chun and Fay, 2009; Kumar et al, 2009; Adzhubei et
+al, 2010; Pollard et al,
+2010; Schwarz et al, 2010;
+Liu et al, 2011). In addition, all
+non-synonymous SNPs were annotated with Align-GVGD (Mathe
+et al, 2006; Tavtigian et
+al, 2008). The intersection of UVs predicted to be
+'probably damaging' by both SIFT and Polyphen2 selects 13 of the 45
+UVs found in the study, of which 11 are in BIC and 2 are novel (Supplementary Table 1). Of the BIC annotated mutations
+three are classed as 'of no clinical significance', the rest as
+'of unknown significance', whereas 10 of these 13 variants have been
+classified as 'of no clinical significance' using multifactorial
+likelihood approaches (Vallee et al,
+2011). This leaves three variants, H279Q, M1400R and M1783T
+(Supplementary Table 2) with some potential
+to be deleterious, although only M1783T is situated in a known functional domain
+(BRCT repeat 2).
+Based on the previously estimated carrier frequency of BRCA1 mutations
+in the United Kingdom (which estimated the allele frequency of BRCA1
+mutation to be 0.006 corresponding to a carrier frequency of 0.0012
+(~1/1000), Antoniou et al, 2002)
+and the observed prevalence of BRCA1 mutations in our series of PrCa
+cases of 4/886 (0.45%), we estimate that germline mutations in the
+BRCA1 gene confer a RR of PrCa of ~3.75-fold, (95% CI
+1.02-9.6).
+
+Discussion
+This study utilised direct Sanger sequencing to screen the complete
+BRCA1 coding transcript (NM_007294.3) in 913 PrCa patients, the
+majority of whom were clinically detected (83.4% of cases for which the
+diagnosis method was reported). This is the largest direct sequencing study of
+BRCA1 reported so far in PrCa and therefore presents the most
+comprehensive assessment of the contribution of BRCA1 mutations to PrCa
+risk.
+After QC, 886 PrCa cases were included in our mutation analysis of the sequencing
+data and four pathogenic mutations were identified (0.45%). In the 460
+samples, which were also submitted for MLPA, no LGRs were identified.
+Of the four identified pathogenic mutations, c.68_69delAG (BIC 185delAG) is a
+well-known Ashkenazi-Jewish founder mutation (reported 1979 times in BIC), which
+has been extensively studied and has a frequency of ~1% in the
+general Ashkenazi-Jewish population. From the UK 2001 census, 266 740
+people (0.5% UK population) are recorded Jewish as their religion;
+however, this is believed to be an underestimate due to the non-counting of
+secular Ashkenazi-Jews and the self-reporting nature of this statistic. A recent
+meta-analysis on six Ashekenazi-Jewish studies of PrCa (3005 cases and 6834
+controls) by Fachal et al showed a non-statistically significant odds
+ratio 1.8 (95% CI 0.91-3.57; P=0.09) for this
+particular mutation (Fachal et al,
+2011). This correlates with the observation by Al-Mulla et al, 2009, where breast cancer patients with
+BRCA1-truncating mutations in exon 2 (28/30 mutations assessed
+were c.68_69delAG) had a significantly higher age of diagnosis compared with
+carriers of mutations in exons 11, 13 and 20, therefore suggesting
+protein-truncating mutations in exon 2 have a lower penetrance than would be
+expected in this gene. The c.68_69delAG mutation has also been found in the
+non-Ashkenazi-Jewish, Spanish and UK (Yorkshire) populations, with haplotype
+evidence for this mutation having arisen by independent mutational events in
+different populations (Neuhausen et al,
+1996; Fackenthal and Olopade,
+2007). Therefore, without detailed haplotype analysis it cannot be
+determined which ancestry is relevant in this study. The carrier of this
+mutation in our study was diagnosed with PrCa at 58 years and following
+treatment had 12 years disease-free survival.
+The c.212+1G>T (BIC IVS5+1G>T) mutation disrupts the splice donor
+site, allowing read-through into the intron and termination of transcription at
+codon 64. This mutation has also been observed in a Spanish breast cancer study
+in a family with breast and bladder cancers (Diez et
+al, 2010). The patient with this mutation was diagnosed
+at 57 years and survived for only 3 years after diagnosis; he also has a close
+relative who was diagnosed with bladder cancer.
+The c.1954dupA (BIC 2080insA) mutation is a frame-shift causing insertion,
+resulting in termination of transcription at codon 672 and has been reported as
+a Pakistani founder mutation (Liede et al,
+2002).
+The c.2475delC mutation (BIC 2594delC) is a frame-shift deletion, resulting in
+termination at codon 845. This mutation appears to be a
+Scandinavian/Northern European founder mutation from the ethnicity of the
+study samples recorded in BIC and in two Scandinavian studies (Johannsson et al, 1996; Thomassen et al, 2008).
+The incidence of truncating BRCA1 mutations in this study for PrCa cases
+diagnosed at 65 years (3/802) is 0.37%, and 0.45% in all
+cases (4/886). Of the four pathogenic mutations identified, only one patient
+had a family history of PrCa (father, age unavailable), one patient had a family
+history of bladder cancer (brother, age unavailable) and two patients were from
+families with first-degree relatives with breast or ovarian cancer (details in
+Table 2). The small number of mutation carriers
+does not allow the statistical evaluation of the tumour characteristics in this
+study; however, we have conducted a clinical assessment of a much larger set of
+BRCA1 and BRCA2 mutation carriers and non-carrier PrCa
+cases, which indicates that both BRCA1 and BRCA2 mutations
+confer a more aggressive PrCa phenotype (Castro et al, submitted).
+Based on the previously estimated carrier frequency of BRCA1 mutations
+in the United Kingdom, we estimate that germline mutations in the BRCA1
+gene confer a RR of PrCa of ~3.7-fold and this translates to an 8.6%
+cumulative risk by the age of 65 years. Other studies have estimated higher
+frequencies of BRCA1 mutation prevalence but these did not allow for
+the presence of other genetic effects (Whittemore et
+al, 2004). It is important to emphasise that in addition
+to the population frequency of BRCA1 mutations various other factors
+could influence the estimates of RR. Also, if one or more of the missense
+changes (UVs) were pathogenic, the risk estimates would be higher. On balance
+our estimate of ~3.7-fold increased risk for BRCA1 mutation
+carriers is accurate based on incidence rates in the United Kingdom. Several
+studies addressed the estimation of PrCa risk by modelling and incorporating
+various factors such as PSA level (Thompson et al,
+2006) or the recently discovered common genetic variants found by
+GWAS (Macinnis et al, 2011). This latest
+model also has the capacity to incorporate clinical information and effect of
+rare genes once this becomes available.
+These results suggest that routine testing of early onset PrCa cases for germline
+BRCA1 mutations would further help to refine the prevalence and
+risk associated with BRCA1 mutations and may be useful for guiding
+management options.

@@ -1,0 +1,207 @@
+[Abstract, Mixed, Discussion, Mixed]
+
+Radiosensitization in prostate cancer: mechanisms and targets. Prostate cancer is the second most commonly diagnosed cancer in American men over the age of 45 years and is the third most common cause of cancer related deaths in American men. In 2012 it is estimated that 241,740 men will be diagnosed with prostate cancer and 28,170 men will succumb to prostate cancer. Currently, radiation therapy is one of the most common definitive treatment options for localized prostate cancer. However, significant number of patients undergoing radiation therapy will develop locally persistent/recurrent tumours. The varying response rates to radiation may be due to 1) tumor microenvironment, 2) tumor stage/grade, 3) modality used to deliver radiation, and 4) dose of radiation. Higher doses of radiation has not always proved to be effective and have been associated with increased morbidity. Compounds designed to enhance the killing effects of radiation, radiosensitizers, have been extensively investigated over the past decade. The development of radiosensitizing agents could improve survival, improve quality of life and reduce costs, thus benefiting both patients and healthcare systems. Herin, we shall review the role and mechanisms of various agents that can sensitize tumours, specifically prostate cancer.
+
+Review
+Introduction
+In 2012 it is estimated that 241,740 men will be diagnosed with prostate cancer and 28,170 men will succumb to prostate cancer
+[1]. The lifetime risk of being diagnosed with prostate cancer is 1 in 6
+[2]. Prostate cancer is the second most commonly diagnosed cancer in American men over the age of 45 years and is the third most common cause of cancer related deaths in American men
+[1,3]. The majority of men with newly diagnosed localized prostate cancer may be eligible for active surveillance, surgery (prostatectomy or cryoablation), or radiation therapy (external beam or brachytherapy) either alone or in combination with androgen deprivation therapy. This review will focus on radiation therapy, which is a common treatment option for localized prostate cancer. Radiation therapies, external beam, proton beam, and interstitial brachytherapy, are becoming increasingly in demand by patients
+[4,5] as a means to avoid major surgery and the side effects and convalescence associated with surgery
+[6].
+Radiation therapy in prostate cancer is by no means innocuous and is associated with urinary and bowel side effects. Furthermore, it has been reported that based on the clinical presentation of the cancer, only 33-66% of patients undergoing radiation therapy are disease-free five years after the initial procedure, this includes more contemporary series addressing dose escalation (i.e., >=78 Gy)
+[7-12]. The varying response rates to radiation may be due to 1) modality used to deliver radiation, 2) dose of radiation, 3) tumor stage/grade, 4) confounding medical co-morbidities and 4) intrinsic microenvironment of the tumor. Herein, we will discuss the intrinsic microenvironment of tumors and how radiosensitizing agents (i.e., drugs that can enhance the effectiveness of radiation, kill to the target tissue) may be used to improve the efficacy of radiation therapy
+[13].
+Cellular effects of ionizing radiation
+To understand the mechanism and role of various radiosensitizing agents, it is important to review briefly the cellular response to radiation. Radiation is clinically administered either by an external source, linear accelerator, directed toward the tumor or an internal source, radioactive decay from within the tumor
+[13]. Five mechanisms have been described to explain the way radiation interacts with matter, including coherent scattering, the photoelectric effect, the Compton effect, the pair production, and the photodisintegration
+[14]. However, the Compton effect is widely viewed as the mode of interaction most relevant for the range of energies used in clinical radiation therapy. In the Compton effect, the observed biologic effect results from photons creating multiple ionizations by ejection of electrons from the target biomolecule
+[15]. In this regard, the extent of biologic effects in cells after exposure to ionized radiation is largely due to oxygen with the subsequent production of free radicals. These free radicals can break chemical bonds present in critical cell structures and molecules, namely cellular DNA.
+DNA is by far the critical target for the biologic effects of radiation. Cell death is strongly associated with the extent of DNA damage
+[16,17] with radiosensitivity being more pronounced in cells that cannot effectively repair DNA damage
+[18-20]. Furthermore, cell death occurs at a higher rate when radiation is focused on the nucleus as opposed to the cytoplasm
+[21-23]. Disruption of DNA takes place via both direct and indirect effect of radiation. Taking into account the size of the cell and the small amount of DNA in the cell, most of the damage occurs indirectly
+[24]. This means that the photons of radiation are less likely to directly damage the DNA, but more likely to ionize surrounding molecules, which subsequently destabilize nucleic acids
+[25]. The mechanism behind oxygen radiosensitizing is related to this process of indirect damage (Figure
+1). The presence of oxygen in irradiated tissues prevents repair of free radical-induced damage by forming irreversible peroxides in the fractured molecules. This process is sometimes called "fixing" the radiation
+[26]. Many types of damage to DNA molecules, dimers, adducts, oxidative base damage, intra- and intercross-links, DNA-protein cross-links, single- and double-strand breaks can be detected after radiation exposure.
+Figure 1
+Cellular Effects of Ionizing Radiation. Photons of radiation produce direct DNA damage, but it is less likely than indirect damage, where photons eject electrons from target biomolecules in the cytoplasm, creating multiple ionizations, especially in oxygen compounds and producing free radicals, which break DNA.
+According to the Compton effect, multiple ionizations are created and this leads to multiple free radical formation
+[13,15]. It is believed that these radicals are produced in clusters and in discrete areas. Thus, it is thought that the multiple broken bonds and subsequent nucleic acids damage are likely to be clustered as well. Often, the term "locally multiply damaged site" is used to refer to this phenomenon
+[27]. It has been suggested that clustered DNA damage is critical to clinically significant effects
+[27,28]. These effects truly depend on the cellular response following a radiation insult, including the ability to repair DNA damage and to activate survival mechanisms.
+Cellular detection of DNA damage
+Shortly after exposure to ionizing radiation, a signal is transmitted to the regulators of the cell cycle machinery and the sensors of DNA damage. Cells with damaged DNA undergo G2/M cell cycle arrest (Figure
+2). During this cell cycle arrest, the cells can either 1) repair and proceed through the cell cycle, 2) not repair and stay arrested, or 3) not repair and undergo apoptosis
+[29]. Cells under hypoxic conditions (i.e., unable to generate free radicals) show much less sensitivity to radiation as opposed to well oxygenated cells
+[30]. It then becomes intuitive that radiation effects are directly related with blood flow and oxygen concentration of the target tissue
+[31].
+Figure 2
+G2/M Arrest after Ionizing Radiation DNA Damage. Activation of ATM and ATR by DNA damage produces G2 arrest. Once DNA is repaired Cdc25c is inactivated which stimulates Cdc2 and enhances cell entry into mitosis by Cyclin B.
+Several mechanisms have been proposed for the cascade leading to the cellular recognition of a radiation insult. Rad17-RFC, 9-1-1, and MRN complexes are three families of proteins that have been implicated in the initial sensing of DNA damage
+[32-35]. The Rad17-RFC complex is composed of the protein Rad17 and four subunits of replication factor C (Rfc2, Rfc3, Rfc4, Rfc5)
+[33]. The 9-1-1 complex consists of proteins Rad9, Rad1, and Hus1
+[34]. This complex is thought to be more involved in single-strand DNA damage
+[36]. The MRN complex consists of proteins Mre11, Rad50, and Nbs1, and it is thought to be more specific to double-strand DNA damage and homologous repair
+[35,37]. These complexes are able to dock on fractured DNA or near the site of damaged DNA and transmit signals downstream to the transducers, which are members of the phosphoinositide 3-kinaserelated kinase such as ATM (ataxia-telangiectesia mutated protein) and ATR
+[32].
+While ATM and ATR have some overlapping activities, they are activated by separate signals and by different types of DNA damage
+[38,39]. In this regard, ATM is more the central orchestrator of the cascade. In addition, some evidence implicates ATM/ATR as being involved in the initial sensing of DNA damage
+[40,41]. When ATM and ATR are activated, they relay the signal to various downstream effectors that mediate cell cycle arrest, DNA repair, and apoptosis. The specific effectors will be discussed according to the cellular response.
+Cell cycle arrest
+Progression through the cell cycle is carefully coordinated by a series of events that culminate in DNA synthesis and cellular division. The control of multiplication relies on accelerating and braking mechanisms, which act on driving the cell cycle leading to mitosis. There are many checkpoints throughout the cell cycle that can prevent important cycle transitions until the integrity of the DNA is ensured
+[42-45]. Cells respond to ionizing radiation is variable, depending on when the cell is exposed to radiation in its cell cycle. Cells are extremely sensitive to radiation during mitosis in which there is no DNA repair
+[46-49].
+DNA damage can activate multiple pathways that eventually lead to G1 arrest. When ATM is activated, it transduces signals to some key effector molecules. ATM stabilizes p53 by phosphorylating its serine-15, whereas it also adds a phosphate group on serine 395 of MDM2
+[50]. In this context, phosphorylation of MDM2 prevents p53-MDM2 nuclear export and degradation of p53
+[32,50]. ATM is also known to phosphorylate Chk2, which subsequently phosphorylates p53 on serine 20
+[51]. This extra phosphorylation further prevents interaction of p53 and MDM2. At this point, the net result is more available nuclear p53, which is free to activate p21, a major inhibitor of the cyclin E-CDK2 complex
+[52]. This inhibited complex is important for G1 transition because it normally phosphorylates pRb and leads to the subsequent release of E2F
+[53,54]. ATM is also the coordinator of a p53/p21 independent G1 arrest pathway. When ATM activates Chk2, this kinase phosphorylates cdc25A, which is primed for ubiquination and subsequent degradation
+[55]. This is significant because cdc25A is a phosphatase that removes inhibitory phosphates from CDK2 and CDK4, which both are important for G1 phase progression molecules
+[32]. During the G1 phase, irradiated cells have been shown to be radioresistant, but their radiosensitivity increases at the end of this phase
+[56,57].
+The most radioresistant phase of the cell cycle is the S phase, when cellular DNA is replicating
+[58,59]. During this phase, numerous nuclear machineries are available to repair and confirm the integrity of the DNA. However, if double-strand DNA damage occurs it can retard the replication of DNA and thus halt further DNA synthesis. ATM is again the key protein involved in this checkpoint
+[60,61]. The main pathway involves facilitating the degradation of the phosphatase cdc25A. This phosphatase activity is crucial for the function of cyclin E/A-CDK2 complexes, which oversee progression through the S-phase.
+Finally and most commonly, irradiated cells can be blocked in the G2/M phase, which post mitosis is the next most sensitive phase in the cell cycle. Multiple pathways are involved for this arrest, and the complete details are not yet known
+[32]. However, the final step in this pathway is deactivation of the cyclin B-CDK1 complex, which orchestrates the G2/M transition
+[62,63]. As with the pathways discussed above, activation or deactivation of the CDK1 complex is determined by the specific site of phosphorylation. The ATM/CDC25A pathway is also important here because cdc25A is an activator of cyclin B-CDK1 complex
+[64]. Through p53, ATM activates p21, which is an inhibitor of an activator of CDK1, namely CAK (CDK activating kinase)
+[61].
+DNA repair
+As described above, irradiated cells sense DNA damage, which eventually activates the mechanism for DNA repair. Various repair processes are activated according to the lesion types, with double-strand breaks being the most lethal lesion to the cell as opposed to single-strand breaks
+[65]. Repair of these lesions can be done either through homologous recombination (HR) or non-homologous end-joining (NHEJ)
+[66]. In the former, either the intact chromosome or the sister chromatid serve as a template to reconstruct the missing DNA. HR is most effective in late S or G2 phase, when the sister chromatids have replicated but still attached
+[65]. NHEJ is more important in G1 and early S phase, but it essentially occurs throughout the cell cycle
+[66].
+Following exposure to ionizing radiation, histone H2AX becomes phosphorylated via the ATM protein
+[67,68], resulting in a sharp accumulation of 53BP1 protein. This protein is involved in phosphorylating the tumor suppressor molecule p53, activating proteins essential for DNA repair, and inducing G2 checkpoint block
+[69-71]. Thus, G2 checkpoint induced by radiation, possibly via 53BP1, have more allocated time for repair and to escape death. G1 phase arrest also allocates more time for repair of DNA damage sustained prior to DNA synthesis.
+The interval between delivered doses of radiation is very critical in the ability to effectively prevent target cells from DNA repair. It has been shown that the ability of the cell to repair DNA damage is inversely related to the dose of radiation
+[13]. Two doses separated in time are less cytotoxic than the sum of the two doses given at a single time, thus the benefit of hypofractionation. In addition, the more closely the two doses are applied in time, the more the resulting effects are similar to those of a large single dose. Thus, sublethal radiation tends to cause minimal DNA damage, which is then more likely to be repaired successfully
+[13,72,73].
+Cell death
+The ultimate desired response of a cell to clinical ionizing radiation is cell death. DNA repair and cell survival are possible if the cell is exposed only to sublethal radiation dose with minimal alterations. If the limits of reparative response are exceeded, the damage is irreversible and the net result is cell death
+[74]. Radiation damage can activate signaling cascades that lead to programmed cell death or apoptosis
+[13,74]. The irradiated cell can exit permanently the cell cycle and undergo terminal differentiation. In this terminal pathway, the cell can no longer cycle and proliferate
+[75-77]. In other cases, the DNA damaged cell can die as it attempts to undergo mitosis, a process known as "mitotic catastrophe"
+[75].
+Radiation-associated prostate cancer cell gene expression
+In prostate cancer cells, molecular events leading to the changes in cell cycle progression and cell survival are altered following exposure to ionizing radiation. For example, it has been shown that expression of key proteins associated with proliferation, Ki-67, and apoptosis, Bcl-2 and Bax, are dramatically altered in prostate cancer tumors following radiotherapy
+[78-80]. Compared to pretreatment tumors, locally recurrent prostate cancers after radiation treatment were associated with overexpression of p53 and Bcl-2
+[79,81-86]. Furthermore, the overexpression of these proteins may lead to radiotherapy failure, suggesting these cellular proteins may play a part in the cellular process conferring radiation resistance.
+Radiosensitizers in prostate cancer
+Understanding how cancer cells respond to ionizing radiation has enhanced the understanding of the molecular basis of radiation resistance. This in turn has led to breakthroughs in the development of strategies for increasing radiosensitivity, as well as improving the therapeutic index of radiation therapy in prostate cancer patients.
+Radiation sensitization targets
+Below is a brief review of radiation sensitization targets of interest in prostate cancer and some of the preclinical data associated with targeting these molecules (Table
+1).
+p53/MDM2
+p53 expression and function in tumor cell has an important role in the cellular response to DNA damage, facilitating cell cycle arrest, and death
+[87]. While overexpression of p53 is associated with local recurrence of prostate cancer post-radiation, p53 gene transfer has been studied as an option to increase radiosensitivity
+[88]. It has been shown that combining ionizing radiation and adenoviral p53 gene therapy can induce human prostate cancer cells DU145 (p53-mutated) and PC-3 (p53-null) to be more radiosensitive
+[89]. Furthermore, with combination therapy, the number of apoptotic cells increased 7-fold in DU145 cells and 2-fold in PC-3 cells
+[89]. Radiosensitization of prostate cancer cells with adenoviral p53 gene therapy was independent of the status of p53, as the sensitization is seen in both the p53 (wild-type) human prostate cancer cell LNCaP and p53 (null) PC-3 lines
+[90]. In addition, in vivo adenovirus-mediated p53 gene therapy acts synergistically with ionizing radiation to reduce LNCaP xenograft tumor growth
+[91].
+Mk-1775, a Wee1 kinase inhibitor has been reported to radiosensitized p53-defective human tumor cells, including PC-3 prostate cancer cells. The inhibition of Wee1 kinase produce abrogation of G2 checkpoint and as p53-defective cells cannot proceed through G1 checkpoint for repair and thus they pass directly to mitosis with DNA lesions, causing mitotic death, not apoptosis
+[92]. Poly (ADP-ribose) polymerase-1 (PARP1) is essential for DNA repair processes
+[93] but hyperactivation of PARP1 causes NAD and ATP depletions, leading in m-calpain activation, a unique caspase-independent programmed cell death
+[94]. Aurora kinases are involved with cell cycle progression and regulating mitotic spindles during cell division. Of these kinases, Aurora A regulates the timing of mitotic entry and the formation of polar spindles to ensure accurate chromosome segregation. However when overexpressed, Aurora A can cause centrosome multiplication and aneuploidy, leading to carcinogenesis
+[95]. Furthermore, Aurora A may override the cellular machinery to arrest the development of abnormal cells, contributing to the development of radiation resistant tumors
+[96]. Preclinical studies of MLN8054, a specific Aurora A inhibitor that prevents phosphorylation of Thr-288, demonstrated radiosensitization in PC-3 and DU145 by enhancing DNA damage and diminishing DNA repair. Additionally when used in xenograft tumors, MLN8054 significantly reduced tumor growth, reduced tumoral angiogenesis and increased tumoral apoptotic potential
+[95].
+MDM2, an antagonist to p53, is a key protein in the cell cycle regulation and the response of cells to ionizing radiation. MDM2 is overexpressed in many tumors including prostate cancer, and it is associated with radiation resistance. It has been shown that antisense oligonucleotides that target MDM2 can render prostate cancer cells more vulnerable to ionizing radiation independent of the p53 status, both in vitro and in vivo[97-99]. The MDM2 antisense oligonucleotide increased radiation-induced inhibitory effects on tumor growth in SCID or nude mice with LNCaP, PC3, as well as other xenografts
+[99].
+PTEN/Akt
+The PTEN gene codes for a phosphatase in the phosphatidylinositol 3'-kinase (PI3'K)-mediated signal transduction pathway. PTEN can block pathways of proliferation and can induce apoptosis via the suppression of Akt, a serine-threonine kinase
+[100]. PTEN gene therapy in PC-3 cells (PTEN deleted, up-regulation of phosphorylated Akt) led to a significant decrease in cellular growth
+[101]. It has been further demonstrated that transfection of LNCaP prostate cells with the PTEN gene resulted in Bcl-2 downregulation
+[102]. Given that Bcl-2 is associated with prostate cancer cell radiation resistance
+[103-105] and that PTEN has tumor suppressor properties, PTEN gene therapy has been studied as a radiosensitizer. In fact, forced expression of PTEN in prostate cancer cells sensitizes cells to radiation and downregulated Bcl-2 expression in two prostate cancer cell lines that over express Bcl-2, PC-3-Bcl-2 and LNCaP. Furthermore, forced overexpression of PTEN in these prostate cancer cells potentiated a G2/M cell cycle arrest. These effects were not evident in prostate cancer cells that did not overexpress Bcl-2
+[106].
+Bax/Bcl2
+Stable transfection of Bcl-2 into PC-3 prostate cancer cell line rendered these cells more radiation resistant than the parent PC-3 cells
+[107]. In this regard, the anti-apoptotic gene Bcl-2 is associated with resistance to radiation, or at least is associated with delay of radiation-induced apoptosis in human prostate cancer cells
+[107]. Studies have focused on re-establishing a balance between the Bcl-2 family members in achieving radiosensitization. For example, some studies focused on selective overexpression of the pro-apoptotic gene Bax directed. Regardless of the levels of Bcl-2 protein, Bax gene therapy led to programmed-cell death
+[108]. Furthermore, PAR-4, another pro-apoptotic protein, is a potent modulator of NF kappa b activity and Bcl-2 protein expression. It has been found that forced over-expression of PAR-4 increases radiosensitivity in human prostate cancer cells
+[105]. Furthermore, Oblimersen, a phosphorothioate antisense oligonucleotide complimentary to the Bcl-2 mRNA, has being used as an inhibitor of Bcl-2 expression to enhance the therapeutic effect of radiation therapy
+[106].
+COX-2
+Cyclooxygenase-2 (COX-2) is involved in many processes such as inflammation, proliferation, angiogenesis, carcinogenesis, and apoptosis. When overexpressed in cancer, it is associated with more aggressive biologic behavior and poor prognosis
+[109]. It has been reported that TNF-induced cell death and CD95-triggered apoptosis are enhanced by selective COX-2 inhibitors in previously apoptotic resistant cell lines
+[110]. COX-2 is constitutively expressed in both androgen-responsive LNCaP and androgen-nonresponsive PC-3 cells. The apoptotic activity of the COX-2 inhibitor, celecoxib, was studied in these prostate cancer cells. Celecoxib induces apoptosis in both cell lines. However, normal human prostate epithelial cells have low levels of COX-2, and thus do not undergo apoptosis with celecoxib
+[111]. In addition, celecoxib sensitized PC-3, DU145, and LNCaP prostate cancer cells to the killing effects of radiation
+[112]. Currently there is also in vivo evidence showing that celecoxib enhances tumor response to radiation in A431 human tumor xenografts in nude mice
+[113-115]. Thus with expression of COX-2 associated with radiation resistance and tumor aggressiveness, reduction of COX-2 expression noted to sensitize cells to radiation.
+Others
+ATM is another key protein, discussed earlier, which is central in coordinating the cellular response to ionizing radiation. When PC-3 (p53-mutant) cells become infected with adenoviral vectors expressing antisense ATM RNA, their sensitivity to ionizing radiation was enhanced
+[116].
+Other researchers are looking at transfecting adenoviruses that selectively replicate in prostate tumor cells
+[117]. The oncolytic adenovirus CG7870 has tumor-specific promoters driving the expression of E1A and E1B proteins. In vitro, combination of the adenovirus and radiation are synergistic at lower doses of radiation. In vivo, combination of CG7870 with radiation therapy significantly increased antitumor efficacy compared to either therapy alone
+[117]. Similarly in vitro and in vivo radiation sensitizing results were evident with the oncolytic adenovirus CV706
+[118]. Another known aggressive phenotype of human prostate cancer is the overexpression of vascular endothelial growth factor (VEGF) and its cognate soluble receptor KDR
+[119]. The soluble receptor binds to VEGF and prevents its binding to its cellular receptor, while sKDR gene delivery to prostate cancer cells increased their sensitivity to ionizing radiation
+[120]. Furthermore, caspase-1 is a key protein involving the apoptotic pathway in prostate cancer cells
+[121]. Transfectants with caspase-1 have increased sensitivity to ionizing radiation
+[122].
+The type 1 insulin-like growth factor receptor (IGF-1R) has been reported to be up-regulated in prostate cancer
+[123] and is speculated to play a role in cellular proliferation, cell cycle progression, and resistance to apoptosis
+[124]. Recently, the siRNA depletion of IGF-1R in DU145 and PC-3 cells has shown to enhanced sensitivity to radiation and as well as to DNA-damaging agents by inhibiting DNA double strand break repair
+[125,126], supporting the use of IGF-1R inhibitors with radiation therapy.
+The A Disintegrin and Metalloprotease (ADAM) genes have been reported to play a role in cellular behavior
+[127], in particular prostate carcinogenesis
+[128-130]. Inhibition of ADAM9 in C4-2 androgen independent metastatic human prostate cancer cells by siRNA knockdown resulted in increase E-cadherin and integrins leading to sensitization to radiation and chemotherapy
+[131].
+Signal transduction is involved in almost every important signaling pathway for cellular processes including the pathways for radiation resistance. Some molecular targets have therefore been identified for enhancing radiation effects. In one study, the radiosensitizing potential of a ribonucleotide reductase inhibitor, named Didox (DX; 3,4-Dihydroxybenzohydroxamic acid) was investigated in PC-3 cells. DX showed a significant radiosensitizing effect in p53 null prostate cancer cells by overcoming radiation induced NF kappa-b activity and Bcl-2 expression
+[132]. In many cancers, the proliferative phenotype is derived from enhanced activation of Ras, which is a critical protein whose overactivity is also associated with radiation resistance. In this context, blocking Ras activation with farnesyltransferase inhibitors enhanced radiosensitization of tumor cells that expressed activated Ras, in both in vitro studies and in xenograft models
+[133]. When treating prostate cancer cells with farnesyltransferase inhibitors, there was a reduction in the clonogenic survival of prostate cancer cells expressing oncogenic H-ras after irradiation
+[134].
+Another way of enhancing radiosensitivity is through inhibition of deacetylase inhibition. The histone deacetylase (HDAC) inhibitor suberoylanilide hydroxamic acid has broad range antitumor properties
+[135]. Combining suberoylanilide hydroxamic acid with exposure to ionizing radiation was found to enhance radiation-induced apoptosis in DU145
+[136]. Thus, the blocking of signal transduction involved in cell survival pathways is a crucial strategy for the development of radiosensitizers.
+Intraprostate neuroendocrine cells have been reported to participate in prostate cancer development, progression, and resistance to conventional therapy. One neuropeptide secreted by neuroendocrine cells is neurotensin, a ligand with a high affinity to neurotensin receptor 1 (NTR1), a receptor with known stimulatory activity in several human neoplastic tissues
+[137-139]. NTR1 is expressed in aggressive prostate cancer cells but not in normal prostate cells
+[140]. NTR1 enhances DNA synthesis, cell proliferation, and survival by increasing the expression of mitogen-activated protein kinase (MAPK), phosphoinositide-3-kinase (PI3K) activation and epidermal growth factor receptor (EGFR)
+[141]. In vitro and in vivo studies of irradiation and SR48692, a NTR1 selective receptor antagonist, have demonstrated a reduction in EGFR phosphorylation leading to increased rates of apoptosis and reduction in xenograft tumor burden
+[142].
+Naturally compounds with potential radiation sensitization
+Prostate cancer cells with the capacity for a more efficient repair, with a more robust cell cycle checkpoint activation and with decrease rates of apoptosis are better prepared to overcome the killing effects of radiation. Many natural compounds have been studied and reported to have significant antiproliferative and antitumorigenic effects on prostate cancer cells. There is also a trend to identify those that can potentiate the sensitivity of the cancer cells to radiation. Genistein, a naturally occurring isoflavonoid, has been reported to have potent antiproliferative effects on prostate cancer cells both in vitro and in vivo[143-146]. It is reported that genistein combined with radiation causes a significantly greater inhibition of primary tumor growth compared with genistein or radiation alone. The genistein combined with radiation is associated with a decrease in number of metastatic lymph nodes in a prostate cancer orthotopic model
+[146]. In DU145 cells, radiosensitivity was enhanced with even low concentrations of genistein
+[147]. Resveratrol (RSV), a natural polyphenol compound, was shown to enhance prostate cancer cell response to irradiation by 1) inhibiting activation of Akt, 2) enhancing activation of ATM and AMPK pathways, and 3) effecting pathways encompassing p53, p21, and p27, which are associated with early cell cycle arrest. Perturbation of these molecules result in an increase in radiation induced DNA damage and apoptosis
+[148]. DAB2IP is a member of GTPase-activating protein family inhibiting the Ras- mediated signal pathway and is often downregulated in prostate cancer, i.e., a potential tumor suppressor gene
+[149]. Loss of DAB2IP expression in prostate epithelia may lead to epithelial mesenchymal transition, which has a key role in the development of metastatic disease
+[150]. The loss of DAB2IP gene expression in prostate cancer cells produces an efficient DNA double-strand break repair, less cell cycle arrest and the development radiation resistance cells. Treatment with a Ras signaling pathway inhibitor, FTI-277, resulted in radiosensization of DAB2IP deficient PC-3 prostate cancer cells
+[151].
+Defects in the apoptosis machinery have been linked to tumors being resistance to current therapeutic interventions (e.g., radiation therapy)
+[152]. Thus manipulation of the apoptotic pathway could prove to be beneficial. Gossypol is a natural polyphenol product from cottonseed that has been shown to be an inhibitor of the anti-apoptotic molecules, Bcl-2 and Bcl-xL
+[153,154], molecules associated with radiation resistance. In conjunction with radiation, (-)-Gossypol has been reported to enhance the induction of apoptosis and inhibit the growth of PC-3 xenograft tumors
+[155]. Next, curcumin (diferuloylmethane) is a common spice found in Asian cuisine and is the critical component of turmeric (curcuma longa)
+[156]. Curcumin exhibits growth inhibitory effects in a broad range of tumors
+[157,158]. Furthermore in combination with radiation, curcumin enhanced both radiation-induced clonogenic inhibition and apoptosis in prostate cancer cells
+[159]. Embelin, a natural compound with pro-apoptotic effects, e.g., inhibiting X-linked inhibitor of apoptosis protein (XIAP) while stimulating TNFa and TNF-related apoptosis-inducing ligand (TRAIL), has been shown to enhance the therapeutic efficacy of radiation therapy in PC-3 cells both in vitro and in vivo[160]. Furthermore, Selenite, another naturally occurring compound, can inhibit cell growth and induces apoptosis through p53 Ser-15 phosphorylation and caspase-mediated pathway in LNCaP cells
+[161]. This antiproliferative effect is associated with a decrease in the Bcl-2/Bax expression ratio and a decrease in the ratio of GSH/GSSG (essentially an oxidative state) in LAPC-4 prostate cancer cells. Furthermore, both LAPC-4 and DU145 cells showed increased radiosensitivity when pre-treated with selenite
+[162].
+Oxidative stress leading to higher levels of reactive oxygen species (ROS) is a common hallmark of cancer cells, which can stimulate cellular proliferation and cause cellular injury. Parthenolide, a sesquiterpene lactone derived from the herbal medicine feverfew, has been reported to produce a selective radiosensitization in prostate cancer cells and not effect normal prostate epithelial cells by activation of NADPH oxidase, which is an important source of ROS in prostate cancer cells and by suppressing antioxidants agents. Furthermore, parthenolide decreases radiation-induced ROS in normal prostate epithelial cells, suggesting that the intracellular redox status maybe a way to achieve selective drug targeting
+[163].
+Hypoxia is a feature of many human tumors and has been implicated as an important biologically modulator of clinical behavior and treatment response in prostate cancer. Up-regulation of hypoxia-inducible factor (HIF) signaling has been reported to be an independent predictor of biochemical failure in prostate cancer patients treat with either surgery or radiotherapy
+[164]. Furthermore, a recent study of 247 patients with localized prostate cancer treated with high-dose external beam radiation therapy demonstrated that tumor hypoxia was associated with early biochemical relapse and local recurrence
+[165]. Thus an opportunity exists to alter the intratumoral balance of oxygen during radiation treatment in hopes of producing DNA damaging free radicals.
+Clinical trials of radiation sensitization targets
+With the deluge of targeted agents over the past decade, it is rather surprising that limited studies have been reported with these agents or any agent deemed to sensitize prostatic tumors to the effects of radiation therapy. Since 2000, only three such trials have been reported in the English literature (two using targeted agents, one using natural products). In a phase I/II study by Joensuu et al. daily administration of 250 mg of gefitinib given concurrently with three-dimensional conformal radiation therapy for patients with nonmetastatic prostate cancer was well tolerated. At a median follow-up of 38 months, 97% of patient biochemically had no evidence of tumor recurrence
+[166]. In a small phase II study of 18 patients with high-risk prostate cancer, patients were treated with maximum androgen blockade, bevacizumab (10 mg/kg every 2 week then 15 mg/kg every 3 week for 12 additional weeks) with concomitant radiation (77.9 Gy delivered by intensity modulated radiation therapy) to the prostate. The regimen was well tolerated with no increase in acute toxicities and a slight increase in late toxicities related to proctitis and cystitis
+[167]. In a small pilot study reported by Ahmad et al., 42 patients with prostate cancer were randomly assigned to receive 200 mg of soy isoflavone or placebo daily for six months beginning on the first day of radiation therapy. Total dose of radiation was 77.5 Gy. The authors did not comment on oncologic outcomes, but it was reported that the therapy was well tolerated and perhaps lessen adverse effects seen with radiation therapy
+[168].
+The importance of incorporating novel therapies in hopes of sensitizing prostatic tumors to radiation is best illustrated when ADT was combined with radiation therapy. Preclinical studies demonstrated that ADT could induce apoptosis and inhibit angiogenesis in addition to potentiating the effects of radiation therapy
+[169]. These preclinical studies subsequently were translated into a clinical therapeutic advantage in men with high-risk localized prostate cancer
+[170,171]. Fourteen trials using radiosensitizing agents are in progress or recently completed (Table
+2) in men with high-risk prostate cancer treated with radiation therapy. A more concerted effort must be made to bring promising targeted therapeutics to clinical trial in order to determine treatment efficacy.
+
+Conclusions
+Radiation therapy continues to be one of the more popular treatment options for the definitive treatment of localized prostate cancer. Recent research has helped understand and identify maximal tolerated radiation doses needed to treat prostate cancer. Thus, continuing to increase radiation doses may not show a clinical benefit and may be fraught with toxicity. Another way to improve the therapeutic efficacy of radiation is to sensitize the cells to the effects of radiation at current or even lower radiation doses. Different strategies are being pursued at this time to achieve these goals. Further development in this field will come as we gain more understanding of the cellular pathways leading to radiation resistance and how to best selectively block these pathways. Though limited clinical trials in prostate cancer patients support radiosensitizing agents, the field holds promise and should be aggressively explored further.
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+http://www.biomedcentral.com/1471-2490/13/4/prepub

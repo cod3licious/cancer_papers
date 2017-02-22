@@ -1,0 +1,770 @@
+[Abstract, Introduction, Methods, Methods, Methods, Discussion]
+
+Validation of various adaptive threshold methods of segmentation applied to follicular lymphoma digital images stained with 3,3'-Diaminobenzidine&Haematoxylin. The comparative study of the results of various segmentation methods for the digital images of the follicular lymphoma cancer tissue section is described in this paper. The sensitivity and specificity and some other parameters of the following adaptive threshold methods of segmentation: the Niblack method, the Sauvola method, the White method, the Bernsen method, the Yasuda method and the Palumbo method, are calculated. Methods are applied to three types of images constructed by extraction of the brown colour information from the artificial images synthesized based on counterpart experimentally captured images. This paper presents usefulness of the microscopic image synthesis method in evaluation as well as comparison of the image processing results. The results of thoughtful analysis of broad range of adaptive threshold methods applied to: (1) the blue channel of RGB, (2) the brown colour extracted by deconvolution and (3) the 'brown component' extracted from RGB allows to select some pairs: method and type of image for which this method is most efficient considering various criteria e.g. accuracy and precision in area detection or accuracy in number of objects detection and so on. The comparison shows that the White, the Bernsen and the Sauvola methods results are better than the results of the rest of the methods for all types of monochromatic images. All three methods segments the immunopositive nuclei with the mean accuracy of 0.9952, 0.9942 and 0.9944 respectively, when treated totally. However the best results are achieved for monochromatic image in which intensity shows brown colour map constructed by colour deconvolution algorithm. The specificity in the cases of the Bernsen and the White methods is 1 and sensitivities are: 0.74 for White and 0.91 for Bernsen methods while the Sauvola method achieves sensitivity value of 0.74 and the specificity value of 0.99. According to Bland-Altman plot the Sauvola method selected objects are segmented without undercutting the area for true positive objects but with extra false positive objects. The Sauvola and the Bernsen methods gives complementary results what will be exploited when the new method of virtual tissue slides segmentation be develop.   Virtual Slides The virtual slides for this article can be found here: slide 1: http://diagnosticpathology.slidepath.com/dih/webViewer.php?snapshotId=13617947952577 and slide 2: http://diagnosticpathology.slidepath.com/dih/webViewer.php?snapshotId=13617948230017.
+
+Introduction
+Immunohistochemically (IHC) stained tissue samples are used by pathologists to establish the diagnosis and the prognosis and the treatment in various types of cancer [1-4]. The evaluation process takes into account the amount of immunopositive cells (membrane, cytoplasm or nuclear staining) and the architecture of the tissue sample. Such evaluation can be done by the experienced pathologist directly via microscope or from digital images of the samples.
+The human direct evaluation is irreproducible, time-consuming as well as intra- and interobserver error prone [5]. So different automated methods, based on the digital image processing are proposed, as they promise the improvement of evaluation reproducibility and they can become tools for inter- and intralaboratory unification in cut-offs and threshold levels [6].
+To make the validation more accurate and precise, the image segmentation should indicate cells' membrane, cells' cytoplasm and/or nuclei and/or other organelles (e.g. the lysosome) efficiently and robustly [7-9]. The error in objects detection ought to be as small as possible and should be given explicitly since it determines errors in features important in the process of diagnosis. Errors in objects detection influences objects morphology evaluation, pattern of objects' distribution and texture features which reflects chromatin distribution [10,11].
+Segmentation of the images of stained tissue samples is a complex problem, because of huge variability of shapes, size and colour in the objects of interest and in the general architecture of the tissue samples. So far, there have been developed many methods, which detect objects of interest in these types of images, by many groups [12-18]. These methods come from various segmentation approaches and present various advantages and disadvantages. The main obstacle is that all these methods are validated by their authors on their experimentally captured images. There is lack of any comparative study which answers a question of usefulness, efficiency and reproducibility of the particular method, applying it to the particular type of tissue and/or staining processes. Using comparative study on fixed images' database it is possible to achieve result even if a very small difference in results of segmentation is expected.
+The comparative study of results of various methods of segmentation has been performed for the fluorescent microscopy images of living cell images [6], for the stained tissue section in neuroblastoma cancer (Ki67) [8] and breast cancer cells (estrogen/progesterone status) [1]. In the case of fluorescent microscopy images segmentation, the Lehmusola and co-workers [19,20] proposed evaluate segmentation method using set of synthetic images constructed by prepared software with assumed objects' border position. The averaged multiple manual segmentation results were treated as reference "true" in the case of the other comparisons. Because comparison results for fluorescent images allows their authors to detect small differences in method performance, it was decided to use synthetic images to compare chosen segmentation methods. This paper presents the method of artificial tissue sections images construction. In this method the position, shape and colour of objects and background are generated according to statistical model constructed based on observation the set of experimentally acquired images and on the physics of digital image acquisition and microscope image erasing. In this paper the follicular lymphoma cancer tissue sections immunohistochemically stained with 3,3'-diaminobenzidine (DAB) and contra-stained with hematoxylin (H) are under interest. The images captured from several tissue sections and from various camera and microscope sets are used to gain the knowledge about images features and characteristics.
+The reliable evaluation of the chosen adaptive threshold methods of segmentation is the main goal of this investigation. The results of this study will serve as the background for developing of a new hybrid method in the next step of our investigation. But there is the additional aim of this paper: to present usefulness of the images synthesis method in evaluation and comparison of the image processing results. The synthetic images maintain features of experimental images such as level of noise, range of colour and tones, vignietting, and so on in controlled degree what gives researcher possibility to observe the influence of all the features and each feature separately on the result of image processing methods.
+Next section "Related works" shows the review of principia of the automated approaches developed so far and used for various types of cancer tissue sections evaluation. The following section contains description of the characteristics of experimentally acquired lymphoma section tissue images stained with DAB & H. In total, six methods of segmentation are introduced in the other section. The experimentally collected and synthesized artificial images are presented subsequently. The validation of the methods and the results of their comparison are described in the section entitled "The results of the adaptive threshold method comparison". The discussion and conclusions are presented in the last section.
+Related works
+First systems for microscopic image analysis in histopathology, e.g. iPATH or UICC-TPCC [21], have been established as academic projects. The following steps have been performed in these systems: sampling, segmentation and calculation of chosen features which are determined among normal, benign and malignant cells or cells' nuclei. The System EAMUS [22] followed the systems described above. It was dedicated to the digitalized glass slides, called virtual slides, for telemedicine which was designed as remote systems connected by internet with automatic image measurement systems to consults physicians and scientists. Its successor was developed under MATLAB and Java platform by Markiewicz [23] as a system for specific markers and pathologies. Both these systems are applied within the telepathology projects framework as a tool for verification the idea of the examination of microscopic images from a distance. Next semi-automatic computer-assisted systems for histopathology and immunohistopathology have become commercially available from DAKO and Aperio. But they are used as the virtual multiresolution slides constructors rather, than the sample or object in sample classification systems. More oriented towards feature evaluation is system proposed by Bueno [24] as parallel solution for high resolution histological and immunohistchmemicaly stained tissue section images. What was learned from the use of all systems described above is that the automatic image segmentation, as the bottle neck of the computer-aided image analysis method is the most complex and challenging step in both histopathological samples images of paraffin tissue sections and also for cytological smears [25-27]. There are some complex and sophisticated algorithms [8,12,14,28-30], which have been developed and tested for various markers used in digital images of the histopatological samples apply to various tissues in various pathology. All of them use various threshold methods on selected or modified colour information separated from RGB digital images. Some of them use blue channel only as it gives greatest contrast between brown and blue but loose information about brown colour spread in G an R channels [31], the other propose combination of all channels of RGB as: -"brown axis" = B-0.3*(R+G) Tadrous 2010, [32], -colour deconvolution in which three well defined colour vectors, describing new colours in old colour space, should be achieved as calibration information (Ruifrok and Johanston 2001) [33-35], -"de-staining" algorithm separating up to three visually distinct colours to effect selective contrast [32]. Minority of algorithms uses HSV colour model in which detection of the brown colour can be simply rotation of the hue axes by Kuse [36]. All of threshold methods suffer from a lack of universality as they are adjusted by specifics image parameters: level of contrast [37-39] or degree of saturation [8] and so on. It is observed that changes in image characteristics caused by tissue variability or more often by optics and camera settings cases moderate results of segmentation [15,40]. This paper compares the results of chosen thresholding methods applied to three types of colour information captured form RGB digital images: (1) B channel, (2) brown axis and (3) deconvolution to separate brown channel. It allows us to analyze which thresholding method is effective towards which type of colour information if brown objects in DAB & H staining lymphoma tissue section should be selected.
+The characteristics of experimentally acquired lymphoma section tissue images stained with DAB & H
+Digital images of tissue section of paraffin embedded lymphomas where captured in a brightfield microscope. These images differ in colour ranges, pattern of object - cells' nuclei - distribution as well as in local and global contrast and brightness. Figure 1 (top-left) shows the image collected in the Hospital de Tortosa Verge de la Cinta using the indirect immunohistochemical primary antibodies against FOXP3 and the secondary antibodies which include the peroxidase block, labeled polymer, buffered with substrate/DAB+ chromogen and finally contra-stained with hematoxylin. All images show the brown end products for the immunopositive cells' nuclei among blue colour nuclei for the immunonegative cells.
+Figure 1
+Experimentally collected image. The experimentally collected image (top-left) and its B-channel of RGB (top-right), its "brown" axis (bottom-left) and its brown map after colour deconvolution (bottom-right).
+The singular brown objects as well as the small clusters of brown objects, surrounded by blue ones, are observed in images. Nuclei are touching, not overlapping one another, in the clusters. Variation in blue and brown colours, as well as variation in objects density in one image and from one image to another, is observed. The inside of brown objects is visible as almost homogeneous, with smooth and slightly visible texture, while the inside of blue objects seems to be filled mostly with curly texture. Cells' nuclei marked with FOXP3 are nuclei of regulatory T-cells, it means immune system cells, so their distribution of size is similar to normal T-cells' population (distribution with small range and sharp peak), while distribution of most of the blue nuclei cells' population is typical for cancer cells' population (tumoral B lymphocytes). But some image features hinder the segmentation process, e.g. a presence of:
+*spurious stain deposits in other types of cells: stromal, scar, lymphocytes;
+*very dark parts of blue stained nuclei;
+*partly blurred nuclei border with the colour rim caused by the chromatic aberration;
+*colour noise.
+Some non-homogeneity of light distribution in a single image is observed: the middle part is brighter than the peripheral one. Even images collected by one pathologist, using the particular microscope and camera, differ one from another. It is caused by random changes in external light conditions and chosen parameters of image acquisition.
+All features of images and objects of interest described above, observable in Figure 1 (top-left), cause that adaptive threshold methods of segmentation are adequate to the situation. Six adaptive methods of threshold, locally adjusted to the contrast, originally defined for documents and the text segmentation, have been adjusted to analyze three versions of colour information extracted from images with objects in various shades of brown among blue textured spots on the off-white background. The chosen threshold methods, the method of comparison and the results of thresholds are presented in the next sections.
+
+Methods
+The chosen methods of segmentation
+Image segmentation can be considered as the process of dividing an image into multiple components [41,42]. It is usually used to separate objects from the background. There are many forms of image segmentation: thresholding, clustering, transform and edge or texture based methods. The segmentation as some delimitation of boundaries between compartments in this case is limited to detect a hypothetical (not existing in real word) line between nucleus and surrounding cytoplasm or stroma. Because of contrast fluctuation between objects of interest and background across image plane and from image to image the locally adaptive thresholding methods seems to be appropriate. The method which have been defined for text detection in scanned digital documents deal with grayscale images with Gaussian and uniform noise characteristics and with big contrast. Although the acquired images are 3-channel RGB images, the segmentation algorithms treat separately monochromatic images containing separated information of brown colour:
+*the blue channel from RGB, presented in Figure 1 (top-right), because of the results of the analysis of cells' nuclei profiles presented in Figure 2;
+*the "brown channel" calculated from RGB image which is presented in Figure 1 (bottom-left);
+*the results of brown colour deconvolusion from RGB image which can be observed in Figure 1 (bottom-right).
+Figure 2
+Comparison of blue and brown objects. The presentation of magnified brown object from experimentally collected image (top-left) and its line profile (top-right) and the blue object (bottom-left) with its line profile (bottom-right).
+All images which have been prepared to the comparison are transformed to obtain introduced three versions of each image. All tested methods are implemented in MATLAB [23] and used to calculate results of segmentation for all version of colour information.
+Locally adaptive thresholding
+Local threshold is calculated at every point of image with sliding window image processing. Threshold value is based on the intensity of the pixel and its neighborhood [43]. In this paper it is considered: two local variance methods, three local contrast methods and one center-surround scheme. All expressions used in algorithms presented below are described in Table 1.
+Niblack
+The most basic adaptive threshold method is Niblack method [44] and it belongs to the group of local variance methods. Local threshold is calculated based on mean and standard deviation of local neighborhood of size set by the parameter w. Another applied parameter k introduces bias of variance value.
+(1)
+B
+(
+x
+,
+y
+)
+=
+1
+if
+I
+(
+x
+,
+y
+)
+>
+T
+(
+x
+,
+y
+)
+,
+0
+otherwise
+.
+, where
+T
+(
+x
+,
+y
+)
+=
+m
+w
+x
+w
+(
+x
+,
+y
+)
++
+k
+*
+s
+w
+x
+w
+(
+x
+,
+y
+)
+These two parameters of Niblack method values and the rest of used parameters values are presented in Table 2.
+Sauvola
+Method presented by Sauvola and Pietaksinen [45] is another local variance method and can be treated as modified version of Niblack's local variance method. It is based on one more parameter (R) which introduces the variance standardization value.
+(2)
+B
+(
+x
+,
+y
+)
+=
+1
+if
+I
+(
+x
+,
+y
+)
+>
+T
+(
+x
+,
+y
+)
+,
+0
+otherwise
+.
+, where
+T
+(
+x
+,
+y
+)
+=
+m
+w
+x
+w
+(
+x
+,
+y
+)
++
+1
++
+k
+*
+s
+w
+x
+w
+(
+x
+,
+y
+)
+R
+-
+1
+White
+The method presented by White and Rohrer [37] separates objects from background if the value of the analyzed pixel multiplied by the bias parameter is greater than mean value of neighborhood it is considered as an object. Basically, if the pixel is considerably darker than its surrounding, it is considered as an object.
+(3)
+B
+(
+x
+,
+y
+)
+=
+1
+if
+m
+w
+x
+w
+(
+x
+,
+y
+)
+<
+I
+(
+x
+,
+y
+)
+*
+bias,
+0
+otherwise
+.
+Bernsen
+Another local contrast method is offered by Bernsen [38], as two stage method. Contrast value as a difference between the maximum and minimum value in neighborhood is calculated during first stage of calculation. In second stage threshold value is calculated as a mean of the minimum and maximum value in neighborhood of the analyzed pixel if the contrast value was high enough (over assumed Tc value).
+(4)
+B
+(
+x
+,
+y
+)
+=
+1
+if
+I
+(
+x
+,
+y
+)
+>
+T
+(
+x
+,
+y
+)
+,
+0
+otherwise
+.
+, where
+T
+(
+x
+,
+y
+)
+=
+max
+w
+x
+w
+(
+x
+,
+y
+)
++
+min
+w
+x
+w
+(
+x
+,
+y
+)
+2
+if
+C
+w
+x
+w
+(
+x
+,
+y
+)
+>=
+T
+c
+,
+0
+otherwise
+.
+Yasuda
+The Yasuda, Dubois and Huang's method [39] is local contrast method and consists of four steps [46]. Step 1. Increasing dynamic range in the image.
+(5)
+I
+1
+(
+x
+,
+y
+)
+=
+I
+(
+x
+,
+y
+)
+-
+min
+(
+I
+)
+max
+(
+I
+)
+-
+min
+(
+I
+)
+Step 2. Nonlinear smoothing. Replace pixel with average value (mnb) of its (3 by 3) neighbourhood if local range is below assumed value of T1.
+(6)
+I
+2
+(
+x
+,
+y
+)
+=
+m
+nb
+if
+(
+max
+(
+nb
+)
+-
+min
+(
+nb
+)
+)
+<
+T
+1
+,
+I
+1
+(
+x
+,
+y
+)
+otherwise
+.
+Step 3. Primary thresholding with course marking of background. For every pixel its neighborhood is taken and if its local contrast is not greater than assumed value of T2 or value of the pixel is greater than average of neighborhood. Wherever condition is met, it is flagged as background. For every other pixel the given calculation is performed.
+(7)
+I
+3
+(
+x
+,
+y
+)
+=
+1
+if
+m
+w
+x
+w
+(
+x
+,
+y
+)
+<
+I
+2
+(
+x
+,
+y
+)
+[?]
+c
+w
+<
+T
+2
+I
+2
+(
+x
+,
+y
+)
+-
+min
+w
+x
+w
+(
+x
+,
+y
+)
+c
+w
+otherwise
+.
+where
+c
+w
+=
+max
+w
+x
+w
+(
+x
+,
+y
+)
+-
+min
+w
+x
+w
+(
+x
+,
+y
+)
+Step 4. Secondary thresholding with precise segmentation to classify rest of the pixels. Sliding window image processing uses 3 by 3 window. In this step the pixel is marked as background if minimum from neighborhood is not greater than assumed value of T3 or variance is greater than assumed value of T4.
+(8)
+B
+(
+x
+,
+y
+)
+=
+0
+if
+min
+3
+x
+3
+(
+x
+,
+y
+)
+<
+T
+3
+[?]
+s
+w
+x
+w
+(
+x
+,
+y
+)
+>
+T
+4
+1
+otherwise
+.
+Palumbo
+The last but not least tested method designed by Palumbo, Swaminathan and Srihari [47] is using center-surround scheme. The sliding window is divided symmetrically into 9 smaller windows, but only 5 of those are used in computations. Acenter is near neighborhood and 4 diagonal windows are far neighborhood (Aneigh). The tested pixel is supposed to be treated as object when the central window contains the foreground object and the neighboring windows are filled with background.
+(9)
+B
+(
+x
+,
+y
+)
+=
+0
+if
+I
+(
+x
+,
+y
+)
+<
+T
+1
+[?]
+T
+2
+*
+m
+(
+A
+neigh
+)
+>
+m
+*
+(
+A
+center
+)
+,
+1
+otherwise
+.
+Hybrid methods
+Niblack and Sauvola methods appear to be insufficiently sensitive in case of ICH images and they were modified for a better use. It was done by adding the contrast condition similar to that defined in Bernsen method.
+Hybrid of Niblack and Bernsen
+Under the contrast condition defined by Bernsen method the threshold value is calculated using the equation defined by Niblack method.
+(10)
+B
+(
+x
+,
+y
+)
+=
+1
+if
+I
+(
+x
+,
+y
+)
+>
+T
+(
+x
+,
+y
+)
+,
+0
+otherwise
+.
+, where
+T
+(
+x
+,
+y
+)
+=
+m
+w
+x
+w
+(
+x
+,
+y
+)
++
+k
+*
+s
+w
+x
+w
+(
+x
+,
+y
+)
+if
+C
+w
+x
+w
+>=
+T
+c
+,
+0
+otherwise
+.
+Hybrid of Sauvola and Bernsen
+Under the contrast condition defined by Bernsen method the threshold value is calculated using the equation defined by Sauvola method.
+(11)
+B
+(
+x
+,
+y
+)
+=
+1
+if
+I
+(
+x
+,
+y
+)
+>
+T
+(
+x
+,
+y
+)
+,
+0
+otherwise
+.
+, where
+T
+(
+x
+,
+y
+)
+=
+m
+w
+x
+w
+(
+x
+,
+y
+)
++
+1
++
+k
+*
+s
+w
+x
+w
+(
+x
+,
+y
+)
+R
+-
+1
+if
+C
+w
+x
+w
+>=
+T
+c
+,
+0
+otherwise
+.
+From this point onward, reference to the Niblack and Sauvola methods means their respective Hybrids with Bernsen method. After a successful segmenting the image, a simple postprosessing is done. The used postprocessing consist of tresholding by size where every object with area lesser than 900px is discriminated from outcome image.
+The methods of comparison of the chosen segmentation methods results
+Testing synthetic images were paired with their corresponding binary representation (template) where assumed shape and location of positive cells' nuclei are marked. Taking into account the binary image as a reference following measurements are possible: - true positive (TP), - true negative (TN), - false positive (FP), - false negative (FN), basing on template and results of each segmentation method.
+Based on these parameters, statistical measurement of the performance of segmentation methods can be calculated:
+Sensitivity
+(12)
+S
+=
+TP
+TP
++
+FN
+Specificity
+(13)
+P
+=
+TN
+TN
++
+FP
+Dice's coefficient
+(14)
+r
+D
+=
+2
+*
+TP
+2
+*
+TP
++
+FN
++
+FP
+Jaccard's coefficient
+(15)
+r
+J
+=
+TP
+TP
++
+FN
++
+FP
+Sokal and Sneath's coefficient
+(16)
+r
+SS
+=
+TP
+TP
++
+2
+*
+FN
++
+2
+*
+FP
+Rogers and Tanimoto's coefficient
+(17)
+r
+RT
+=
+TP
++
+TN
+TP
++
+TN
++
+2
+*
+FN
++
+2
+*
+FP
+To analyze agreement between results of segmentation and 'true' value presented by template the Bland-Altman plots (B-A plots) were produced for 70 objects segmented for each method (6) and each type of colour information (3) and for selected feature (5) e.g. area, axis ratio of the ellipse fitted to object, roundness, solidity and eccentricity. The results of the analysis of 90 plots encouraged us to develop our own parameter which allows us to find any bias or presence of outliners in cretin aspect of method performance. This parameter was defined as the sum of false positive (FP) and false negative (FN) areas divided by area of 'true' object observed in the function of distance between centroids of the 'true' objects and segmented object. Plots similar to B-A plot but comparing the centroids distance with the sum of FP and FN divided by area of 'true' object allow identification of objects with specifically distributed erroneously detected pixels. When the distance between centroids has small value while second parameter has big value it means that extra detected or undetected area is homogeneously distributed around the object otherwise badly detected or undetected area is located in such a way that detected area centroid moves away from template object centroid. It allows us to determine if any of examined methods presents any stable or occasionally occurring bias in erroneously detected area.
+
+The experimentally collected and the synthesized artificial images
+The experimentally collected images
+The variability in appearance of the tissue section in images stained with DAB & H is remarkable due to: (1) inherent features of tissue and variability of morphology in pathological cases, (2) inherent variability of results of the staining process and (3) inherent microscopic deformations as well as introduced artefacts and noise.
+The morphology of pathological follicular lymphoma tissues varies [48]. Besides the different pathological manifestations, the variability in appearance of staining samples increases during the tissues preparation. This procedure is standardized but has a non-deterministic nature because the number of chemical particles of the stain bound to the nucleus is random. It implicates variation in the brown colour, from the intensive orange, through the intensive brown to the dark brown in immunopositive nuclei [8,14]. The paper deals with samples immunohistochemically stained against FOXP3, which indicates nuclei of regulatory T-cells [3]. This type of staining procedure produces brown objects (immunopositive nuclei of regulatory T-cells) among blue objects (mostly immunonegative nuclei of tumoral B lymphocytes). Examination of the lymphoma samples leads to score the number of regulatory T-cells in the cancer tissue, what allows estimating this specific organism's immune response to this type of cancer.
+In case of automated evaluation of tissue samples, the image acquisition should be done. Because of chosen microscope and camera settings: white balance, brightness, contrast and inherent inhomogeneity in light distribution, as well as some obstacles in the light path and noise added by microscope and camera [31], variability in nuclei appearance increases. Experimentally collected images have been acquired via a brightfield microscope (Leica DM LB2 upright light microscope, Leica Microsystems Wetzlar GmbH, Wetzlar, Germany), with 40x plane-apochromatic objective of numerical aperture 0,63. 60 images captured by the experienced pathologist from 60 areas of various complexity of the several samples have been collected in Tortosa hospital. 5 images, randomly chosen from the experimental data, have been used as the models to construct their synthetic counterparts.
+The synthesized artificial images
+To compare results of any segmentation methods, the exact position of the boundary of objects should be known. Information of the nuclei position is available for artificial images, which are constructed via the simulation of the cells' population.
+The process of artificial image construction is proposed as follows: random generator chooses the position of brown and blue objects (immunopositive and immunonegative cells' nuclei) in image plane according to the founded probability distribution of their shape and size. These distributions are estimated using collection of experimentally acquired images. The number of both types of objects, colour tones, texture of objects and background are taken from experimentally collected counterpart image as samples and numbers characteristic for the particular image. Spots of the clean background are captured to the synthetic image background layer and enlarged to form continues layer on which objects layer are located. Synthesis of objects layers is done using the adjusted version of SIMCEP software and Camera Raw 4.1 module of Photoshop CS5.
+The SIMCEP, developed by Lehmussola and co-workers [19,20], is available via internet. The software is dedicated to synthesize the full colour fluorescent microscopic images of nuclei or cells' culture. For the needs of this paper it has been adjusted to simulate images from the transmission light microscopy. The core of SIMCEP system, the generator of nuclei according to distribution of their shape and size, the template generation, the texture constructor and microscope and camera signal degradation module have been used, while problems with the specific background characteristics have been solved in Photoshop.
+Five experimentally acquired images of lymphoma tissue samples become the models of five artificial images, constructed as the RGB 24-bits colour synthetic microscopic images stored in uncompressed tif files. The artificial image presented in Figure 3 (top-left) has been synthesized based on the model image, presented in Figure 1 (top-left), using the template of the immunopositive cell's nucleus position and size presented in the image in Figure 3 (bottom-left). To compare synthetic image and its counterpart image characteristic full images are presented in Figure 3 (top-left) and Figure 1 (top-left) respectively while magnified fragments of both images are presented in Figure 3 (top-right) to show details in object and background characteristics. Also, Table 3 with results of statistical comparison is provided.
+Figure 3
+Synthesized artificial image. The artificial image (top-left) constructed as counterpart of image shown in Figure 1; enlarged fragment of experimentally collected image compared to the artificial image (top-right); the template of brown objects (bottom-left); the blue objects template with added Perlin texture (bottom-right).
+The number of brown, marked nuclei are adjusted to the particular experimentally collected image and the templates of all nuclei location generated using SIMCEP are presented: (1) in Figure 3 (bottom-left) - immunpositive in the form of template and (2) in Figure 3 (bottom-right) - immunonegative in the form of the textured by Perlin noise map. The colours are separated form the immunopositive and immunonegative nuclei and from the background of the counterpart image after the reduction of noise and chromatic aberration in Camera Raw. All layers (background layer, brown objects of interest layer and blue nuclei layer) are put together in Photoshop. Each step of artificial image signal degradation, typical for the microscope and camera technical limitations, such as noise, vignetting and blurring, are simulated by the SIMCEP software, except of the chromatic aberration added in Camera Raw.
+
+The results of the adaptive threshold method comparison
+All chosen adaptive threshold methods are applied to three types of images calculated based on full colour synthetic image (see Figure 4 top-left image):
+*B channel of RGB colour image in Figure 4 (bottom-left),
+*monochromatic image calculated accordingly to the presented earlier equation as brown component extracted from all RGB channels in Figure 4 (bottom-right),
+*brown part of image obtained by colour deconvolution with three colours: blue, brown and the rest called the third component in Figure 4 (top-right).
+Figure 4
+Artificial image and three types of images calculated based on full colour image. The artificial image (bottom-left) constructed as described in article and its B-channel of RGB (bottom-right), its "brown" axis (top-right) and its brown map after colour deconvolution (top-left).
+5 artificial images (from A to E) segmentation results for all objects in image (without rejection of the objects touching image border) are presented as number of found objects, the sensitivity, the specificity and four coefficients of similarity in Tables 4, 5 and 6. In Table 4 are presented results for monochromatic images constituted as B-channel, Table 5 presents results for monochromatic images constituted by deconvolution and Table 6 presents results for monochromatic images constituted as brown color extracted from RGB channels. These tables show that results for each artificial image are close for each method of segmentation applied to particular image. Generally the best results are those of segmentation applied to brown component after colour deconvolution, the mean and the standard deviation of the value of the number of found objects calculated as difference between the number of found objects and the number of 'true' objects in template for all segmentation methods is -0.2 +-0.6 while 2.3 +-6.9 for monochromatic image with brown color extracted from RGB called 'brown channel' and 6.0 +-13.9 for the blue channel from RGB. The mean of the sensitivity calculated for all segmentation methods is 0.9264 +-0.0611, 0.8366 +-0.1571, 0.9432 +-0.0764 respectively while mean of the specificity calculated in this data are 0.9981 +-0.0035, 0.9858 +-0.0264, 0.9886 +-0.0235. So 5 artificial images are similar one to each other and all objects in all images can be treated as homogeneous population of tested objects.
+The next step of comparison and evaluation concerns rather methods of adaptive threshold so it have been done on the level of single object (not single image). Because objects that touch borders are segmented with holes or cavities what cause that in most cases these object disappear during the step of size filtering in further evaluation it was taking in to account only these objects which do not touching image border. As new designed method will be applied to the virtual slides which will be analysed by parallel algorithms dealing with images which are fragments of virtual slides selected with covering margins so the rejection of objects touching image border would be compensate on the level of results connection.
+The evaluation of the segmentation results of single object is presented as B-A plots for such objects' features as area of object, roundness, eccentricity and so. The comparison of objects' area in pixels for all except one segmentation methods (for five methods) calculated for each of 3 types of monochromatic images collecting various information about brown colour from five true colour artificial images are presented in Figure 5A-I. The Yasuda method was excluded from presentation because of its performance; it does not select certain fraction of object and at the same time it selects essential fraction of false positive objects for all types of images (for blue channel 103, for brown colour 63, for results of colour deconvolution only 2) so its plots are not presented in the paper. Some of the plots in Figure 5 (A, B, C, D, G and H) consist of about 70 non-touching image border objects from 5 synthetic images, while the others (E, F and I) present combined plots showing distinguishable by colours 3 or 4 methods' results together. In Figure 5 and Figure 6 objects segmented by the Niblack method are presented in red, by the Sauvola method in blue, the Bernsen method in green, the White method in black and the Palumbo method in yellow.
+Figure 5
+The Bland-Altman plots of area feature. The Bland-Altman plots of area feature. (A) Bernsen method of segmentation applied to image after colour deconvolution; (B) Sauvola method of segmentation applied to image after colour deconvolution; (C) Sauvola method of segmentation applied to image after colour deconvolution, presentation of true positive objects only; (D) White method of segmentation applied to 'brown channel'; (E)Niblack, Sauvola, Bernsen and Palumbo method of segmentation applied to 'brown channel'; (F) Niblack, White and Palumbo method of segmentation applied to image after colour deconvolution; (G)Bernsen method of segmentation applied to blue channel of RGB; (H) White method of segmentation applied to blue channel of RGB; (I)Niblack, Sauvola and Palumbo method of segmentation applied to blue channel of RGB. [colour representation: Niblack - red, Sauvola - blue, Bernsen - green, White - black and Palumbo - yellow].
+Figure 6
+The Bland-Altman plots of shape features. The Bland-Altman plots of shape features. (A)solidity, Bernsen method of segmentation on image after colour deconvolution; (B)roundness, Bernsen method of segmentation on image after colour deconvolution; (C)perimeter, Bernsen method of segmentation on image after colour deconvolution; (D)solidity, White and Bernsen method of segmentation applied to blue channel of RGB; (E)roundness, White and Bernsen method of segmentation applied to blue channel of RGB; (F)perimeter, White and Bernsen method of segmentation applied to blue channel of RGB; (G)solidity, Sauvola method of segmentation on image after colour deconvolution; (H)roundness, Sauvola method of segmentation on image after colour deconvolution; (I)perimeter, Sauvola method of segmentation on image after colour deconvolution. [colour representation: Sauvola - blue, Bernsen - green and White - black].
+It is visible in Figure 5 that results of almost all methods applied to images after colour deconvolution (A, B, C, F) are better than applied to blue channel of RGB (G, H, I) and to the brown component extracted from all channels of RGB (D, E); the latter seems to be the worst. Generally, it is visible that some B-A plots of area comparison between template objects and detected objects show systematic under-segmentation of area. Bernsen method (Figure 5A) and Niblack, Palumbo, and White methods (Figure 5F) applied to images after colour deconvolution and White method applied to brown component monochromatic image (Figure 5D) and to blue channel of RGB (Figure 5H) shows that there is a bias in the segmented object area. This bias is visible as objects' area decrease in comparison to the corresponding template object area but all these method are accurate and precise in objects number. For the Bernsen method accurate and precise both are equal 1 while for the modified Sauvola method are equal 1 and 0.9722 respectively. At the same time the size of object detected by: Sauvola method applied to image after colour deconvolution (Figure 5B), Bernsen method applied to the blue channel from RGB, Palumbo method also applied to the blue channel and Yasuda method applied to all three types of monochromatic images (not presented in paper) seems not biased in objects' area detection. But some of methods mentioned above in various degree detect extra objects in background (false positive object, FP). For the Sauvola method the number of FP objects is minimal (2 from 72) while for the Yasuda method these numbers are vast as it was mention above. These results are the reason that the Yasuda method is excluded from further consideration. To find method which is accurate enough in area detection the comparison as B-A plots, between area of the segmented and the 'true' object from template, is done. The difference between area of the segmented and the 'true' object from template for the Sauvola method applied to the result of image deconvolution for all selected object (Figure 5B) are ranged between -100 to 1400 pixels and for true positive objects only (Figure 5C) between +-80 pixels while the Bernsen method applied to blue channel of RGB (Figure 5G) and the Palumbo method (yellow circles in Figure 5F) applied to blue channel of RGB are ranged in +-130 pixels and +-170 pixels. So the error in area detection is the lowest if the objects are selected by the Sauvola method but only if false positive object are excluded based on the other information.
+To reject extra objects selected by the Sauvola method two sources of information could be used: - from biased in object size segmentation method which produce accurate and precise result in number of detected objects so these results can be used to mark true positive object among the Sauvola method results or - from objects found by the Sauvola method can be filtered by any or by all of described below shape coefficients classifier.
+To find segmentation method that gives precise number of detected objects and at the same time decrease objects' size by homogeneous area rejection around objects' periphery, only methods applied to image after colour deconvolution (Figure 5A,F) or blue channel (Figure 5G,H,I) should be taken into consideration. B-A plots for the area feature for monochromatic image from brown color extracted from RGB (Figure 5E) shows rather biased results (from -100 to -350 pixels) because of presence of cavities and holes in large fraction of segmented objects. So the following three methods: the Bernsen method applied to the results of colour deconvolution (Figure 5A) and to blue channel of RGB (Figure 5G) and the White method applied to blue channel (Figure 5H) are taken into consideration.
+The choice among previously mentioned methods and/or among the shape determined object filtration are examined based on B-A plots comparing shape features: perimeter, solidity, roundness and axis ratio, and two features which describe relative position (co-localization) of segmented and template objects: eccentricity and quasi B-A plots described further in this section. These quasi B-A plots show distribution of erroneously detected area (FP) as the function of the distance between centroids of selected and template objects. They have been calculated for all methods (6), all types of monochromatic image with various colour information (3) and all features (6), but only some of them, these which have impact in conclusions, are shown in Figure 6 and Figure 7.
+Figure 7
+The co-localization features. The co-localization features: eccentricity (A, C) and defined by authors quasi B-A plots (B, D). (A) Bland-Altman plot of eccentricity, Bernsen method of segmentation on image after colour deconvolution; (B) quasi B-A plot (described in section "The methods of comparison of the chosen segmentation methods results") Bernsen method of segmentation on image after colour deconvolution; (C) Bland-Altman plot of eccentricity, Sauvola method of segmentation on image after colour deconvolution; (D) quasi B-A plot, Sauvola method of segmentation on image after colour deconvolution.
+B-A plots in Figure 6 present shape features (except axis ratio which results are similar to presented features): - solidity which shows if increase of objects' size to achieve convex area is homogeneously distributed (Figure 6A,D,G), - roundness which shows if ratio of area to squared perimeter is independent from objects' roundness (Figure 6B,E,F) and - perimeter length which shows if the changes in perimeter length compared to the template objects perimeter are independent from perimeter length (Figure 6C,F,I). All these features are presented for the Bernsen method applied to the image after colour deconvolution (Figure 6A,B,C) in the context of the plots of sum of the Bernsen and the White methods applied to blue channel of RGB image (Figure 6D,E,F). The first method plots present much more homogeneous distribution than the second group of plots which are presented below (respectively Figure 6D,E,F). These three shape features plots proof that error in object area detection (decrease of object size described above) for the Bernsen method applied to image after colour deconvolution is homogeneously distributed around object and do not affect its shape. Plots of B-A presented in Figure 6 (G, H, I) present also all previously described shapes coefficient for the Sauvola method applied to the result of image deconvolution. The values of false positive objects appear to be drastically different than the values of these coefficients for true positive objects. Based on this knowledge it is possible to form criteria (classifier) of false positive objects rejection from the set of results. So the Bernsen and the Souvola methods applied to result of deconvolution and shape coefficients (mainly solidity or perimeter) are the best candidates to be used in new hybrid method construction but only if the Bernsen method results of true positive objects indicate part of the Souvola method results.
+B-A plots in Figure 7 presents co-localization features: eccentricity (Figure 7A,C) and defined by authors new coefficient (Figure 7B,D) which shows if the distance between two centroids is correlated with the ratio of the sum of false negative and false positive pixels divided by true positive pixels. Eccentricity defined as the ratio of the distance between the foci of the ellipse and its major axis length is calculated for ellipse that has the same second-moments as an object. Homogeneous distribution of error without any bias both for the Sauvola and the Bernsen method for eccentricity is achieved. It shows that erroneously detected area in both cases does not cause significant changes in ellipse which is an estimate of object. As this information do not tell us if errors in detected area moves centroid position more than within circle of reduce equal 1 pixel the new B-A like plots have been analysed. These plots are presented in Figure 7 (B, D) and they show that fraction of object which in consequence of error in peripheral part detection moves centroid of segmented object in comparison to the corresponding template object of distance between 1 and 2.5 pixels is less than 20% of objects (for the Bernsen method 12 objects from 70 but for the Sauvola method 14 objects from 72). So in most results of the Bernsen and the Souvola methods the error in area detection is homogeneously located on peripheral part of object if we applied these method to the monochromatic image after colour deconvolution. It proofs that the Brensen method results can be used as true positive objects markers (particularly if they are eroded using mathematical morphology operation [49,50]) and these markers should indicate inside of some of the Sauvola method results; all objects which are not marked are FP objects and can be rejected.
+Figure 8 presents segmentation results calculated for the chosen fragment of image shown in Figure 3 (top-left) more detail for all types of the monochromatic images: in the first raw for B-channel, in the second raw for the result of deconvolution and the bottom raw for the results of brown component extraction. These results are presented as the various colour outlines of the detected objects. In left column of Figure 8 there are results of four methods: (1) Niblack method, in red colour, (2) Yasuda method, in green colour, (3) Palumbo method, in gray colour, and (4) Sauvola method, in blue colour. While in the right column there are only two: (1) White method, in red colour, and (2) Bernsen method, in green colour. Other colours which appear in image arising by the low of primary colour adding only for the overlapping outlines: yellow colour as result of green colour added to red colour, magenta colour as result of blue colour added to red colour, cyan colour as result of green colour added to red colour and white colour as result of adding all tree colours. The left part of each image is imposed on the template, while the right part, without the template. Both parts show the mutual localization of the detected lines relative to each other and to the template objects. Visual evaluation of the Figure 8 shows that template cover almost all detected objects outlines because detected object are smaller o just in size of template object so the difference of particular method results can be observed in right part of each image. All white pixels in left parts of all images and all yellow pixels in right parts shows agreement in selected outlines while the lines in other colours shows distance between results. These distances are relatively small for results of the segmentation performed with monochromatic image which is results of deconvolution and which is B-channel image (Figure 8A-D). There is presented only one FP object segmented by the Sauvola method in Figure 8C while in Figure 8A there are much more FP objects (in green colour) segmented by the Yasuda method. So all method of results comparison strengths our belief that the process of colour deconvolution produce monochromatic image with best performance of brown colour component.
+Figure 8
+Image segmentation results. The sub-images present overlapped results of adaptive threshold methods in the left column for: the Niblack method (in red), the Sauvola method (in blue), the Yasuda method (in green) and the Palumbo method (in gray) and in the right column for: the White method (in red) and the Bernsen method (in green). The top row (A and B) presents results calculated on B-channel of RGB, the middle row (C and D) presents results calculated for the brown map after colour deconvolution while the bottom row (E and F) for the "brown axis" in RGB. The other colours appearing in image should be identified according to the law of primary colour adding as overlapping outlines. The left part of each sub-image is imposed on the template what causes that inside of object there is white colour while the right part, shows the mutual localization of the detected lines on dark gray instead of black background.
+
+Discussion and conclusions
+The investigation presented in this paper has two aims: (1) to compare the chosen adaptive threshold method on immunohistochemically stained lymphoma tissue sections to collect the knowledge how to design the new method based on the local thresholding methodology, and (2) to prove usefulness of creating artificial images which simulate experimentally acquired microscopic images used for the objective validation of image processing methods. The first goal has been achieved because results of all tested adaptive threshold methods except for the Yasuda method appear to be good or very good (accuracy from 0.9986 to 0. 9816 and precision from 1 to 0.6773 for respectively the Bernsen method and the Palumbo method applied to B-channel and to the White method applied to B-channel and for the Palumbo method applied to the result of the colour deconvolution) when accuracy and precision are quantifying based on pixels classification. The best accuracy and precision (respectively 0.9945 and 1) is for the White method applied to B-channel of RGB but this method decreases the size of segmented objects and sometimes reject objects that touches image edges. The accuracy and precision for both chosen methods are 0.9892 and 0.9331 for the Sauvola method and 0.9864 and 0.8454 for the Bernsen method calculating it from an area. But calculating it based on the number of selected objects for the Bernsen method accuracy and precision both are equal to 1 while for the modified Sauvola method are equal 1 and 0.9722 respectively.
+All tested methods produce results based on various criteria but all uses the same size of the sliding window of image processing algorithm around classified pixels (in this investigation window size is 51x51 pixels because of object size) and the same value of minimal contrast for object and background (in this investigation Tc=150):
+*the Bernsen method uses only these two parameters but it generally produces various threshold level across image plane, adjusting it to the mean value of two numbers: the maximum and the minimum of intensity in window; if local contrast is bigger than Tc the threshold value is settled on the level on locally adjusted value if not the background is detected;
+*the hybrid of Sauvola method classifies objects according to description above using two other parameters: k=-0.2 which introduce bias in variance value and R=128 which allows to standardize variance value; this method also produce locally adjusted threshold level according to mean intensity value in window corrected by biased and standardized variance; if local contrast is bigger than Tc the threshold value is settled on the level on locally adjusted value if not the background is detected;
+*the White method classifies object also according to pixels mean intensity value inside window but classifies it as belonging to the object if intensity of analyzed pixel multiplied by bias parameter (in this investigation bias=2) is bigger than mean intensity value calculated inside window, what is essential in this method that threshold level is also locally adjusted but local threshold value is dependent from mean intensity value in window and from chosen constant bias.
+The local threshold level in the White method is dependent on bias which increase intensity of analysed pixel causes that the method perform well in images with high contrast between objects and background. The highest contrast is observed in blue channel monochromatic image despite the fact that texture present in blue objects locally disturbs this contrast. The other two methods are dependent on mean intensity corrected by the variance for the Sauvola method and on the half of intensity range inside window for the Bernsen method what causes that they are less dependent from the value of contrast but rather dependent from lack of local contrast disturbance. This is observed in monochromatic images after deconvolution where texture of blue object is rejected and texture in background is really weak. Both methods applying to the images after colour deconvolution produce complementary results. It derives from the fact that the corrected by standardized variance mean value of the intensity is sensitive enough to detect less conduced brown colour regions. It means that it can detect blurred edges of objects and at the same time it detects gentle contrails of stain deposits in the background while the half of the intensity range cut all blurred fragments of objects and do not detect stain deposits in the background. So it leads to the conclusion that the new developed method should take advantage from both the Bernsen and the Souvola methods in precision and accuracy of object detection and working synergistically it rejects all errors e.g. extra objects.
+The evaluation of performance of 6 adaptive threshold methods, on three types of monochromatic images, based on 5 true colour artificial images was done. So the second aim, the verification of the thesis about usefulness of the artificial image synthesis method in the image processing method evaluation and comparison, also was achieved. The known and assumed location of objects of interest in the template allows using the standard methods for the quality assessment, as specificity, sensitivity and standard coefficients of similarity, precision and accuracy and Bland-Altman analysis which work well in all comparative study. As the scientific and clinical interest in quantifying brown objects in DAB&H stained samples is evident the evaluation of the segmentation results using artificial synthesized images allows gathering huge amount of knowledge about image analysis efficiency in the context of image characteristics. This knowledge will be used during new method development in future.

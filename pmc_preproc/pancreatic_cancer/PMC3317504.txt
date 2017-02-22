@@ -1,0 +1,245 @@
+[Abstract, Results, Discussion, Methods]
+
+FTS and 2-DG induce pancreatic cancer cell death and tumor shrinkage in
+mice. The Ras inhibitor S-trans-trans farnesylthiosalicylic acid (FTS) inhibits active Ras, which controls cell proliferation, differentiation, survival, and metabolism. FTS also inhibits HIF1a expression in cancer cells, leading to an energy crisis. The synthetic glucose analog 2-deoxy-D-glucose (2-DG), which inhibits glycolysis, is selectively directed to tumor cells that exhibit increased glucose consumption. The 2-DG enters tumor cells, where it competes with glucose for glycolytic enzymes. In cancer models, as well as in human phase 1 trials, 2-DG inhibits tumor growth without toxicity. We postulated that under normoxic conditions, tumor cells treated with FTS would be more sensitive than normal cells to 2-DG. We show here that combined treatment with FTS and 2-DG inhibited cancer cell proliferation additively, yet induced apoptotic cell death synergistically both in vitro and in vivo. The induced apoptosis was inferred from QVD-OPH inhibition, an increase in cleaved caspase 3, and loss of survivin. FTS and 2-DG when combined, but not separately, also induced an increase in fibrosis of the tumor tissue, chronic inflammation, and tumor shrinkage. Overall, these results suggest a possible new treatment of pancreatic tumors by the combined administration of FTS and 2-DG, which together induce pancreatic tumor cell death and tumor shrinkage under non-toxic conditions.
+
+Results
+Combined treatment with FTS and 2-DG synergistically induces cell death
+of panc-1 pancreatic carcinoma cells
+FTS has been shown to inhibit the anchorage-dependent and -independent
+proliferation of panc-1 and MIA PaCa-2 pancreatic cell lines that harbor
+oncogenic K-Ras, without inducing cell death.24, 26 The first set
+of experiments with 2-DG in the present study was aimed at establishing a
+dosage at which the effect of 2-DG on cell survival, when administered by
+itself, is minimal. Increasing the ratio of 2-DG to glucose has been shown
+to result in tumor cell death.33
+In this study, therefore, we employed a non-toxic dose, 5 mM 2-DG,
+combined with equimolar glucose, which by itself is not toxic and has been
+shown, for example, to enhance the cytotoxicity of topoisomerase
+inhibitors.34 The extent
+of death of 2-DG-treated panc-1 cells in our experiments was small and was
+similar to that observed in untreated controls (3% death), confirming
+that 2-DG alone, at least at the dosage employed here, does not affect
+panc-1 cell survival. We therefore used this non-toxic dose of 2-DG for all
+subsequent experiments.
+Next, we performed a four-armed experiment in which panc-1 cells were treated
+with the vehicle (DMSO) only, 2-DG alone, FTS alone, and FTS combined with
+2-DG (FTS+2-DG), as described in Materials and Methods. Images from a
+typical experiment performed with panc-1 cells are shown in Figure 1a. Phase-contrast images show that treatment
+with FTS alone (75 mM) induced, as expected, a decrease
+in cell number (by about 50% Figures 1a and
+b). Treatment with 2-DG alone (5 mM) also resulted in a
+decrease in cell number, but the reduction was smaller (20-25%,
+Figure 1b). Hoechst staining showed that
+neither of these single-drug treatments caused a significant increase in
+cell death, compared with the control (Figures 1a and
+c); the percentages of dead cells in the control (DMSO and
+10 mM glucose) and in cells treated with 2-DG (5 mM
+2-DG+5 mM glucose), or FTS (50 mM
+FTS+10 mM glucose or 75 mM
+FTS+10 mM glucose) were 1.95+-1.4, 2.5+-4.5,
+3.3+-1.2, and 7.4+-5.7, respectively (Figure
+1c). In contrast, combined treatment with FTS+2-DG caused
+a significant increase in cell death; in cells treated with FTS
+(50 mM)+2-DG, and with FTS
+(75 mM)+2-DG, the percentages of dead cells were
+11.5+-5.8 and 30+-9.3, respectively (Figure
+1c). Thus, under conditions in which neither FTS nor 2-DG alone
+induced death of panc-1 cells, significant cell death was induced by their
+combination. This result clearly points to a synergistic effect of the two
+drugs in killing the panc-1 carcinoma cells.
+Combined treatment with FTS and 2-DG induces cell death in primary
+pancreatic carcinoma cell lines
+We then performed a similar set of experiments to determine whether the
+effects of treatment with FTS and with 2-DG observed in panc-1 cells could
+also be obtained in primary pancreatic tumor cells, which better mimic the
+actual disease. The cells used for this purpose were from the recently
+characterized human primary pancreatic carcinoma cell lines pp161, pp78, and
+pp109.35 All three cell
+lines possess an oncogenic K-Ras allele, and pp161 and pp78, but not pp109,
+also bear a p53 loss-of-function mutation. Hoechst staining showed that
+relative to the control, neither of the single-drug treatments caused
+significant cell death in pp78 or pp161 cells (Figures 2a
+and c), but both induced significant death in pp109 cells
+(Figure 2b). However, the combined treatment
+with 75 mM FTS+2-DG significantly increased cell
+death in all three cell lines, as in panc-1 cells. The phase contrast images
+show that 75 mM FTS alone induced a decrease of about
+50% in the total numbers of pp 109 (Figure
+2e), pp161 (Figure 2f), and pp 78
+cells (Figure 2d). Treatment with 2-DG alone
+also resulted in a decrease in cell number, but its effect was weaker than
+that of FTS alone (Figures 2d-f).
+Interestingly, in pp78 and pp161, both mutant p53 cell lines, the combined
+treatment exerted a synergistic effect, whereas in the wild-type p53 cell
+line pp109, the effect was additive. The reason for this phenomenon is not
+yet known. However, a beneficial effect of FTS+2-DG on cell death was
+observed in all three primary pancreatic carcinoma cells, as in panc-1
+cells.
+Combined treatment with FTS and 2-DG induces caspase-dependent
+apoptosis in panc-1 cells
+Consistently with early reports, FTS (75 mM) alone and
+5 mM 2-DG alone, both reduced the amount of Ras in the cells, and a
+similar reduction was achieved with their combined treatment (Figure 3a). To determine whether the cell death
+induced by FTS+2-DG in panc-1 cells was apoptotic in nature, we used
+the pan-caspase inhibitor QVD-OPH,36 which inhibits the formation of cleaved (active)
+caspase 3 (Figure 3a). We found that death
+induced by the combination of FTS and 2-DG was significantly inhibited by
+QVD-OPH (Figure 3b), suggesting that the cell
+death induced by FTS+2-DG was, at least in part, apoptotic in nature
+and dependent on caspase activation. This was confirmed by the observed
+increase in active (cleaved) caspase 3 by FTS but not 2-DG, and by marked
+enhancement of the cleaved caspase 3 by FTS+2-DG, apparently similar to
+that observed with staurosporine, a well-known inducer of apoptosis (Figure 3a).
+In previous studies, we found that FTS induces a marked decrease in the
+apoptosis inhibitor survivin.37 We
+therefore examined the effect of FTS+2-DG on survivin levels in panc-1
+cells. Although treatment with each drug on its own decreased survivin
+levels to some extent, the combined treatment completely eliminated the
+protein in a synergistic manner (Figure 3a).
+This effect was even stronger than that induced by staurosporine (Figure 3a). It is important to note that treatment
+with FTS+2-DG can block the main energy source of cancer cells, both by
+reducing their expression of HIF1a and by competing with
+glucose for glycolysis.27 This
+dual attack on energy metabolism, together with other anti-cancer effects of
+FTS (such as attenuation of cell-cycle progression38), may lead to the catastrophic cellular stress
+terminating in apoptotic cell death, as observed here.
+Treatment with FTS+2-DG synergistically induces shrinkage of
+panc-1 tumors in nude mice
+To examine the effect of treatment with FTS+2-DG in vivo, we
+implanted panc-1 cells subcutaneously just above the right femoral joint of
+nude mice. Once palpable tumors were observed, oral drug treatment was
+started (see Materials and Methods). After 18 days, tumors were removed and
+weighed. As shown in Figure 4, the average tumor
+weight in the group treated with 2-DG (1000 mg/kg) did not differ
+significantly from that of the vehicle-treated control group. Tumors treated
+with FTS (60 mg/kg), consistently with our previous findings,
+weighed 50% less, on average, than tumors excised from the
+vehicle-treated controls.24
+Remarkably, however, treatment with FTS+2-DG resulted in tumors that
+weighed 90% less, on average, than the controls, with no toxic side
+effects. Some mice even exhibited tumor remission (data not shown). These
+results clearly point to a synergistic effect of FTS+2-DG in inhibiting
+tumor growth, similar to the synergism observed in vitro.
+Typical H&E sections from tumors removed from the mice for pathological
+analysis, as described in Materials and Methods and shown in Figure 5, revealed the following significant changes
+in tumor morphology in the group treated with FTS+2-DG. First, in
+contrast to the similarity in invasiveness between tumors from the control
+group and from the groups treated by the single drugs, tumors treated with
+FTS+2-DG appeared much less invasive, and their edges were not as
+irregular. Second, tumors treated with either of the single drugs exhibited
+only slightly more fibrosis than the controls, especially at their edges,
+whereas tumors treated with FTS+2-DG exhibited marked fibrosis around
+the tumor edges and at the leading edges (Figure
+5, white arrow in hematoxylin and eosin (H&E)). Third, only
+the tumors treated with FTS+2-DG exhibited significant chronic
+inflammation (Figure 5, yellow arrow in H&E)
+and fibrosis.
+These changes in tumor morphology suggest that treatment with FTS+2-DG
+induced death of the tumor cells in the tissue. To verify this notion, we
+stained tumor sections with TUNEL to identify apoptotic cell death. As shown
+in Figure 5, tumors treated with either of the
+single drugs showed some TUNEL staining, which was altogether lacking in the
+control tumors. However, tumors treated with FTS+2-DG exhibited strong
+and significant TUNEL staining, especially at the tumor edges, indicating
+massive apoptotic cell death of the tumor tissue (Figure
+5). These findings confirmed that treatment of panc-1 tumors
+with FTS+2-DG in mice significantly inhibited tumor growth by inducing
+apoptosis of the tumor cells.
+
+Discussion
+Activating mutations in Ras contribute to 30% of all human
+tumors,1 suggesting Ras as a
+prime target for cancer therapy. The specific Ras inhibitor, FTS, successfully
+competes with Ras chaperones for binding to active Ras, rendering it inactive
+and thus causing inhibition of tumor cell proliferation in vitro and
+in vivo.14, 15, 20 In a
+recent study, it was shown, moreover, that 2-DG induced
+HIF1a-independent apoptosis in rhabdomyosarcoma
+cells.39
+In the present study, both FTS and 2-DG, when administered as single agents, were
+found to inhibit the proliferation of panc-1 tumor cells, and when administered
+in combination, their effect on such tumor growth was additive. In contrast,
+whereas monotherapy with FTS or with a low (non-toxic) dose of the glycolysis
+inhibitor 2-DG was incapable of causing significant death in this pancreatic
+tumor cell line, combined administration of the two agents prompted their
+synergistic effect resulting in significant cell death, as demonstrated in
+vitro by Hoechst labeling and in vivo by TUNEL. A beneficial
+effect of FTS+2-DG on cell death was also obtained in three human primary
+pancreatic carcinoma cell lines35
+(additively in the pp109 cell line and synergistically in pp78 and pp161). Proof
+that this cell death was apoptotic in nature came from its observed inhibition
+by the apoptosis inhibitor QD-OPH (Figure 3b), as
+well as from the increase in active (cleaved) caspase 3 and decrease in
+pro-caspases 7 and 9 (not shown) induced by FTS+2-DG. Further evidence came
+from the fact that the apoptosis inhibitor survivin, in which FTS by itself
+induces a marked decrease,37 was
+completely eliminated in response to the combined treatment (Figure 3a).
+It is important to point out that FTS itself is not cytotoxic either in
+vitro or in vivo. Our in-vivo experiments in mice, in
+which tumors induced by implantation of panc-1 cells were treated with FTS
+combined with non-toxic dose of 2-DG, resulted in shrinkage of pancreatic tumors
+and changes in tumor morphology as described in detail in Results - is an
+unexpected and novel finding.
+Taken together, our results suggest a possible novel treatment of pancreatic
+tumor by combining FTS and 2-DG under non-toxic conditions. This can be expected
+to provide synergistic tumor shrinkage, cell death, and possibly, also
+remission.
+
+Materials and Methods
+Cell culture and immunoblotting
+The human pancreatic cancer cell line panc-1 was obtained from the American
+Tissue Culture Association. Human primary pancreatic cancer cells pp78,
+pp109, and pp161 were kindly donated by Andrea Cavazzana (University of
+Pisa, Pisa). All cells were maintained in DMEM/10% fetal calf
+serum (FCS) at a constant temperature of 37degC in a humidified atmosphere
+of 95% air/5% CO2. Immunoblotting of Ras,
+cleaved caspase 3, survivin and beta-tubulin were performed with specific Ab
+as previously described.27
+Materials used for cell culture and determination of cell proliferation and
+death were all as previously described.27 FTS (batch number 012894-A-01-003) was provided
+by Concordia Pharmaceuticals (Fort Lauderdale, FL, USA). 2-DG was purchased
+from Sigma (St. Louis, MO, USA; cat number D3179).
+Determination of cell proliferation and death
+Cells (panc-1 or human primary pancreatic tumor cells) were plated in
+1 ml of DMEM containing 5% FCS in 24-well plates at a density
+of 10 000 per well and treated 24 h later with FTS (50 or
+75 mM) or vehicle (0.1% DMSO). After an
+additional 48 h, the media were replaced by medium containing either
+10 mM glucose, or 5 mM glucose and 5 mM 2-DG.
+FTS-treated cells were replenished with FTS or FTS plus 2-DG, or glucose
+with 0.1% DMSO (control). After incubation for 24 or 48 h, as
+specified for each experiment, the extent of cell death was determined by
+staining of the cells for 5 min with Hoechst 33258
+(1 mg/ml). Stained nuclei (dead cells) were
+visualized under a fluorescence microscope. Phase-contrast images were also
+obtained. All experiments were performed in quadruplicate and were repeated
+four times. Data were collected by imaging of each well. The total number of
+cells was obtained by counting them in the phase-contrast images. The number
+of dead cells were counted from the fluorescence images and expressed as
+percentages (means +-S.D.) of the total number of cells.
+Tumor implantation in mice
+Nude CD1-Nu mice (8 weeks old) were housed in barrier facilities
+on a 12-h light/dark cycle. Food and water were supplied ad
+libitum. On day 0, 7 x 106 panc-1 cells in
+0.1 ml of phosphate-buffered saline were xenografted subcutaneously
+just above the right femoral joint.
+On day 10, tumors were measured and the mice were divided into four groups
+for treatment with daily oral doses (300 ml) of FTS
+(60 mg/kg) and/or 2-DG (1000 mg/kg), or of
+0.5% carboxymethylcellulose (control).
+After 23 days of treatment, tumors were extracted and weighed. The experiment
+was performed twice, and average tumor weights for each group were
+calculated (means +-S.D., n=7 per experiment).
+Statistical significance of the results was determined by non-parametric
+ANOVA (Kruskal-Wallis test).
+Histology and TUNEL staining
+Panc-1 tumors were extracted and histological sections (5 and
+10 mm) were prepared. The 10-mm sections
+were stained with H&E and were then imaged using an Olympus fluorescence
+microscope (Olympus Europa Holding GmbH, Hamburg, Germany) (original
+magnification x 200). H&E sections were also sent for thorough
+pathological examination. The 5-mm sections were subjected to
+TUNEL according to the manufacturer's instructions (MBL International,
+Woburn, MA, USA) and were then imaged using a Nikon fluorescence microscope
+(Nikon lnstech, Tokyo, Japan) (original magnification x 200).
