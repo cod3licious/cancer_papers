@@ -3,6 +3,7 @@
 This repository contains a dataset consisting of 11049 full text cancer research papers meant for text categorization tasks. 
 
 If you intend to use this dataset for your research, please consider citing it:
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1254443.svg)](https://doi.org/10.5281/zenodo.1254443)
 
     @misc{franziska_horn_2018_1254443,
