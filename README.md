@@ -2,6 +2,18 @@
 
 This repository contains a dataset consisting of 11049 full text cancer research papers meant for text categorization tasks. 
 
+If you intend to use this dataset for your research, please consider citing it:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1254443.svg)](https://doi.org/10.5281/zenodo.1254443)
+
+    @misc{franziska_horn_2018_1254443,
+      author       = {Franziska Horn},
+      title        = {cod3licious/cancer_papers},
+      month        = may,
+      year         = 2018,
+      doi          = {10.5281/zenodo.1254443},
+      url          = {https://doi.org/10.5281/zenodo.1254443}
+    }
+
 All articles are publicly available on PubMed Central and were downloaded from there in August 2014 by searching for different cancer types using the [PubMed API](http://www.ncbi.nlm.nih.gov/books/NBK25500/). Here is an overview of the number of papers per year downloaded for each keyword:
 
 <img src="cancerpapers.png" width="400">
